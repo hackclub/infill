@@ -173,3 +173,9 @@ GreenSpool:
   description: "A green 3D printer that can use plastic as filament"
   repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
+
+Prometheus:
+  title: "Prometheus"
+  description: "A desktop CoreXY prototyping printer"
+  repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/main/LOGBOOK.md"
+  file_name: Prometheus.md
