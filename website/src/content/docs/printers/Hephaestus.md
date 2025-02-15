@@ -14,7 +14,7 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 ## Goals and Requirments
 - 200x200 or at least 200x150
 - CoreXY
-- Encloser
+- Enclosed
 - at least 150mm/s
 - 
 
