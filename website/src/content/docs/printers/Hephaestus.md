@@ -45,6 +45,8 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 - Step 4 Firmware
   - [ ] Research how to use Klipper
   - [ ] Setup the Firmware
+- Step 5 Assemble
+  - [ ] Build it
 
 # Log
 
