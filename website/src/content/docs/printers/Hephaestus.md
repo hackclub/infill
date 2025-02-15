@@ -25,8 +25,11 @@ hours: 0
 
 total hours: 0
 
+Reaserched how 3d printers work and all the parts of one
+
 ### Development Plan
 - day 1
   - create a cohesive plan
-  - resarch design choices 
+  - resarch design choices
+  - resarch 3d printers
 - day 2
