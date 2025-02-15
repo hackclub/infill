@@ -9,5 +9,5 @@ Made by : Noah F
 
 Total hours: 0
 
-# Day 1 Reaserch & Set Up Feb 15, 2025
+# Day 1, Reaserch & Set Up, Feb 15, 2025
 
