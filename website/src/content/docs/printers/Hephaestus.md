@@ -16,7 +16,7 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 - CoreXY
 - Enclosed
 - at least 150mm/s
-- 
+- Klipper
 
 ## Day 1, Reaserch & Set Up, Feb 15, 2025
 
