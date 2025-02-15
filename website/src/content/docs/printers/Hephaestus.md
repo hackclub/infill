@@ -15,12 +15,13 @@ Time : `research: 1 hour 30 min,
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
 ## Goals and Requirments
-- 200x200
+- standard 250mm x 250mm
 - CoreXY
 - Enclosed
 - at least 150mm/s
 - Klipper
 - Under $250
+- Open-Source
 
 ## Development Plan
 - day 1
