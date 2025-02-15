@@ -8,3 +8,5 @@ repository: "https://github.com/BoaN235/hephaestus-3D-printer/tree/main"
 Made by : Noah F
 
 Total hours: 0
+
+# Day 1 2/15/2025
