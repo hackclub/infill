@@ -22,6 +22,9 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 - Klipper
 - Under $250
 - Open-Source
+- won't burn my house down
+- Rigid for good printing qualtiy
+- A Cool Logo Embossed somewhere
 
 ## Helpfull Resources
 - www.matterhackers.com/articles/anatomy-of-a-3d-printer
