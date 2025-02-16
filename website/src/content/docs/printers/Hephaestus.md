@@ -77,4 +77,7 @@ Description:
 - Researched how 3d printers work
 - Started Development Plan
 - chose a CoreXY Printer
+
+I Made a Logo 
+![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
 </details>
