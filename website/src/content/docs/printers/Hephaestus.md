@@ -7,10 +7,10 @@ repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/ref
 # Hephaestus
 Made by : Noah
 
-Total time: 2 hours 50 min
+Total time: 8 hours 50 min
 
-Time : `research: 1 hour 55 min,
-  readme: 55 min, `
+Time : `research: 2 hour 55 min,
+  readme: 1 hour 25  min, Fusion360: 4 hours 30 mins `
 
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -25,10 +25,10 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 - won't burn my house down
 - Rigid for good printing qualtiy
 - A Cool Logo Embossed somewhere
+- RGB lights
 
 ## Helpfull Resources
 - www.matterhackers.com/articles/anatomy-of-a-3d-printer
-- https://support.th3dstudio.com/helpcenter/printer-bed-sizing-chart/
 
 ## BOM (Bill Of Materials) 
 | Part                       | Price    | Link                                                                              | received | amount |
@@ -83,4 +83,21 @@ Description:
 
 I Made a Logo 
 ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
+</details>
+<details>
+<summary> Day 2, First Pass of Cad, Feb 15, 2025 </summary>
+time: 6 hours
+
+Total Time 8 hours 50 mins
+
+Time : `research: 1 hour, readme: 30 mins, Fusion360: 4 hours 30 mins`
+
+![image](https://github.com/user-attachments/assets/785138b0-0364-48ec-9edb-714a04c182a6)
+
+Description: 
+- Researched how 3d printers work
+- Created the Cad model for the frame
+- Started Cad model of the Carraige and Moters
+- Made an Excel SpreadSheet
+  
 </details>
