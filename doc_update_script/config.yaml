@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+ED3D:
+  title: "ED3D"
+  description: "A printer that has hologram showing whats being printed"
+  repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/journal.md"
+  file_name: ED3D.md
