@@ -1,5 +1,11 @@
 ## Add your printers below
 
+NonLinear:
+  title: "NonLinear"
+  description: "5-axis printer designed for precision and complex parts"
+  repository: "https://github.com/Jyst7/NonLinear"
+  file_name: nonlinear.md
+
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
