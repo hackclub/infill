@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Hephaestus:
+  title: "Hephaestus-1"
+  description: "A simple CoreXY Printer"
+  repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/refs/heads/main/LOG.md"
+  file_name: "Hephaestus-1.md"
