@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Penguin:
+  title: "Penguin"
+  description: "(Hopefully) The most accurate 3d printer you'll find for under $300."
+  repository: "https://raw.githubusercontent.com/Lucas4680/Penguin/refs/heads/main/Devlog.md"
+  file_name: Devlog.md
