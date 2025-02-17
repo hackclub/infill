@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Printopus:
+  title: "Printopus"
+  description: "A Cheap Printer Which has many cool features such as a built-in how much filament left sensor, custom lighting in the extruder itself, and Video games in the screen itself!"
+  repository: "https://raw.githubusercontent.com/scattercat-123/Printopus/refs/heads/main/Printopus-Journey.md"
+  file_name: Printopus-Journey.md
