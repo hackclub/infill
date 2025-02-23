@@ -239,3 +239,9 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+  
+optid:
+  title: "optid"
+  description: "Simple 3D printer"
+  repository: "https://raw.githubusercontent.com/Pegoku/optid/refs/heads/main/JOURNAL.md"
+  file_name: optid.md
