@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+  UltraC-XY :
+  title: "UltraC-XY"
+  description: "A powerful compact upside-down 3D printer designed for rapid prototyping on the go"  
+  repository: "https://raw.githubusercontent.com/user/repository_name/refs/heads/main/JOURNAL.md"
+  file_name: ultrac-xy.md
