@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+Helper 1:
+  title: "Helper 1"
+  description: "A printer primarily focused on being tall to print big plane wings"
+  repository: "https://github.com/patcybermind/helper-1/JOURNAL.md"
+  file_name: helper-1.md
