@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+  
+OwOPrinter:
+  title: "OwOPrinter"
+  description: "A 3D Printer with as many 3D Printed parts as possible while maintaining speed"
+  repository: "https://github.com/owohappy/OwOPrint/blob/main/JOURNAL.md"
+  file_name: OwOPrinter.md
