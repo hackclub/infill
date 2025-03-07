@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+TwinTrude:
+  title: "TwinTrude"
+  description: "A dual extrusion/print head 3D printer with a type-c port!"
+  repository: "https://raw.githubusercontent.com/joel909/project-twintrude/refs/heads/main/journal.md"
+  file_name: TwinTrude.md
