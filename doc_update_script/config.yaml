@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+Stratos:
+  title: "Stratos"
+  description: "Compact and high-speed 3D printer based on the Voron V0 design, with modular upgrades, future automation capabilities, touchscreen interface, silent stepper motors, auto bed leveling (BLTouch), and Wi-Fi connectivity for remote control."
+  repository: "https://raw.githubusercontent.com/aayush-ojha/Stratos/refs/heads/main/JOURNAL.md"
+  file_name: Stratos.md
