@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+Billig:
+  title: "Billig"
+  description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
+  repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
+  file_name: billig.md
