@@ -17,7 +17,7 @@ Radeon:
   description: "A Core XY printer with linear rails"
   repository: "https://raw.githubusercontent.com/JeffreyWangDev/3dspire/refs/heads/main/design.md"
   file_name: spire.md
-  
+
 Quantum One:
   title: "Quantum One"
   description: "An affordable prototyping machine that looks good, performs well, is affordable, and you can build yourself"
@@ -83,7 +83,7 @@ prntr:
   description: "A small, fast printer used for rapid prototyping"
   repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/design.md"
   file_name: prntr.md
-  
+
 pixl:
   title: "pixl"
   description: "A small corexy printer with a 180 mm cubed build volume"
@@ -142,7 +142,7 @@ Candy-V1:
   title: "Candy-V1"
   description: "A 4-axis 3D printer"
   repository: "https://raw.githubusercontent.com/Outdatedcandy92/CandyV1/refs/heads/main/candy_v1.md"
-  file_name: candy_v1.md 
+  file_name: candy_v1.md
 
 Arcadius:
   title: "Arcadius"
@@ -161,13 +161,13 @@ X3:
   description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
   repository: "https://raw.githubusercontent.com/3XAY/X3-3DP/refs/heads/main/JOURNAL.md"
   file_name: x3.md
-  
+
 Xyron:
   title: "Xyron"
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
-  
+
 2XInfiniti:
   title: "2xInfiniti"
   description: "A simple 3d printer that uses a conveyor belt and dual extrusion"
@@ -203,7 +203,7 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
- 
+
 circumlocution:
   title: "Circumlocution"
   description: "A circular 3D printer that is more complicated than necessary."
@@ -221,7 +221,7 @@ Penguin:
   description: "(Hopefully) The most accurate 3d printer you'll find for under $300."
   repository: "https://raw.githubusercontent.com/Lucas4680/Penguin/refs/heads/main/Devlog.md"
   file_name: Penguin.md
-  
+
 Printopus:
   title: "Printopus"
   description: "A Cheap Printer Which has many cool features such as a built-in how much filament left sensor, custom lighting in the extruder itself, and Video games in the screen itself!"
@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+PancakeFlipper:
+  title: "Pancake Flipper"
+  description: "Upside-down toolchanger printer with belted Z axis"
+  repository: "https://github.com/tmshader/pancake-flipper"
+  file_name: pancake-flipper.md
