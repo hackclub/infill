@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+MuonForge:
+  title: "MuonForge"
+  description: "A battery and direct electricity powered 3d printer with rechargeability"
+  repository: "https://raw.githubusercontent.com/asmahdi08/MuonForge/refs/heads/main/JOURNAL.md"
+  file_name: MuonForge.md
