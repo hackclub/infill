@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+QuestionableAtBest:
+  title: "QuestionalPrinter"
+  description: "A large-build volume 5-axis printer"
+  repository: "https://github.com/DinosaurPotato534/questionableAtBest/blob/main/JOURNAL.md"
+  file_name: questionable.md
