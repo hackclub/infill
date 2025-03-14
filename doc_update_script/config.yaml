@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+EZ3d:
+  title: "EZ3D"
+  description: "a printer that's minimal and gets the job done (hence the EZ)"
+  repository: "https://github.com/VedanshMannem/EZ3D/blob/main/JOURNAL.md"
+  file_name: EZ3D.md
