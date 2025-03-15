@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+NanoLab:
+  title: "NanoLab"
+  description: "A enclosed, small and thus hopefully portable 3D printer that allows printing high quality models with a whole bunch of different materials"
+  repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/main/JOURNAL.md"
+  file_name: nano_lab.md
