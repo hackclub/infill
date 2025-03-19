@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+CORE-SIX:
+  title: "CORE-SIX"
+  description: "A big, fast, multi-color CoreXY printer."
+  repository: "https://raw.githubusercontent.com/grandell1234/CORE-SIX/refs/heads/main/JOURNAL.md"
+  file_name: core_six.md
