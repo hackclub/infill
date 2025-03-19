@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+WayneTech3D:
+  title: "WayneTech3D"
+  description: "A 3D printer that is stoarage efficient, of good build quality and some basic features of a normal printer hopefully and a littlebit of batman wayne company style as much as possible"
+  repository: "https://raw.githubusercontent.com/Bhavya312007/WayneTech/refs/heads/main/JOURNAL.md"
+  file_name: WayneTech3D.md
