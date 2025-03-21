@@ -54,11 +54,11 @@ Aniprinter:
   repository: "https://raw.githubusercontent.com/cheyao/aniprinter/refs/heads/main/JOURNAL.md"
   file_name: aniprinter.md
 
-Anixus Vex:
-  title: "Anixus Vex"
+Anicept Vex:
+  title: "Anicept Vex"
   description: "A powerful, fast, precise CoreXY 3D printer aimed at intense speed"
-  repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
-  file_name: anixus_vex.md
+  repository: "https://raw.githubusercontent.com/invictus-anic3tus/anicept-vex/refs/heads/main/journal.md"
+  file_name: anicept_vex.md
 
 Grasshopper:
   title: "Grasshopper"
