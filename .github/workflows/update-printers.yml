@@ -36,8 +36,8 @@ jobs:
         git config --global user.name "infill bot"
         git config --global user.email "github-actions@github.com"
 
-        # Get list of changed files (comma-separated)
-        CHANGED_FILES=$(git diff --name-only | tr '\n' ', ' | sed 's/, $//')
+        # Get list of changed files (filenames only, comma-separated)
+        CHANGED_FILES=$(git diff --name-only | xargs -n 1 basename | paste -sd ", ")
 
         git add -A
         git diff --cached --exit-code || (
