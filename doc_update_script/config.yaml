@@ -120,12 +120,6 @@ Axilab:
   repository: "https://raw.githubusercontent.com/Rayanlupo/Axilab/refs/heads/main/progresses.md"
   file_name: axilab.md
 
-Volt-core:
-  title: "VoltCore"
-  description: "Battery-powered 3d printer to print without access to any nearby outlets!"
-  repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/refs/heads/main/CAPTAINSLOG.md"
-  file_name: volt-core.md
-
 Infinixar:
   title: "Infinixar"
   description: "CoreXY printer, with extending y axis dimensions"
