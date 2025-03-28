@@ -12,6 +12,12 @@ Radeon:
   repository: "https://raw.githubusercontent.com/pmnlla/radeon/refs/heads/master/docs-head.md"
   file_name: pmnlla-radeon.md
 
+Micro 3d Printer:
+  title: "Micro 3d Printer"
+  description: "A budget friendly easy solution of cutting filament"
+  repository: "https://raw.githubusercontent.com/raghib112/Micro-3d-Printer/refs/heads/main/3dPrinterLog.md"
+  file_name: 3dPrinterLog.md
+
 3dSpire:
   title: "3d Spire"
   description: "A Core XY printer with linear rails"
