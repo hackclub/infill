@@ -16,3 +16,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |1/4|1.5hr|made the 2020 rails the ones i was using were of diff dimensions https://hackclub.slack.com/archives/C08B7LF58TX/p1743497795204829 |
 |1/4|2hr|idler pully setip and bearings  |
 |1/4|1hr|after 2hr idealer pully was done but shi the pully wasnt alignign with the stepper motor pully height then had to do some cut here and there so it matched the heights|
+|1/4|2hr|made this holder to hold the 8mm rods for Z axis https://hackclub.slack.com/archives/C08B7LF58TX/p1743524871616339 |
