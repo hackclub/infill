@@ -14,3 +14,5 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 | 31/3|1hr|exported all files and uploed to github and add imgs 🎉 also today i leaned that we can move components using the mouse and no need to use M key 😂 also added the bom and dont jugde me okay i still use excel 😭 made some minr changes in my drawing |
 |1/4|30min| tried to find for cheap but shii didnt got any and even if i got they have no hcb suport|
 |1/4|1.5hr|made the 2020 rails the ones i was using were of diff dimensions https://hackclub.slack.com/archives/C08B7LF58TX/p1743497795204829 |
+|1/4|2hr|idler pully setip and bearings  |
+|1/4|1hr|after 2hr idealer pully was done but shi the pully wasnt alignign with the stepper motor pully height then had to do some cut here and there so it matched the heights|
