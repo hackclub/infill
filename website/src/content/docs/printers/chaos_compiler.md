@@ -19,3 +19,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |1/4|2hr|made this holder to hold the 8mm rods for Z axis https://hackclub.slack.com/archives/C08B7LF58TX/p1743524871616339 |
 |1/4|1hr|made a diff z aixis holder as prev one not fitting |
 |1/4|1hr|made z axis rod fitting and aliging all parts z axis rods done now some of z and X full left |
+|2/4|.5hr|color correction and aliging the 8mm rods to z axis holder| 
