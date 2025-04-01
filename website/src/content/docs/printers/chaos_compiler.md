@@ -10,7 +10,7 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 | 27/3  | 3h   | making rails and other misc parts |
 | 28/3  | 11h   | heatbed and nema 17 and redesigned the whole thing on paper 😭i was going with a design like bambu but shifted to ender like|
 | 29/3  | 5h   | CAD for the random things and made bom |
-| 31/3  | 10h   | assembly and made the y axis not full asked aarush he helped me |
+| 31/3  | 10h   | assembly and made the y axis, not full .asked aarush ,he helped me |
 | 31/3|1hr|exported all files and uploed to github and add imgs 🎉 also today i leaned that we can move components using the mouse and no need to use M key 😂 also added the bom and dont jugde me okay i still use excel 😭 made some minr changes in my drawing |
 |1/4|30min| tried to find for cheap but shii didnt got any and even if i got they have no hcb suport|
 |1/4|1.5hr|made the 2020 rails the ones i was using were of diff dimensions https://hackclub.slack.com/archives/C08B7LF58TX/p1743497795204829 |
@@ -18,3 +18,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |1/4|1hr|after 2hr idealer pully was done but shi the pully wasnt alignign with the stepper motor pully height then had to do some cut here and there so it matched the heights|
 |1/4|2hr|made this holder to hold the 8mm rods for Z axis https://hackclub.slack.com/archives/C08B7LF58TX/p1743524871616339 |
 |1/4|1hr|made a diff z aixis holder as prev one not fitting |
+|1/4|1hr|made z axis rod fitting and aliging all parts z axis rods done now some of z and X full left |
