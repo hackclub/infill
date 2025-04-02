@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 32h
+Evan: 36h
 
 # Feb 12 2025
 
@@ -375,3 +375,11 @@ The MCU will likely pull its voltage from a step-down converter after the diode 
 Evan: 3.5h
 
 The PD controllers are complete, now I need to figure out how to load balance and combine the inputs. Right now i'm trying to find the perfect buck/boost VRM that's cheap enough to get 4 of.
+
+# April 1 & 2
+Evan: 4h
+
+STILL trying to find a suitable buck/boost VRM. I found the XL6019, which is PERFECT... *except* it's max switching current is 5A, which is does not work well for our design, which pushes 20A/3A -> 12V/5A (60W) through. That means our **switching current** (the current that flows through as it makes/breaks contact) is about 8.53A, which is way too high for this chip and will likely burn it.
+I found the LT8645S, which seems to support our use case and switching current, however it costs $8.77 each, making it prohibitively expensive as we need 4 per board.
+
+[4pm] I'm going to spend the next few hours looking through MORE datasheets... I'm going to see if it costs less to use a MOSFET **controller**, which should be cheaper and allow for more current as these controllers do not include a FET. 
