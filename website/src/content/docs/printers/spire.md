@@ -13,7 +13,7 @@ In the budget, I have three motors available for z with lead screws. With the be
 Goal:
 - Fast and accurate parts
 - Relatively space-efficient
-- Option to add an enclosed 
+- Option to add an enclosed (I have a sheet of plexiglass but no accurate way to cut/drill)
 
 Features:
 - Higher torque motor compared to COTS printers for the same size 
