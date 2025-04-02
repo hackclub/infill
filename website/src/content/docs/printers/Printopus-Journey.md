@@ -152,4 +152,71 @@ Here is my almost finished printer cad( i have to do the electronics storing bas
 
 I know it looks a bit ugly but after building its going to be 🔥
 
-Thats all for today maybe tommorow and later on i will give more updates and phoos aobut the pcb since my exams
+Thats all for today maybe tommorow and later on i will give more updates and phoos aobut the pcb since my exams are officially over.
+
+## Day 36 (29th March 2025)
+## Total time 4 Hours
+
+Hi Ppl
+I have designed the first layout of my pcb and also learnt some kicad.
+I researched a lot on how to wire a capacitor but couldnt get any info for neopixels.
+So in this pcb v1 I have done everything without capacitor:
+
+A reddit post for my capacitor thing: https://www.reddit.com/r/PCB/comments/1jo8qhs/soldering_neopixels_ws2812c_with_jlcpcbs_assembly/
+
+<img src="https://preview.redd.it/soldering-neopixels-ws2812c-with-jlcpcbs-assembly-dumb-v0-lohfmvuo72se1.png?width=1537&format=png&auto=webp&s=4bba737ff3dae7c949de7c523c9d3b02ffcfbd31">
+
+Schematic
+
+<img src="https://preview.redd.it/soldering-neopixels-ws2812c-with-jlcpcbs-assembly-dumb-v0-sz0gs6zr72se1.png?width=1210&format=png&auto=webp&s=8464d9c9c831f5c5e4d37ab987d674660141941d">
+
+Footprint
+
+A nice 3d model:
+<img src="https://preview.redd.it/soldering-neopixels-ws2812c-with-jlcpcbs-assembly-dumb-v0-c105c5yy72se1.png?width=1032&format=png&auto=webp&s=e2df942767d7c9604a67a29b1c0896e9386cd873">
+
+Thats all for today i will wait for a reply on reddit.
+
+## Day 36 (29th March 2025)
+## Total time 3 Hours
+
+I worked more on the Cad Files of printopus
+Here is my finished and updated pcb with some copper blocks and a capacitor which unfortunately i dont have a 3d of but you can see the pins:
+<img src="https://i.imgur.com/Nu0PDfO.png">
+
+3d Model?
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9a80cd84258e2a7a20f67ba25b6cad588c1fe373_image.png">
+
+## Day 37-38 (30th - 31st March 2025)
+## Total time 6 Hours
+
+I am grinding rn im really tired lol
+
+I finished almost evrything of the cad!!!!
+YAYAY
+AYAYA
+
+AYAY hefdjunslovcs'jskd;
+⏫sorry autism
+
+Oh and i forgot to tell you i have also designed a nice bltouch mount too!
+
+Here are some good photos:
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bdc4c1b63e727eefb399dc45ee9d3962f5886645_image.png">
+<img src="https://hackclub.slack.com/archives/C016DEDUL87/p1743597133980869?thread_ts=1743597130.402979&cid=C016DEDUL87">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3472ba0ece47d5a98e1e4b43309347173b155eb_image.png">
+
+Okay imma sleep tmrw ill work on the BOM <- THE MOST SHITTY PART HELPPPPP
+
+## Day 39-40 (1st - 2nd April 2069)
+## Total time 69 hourss
+
+Happy april fools! lol its actually 6 hours
+
+Here is the finished Bom which is very very very very pricey bruh i am exeeding my budget i think...
+https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing
+
+I havent included all screws screws cauze im lazy
+I just have 2 words: WOMPWOMP
+
+Okay bye i think cause thiis is the last day.
