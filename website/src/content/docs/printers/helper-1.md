@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 38
+Total hours so far: 42
 
 ### Sunday, march 2nd
 7 hours
@@ -43,3 +43,11 @@ i continued the pcb and then i did some research to look for other websites wher
 ### sunday, march 30th
 5 hours
 started the cad and looked for ways to make the bom cheaper, i found some deals 
+
+### monday, march 31st
+2 hours
+worked on the cad, mostly on making the t slot nuts and extrusions fit togheter and the screws too
+
+### tuesday, april 1st
+2 hours
+continued the cad and got one adapter done, also started to get the hang of using constraints
