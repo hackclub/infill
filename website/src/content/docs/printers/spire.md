@@ -6,12 +6,19 @@ repository: "https://raw.githubusercontent.com/JeffreyWangDev/3dspire/refs/heads
 ---
 # 3dspire
 
-Idea: Simple CoreXY printer
+Idea: Simple CoreXY printer (maybe move over to non-planear printing)
+
+In the budget, I have three motors available for z with lead screws. With the bed able to pivot, we can create a plane with the bed as 3 points define a plane. With this and custom slicing, this allows for non-planer printing. 
+
 Goal:
-- Faster than my Ender 3
-- Quality part printing (tunning pls!)
-- Relatively space efficient
-- Option to add an encloser 
+- Fast and accurate parts
+- Relatively space-efficient
+- Option to add an enclosed 
+
+Features:
+- Higher torque motor compared to COTS printers for the same size 
+- Modular hotend, hotend mounts on with two screws, and using canbus allows for quick disconnections. 
+
 
 Parts list:
 https://docs.google.com/spreadsheets/d/1-p1FSMkBJRRGZg3B695Q9pYF5o_9TisIYr6g5MQPlGU/edit?usp=sharing
