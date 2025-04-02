@@ -20,3 +20,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |1/4|1hr|made a diff z aixis holder as prev one not fitting |
 |1/4|1hr|made z axis rod fitting and aliging all parts z axis rods done now some of z and X full left |
 |2/4|.5hr|color correction and aliging the 8mm rods to z axis holder| 
+|2/4|1hr|Z asixs holder but for the top added the kfl008 bearing to it and expanded area of that so the scews hole match and assembled that into "bot asm" file(printer's assembly)| 
