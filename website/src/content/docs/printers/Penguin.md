@@ -95,4 +95,8 @@ Continued redesign
 Fleshed out redesign and made some really cool renders. Check out renders tab! 
 ![image](https://github.com/user-attachments/assets/432cb989-e714-43c5-a17b-25090acd974c)
 
+4/2/25 - 2hr 30m (47 total)
+Finalized the redesign, made all the parts look nice with chamfers and fillets.
+![image](https://github.com/user-attachments/assets/6f3944e6-0495-494b-adb0-ba702418a07b)
+Most of the parts have arrived, but still waiting on a few.
 
