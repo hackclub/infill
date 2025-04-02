@@ -12,7 +12,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 64.5h
+Hours so far: 71.5h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -59,6 +59,7 @@ Currently the outline is 400mm x 410mm
 | 03/03 | Counting screws                         | 1 hour  | I lost track :heavysob: |
 | ~ | Getting printer & approved + planning | 2 hours | Welp |
 | 27/03 | Ordering everything | 4 hours | Kudos to anicetus again <3 |
+| 28,29,30,31,01/03 | Fixing orders, ordering more, solving shipping, yapping with merchants that doesn't want to ship, refunding from merchants that doesn't wanna ship, and mooooreee ordering | 7 hours | Ah china = complex |
 
 ## BOM
 
