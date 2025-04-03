@@ -62,7 +62,7 @@ From that, I designed the v0 part of the belt systems. I added double sheer supp
 
 
 # Update five
-Time Spent 20 hours
+Time Spent 20 hours  
 
 I designed the z and bed mounts. This required me to move the crossbeam holder up to have the z-axis mounts on the inside, as shown below. I wanted this so I could easily bold on side panels later without worrying about producing elements. I chose to 3dpint an extrusion due to extrusions being sold in packs of 2 or 4, this saves around 10-15 dollars and should not compromise on anything. 
 ![image](https://github.com/user-attachments/assets/05c2d015-01c6-4250-a13c-301b3e738d28)
@@ -74,3 +74,22 @@ Time spent 10 hours
 For my hot-end assembly, I wanted to use 2 5015 fans for a lot of cooling; this makes the whole size pretty big. Along with this, I would need a good extruder and hot end to keep up. I chose to use an x1 hot-end clone due to the low price and pretty good performance. I also used a COTS extruder due to this design being around the same price as the motor and gears needed. I also added a BL touch for bed leveling. 
 ![image](https://github.com/user-attachments/assets/a74bb44c-e01a-43f6-aac1-1c4fdf79a863)
 
+
+# Update seven 
+Time spent 1 hour
+
+I used some physics to calculate the maximum acceleration of the x-axis with one motor running. 
+![image](https://github.com/user-attachments/assets/a6d46b10-ded3-48dc-bc76-a23dd6f73743)
+The theoretical max acceleration that the motor can handle in a perfect world is around 73k. This will NOT be the real world due to friction and resonance of the frame being the primary constraint in speed. I talked with my physics teacher, and he suggested building it and test, but the calculations for it would be extremely hard to do, if not impossible, due to this being a complex shape. Because of this, I could not find the frame's resonance frequencies. For rigidity, I designed the frame to have deep pockets with overlap between 3d printed corner pieces and the aluminum extrusion. ![image](https://github.com/user-attachments/assets/b0ccaa54-03d5-4574-b9b8-1c8a43def755) 
+I also tested different materials for the side pieces by printing out test corner pieces and seeing the force for them to break. (I can't find the paper where I recorded data, but soon!) Setup:![image](https://github.com/user-attachments/assets/49b15e29-af5a-462f-9805-2179c75c806b)
+
+I realized after the fact that due to printing the pieces flat to save on filament, I was actually just testing the layer strength of each print, not how strong they were. 
+
+
+# Update eight 
+Time spent 4 hours
+
+Designed a smart filament sensor; I have two sensors to detect filament, a basic limit switch to detect the presence, and an optical encoder to see if the filament moves. 
+Cad img: ![image](https://github.com/user-attachments/assets/92d0d922-0091-4b66-8e51-19e978f4b30c)
+PCB: https://github.com/JeffreyWangDev/infill-pcb
+ 
