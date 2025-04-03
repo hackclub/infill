@@ -5,13 +5,13 @@ project_name: "Meteroid"
 repository: "https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Changelog.md"
 ---
 ---
-modified: 2025-03-28T14:34:44-06:00
+modified: 2025-04-02T23:19:20-06:00
 ---
 Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 42.0 hrs
+Total hours so far: 45.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -41,7 +41,27 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
-## Finished Toolhead carriage and lock
+## Finished first toolhead - April 2, 2025
+
+Finished my first toolhead!
+
+Fan air path cutaway
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-02%2022-39-56.png)
+
+
+Finished toolhead, with a Phaetus Rapido 2.0 UHF, Orbiter 2.5, a 5015 blower, and a 4010 hotend fan.
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-02%2023-14-49.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/c52a5d6f06725d51ee408f74/e/9f1bf3c1958c2faa9304390e)
+
+Time: 2 hrs
+
+## Finished Assembly of Toolhead carriage - March 31, 2025
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-31%2022-46-37.png)
+
+Time: 1hrs
+
+## Finished Toolhead carriage and lock - March 29, 2025
 
 Now I need an actual toolhead, a PCB design and the BOM. So close to completion!
 
