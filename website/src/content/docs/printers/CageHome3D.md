@@ -79,3 +79,39 @@ Spent the last week learning CAD, took me 8 hours to make this (totally unrelate
 I think I am ready to actually design the things in CAD after a quick sketch of my ideas, hopefully a week is enough.
 
 ![cad animation](https://files.catbox.moe/ud7fq7.gif)
+
+## 3rd April 2025
+
+I got sick the last week, and had schoolwork, so didn't make progress. 3 days remain.
+
+I made the BOM with around 4 hours of research. Got feedback in Slack and tried to improve it further.
+
+Feedback gotten
+- Belts were closed loops and not adjustable length (oops)
+- Bed selected isn't a buildplate, so I either need magnets or a buildplate
+- Choose a E3D V6 clone instead of the official one to save money (I was overbudget)
+
+Realized that my original plan wouldn't exactly work.
+Firstly, I couldn't find a part that I wanted. I searched up knife hinge, locking hinge, pivot hinge, 90 degree hinge, spring loaded hinge with button to unlock, etc but I couldn't get the part that I had in mind. Not sure what to search but I tried a long time.
+
+Furthermore, I realized that if I have a rotating part, then that part would need to lock in place to avoid vibrations.
+
+New plan: Make the Z axis removable with ease.
+- Bed slinger design
+  - Belt only; no lead screw so there are less parts connected to be base
+  - Need to change the BOM, add a counterweight (decided on a Key-Bak, inspired by the Voron Switchwire) and remove the lead screw
+-  To disassemble, remove 4 captive screws and unplug the extruder wires
+  - Wires needs to have an external point to connect; a single action should disconnect the wires
+  - Captive/thumb screws are used so it doesn't fall out and get lost. Also needs to be a thumb screw with a knob and knurling to make removal by hand easy.
+-  Z axis assembly parts
+  - X motor, belts, tensioner, pulley, etc (connected to the base with 2 captive screws)
+  - Z motor, belts, tensioner, counterweight, pulley etc. (connected to the base with 2 captive screws)
+  - Extruder, toolhead etc (connected to the base with wires)
+  - Filament and stand (connected to the extruder, not related to base)
+- Base assembly
+  - Y motor, belt etc
+  - Heated bed
+  - PSU, electronics etc
+  - Frame (as small of a footprint as possible)
+
+3 days of nonstop CAD is about to come >:)

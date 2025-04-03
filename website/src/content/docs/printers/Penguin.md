@@ -4,7 +4,7 @@ description: "(Hopefully) The most accurate 3d printer you'll find for under $30
 project_name: "Penguin"
 repository: "https://raw.githubusercontent.com/Lucas4680/Penguin/refs/heads/main/Devlog.md"
 ---
-Total hours: 34
+Total hours: 47
 
 BOM: https://docs.google.com/spreadsheets/d/1BoM7iUl6QUpEB06v-WNWhYhMciubwFNZ1HohTmLiy30/edit?usp=sharing
 
