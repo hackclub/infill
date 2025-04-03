@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 36h
+Evan: 36.5h
 
 # Feb 12 2025
 
@@ -383,3 +383,11 @@ STILL trying to find a suitable buck/boost VRM. I found the XL6019, which is PER
 I found the LT8645S, which seems to support our use case and switching current, however it costs $8.77 each, making it prohibitively expensive as we need 4 per board.
 
 [4pm] I'm going to spend the next few hours looking through MORE datasheets... I'm going to see if it costs less to use a MOSFET **controller**, which should be cheaper and allow for more current as these controllers do not include a FET. 
+
+# April 3
+Evan: 0.5h
+
+I've decided to temporarily pause development on the power supply PCB, as I don't think it's very feasible to complete in the next few days (infill is due April 7), so I will be spending
+the next few days developing and prototyping a esp32 daughter board with a touchscreen LCD.
+
+Right now, I think i'm going to use an ILI9341 TFT touchscreen that is driven over SPI with an ESP32 as these displays are generally [pretty cheap](https://www.aliexpress.us/item/2251832829271342.html)
