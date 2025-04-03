@@ -76,7 +76,10 @@ Did more CAD and made a logo. ![image](https://github.com/user-attachments/asset
 3/30/2025  
 I think this CAD model is done!
 ![XYZ Axis v23](https://github.com/user-attachments/assets/93d91f62-8c10-4a08-88d1-50bc8e97942e)  
-Going to try to finish the BOM and submit it today!
+Going to try to finish the BOM and submit it today!  
+
+4/3/2025  
+I wanted to explain some of the way this printer ended up how it is now. I started by designing a coreXY, and I even finished the CAD, but I realized that there was no chance it would be anywhere near $300, and I didn't really want to spend much of my own money. After a lot of thought, I decided that a way to make it more in-budget would be to redesign it with cheaper parts and as a cartesian, since it would use less parts. The goal for the coreXY was to have a hand-swappable toolhead, but I realized I may not have the budget to even do that on the cartesian. What I am thinking of doing now is designing the swappable toolhead as a "mod" so that I can get the extra $20 to make it (and possibly add a 4th axis?). This whole project is a huge upgrade to what I have now, because I have a printer with 100mm3 of print volume... I do however have access to a bunch of Prusa minis and MK3s at school to print parts on. I wanted to use linear rails because I want this to be as rigid as possible, for when I make a swappable toolhead. 
 
 
 ## OLD DESIGN INFO (Icharus)
