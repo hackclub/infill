@@ -18,7 +18,7 @@ I started this project with a coreXY design, but I flew too high, hence the name
 ## Link to CAD: https://a360.co/3XCGgpZ
 
 ## New Design Goals:
-- [ ] Under $300 (USD)
+- [x] $400 (USD) (to buy all parts new, w/o shipping or tax)
 - [x] 310mm3 Build Volume
 - [x] Cartesian Bedslinger
 - [x] Cool design
@@ -45,6 +45,7 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |3/26/2025|CAD|30 mins||
 |3/27/2025|CAD, Logo|2 Hours|Yay logo, also almost done again!|
 |3/30/2025|CAD, BOM|2 Hours|I think im done!|
+|4/3/2025|CAD, Fixing Journal||
 
 ## Detailed Log
 3/6/2025  
@@ -60,7 +61,7 @@ I get my cast off tomorrow!
 I realized that my BOM needs to be cut down, so I started work on that. OG: ~375, Now: N/A  
 
 3/15/2025  
-I made a realization that a coreXY just costs too much for this...  
+I made a realization that a coreXY just costs too much for this...  (and it looks horrible)  
 Making new goals, and hopefully this time it will work out, and maybe I can make Daedelus (Icharus) in the future. I simply flew too high.
 Started work on the CAD for it, looking real good so far, maybe even better than Icharus! I also started working on the BOM for this one, which hopefully will end better than last time.
 ![XZ Axis v3](https://github.com/user-attachments/assets/9472b425-5541-4f23-9779-f955bfda6945)  
@@ -71,18 +72,25 @@ Kept working, here is progress so far:
 Continued working on the BOM, and already it is sooo much cheaper!  
 
 3/27/2025  
-Did more CAD and made a logo. ![image](https://github.com/user-attachments/assets/02262cd7-f29a-4057-8ae8-dca04caa174f)
+Did more CAD and made a logo. ![image](https://github.com/user-attachments/assets/02262cd7-f29a-4057-8ae8-dca04caa174f)  
+I think this logo looks pretty cool, so another check towards that design goal!  
 
 3/30/2025  
-I think this CAD model is done!
+I think this CAD model is done!  
 ![XYZ Axis v23](https://github.com/user-attachments/assets/93d91f62-8c10-4a08-88d1-50bc8e97942e)  
-Going to try to finish the BOM and submit it today!  
+Going to try to finish the BOM and submit it today!   
+As part of my "looking cool" goal, I added some braces that really tie the design in better.  
 
 4/3/2025  
-I wanted to explain some of the way this printer ended up how it is now. I started by designing a coreXY, and I even finished the CAD, but I realized that there was no chance it would be anywhere near $300, and I didn't really want to spend much of my own money. After a lot of thought, I decided that a way to make it more in-budget would be to redesign it with cheaper parts and as a cartesian, since it would use less parts. The goal for the coreXY was to have a hand-swappable toolhead, but I realized I may not have the budget to even do that on the cartesian. What I am thinking of doing now is designing the swappable toolhead as a "mod" so that I can get the extra $20 to make it (and possibly add a 4th axis?). This whole project is a huge upgrade to what I have now, because I have a printer with 100mm3 of print volume... I do however have access to a bunch of Prusa minis and MK3s at school to print parts on. I wanted to use linear rails because I want this to be as rigid as possible, for when I make a swappable toolhead. 
+I wanted to explain some of the way this printer ended up how it is now. I started by designing a coreXY, and I even finished the CAD, but I realized that there was no chance it would be anywhere near $300, and I didn't really want to spend much of my own money. After a lot of thought, I decided that a way to make it more in-budget would be to redesign it with cheaper parts and as a cartesian, since it would use less parts. The goal for the coreXY was to have a hand-swappable toolhead, but I realized I may not have the budget to even do that on the cartesian. What I am thinking of doing now is designing the swappable toolhead as a "mod" so that I can get the extra $20 to make it (and possibly add a 4th axis?). This whole project is a huge upgrade to what I have now, because I have a printer with 100mm3 of print volume... I do however have access to a bunch of Prusa minis and MK3s at school to print parts on. I wanted to use linear rails because I want this to be as rigid as possible, for if I make a swappable toolhead.    
+Since one of my goals was to make it look cool, I updated the design of the fan shroud. I also made different parts different colors.   
+Another edit I had to make was moving the fan duct around a little bit, since in its original position it would interfere with the print.  
+![XYZ Axis Angle 26](https://github.com/user-attachments/assets/e5e2f7c7-0ffc-49ec-81e5-1e7bb3b8216b)  
+![XYZ Axis v26](https://github.com/user-attachments/assets/d17e80cd-2671-44b0-8e19-4b328a7e38df)  
+I also want to mention that I decided to use a Sherpa Mini as the extruder. This is because I wanted to have a direct drive extruder for possible TPU/Flexibles use. I chose a V6 hotend because they are cheap and pretty readily avaliable. I am using the BTT SKR mini because Daedelus only needs 4 motors, and it fits pretty well into the budget. I am going to scrounge a PSU, because it costs quite a bit to buy straight out.  
 
 
-## OLD DESIGN INFO (Icharus)
+## OLD DESIGN INFO (Icharus)  
 
 
 ### (OG) Design goals: 
