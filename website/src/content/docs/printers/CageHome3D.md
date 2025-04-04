@@ -153,3 +153,12 @@ CAD TODO List:
 - [ ] X, Y, and Z carriage endstops (should be just a cube or something, easy)
 - [ ] XZ stepper motor mount (contains belt tensioner, stepper motors and the captive screws to mount the motors to the frame)
 - [ ] Toolhead (connects Sherpa mini v3 to E3D V6 clone and the filament and the fans)
+
+For my PCB design, to fix my wattage issues, I might design a voltage step down device that works for either 48V or 28V to 24V if I'm paranoid about things breaking if I run them at 28V and not 24V. I did some research and asked a person who studies electrical engineering and they told me that it would be really small, and recommended me to buy a blank PCB with holes and solder the required parts on. The recommended parts for a 48V to 24V DC Buck converter were:
+- 2 MOSFETS > 20A, something about RDS on but I'm not sure
+- Inductor around 40 micro Henry (what even is a Henry)
+- Schottky diode
+- Input and output capacitors
+- Gate driver
+
+Yeah I'll get more information and do more research later, I was only provided with a brief introduction
