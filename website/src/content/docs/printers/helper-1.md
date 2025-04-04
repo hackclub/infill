@@ -62,8 +62,16 @@ i have a decent part of the base structure done in the cad, also bom is pretty m
 ![image](https://github.com/user-attachments/assets/3d641006-eb6c-44fc-98eb-f6ba5eb635f1)
 
 ### friday, april 4th
+7 hours
 2 days left
 ![image](https://github.com/user-attachments/assets/21ea2968-0515-40b6-97cd-b4a79c0123af)
 this is the 3d model of the pcb ill import into onshape, dw i wont order it green, im ordering it white or black
 
+for future self:
+remember the two holes should face outwards
+![image](https://github.com/user-attachments/assets/7edd6152-623d-4d67-b5c9-e23cb0df3e1d)
+because they are the holes for the wires as you can see here
+
+this is important because in the cad i dont have any other reference:
+![image](https://github.com/user-attachments/assets/49b273d5-548c-48b2-a9a1-28bbf128f842)
 
