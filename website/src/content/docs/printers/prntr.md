@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/M0HID/prntr
-Total hours so far: 27
+Total hours so far: 38
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -138,3 +138,34 @@ Sorry for the delayed update, I forgot to post a log here :sob:
 Heres the design so far, im hoping just friction will be enough to hold the linear bearing in place but we will have to see
 Time += 5 hours
 ![image](https://github.com/user-attachments/assets/1e8c6c93-41d5-4e68-ba77-9221426b1749)
+
+### Continue work on the z axis
+
+Spent some time aligning everything and remaking the z axis mount on both sides cos i didnt leave enough room for the belt :(
+Time += 2 hours
+![image](https://github.com/user-attachments/assets/2a2c1865-7821-4c87-a550-7160cbae7a49)
+
+## Y-axis (hotbed)
+
+Did some research on how different hotbeds mount, how they're levelled etc etc. Going to be buying these parts to mount it on
+
+| Levelling kit                                                                             | Carriage plate                                                                            | Hotbed                                                                                    |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/03fd8f16-c96f-4637-9792-9f6f133dd0e9) | ![image](https://github.com/user-attachments/assets/db5c9f52-fed7-4cb0-89a2-f29a6852444f) | ![image](https://github.com/user-attachments/assets/b4416ba1-ea9c-4718-aa76-4fef9c7f6355) |
+
+
+Didn't model this in my cad but there will be linear bearings ziptied to the carriage plate, which will secure it to the rest of the printer. (which is why it looks like its floating rn)
+
+not much else to say here its just long
+![image](https://github.com/user-attachments/assets/5fef573b-8354-4bec-ae48-5c809fe43726)
+
+Time += 7 hours
+
+## X-axis (hotend)
+
+Added a motor/idler mount to either side and made cutouts for the belt.
+Time += 2 hours
+![image](https://github.com/user-attachments/assets/3ed2f983-8d30-4d64-ae53-fedb996509fd)
+![image](https://github.com/user-attachments/assets/76d732e8-785f-4f6f-b521-8d951a502f05)
+
+Ok annd with that i think thats all! Ill be doing wire management and all that stuff once i acc get the hardware so uh yeah hopefully it works :pray:
