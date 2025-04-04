@@ -8,7 +8,7 @@ Made by: @chunyinkwong // https://github.com/chunyinkwong/
 
 Repository link: https://github.com/chunyinkwong/infill-journal
 
-Total hours so far: 20
+Total hours so far: 32
 
 - [x] I have access to 3D printing facilities and am able to obtain printed models on or before March 21st.
 
@@ -115,3 +115,41 @@ New plan: Make the Z axis removable with ease.
   - Frame (as small of a footprint as possible)
 
 3 days of nonstop CAD is about to come >:)
+
+## 4th April 2025
+
+Got started building the CAD for the printer. I tried to cheap out on aluminium extrusions (ouch those are expensive) by using 2020 extrusions. Taking a look at other printers, I noticed lots of printers used 2040 or 3060 extrusions for the base. I wondered why until I realised how large the PSU was. I don't want my printer to have a huge PSU sitting at the bottom, so I looked into other solutions.
+
+I decided on using a USB-C PD 3.1 input. I already have a charger at home, and they are widely available (eg. Apple Macbook 140W USBC charger). Doing some research, I noticed that the PD specifications are 28V, 36V or 48V. As I own a 28V charger, I will go with that. More research shows that the maximum for the 28V spec is 140W. I don't want to buy a 48V 240W charger just for this printer (they're expensive).
+
+Researching for USB PD 3.1 sinks, they're tiny boards compared to the PSU. Really surprised they output 140W, considering the size of it.
+
+Initially, I had 2 concerns.
+1. Will I accidentally fry the mainboard (SKR mini E3) and components connected to it?
+2. Will 140W be enough to heat a bed? (TriangleLAB 24V PRUSA i3 MK3 MK3S, which is 250x210mm)
+
+To address the voltage issue on the mainboard, I looked into the [SKR mini E3 schematic](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_SCH.pdf). After consulting with someone who knows what they're doing, they told me to look at the VBB line after the DC input and the fuse. The components connected to the VBB line are
+1. [MP1584EN](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP1584EN-LF-Z/document_id/204/), a DC-DC 5V converter, used to power the CPU and 5V output for the RPI, which is rated up to 28V.
+2. [TMC2209](https://www.analog.com/en/products/tmc2209.html), the stepper motor driver, which is rated for up to 29V.
+3. Extruder heater and bed heater. These are just resistors with no sensitive electronics, so they follow Ohm's law etc, so P = V^2/R, so they won't die or anything, just consume more power
+4. Fan headers and LED headers. It should be fine to run a 24V fan on 28V, it's 17% over the rated voltage but it's just a motor. I don't plan to use the LED headers, but there are 28V LEDs available for purchase (unlike fans)
+
+To adress the power issues, I did some research and came across a rough number of 0.4W per cm^2 of bed area. As I am using a 25x21 = 525cm^2 bed, it will draw around 210W of power, which the 140W won't be able to sustain. I wasn't planning to print ABS anyway, so perhaps I will resort to the gluestick method for printing PLA. However, I still want to buy the heated bed to see if it it's possible, eg I put a cardboard box over it to insulate it and it may reach 60C for PLA.
+
+Additionally, revised my plans a little bit. This is because the stepper motors are connected to the top assembly, while the wires for them are connected to the base assembly. I will need to find a connector for the wires which are accessible from the top as I don't want to be flipping the thing over and disconnecting a USB from the RPI and the stepper motor from the mainboard. Therefore, the current action for disassembling the printer into 2 parts that can sit flush to a wall will be
+1. Unscrew the 4 captive screws connecting the gantry to the frame
+2. Unplug the 2 stepper motors
+3. Unplug the wires leading to the extruder
+4. Hopefully it's really easy to lift up the gantry from the frame, and doesn't require sliding around. However I looked at the captive screws and I don't think they unscrew enough to totally lift off the frame, so it may have to slide along the slot in the aluminum extrusions
+
+CAD Progress so far:
+
+![3d printer draft frame](https://files.catbox.moe/dcolft.png)
+
+CAD TODO List:
+- [ ] Top pulley connector (has 4 bearings for 2 belts and connects to the top of the printer)
+- [ ] XZ axis connector (has 4 bearings, connects to the Z carriages and redirects the belts 90 degrees to the X axis)
+- [ ] Y axis connector (connects Y motor to frame) 
+- [ ] X, Y, and Z carriage endstops (should be just a cube or something, easy)
+- [ ] XZ stepper motor mount (contains belt tensioner, stepper motors and the captive screws to mount the motors to the frame)
+- [ ] Toolhead (connects Sherpa mini v3 to E3D V6 clone and the filament and the fans)

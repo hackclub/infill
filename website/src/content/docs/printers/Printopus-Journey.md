@@ -24,6 +24,14 @@ What is special in this printer:
 * No more Z-Banding(dont ask me about my old printer z banding) I have added Aluminum Flexible Jaw Spider Shaft which reduces the chance of z banding.
 * My printer looks sci-fi with a Sci-fi Themed PRINTER HOLDer!! woohoo
 
+If you are wondering how i will add my filament dry box i have already cut a hole in the dry box to fit my bowden setup
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c8ca3718fcf2a0e7fe6cfb4fed68fdb50fe588d_image.png">
+
+yeah since i am using bowden
+i will cut a hole in my filament dryer
+and mount it sideways next to the bondtech extruder!
+I have already cut the hole lol
+
 <hr>
 
 ## Day 1 (13th Feb 2025) :
