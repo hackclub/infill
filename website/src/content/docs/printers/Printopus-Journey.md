@@ -14,7 +14,17 @@ Total hours so far: calculating!!
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
 <hr>
+## Before we Start!! :
+What is special in this printer:
 
+* Auto bed leveling
+* Working on adding a filament dryer mount in my printer with a bowden setup! First of its kind.
+* Auto Print remover + cleaner with servo!!!(i will add the wedge later so that i will know the bed height before adding it)    -------------------------------->
+* Input shaping mounts added with adxl343 accelerometer
+* No more Z-Banding(dont ask me about my old printer z banding) I have added Aluminum Flexible Jaw Spider Shaft which reduces the chance of z banding.
+* My printer looks sci-fi with a Sci-fi Themed PRINTER HOLDer!! woohoo
+
+<hr>
 ## Day 1 (13th Feb 2025) :
 ## Total time 1.5 hour!!! Started from 6pm
 ### 1st 30 mins <i>Off to a great start!</i>
@@ -108,6 +118,7 @@ I will soon upload the newer cad file!
 Yo guys, wassup Ik i haven't updated for a long time since my parents only gave me 45 minutes to work on this cause I have exams, and I am trying to finish everything before my main exams come!!!
 
 SO THIS IS THE UPDATE!
+I added input shaping mounts for accelerometer!
 I havent built a printer so this is a big thing for me so In the last few days and these days I WATCHES VERY VIDEO on this series - https://youtube.com/playlist?list=PLP-VDZmS6bFo6qyPS8MyBFKqepQHpjCEB&si=mJB7cQvZAObcFmbE Because why not I am definetly usng this mainboard and since we ARE GOING to RMRRF which have people building cool stuff like 6 second nozzle changes even I wanted to ttry to implement something cool. Hence, I needed to know what my mainboard could do!
 
 Now for the main updates i did today is I FINISHED THE Y AXIS (and i have become noob -> master in fusion 360) <- wow so cringe And Yeah i did everything manually I DINT even KNOW AALIGN TOOL EXISTED. I ALWAYS MANUALLY Made everything fit together. But now I am done with the y-axis. I promise everything will be faster from now on because I'm like 70% done less goo.
@@ -130,6 +141,8 @@ Sneak peak: working on a good PCB
 
 Hi guys,
 I know i havent updated this for a while but I am:(drumroll)
+
+working on my printer to be sci fi themed
 
 99% DONE WITH MY CAD FILES
 I have started with my pcb for the neopixels and the bom please dont talk about it
@@ -180,6 +193,8 @@ Thats all for today i will wait for a reply on reddit.
 ## Day 36 (29th March 2025)
 ## Total time 3 Hours
 
+I have started working on a filament dryer mount for my printer which gets the filament directly from the dryer!!
+
 I worked more on the Cad Files of printopus
 Here is my finished and updated pcb with some copper blocks and a capacitor which unfortunately i dont have a 3d of but you can see the pins:
 <img src="https://i.imgur.com/Nu0PDfO.png">
@@ -198,7 +213,7 @@ AYAYA
 
 AYAY hefdjunslovcs'jskd;
 ⏫sorry autism
-
+BL TOUCH ADDED!
 Oh and i forgot to tell you i have also designed a nice bltouch mount too!
 
 Here are some good photos:
@@ -215,6 +230,9 @@ Happy april fools! lol its actually 6 hours
 
 Here is the finished Bom which is very very very very pricey bruh i am exeeding my budget i think...
 https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing
+
+ALSO !!! I have added something really cool:
+## Its basically a arm connected to a servo which automatically removes prints from the print bed!
 
 I havent included all screws screws cauze im lazy
 I just have 2 words: WOMPWOMP
