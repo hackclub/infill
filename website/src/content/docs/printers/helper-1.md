@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 42
+Total hours so far: 48
 
 ### Sunday, march 2nd
 7 hours
@@ -51,3 +51,12 @@ worked on the cad, mostly on making the t slot nuts and extrusions fit togheter 
 ### tuesday, april 1st
 2 hours
 continued the cad and got one adapter done, also started to get the hang of using constraints
+
+### wednesday, april 2nd
+2 hours
+continued the cad
+
+### thursday, april 3rd
+4 hours
+i have a decent part of the base structure done in the cad, also bom is pretty much finalised
+![image](https://github.com/user-attachments/assets/3d641006-eb6c-44fc-98eb-f6ba5eb635f1)
