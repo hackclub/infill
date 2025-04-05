@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 37h
+Evan: 38.5h
 
 # Feb 12 2025
 
@@ -394,9 +394,10 @@ Right now, I think i'm going to use an ILI9341 TFT touchscreen that is driven ov
 
 # April 4
 **CHICKEN JOCKEY**
+
 **FLINT AND STEEL**
 
-Evan: 0.5h
+Evan: 2h
 
 ## Evan
 Watched the minecraft movie with Aaron (11/10 btw). We discussed options for the PCB design for erLay afterwards.
@@ -404,3 +405,5 @@ The consensus we landed on was that I would develop a HAT for the raspberry pi z
 Aaron already had a touchscreen for the pi. (that would just use klipperscreen)
 
 This HAT would break out and expose LED pins/controllers. It will also act as a USB hub reducing the need for janky micro-usb connectors.
+
+[1:26 AM - Apr 5] - The USB hub schematic is completed. It uses an SL2.1A USB hub controller, which is a pretty standard USB hub controller. It has 4 downstream ports (2x A, 2x C), and 1 upstream port (USB A).
