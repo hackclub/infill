@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 36.5h
+Evan: 37h
 
 # Feb 12 2025
 
@@ -391,3 +391,16 @@ I've decided to temporarily pause development on the power supply PCB, as I don'
 the next few days developing and prototyping a esp32 daughter board with a touchscreen LCD.
 
 Right now, I think i'm going to use an ILI9341 TFT touchscreen that is driven over SPI with an ESP32 as these displays are generally [pretty cheap](https://www.aliexpress.us/item/2251832829271342.html)
+
+# April 4
+**CHICKEN JOCKEY**
+**FLINT AND STEEL**
+
+Evan: 0.5h
+
+## Evan
+Watched the minecraft movie with Aaron (11/10 btw). We discussed options for the PCB design for erLay afterwards.
+The consensus we landed on was that I would develop a HAT for the raspberry pi zero w that would be running klipper, as
+Aaron already had a touchscreen for the pi. (that would just use klipperscreen)
+
+This HAT would break out and expose LED pins/controllers. It will also act as a USB hub reducing the need for janky micro-usb connectors.

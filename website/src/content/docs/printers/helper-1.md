@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 48
+Total hours so far: 58
 
 ### Sunday, march 2nd
 7 hours
@@ -60,12 +60,14 @@ continued the cad and got one adapter done, also started to get the hang of usin
 continued the cad
 
 ### thursday, april 3rd
-4 hours
+10 hours
+
 i have a decent part of the base structure done in the cad, also bom is pretty much finalised
 ![image](https://github.com/user-attachments/assets/3d641006-eb6c-44fc-98eb-f6ba5eb635f1)
 
 ### friday, april 4th
-7 hours
+10 hours
+
 2 days left
 ![image](https://github.com/user-attachments/assets/21ea2968-0515-40b6-97cd-b4a79c0123af)
 this is the 3d model of the pcb ill import into onshape, dw i wont order it green, im ordering it white or black
@@ -81,5 +83,9 @@ this is important because in the cad i dont have any other reference:
 just found out "drawings" exist, these could have saved me a lot of time and struggle lol
 ![image](https://github.com/user-attachments/assets/f8a35842-f3cf-459a-85b7-dbaab1b48177)
 especially right now that i am trying to design some wheels that will fit properly in the cad
+
+also added a bit to the bom
+
+
 
 
