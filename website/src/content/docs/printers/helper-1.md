@@ -86,6 +86,12 @@ especially right now that i am trying to design some wheels that will fit proper
 
 also added a bit to the bom
 
+### saturday aprl 5th
+
+![image](https://github.com/user-attachments/assets/b0d47316-98c1-4bbe-9af8-9eefb553facc)
+
+the printer is starting come togheter and look like a printer!
+
 
 
 

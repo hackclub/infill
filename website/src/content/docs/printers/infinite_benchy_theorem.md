@@ -47,7 +47,7 @@ Didn't touch this for two months whoops - let's lock in
 
 Did a BUNCH of research and re orienting - I realized that a belt 3D printer was pretty pointless and a toolchanger with a print pushing tool would be a lot more fun.
 
-![[day1.png]]
+![[assets/day1.png]]
 
 I also spent a ton of time looking into the bed setup. PCB heaters are boring, expensive, and dubious to source as they usually come from a black box. The usual alternative to this is just a slab of drilled mic-6 with a silicone heater on top and having the spring setup, but I wanted to avoid this b/c it seems overkill and also requires you to drill metal.
 
@@ -71,21 +71,43 @@ How the fuck is it 3:51pm when I started this lmao
 
 lock in.
 
-okay today was a bunch of meetings for stuff that I can't really talk about or else it'd be leeks lmao. Also first day I ran the mini hardware thing (?) too so that was awesome
+okay today was a bunch of meetings for stuff that I can't really talk about or else it'd be leeks lmao. Also first day I ran the mini hardware[[ ]]thing (?) too so that was awesome
 
 Anyways today was mostly solidifying the rest of the printer & figuring out some triple Z stuff - definitely appreciate the engineering that went into the 2.4 and Trident after this.
+(more specifically, it never occurred to me that having a slanted bed would cause stretching - I need to account for that when designing my own)
 
-Also ov3660's are so cheap. what. had no fucking clue lol. definitely gonna use them in my next build
+Also [ov3660's](https://www.aliexpress.us/item/3256807837835215.html) webcams are so cheap. what. had no fucking clue lol. definitely gonna use them in my next build
 
-Mainly just still researching. This is taking a ton of time b/c I really want to make something high quality
+Mainly just still researching all the different parts. This is taking a ton of time b/c I really want to make something high quality
 
-## March 30th, 2025
+## March 30th -> April 1st, 2025
 
-Didn't touch this at all yesterday b/c I needed to adult & get my life together. Coming back today
+**Time elapsed: ~12h?**
 
+Didn't touch this at all yesterday b/c I needed to adult & get my life together. Came back today
 
+Mainly spent my time doing research and solidifying what exactly the printer is about, which is basically going to answer "*how can we pack the most features into a printer while spending under $300?*"
 
+Also going to try to reuse as many parts from Hack Club's old blot stash. There's a bunch of leftover parts from its development that I inherited that will pretty much never get used, so. I'm going to try to eat up most of it with this printer. It includes stuff like belts, motors, extrusions, pulleys, fasteners, etc.
 
+Here's what the BOM looks like currently - $230 missing a bunch of stuff but I think $70 should be enough leeway for the rest of what I need
 
+![[Pasted image 20250402115512.png]]
+
+Some of the part choices will be a little funky as a result, but it'll still be a solid printer!!
+
+Also looked into some toolchanger stuff. WP-DAKSH, Stealthburner, etc
+
+(insert images from ipad here later.)
+
+I'm going to try recording videos for this in the future and just ranting my mind and trying to have AI summarize it? idk. That was a lot more natural for me back in the day and it made it feel better.
+
+officially started 3D modelling!!
+
+## April 2nd, 2025
+
+W 
+
+![[Pasted image 20250402151400.png]]
 
 
