@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 19 hours and 30 minutes
+Time spent so far: 27 hours and 30 minutes
 
 ## BOM
 
@@ -119,7 +119,7 @@ Time spent researching: 2 hours
 Question:
 - Should I actually use PET? It emits fumes that are just harmful.
 
-Time spent researching: 30 minutes
+Time spent researching: ~30 minutes
 
 ## Day 4 (March 18th 2025)
 
@@ -129,13 +129,13 @@ Back to designing, for the movement, I'm thinking of using linear rails as they 
 
 > https://www.tokopedia.com/bangunkaryaac/aluminium-profile-20x20-extrusion-panjang-6000-mm
 
-Time spent researching: 1 hour
+Time spent researching: ~1 hour
 
 ## Day 5 (March 24th 2025)
 
 Heated bed, this looks real cheap [Tokopedia](https://www.tokopedia.com/arttechno/hot-bed-mk2b-heat-bed-heatbed-214x214-12v-24v-heated-3d-printer)!! (MK2B though)
 
-Time spent looking for items: 4 hours
+Time spent looking for items: ~4 hours
 
 ## Day 6 (March 25th 2025)
 
@@ -143,7 +143,7 @@ I went shopping through Shopee and Tokopedia, again. They aren't really cheap (i
 
 ![BOM Progress](https://dave9123.me/assets/firefox_xXxE5roiGn.png)
 
-Time spent shopping and researching: 2 hours
+Time spent shopping and researching: ~2 hours
 
 ## Day 7 (March 27th 2025)
 
@@ -167,7 +167,7 @@ I also went some parts shopping again today and found some useful links which mi
 - https://ratrig.dozuki.com/Guide/05.+Linear+rails/73
 and added a power socket, 10 pieces of fuse (Rp 275 each on Tokopedia and 19k on Shopee each with 10 minimum purchases—hella insane!), and 3 micro limit switches (for the X, Y, Z rails to hit so it stops perfectly without breaking the structure).
 
-Time spent: 4 hours
+Time spent: ~4 hours
 
 ## Day 8 (March 28th 2025)
 
@@ -198,3 +198,29 @@ Do I need to get a Magnetic Build Platform or just put glass or both? Having a M
 Resources:
 - https://www.reddit.com/r/ender3/comments/18gwt6v/glass_or_magnetic_bed/
 - https://www.reddit.com/r/ender5/comments/iw2mc4/glass_bed_or_magnetic_sheet/
+
+Magnetic sheet to use :)
+
+Time spent: ~4 hours
+## Day 10 (April 6th 2025)
+
+I did a couple of sketches for the past few days:
+- ![Drawn before church](https://dave9123.me/assets/Canva_engPxCGYOb.png)
+- ![Drawn before lunch](https://dave9123.me/assets/IMG_20250406_211740.jpg)
+
+Those pretty much are the rough deal, I'm starting to make the CAD model of the printer. Did some research on pellet extruders and let's say, the Indian did a pretty nice job for a DIY nozzle and extruder (it's literally insane).
+
+> [𝗛𝗼𝗺𝗲𝗺𝗮𝗱𝗲 𝗣e𝗹𝗹𝗲𝘁 𝗘𝘅𝘁𝗿𝘂𝗱𝗲𝗿 𝗳𝗼𝗿 𝟯𝗗 𝗣𝗿𝗶𝗻𝘁𝗲𝗿 / 𝟯𝗱 𝗣𝗿𝗶𝗻𝘁𝗶𝗻𝗴 𝗣𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗘𝘅𝗽𝗲𝗻𝘀𝗶𝘃𝗲 𝗙𝗶𝗹𝗮𝗺𝗲𝗻𝘁 🧵.](https://www.youtube.com/watch?v=_Z6xetmb24M)
+
+To Do:
+1. Figure out the movement calibration (*CR Touch? BLTouch? [Klicky](https://github.com/jlas1/Klicky-Probe)?*)—most likely Klicky
+2. Figure out how to turn plastic bottles into either filament or directly use them
+3. Figure out the target build volume (*sizing*)
+4. Get some railing for Z-axis (*left & right*) along with XY on top
+5. Get either a proper hotend (*for high-speed*) or a budget hotend (*again, need money for the plastic bottle chewing functionality* 😏)
+6. Build the CAD
+7. Complete the Bill of Material :)
+8. Order everything *and being the cheapskate I am, differenciate between providers and shops*—the $300 budget is hard yk😜
+9. ~~Avengers~~ Assemble!!
+
+Time spent researching: ~4 hours
