@@ -25,3 +25,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |2/4|.5hr = 30min|i had to change some setting in the Z axis holder that i prev made as the one i made earlier was perfectly fitting in left side but for right i need to make a seperate one .this means z axix is compelete|
 |2/4|1hr|trying to cut costs (20$ less from previos)| 
 |5/4|2hr|drawing in paper the x axis(Why is soooo hard to make a desiggnnnnn|
+|7/4|1hr| made the x axs rail holder|
