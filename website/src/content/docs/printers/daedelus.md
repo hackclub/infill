@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 29.5   
+Total hours so far: 31.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -48,6 +48,7 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |3/30/2025|CAD, BOM|2 Hours|I think im done!|
 |4/3/2025|CAD, Fixing Journal|1 Hour||
 |4/5/2025|CAD, Fixing Journal|1 Hour||
+|4/6/2025|CAD|2 Hours|Made a toolhead swapper?|
 
 ## Detailed Log
 3/6/2025  
@@ -100,6 +101,12 @@ I also want to mention that I decided to use a Sherpa Mini as the extruder. This
 4/5/2025  
 I started today working on a CAD prototype of the Hotswap mechanism. I wanted it to be hand operated, not done by the printer itself, because it allows the mechanism to be much simpler. I think this is what I am going to use the PCB for, since I need a way of transferring power and data to the printer without directly connecting to each hotend, so that I could have multiple hotend/extruder combos without having to unplug/replug wires or get a bigger control board. The design is heavily influenced by the WhamBam Mutant. (check it out, it is pretty cool, here is an article about it: https://toms3d.org/2021/01/21/whambam-mutant-a-quick-change-toolhead-upgrade-for-any-3d-printer-not-on-kickstarter/  
 Using a TFT-35 from BTT because I really have some strange affinity for touchscreen items, so why not include one in my printer! I was considering using a RPi running KlipperScreen, but I think that even just marlin firmware may be enough. I do have a pi at home, so I may add that functionality later, but I have it set aside for another possible project I hope to make soon.  
+
+4/6/2025  
+Worked on a toolhead swapper, it is kinda hard to see on the main model, so here is a pic of just the toolswapper. (each part is a different color for ease of vision)
+![Hotswap Assembly Side 1](https://github.com/user-attachments/assets/71de066b-77cf-4acf-9278-3b0b8207c125)  
+![Hotswap Assembly side 2](https://github.com/user-attachments/assets/b716b90c-9c88-47be-96b0-70e1e49424b0)  
+As I mentioned yesterday, it is based on the WhamBam Mutant. To remove the toolhead, all you do is pull the lever, which will force the toolhead off.
 
 ## OLD DESIGN INFO (Icharus)  
 
