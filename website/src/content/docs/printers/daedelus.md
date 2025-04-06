@@ -8,22 +8,23 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 27.5   
+Total hours so far: 29.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
 Daedelus was a Greek inventor, builder, and tinkerer, hence the name.  
 I started this project with a coreXY design, but I flew too high, hence the name/designation Daedelus (Icharus) for the first variant.
 
-## Link to CAD: https://a360.co/3XCGgpZ
+## Link to CAD: 
+https://a360.co/3XCGgpZ
 
 ## New Design Goals:
 - [x] $400 (USD) (to buy all parts new, w/o shipping or tax)
 - [x] 310mm3 Build Volume
 - [x] Cartesian Bedslinger
 - [x] Cool design
-- [ ] Touchscreen UI
-- [ ] Klipper w/ RPi?
+- [x] Touchscreen UI
+- [ ] ~~Klipper w/ RPi?~~
 
 ## BOM
 I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: https://docs.google.com/spreadsheets/d/1hZlX8M_wxNlEcmAArnw9ARre6T5sTla1MoFUZHyh3DU/edit?usp=sharing
@@ -45,42 +46,49 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |3/26/2025|CAD|30 mins||
 |3/27/2025|CAD, Logo|2 Hours|Yay logo, also almost done again!|
 |3/30/2025|CAD, BOM|2 Hours|I think im done!|
-|4/3/2025|CAD, Fixing Journal||
+|4/3/2025|CAD, Fixing Journal|1 Hour||
+|4/5/2025|CAD, Fixing Journal|1 Hour||
 
 ## Detailed Log
 3/6/2025  
-Last time I was working, I finished the Z-Axis, however, I still need a frame...
+Last time I was working, I finished the Z-Axis, however, I still need a frame...  
+I decided to make the Z axis linear rails and lead screws mirrored, so that the Z axis could be more rigid (not sure if this'l actually help or make it worse, but ChatGPT thought it was a good idea so yea)
 ![image](https://github.com/user-attachments/assets/ad0c2183-4e92-49cb-bfbe-74857ae6f1a0)  
 Need to take a break, but here is progress (after 1 hour):
 ![image](https://github.com/user-attachments/assets/bf1df8d6-a668-471f-a1fd-dd65f7159161)  
+I added some 2020 in an H on both the top and bottom, to help with overall stability and structure.  
 Here is the belt routing pic (ik its a bit wonky):
 ![XY Axis Assemby v14](https://github.com/user-attachments/assets/6ac167ef-7925-4199-b3bf-ac91b8dc63a7)  
-
+Not sure if the wonkiness is going to be much of an issue, but I think it may be because the belts are not going in a straight line. I'll see if I can fix it later ig.
+  
 3/10/2025  
 I get my cast off tomorrow!  
-I realized that my BOM needs to be cut down, so I started work on that. OG: ~375, Now: N/A  
-
+I realized that my BOM needs to be cut down, so I started work on that (mostly by trying to find cheaper versions of the parts I am using). OG: ~375, Now: N/A (see next day for why) 
+  
 3/15/2025  
 I made a realization that a coreXY just costs too much for this...  (and it looks horrible)  
 Making new goals, and hopefully this time it will work out, and maybe I can make Daedelus (Icharus) in the future. I simply flew too high.
 Started work on the CAD for it, looking real good so far, maybe even better than Icharus! I also started working on the BOM for this one, which hopefully will end better than last time.
 ![XZ Axis v3](https://github.com/user-attachments/assets/9472b425-5541-4f23-9779-f955bfda6945)  
-
+  
 3/16/2025  
 Kept working, here is progress so far:  
 ![XYZ Axis v2](https://github.com/user-attachments/assets/2d936903-57cd-419b-9d47-a01d6e89f8ad)  
 Continued working on the BOM, and already it is sooo much cheaper!  
-
+This printer is going to use a Klicky, because I looked at the options on aliexpress, and I had been recommended not to use 3dTouch levelers, but real BLtouch levelers cost waaay to much, and the Klicky I chose was only ~$5!  
+Using GT2 6mm belts because that seems to be the industry standard, along with T8x8 lead screws. I also am using an anti-backlash nut to hopefully make the Z axis more exact.
+Side note- why are 3d printers height Z and not Y? it doesnt really make sense...  
+  
 3/27/2025  
 Did more CAD and made a logo. ![image](https://github.com/user-attachments/assets/02262cd7-f29a-4057-8ae8-dca04caa174f)  
-I think this logo looks pretty cool, so another check towards that design goal!  
-
+I think this logo looks pretty cool, so another check towards that design goal! I think I am going to put it on the printhead, and maybe on a front plate.    
+  
 3/30/2025  
 I think this CAD model is done!  
 ![XYZ Axis v23](https://github.com/user-attachments/assets/93d91f62-8c10-4a08-88d1-50bc8e97942e)  
 Going to try to finish the BOM and submit it today!   
 As part of my "looking cool" goal, I added some braces that really tie the design in better.  
-
+  
 4/3/2025  
 I wanted to explain some of the way this printer ended up how it is now. I started by designing a coreXY, and I even finished the CAD, but I realized that there was no chance it would be anywhere near $300, and I didn't really want to spend much of my own money. After a lot of thought, I decided that a way to make it more in-budget would be to redesign it with cheaper parts and as a cartesian, since it would use less parts. The goal for the coreXY was to have a hand-swappable toolhead, but I realized I may not have the budget to even do that on the cartesian. What I am thinking of doing now is designing the swappable toolhead as a "mod" so that I can get the extra $20 to make it (and possibly add a 4th axis?). This whole project is a huge upgrade to what I have now, because I have a printer with 100mm3 of print volume... I do however have access to a bunch of Prusa minis and MK3s at school to print parts on. I wanted to use linear rails because I want this to be as rigid as possible, for if I make a swappable toolhead.    
 Since one of my goals was to make it look cool, I updated the design of the fan shroud. I also made different parts different colors.   
@@ -88,7 +96,10 @@ Another edit I had to make was moving the fan duct around a little bit, since in
 ![XYZ Axis Angle 26](https://github.com/user-attachments/assets/e5e2f7c7-0ffc-49ec-81e5-1e7bb3b8216b)  
 ![XYZ Axis v26](https://github.com/user-attachments/assets/d17e80cd-2671-44b0-8e19-4b328a7e38df)  
 I also want to mention that I decided to use a Sherpa Mini as the extruder. This is because I wanted to have a direct drive extruder for possible TPU/Flexibles use. I chose a V6 hotend because they are cheap and pretty readily avaliable. I am using the BTT SKR mini because Daedelus only needs 4 motors, and it fits pretty well into the budget. I am going to scrounge a PSU, because it costs quite a bit to buy straight out.  
-
+  
+4/5/2025  
+I started today working on a CAD prototype of the Hotswap mechanism. I wanted it to be hand operated, not done by the printer itself, because it allows the mechanism to be much simpler. I think this is what I am going to use the PCB for, since I need a way of transferring power and data to the printer without directly connecting to each hotend, so that I could have multiple hotend/extruder combos without having to unplug/replug wires or get a bigger control board. The design is heavily influenced by the WhamBam Mutant. (check it out, it is pretty cool, here is an article about it: https://toms3d.org/2021/01/21/whambam-mutant-a-quick-change-toolhead-upgrade-for-any-3d-printer-not-on-kickstarter/  
+Using a TFT-35 from BTT because I really have some strange affinity for touchscreen items, so why not include one in my printer! I was considering using a RPi running KlipperScreen, but I think that even just marlin firmware may be enough. I do have a pi at home, so I may add that functionality later, but I have it set aside for another possible project I hope to make soon.  
 
 ## OLD DESIGN INFO (Icharus)  
 
