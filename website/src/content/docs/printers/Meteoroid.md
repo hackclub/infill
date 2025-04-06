@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 45.0 hrs
+Total hours so far: 51.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -40,6 +40,31 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Released first version 0.5 (for Hackclub Infill at least) - April 5th, 2025
+
+I made a lot of small design tweaks to get things to fit on the tool change, or other.
+
+I designed a RPI mount, and endstops and docking places as well.
+
+I also switched to an inset 3010 fan for the hotend to reduce horizontal space taken, which should save 10mm. I really want to fit 4 tools in!
+
+I have exported all the sub-assemblies that I think are important and put them into the same folder structure as found on onshape. I left out some small part assemblies that are found in later big assemblies to save space.
+
+To print actual parts, see the STLs folder, though you could always pick out individual parts from the STEP assemblies.
+
+This is release V0.5, as I have not tuned any of the parts to work with ASA, or revised my design with things that didn't work.
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/822dbc763cf3844d6902b3b4/e/f03e8779d1a8cc2741025c01)
+
+BOM is also finished.
+
+I designed a little adapter board I called Klipper to CACKLE. It basically takes USB-c input and 24v power, and converts this to my CACKLE layout spec and RS485 communication protocal. It uses a CH32 chip to process the commands and output equivalent Luos spec datapackets over the bus to my system.
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2000-21-57.png)
+
+Final picture
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-05%2022-23-54.png)
+
+Time: 6 hrs
 
 ## Finished first toolhead - April 2, 2025
 
@@ -77,7 +102,7 @@ I finished designing all the motion system parts today. Only the toolhead and ex
 
 I realized that my frame was the wrong shape! It was supposed to be 410 by 440, not 410x410 ! I also spent about an hour fixing other random dimension errors or things I missed.
 
-I added my updated logo design to several parts as well. I only put logos on parts that are personalized or designed on my own, several of the motion parts are based on other's works and I can't plaster my logo on it and erase credit.
+I added my updated logo design to several parts as well. I only put logos on parts that are personalized or parts that I can reasonably claim my own. Several of the motion parts are *based* on other's works and I can't plaster my logo on it and erase credit if all I did was change 3 distances.
 
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-28%2021-01-33.png)
 
