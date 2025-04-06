@@ -71,6 +71,86 @@ My computer will crash if I load any more assemblies, so here's the plan:
 - Stick the PSU, RPi, SKR Pico, Buck converter, and whatever else I need on there. (Stick the psu as close to ground as possible)
 - Check BOM for electronics details, but I already have most of what I need other than the PSU and Pico
 
+## Motor improvements
+On further thought, I wanna make sure the Z axis stepper I use is enough to go fast. 
+
+I'm gonna first try to estimate the weight of the bed assembly.
+- 1515 extrusions are approximately 0.503 kg/m
+- 100mm = 0.1m (why am I writing this)
+- 3*(0.503 * 0.1) = 150.9 grams
+- 3D printed parts are approximately 62.931 grams in ABS
+
+![image](https://github.com/user-attachments/assets/9949a95c-9beb-4d12-9dfb-3b7bec61192a)
+
+- Add an extra 25 grams for screws, ball screw nut, springs
+- Approximate weight for bed = **642 grams**
+
+Now, using physics (crazy), we can calculate the minimum amount of torque we need to move the bed in my setup, along with some RPM numbers
+- Let's convert the values to load: F = m⋅g = 0.642kg⋅9.81m/s = 6.296N
+- Using some cool formulas, calculate the idealized torque: T = (6.296⋅0.008)/2pi = 6.283/0.05037 = 0.00802N
+- Convert to g/cm, usually used in torque curves -> 81.74 g/cm
+
+Friction exists. So, we should probably account for 100-120 g/cm of torque. 
+
+I'm going to experiment with a different stepper, this one: https://www.aliexpress.us/item/2251832776347337.html?gatewayAdapt=glo2usa4itemAdapt 
+
+Unfortunately, there is no torque curve, so I need to find the estimated RPM output for 120 g/cm of torque.
+- Max RPM is likely between 250–350 RPM at 0.0196 Nm (200 g·cm)
+- Might reach 400–500 RPM at 0.0098 Nm (100 g·cm)
+- For 200 g·cm → Max RPM ≈ 300 RPM
+- For 100 g·cm → Max RPM ≈ 450–500 RPM
+- Linear speed (mm/s) = RPM × Lead (mm) / 60
+- Estimated linear speed = 10-16.7 mm/s
+
+Alright, so for a Z axis, this is really fast, so I switched the motor out! 
+
+Now, for the gantry, here's the torque curve for the stepper I'm using:
+
+![image](https://github.com/user-attachments/assets/05d45417-a912-4be4-8cea-fc632299be13)
+
+On recommendation, here's some other torque charts I'm considering:
+
+Kraken:
+
+![image](https://github.com/user-attachments/assets/0900c6aa-ffd3-4473-ac68-42436d3f88cc)
+
+Wantai NEMA17:
+
+![image](https://github.com/user-attachments/assets/dfc120f8-e7fd-40c0-afbd-b982f66a00e9)
+
+Based on an estimated 0.8 amp average supply to the stepper motor, and assuming the weight of the toolhead and torque needed, I found that the Wantai NEMA17 had the best max RPM output compared to the others (including another variant)
+
+Model here:
+
+![image](https://github.com/user-attachments/assets/8654e7d8-7829-451d-bf28-87603526c9fc)
+
+The cool thing is that, since it's a NEMA17, it's a drop in replacement! And even cheaper than the StepperOnline one I was using earlier!
+
+## Vibrations
+I got a lot of ideas from here: https://www.youtube.com/watch?v=y08v6PY_7ak&t=789s 
+I still need some way to decrease vibration from the flat extrusions to the ground.
+
+I designed these quick mounts for more surface area to stick on the bottom of the printer:
+
+![image](https://github.com/user-attachments/assets/6f20e79a-5a11-4414-aa68-229c2ecc96d7)
+
+Then, I did some research into different vibration dampening materials:
+- Sorbothane: This seems to be the best solution, a form of rubber that has high vibration absorption
+- Rubber: A little bit too unorthodox for my liking, doesn't work great with concrete
+- TPU: This doesn't really work because I want to maintain the rigidity of the surface mount
+- Concrete Paver: This will happen, but since it's not part of the printer, I don't have to worry about it (yet)
+
+To be really sure, I found some quantitative data. Apparently, there's something called damping coefficients (read an article here: https://www.sciencedirect.com/topics/engineering/damping-coefficient) that can help me find a good material.
+I also read through this paper: https://asmedigitalcollection.asme.org/astm-ebooks/book/1813/chapter-abstract/27849243/The-Relationship-of-Traditional-Damping-Measures?redirectedFrom=PDF (didn't really help, but really interesting)
+- Sorbothane is about 0.5 (absorbs close to 50%)
+- TPU is anywhere from 0.05 to 0.5, but usually around 0.15-0.2 (I need consistency, so this isn't great)
+- Rubber is close to 0.2 (again, a little unorthodox, and not great damping)
+We have a clear winner!
+
+Since Sorbothane seems to work the best, I found some cheap sheets of it here: https://www.isolateit.com/products/sorbothane-strip-36-91-4cm-x-2-5-1cm-1-strip?variant=37396536819873&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorRawhGNcH6DOdEWkVSQgJC5gtM31SIxVORnRBf-TZJYa7PYxjfMyw&gQT=1
+
+Yay! Vibration-free printing!
+
 ## Bom 
 This took the most amount of time, being a brokie. (15 hrs)
 https://docs.google.com/spreadsheets/d/19cffJtxG1fblSYRPSsD5pqwqxI_k1R2xgWYntvwAhY0/edit?usp=sharing 
