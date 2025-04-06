@@ -12,6 +12,23 @@ Total hours so far: 40 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
+## What Makes My Printer Unique?
+### Goals
+- CoreXY Kinematics
+- Under 280mm<sup>3</sup> total size
+- 100mm<sup>3</sup> build volume
+- Runs Klipper
+- Pico MMU Compatible
+- Remote Printing
+
+### Achieved So Far
+- [x] CoreXY Kinematics
+- [x] Under 280mm<sup>3</sup> total size
+- [x] 100mm<sup>3</sup> build volume
+- [ ] Runs Klipper
+- [ ] Pico MMU Compatible
+- [ ] Remote Printing
+
 ## Day 1: March 8th 2025 
 `Reseach` `PCB` `CAD`
 - I reseached materials and what would be compatible with each other while staying in budget and my size constraints. I decided on an Extuder (Obbiter V2.0), and a Motherboard (BigTreeTech SKR Mini E3 V3.0). 
