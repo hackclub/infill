@@ -94,6 +94,10 @@ the printer is starting come togheter and look like a printer!
 
 then i also started working on the z axis aka the moving bed assembly
 
+### sunday april 6th
+7 hours 
+continued designing the printer, did some research on how the corexy system works because at first i was going to have one sationary motor and one that sits on the toolhead gantry but then i saw a short yesterday where both where stationary and i realised that using some sorcery you can have no moving motors exept the extruder one
+
 
 
 
