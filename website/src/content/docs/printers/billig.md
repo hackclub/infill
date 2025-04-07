@@ -4,10 +4,10 @@ description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
 project_name: "Billig"
 repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
 ---
-**Goal:**
-*<300$ (400mm)²x250mm CoreXY enclosed 3D printer*
+**Result:**
+*<300$ 440x230x230mm 3D printer*
 
-**Author:** [@playlogo](https://github.com/playlogo)
+**Author:** [@playlogo](https://github.com/playlogo)  
 **Repository:** [https://github.com/playlogo/billig](https://github.com/playlogo/billig)
 **Total hours so far:** 5.5
 **3D Printer available:** Yes
@@ -18,6 +18,10 @@ repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/J
 **Status Update**: Due to final school exams, hackboard and terminal-craft the timeline has been delayed by one and a half weeks. This means i will be aiming for OpenSauce and not RMRRF.
 
 ---
+
+<br>
+<br>
+<br>
 
 **Journal Overview:**
 
