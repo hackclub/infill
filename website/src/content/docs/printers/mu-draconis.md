@@ -137,3 +137,12 @@ but im hoping maybe if i go all belts then i can reuse the belt tensioners acros
 
 it feels quite voron 0 inspired, but that was what i was inspired by :D 
 
+## 07/04/2024 (arround 25 hours total probably more)
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/6809a37ab901d0c59df1570e0966768f70669afb_image.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd995bc9d460bce7234d485519b325053d14c932_image.png
+realised how much easier it would be if i just went the route of desiging some parts seperately then importing them into the main file
+i can definetly say
+it took me way to long to get that basic belt tensioner working :( 
+but oh well
+

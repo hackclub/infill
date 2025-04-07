@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 27 hours and 30 minutes
+Time spent so far: 32 hours and 30 minutes
 
 ## BOM
 
@@ -224,3 +224,33 @@ To Do:
 9. ~~Avengers~~ Assemble!!
 
 Time spent researching: ~4 hours
+
+## Day 11 (April 7th 2025)
+
+Wow, time has gone real fast and it's H-0 deadline 🤪. Making a plastic recycling is hard atp and people wanted to make Multi Material Upgrade (MMU) on their printer so, why not? It reduces waste for filament spools that are nearly coming to an end.
+
+I'll probably use PETG knowing it's great durability.
+
+Printing services I might use, *as they're insanely cheap and pretty quick*:
+- PLA+ (Tokopedia) https://www.tokopedia.com/kalu-home/jasa-print-3d-pla-printing-3d-cetak-3-dimensi-pla-0-3-fb76b
+- PLA+, PETG (Tokopedia) https://www.tokopedia.com/kalu-home/jasa-print-3d-pla-printing-3d-cetak-3-dimensi-pla-0-3-fb76b
+- PLA+, PETG (Tokopedia) https://www.tokopedia.com/beauxbutton/jasa-cetak-3d-print-dengan-prusa-i3-mk3s-mini-paket-petg
+- PETG (Shopee) https://shopee.co.id/Jasa-Cetak-3D-Print-PETG-Max-180x180x180mm-i.1107284332.27470045329
+
+Useful Resources:
+- [Try these filament combinations for Multi-Material and Supports!](https://www.youtube.com/watch?v=5VV2fbJ0apg)
+- [ERCF v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2), an open source AMS/MMU
+- [Klicky Probe], a cheaper yet quite accurate bed leveller
+
+To do:
+1. Figure out ERCF and Klicky Probe
+2. Figure out how to turn plastic bottles into either filament or directly use them (or don't)
+3. Figure out the target build volume (*sizing*)
+4. Get some railing for Z-axis (*left & right*) along with XY on top
+5. Get either a proper hotend (*for high-speed*) or a budget hotend (*again, need money for the plastic bottle chewing functionality* 😏)
+6. Build the CAD
+7. Complete the Bill of Material :)
+8. Order everything *and being the cheapskate I am, differenciate between providers and shops*—the $300 budget is hard yk😜
+9. ~~Avengers~~ Assemble!!
+
+Time spent: 5 hours
