@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 45h
+Evan: 46h
 
 # Feb 12 2025
 
@@ -411,10 +411,10 @@ This HAT would break out and expose LED pins/controllers. It will also act as a 
 [1:26 AM - Apr 5] - The USB hub schematic is completed. It uses an SL2.1A USB hub controller, which is a pretty standard USB hub controller. It has 4 downstream ports (2x A, 2x C), and 1 upstream port (USB A).
 
 # April 5
-Evan: 6.5h
+Evan: 7.5h
 
 ## Evan
-I spent most of the day (1pm-7pm) updating the HAT schematic, placing the parts, routing the pcb, and sourcing the parts.
+I spent most of the day (1pm-9pm) updating the HAT schematic, placing the parts, routing the pcb, and sourcing the parts.
 
 3D View
 ![kicad_AbbpzV4n1V](https://github.com/user-attachments/assets/afa78fae-80f9-46f9-b699-28dc94037a77)
