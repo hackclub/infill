@@ -8,6 +8,8 @@ erLay is a ultra-portable CoreXY 3D printer made by [Evan Yu](https://evanyu.dev
 
 This printer is built to print small parts needed fast at robotics competitions where our main limitations are space and time. This printer will mainly print spacers, shaft collars, pullies, etc.
 
+## [BOM](https://docs.google.com/spreadsheets/d/1s7m9KlAu-EawWQ5k7trbtZSsV5alHb0_lQaYVRcTUCk/view) | [CAD](https://cad.onshape.com/documents/c8077fee67b983eb99774ac1/w/a53d436f84abc79ea5797123/e/d46022eb7d51b7e61800c962?renderMode=0&uiState=67f3385f421ce1387ca2ed81)
+
 # Goals
 - Ultra-portable (for robotics competitions!!)
 - CoreXY
@@ -19,7 +21,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 46h
+Evan: 49h
 
 # Feb 12 2025
 
@@ -424,3 +426,8 @@ PCB
 
 
 Also my hackpad stuff arrived! (check my personal channel on slack, #evans-basement)
+
+# Aprl 6
+Evan: 3h
+
+Sourced parts and made the [BOM](https://docs.google.com/spreadsheets/d/1s7m9KlAu-EawWQ5k7trbtZSsV5alHb0_lQaYVRcTUCk/view) - Our total comes out to $300.83 USD, 83 cents over budget!!!

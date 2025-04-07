@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 51.0 hrs
+Total hours so far: 55.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -40,6 +40,30 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## April 6th, 2025
+
+After some conversations with other members of the 3D printer community, some felt that the XY motion system design is too close to the original ZeroG mercury printer design. I have decided to make some modifications to the look without impacting functionality.
+
+New XY gantry pictures:
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2015-35-26.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-22.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-54.png)
+
+I also want to show some clarity on how my toolchanger design is different and improves on Daksh V2
+
+Pictures to start:
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-30-55.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-31-29.png)
+
+My design is a single lock system that is *centralized,* all the force applied by  thelock is put in the direct center of the kinematic mount, distributing the force evenly. Daksh V2 has two separate locks, one on the top and one on the bottom, applying an equal amount of spring force on unequal mounting.
+
+I also noticed in the Daksh v2 toolhead that two of the three mounting points have the rods facing vertically, and the 3rd horizontally. I am concerned that this adds a small amount of uneven rotation to the system. If you look up normal kinematic mounts, the V-grooves are pointed in towards the center, and restrict all degress of freedom. Having each mount point facing a different direction likely applies uneven force. I wanted to fix that.
+
+Time: 4 hrs
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/472a7a2f31d89b23ef308c6a/e/f03e8779d1a8cc2741025c01)
 
 ## Released first version 0.5 (for Hackclub Infill at least) - April 5th, 2025
 
