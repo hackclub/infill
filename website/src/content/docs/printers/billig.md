@@ -4,24 +4,57 @@ description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
 project_name: "Billig"
 repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
 ---
-**Result:**
-*<300$ 440x230x230mm 3D printer*
+**Done:** **Yes**  
+**Result:** *<300$ 440x230x230mm 3D printer*
 
 **Author:** [@playlogo](https://github.com/playlogo)  
-**Repository:** [https://github.com/playlogo/billig](https://github.com/playlogo/billig)
-**Total hours so far:** 5.5
-**3D Printer available:** Yes
+**Repository:** [https://github.com/playlogo/billig](https://github.com/playlogo/billig)  
+**Total hours so far:** - *lost count*
+**3D Printer available:** Yes  
 
-**Bom**: [Google sheets](https://docs.google.com/spreadsheets/d/1451xPwitG2cd0BywjLuyT1Flae_F1tCVU7JKSqZtRoc/edit?usp=sharing)
+**Bom**: [Google sheets](https://docs.google.com/spreadsheets/d/1451xPwitG2cd0BywjLuyT1Flae_F1tCVU7JKSqZtRoc/edit?usp=sharing)  
 **CAD**: [Onshape](https://cad.onshape.com/documents/d0a1f0aa5ccbfda89a60ed00/w/724bd13dc87be16ac72aafeb/e/ab5d18244eafa3c49944618e?renderMode=0&uiState=67cdf3b468bb893dcada95f7)
 
-**Status Update**: Due to final school exams, hackboard and terminal-craft the timeline has been delayed by one and a half weeks. This means i will be aiming for OpenSauce and not RMRRF.
+[Text written on April 7] About the journal: So this journal didn't really work out that well. I started planning the printer and a timeline ~4 weeks ago on March 9., but then got sidetracked by other things (hackboard, pre-final school exams, irl stuff). During this time I constantly though about it though and decided to try to convert 2 broken [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo) into *this* one big printer.
+
+### April 4th - Friday
+
+4 Days ago I finally started to speed-run the entire CAD design starting with the frame (which I then redid one day later...). I started by converted these drawing I made the past days during school into this frame:
+
+![Intial sketches](images/sketch_initial.PNG)
+![Initial frame](images/friday.png)
+
+As you can see in the sketches, I was initially targeting a CoreXY build with linear rails, but this idea later got ditched in favor of a simple V-Wheel based Belted XY-Gantry.
+
+I also started dissembling one of the broken printers to take measurements of the heatbed, etc.
+
+Time spend in CAD: 2h during the morning (since I'm almost done with schools, I don't have to go to every lesson anymore), 6h in the afternoon, evening and early night.
+
+### April 5th - Saturday
+
+*A caddy day*
+
+On saturday i basically redid everything I did the day before. Instead of bolting the profiles strait to each other using blind joints, I took some inspiration of the Ender3NG, and created these "in-between structures" (see picture). I also converted this sketch (which i created the night before) into CAD (once again, inspired from the Ender3NG, but created from scratch and the final part also ended up complexly different)!
+
+![Sketch of Z-Axis bottom mount](images/sketch_z.PNG)
+
+Time spend in CAD: ~60% of my awake time (pain) -> 9-10h
 
 ---
 
 <br>
 <br>
 <br>
+
+> Below is the unused initial version of the journal (from 4 weeks ago) for conservation
+
+<br>
+<br>
+<br>
+
+---
+
+**Status Update**: Due to final school exams, hackboard and terminal-craft the timeline has been delayed by one and a half weeks. This means i will be aiming for OpenSauce and not RMRRF.
 
 **Journal Overview:**
 
