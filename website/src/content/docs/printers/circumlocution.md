@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/headblockhead/circumlocution/refs
 ---
 Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 20
+Total hours so far: 50
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -152,3 +152,25 @@ I re-built the entire Z-following carriage into two 3D-printable parts, held tog
 I moddled a holder to keep the X motor in place, added a belt and coupler, and connected the end of the extrusion to the X motor holder with an M6 screw to prevent the X rail from sliding through the Z follower.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e4114abc02d86b2a032e08489dd0641c4f12cb8_screenshot_from_2025-03-17_22-56-54.png)
+
+## Hours 21-50
+
+<sup>took place across the months of March and April 2025, hour count estimated - unknown</sup>
+
+I accidently finished most of the printer without writing a single journal entry. (oops!)
+
+I also just came up with the tagline to sum up this whole experience so far:
+
+> Welcome to maker hell, where we have all the parts of a broken Ender 3 clone, none of the time, a copy of FreeCAD, and an unhinged desire to watch a 3D printer spin.
+
+I think it really captures the feeling of 'what do I do now?' after just disassembling a printer into parts, and realising you have to CAD it all back together into a functional design.
+
+Most choices made during the design process were based on what I had lying around from my old printer (the Sovol SV01), what was availiable on AliExpress, and what was easiest to 3D model.
+
+Considering this is my first 'real' CAD project, I'd say I did an OK job. Perhaps if I was to redesign it, I'd use linear rails, or various better options than the old parts of a broken printer. It would've opened me up to making a better, more unique, and more functional design, but would've cost significantly more. Maybe once I've finished building it I'll re-assemble the parts back into the Ender 3 clone it used to be. We'll see.
+
+The due date of the design was March 31st, but I overran into April 7th, finishing a few hours before last call.
+
+I don't have high hopes for this project.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fa42eb9ec229567686f8d5f81ad19d0b2a4b9ff_screenshot_from_2025-04-07_00-14-54.png)
