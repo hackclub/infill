@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 65
+Total hours so far: 78
 
 ### Sunday, march 2nd
 7 hours
