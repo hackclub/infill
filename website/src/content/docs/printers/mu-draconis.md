@@ -137,12 +137,34 @@ but im hoping maybe if i go all belts then i can reuse the belt tensioners acros
 
 it feels quite voron 0 inspired, but that was what i was inspired by :D 
 
-## 07/04/2024 (arround 25 hours total probably more)
+## im honestly not sure what the time frame was,  probably arround 23 hours total time
+anytime i was at my computer doing nothing i would try and get a lil bit done
+so i didnt really get much big stuff done
+but still
+stuff changed
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/6809a37ab901d0c59df1570e0966768f70669afb_image.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd995bc9d460bce7234d485519b325053d14c932_image.png
+## 07/04/2024 (arround 26 hours total probably more)
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6809a37ab901d0c59df1570e0966768f70669afb_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd995bc9d460bce7234d485519b325053d14c932_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
 realised how much easier it would be if i just went the route of desiging some parts seperately then importing them into the main file
 i can definetly say
 it took me way to long to get that basic belt tensioner working :( 
 but oh well
+
+## 07/04/2024 arround 31 hours in
+some more jumps got stuck as one of my parts was 0.2 degrees misaligned and that really threw me off
+BUT I FOUND THE ALIGN TOOL
+
+i had been using components to make everything work
+but i realised how much it helps me to focus when i make things in smaller files where i can and combine them into a bigger file later :D
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e27147d0ae0ed23eb96c917d1e0006914f1f460e_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
 
