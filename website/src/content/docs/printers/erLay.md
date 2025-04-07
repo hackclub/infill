@@ -12,16 +12,20 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Goals (we didn't manage to hit all of these within budget)
 - Ultra-portable (for robotics competitions!!)
-- Pico MMU (Optional)
+- Pico MMU (Optional) (Not in budget 😭)
 - Zero Click ABL (Optional)
-- Built-in carrying case (The printer will collapse into something like a pelican case)
-- Can be powered by a (multiple) power banks
+- Built-in carrying case (The printer will collapse into something like a pelican case) (Gave up on this one. see journal)
+- Can be powered by a (multiple) power banks (Gave up on this one)
 - NO STANDARD EXTRUSION (I think they look ewww and too normal)
 
-# Features
-- Locally sourced frame
-- Easy to disassemble
+# Features (Items in the final build)
+- Locally sourced frame (Proudly Canadian)
+- Easy to disassemble (8 Bolts)
 - Core XY
 - Klipper
+- NeoPixel LEDs
 
 ![3D Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16efcb9feeaca2e74ab6ede601ba3591cf0d09b0_image.png)
+
+# Interesting note on design!
+As you will notice, most of the frame is built out of linear rods. I was inspired by hex shafts in FRC and how we tap them and use a bolt to clamp both sides. I decided to do this for infill to maximize rigidity and minimize construction/deconstruction time.
