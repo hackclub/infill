@@ -12,10 +12,16 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Goals
 - Ultra-portable (for robotics competitions!!)
-- CoreXY
 - Pico MMU (Optional)
-- Zero Click ABL
+- Zero Click ABL (Optional)
 - Built-in carrying case (The printer will collapse into something like a pelican case)
 - Can be powered by a (multiple) power banks
+- NO STANDARD EXTRUSION (I think they look ewww and too normal)
+
+# Features
+- Locally sourced frame
+- Easy to disassemble
+- Core XY
+- Klipper
 
 ![3D Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16efcb9feeaca2e74ab6ede601ba3591cf0d09b0_image.png)
