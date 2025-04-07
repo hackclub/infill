@@ -27,3 +27,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |5/4|2hr|drawing in paper the x axis(Why is soooo hard to make a desiggnnnnn|
 |7/4|1hr| made the x axs rail holder|
 |7/4 |``1hr|worked with the x axis but this shi is hard and i am crashing out becoz i did hackducky ysws pcb (pcb team) then infill its ig 15hr me being near the screen i am feeling so sleeply fk|
+|7/4|2hr |design the tool changer like how the hell it will work and reseach |
