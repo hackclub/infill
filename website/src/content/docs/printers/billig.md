@@ -5,21 +5,35 @@ project_name: "Billig"
 repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
 ---
 **Done:** **Yes**  
-**Result:** *<300$ 440x230x230mm 3D printer*
+**Result:** *~300$ 440x230x260mm 3D printer*
 
 **Author:** [@playlogo](https://github.com/playlogo)  
 **Repository:** [https://github.com/playlogo/billig](https://github.com/playlogo/billig)  
-**Total hours so far:** - *lost count*
+**Total hours so far:** - *lost count*  
 **3D Printer available:** Yes  
 
 **Bom**: [Google sheets](https://docs.google.com/spreadsheets/d/1451xPwitG2cd0BywjLuyT1Flae_F1tCVU7JKSqZtRoc/edit?usp=sharing)  
-**CAD**: [Onshape](https://cad.onshape.com/documents/d0a1f0aa5ccbfda89a60ed00/w/724bd13dc87be16ac72aafeb/e/ab5d18244eafa3c49944618e?renderMode=0&uiState=67cdf3b468bb893dcada95f7)
+**CAD**: [Onshape](https://cad.onshape.com/documents/d0a1f0aa5ccbfda89a60ed00/w/724bd13dc87be16ac72aafeb/e/c63896b50a2324a549602fe6?renderMode=0&uiState=67f44fca4d37325097df6c3a)
 
-[Text written on April 7] About the journal: So this journal didn't really work out that well. I started planning the printer and a timeline ~4 weeks ago on March 9., but then got sidetracked by other things (hackboard, pre-final school exams, irl stuff). During this time I constantly though about it though and decided to try to convert 2 broken [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo) into *this* one big printer.
+About the printer:
+
+- 440x230x260mm printing volume
+- 940x410x465mm outside
+- Reuses a lot of parts from two "broken" [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo)
+- Direct drive extruder & dual 5020 part cooling
+- Completely enclosed electronics
+- Build-in ABL and Nozzle offset sensor
+- ~$330 (including the two broken printers)
+  
+> Take a look at the [Design-Notes](notes.md) to better understand some *hidden* design decisions.
+
+About the journal [Written on April 7]: So this journal didn't really work out that well. I started planning the printer and a timeline ~4 weeks ago on March 9., but then got sidetracked by other things (hackboard, pre-final school exams, irl stuff). During this time I constantly thought about it though, and decided to try to convert 2 broken [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo) into *this* one big printer.
+
+After all, this project was a lot of fun and very interesting. Once I got into the "CAD design mood" I really enjoyed doing it, and I've also learned **a lot** about Onshape and how to approach big projects and design parts that are internally dependant on each other. I'm proud of the final printer :)
 
 ### April 4th - Friday
 
-4 Days ago I finally started to speed-run the entire CAD design starting with the frame (which I then redid one day later...). I started by converted these drawing I made the past days during school into this frame:
+4 Days ago I finally started to speed-run the entire CAD design starting with the frame (which I then redid one day later...). I started by converted these drawing I made about two weeks earlier during school into this frame:
 
 ![Intial sketches](images/sketch_initial.PNG)
 ![Initial frame](images/friday.png)
@@ -34,11 +48,45 @@ Time spend in CAD: 2h during the morning (since I'm almost done with schools, I 
 
 *A caddy day*
 
-On saturday i basically redid everything I did the day before. Instead of bolting the profiles strait to each other using blind joints, I took some inspiration of the Ender3NG, and created these "in-between structures" (see picture). I also converted this sketch (which i created the night before) into CAD (once again, inspired from the Ender3NG, but created from scratch and the final part also ended up complexly different)!
+On saturday I basically redid everything I did the day before. Instead of bolting the profiles strait to each other using blind joints, I took some inspiration of the Ender3NG, and created these "in-between structures" (see picture). I also converted this sketch (which i created the night before) into CAD (once again, inspired by the Ender3NG, but created from scratch and the final part also ended up complexly different)!
 
 ![Sketch of Z-Axis bottom mount](images/sketch_z.PNG)
+![Improved frame](images/first_version.png)
 
-Time spend in CAD: ~60% of my awake time (pain) -> 9-10h
+I'm very happy with the progress one that day, cause the frame and gantry has been one of these low motivation, hard to imagine progress blockers. Also, the top "extrusion structure mounts" worked first time, and i never had to rework them later
+
+Time spend in CAD: ~60% of my time awake (pain, at least I managed to sit outside and enjoy the warm weather for 30h) -> 9-10h
+
+### April 6th - Sunday
+
+*Another caddy day (ahhhh)*
+
+This day was super productive. I've designed the entire toolhead, reworked the entire gantry, and finally managed to create a **draggable 3 dimensional toolhead** in onshape, that allows me to test the reachable positions of the nozzle.
+
+![V1.9](images/v1_9.png)
+
+Reworking the gantry was *a lot* of pain. This is my first time seriously using assemblies in onshape, and I based the original gantry part assembly in a assembly context based on a feature that I deleted (ahhh). This broke my entire gantry when i finally updated it's context, which i need to do, because i extended it by ~8cm for the nozzle to reach all positions. This is a example of the pain i had to endure:
+
+![Pain](images/refactoring_pain.png)
+
+Time spend in CAD: ~75% of my time awake (didn't even go outside) -> 10h
+
+### April 7th - Monday (today)
+
+*I really want a break from cad plsss!*
+
+Today I fixed a lot of small stuff in the CAD model: I added endstops for X&Y, X-Motor mount, X-Belt tensioner, changed X-Motor position from *fixed at one end of the extrusion* to *on the X-Plate*, improved dummy models of steppers/lead screws/etc, fixed a lot of small bugs in the CAD model, created the PTFE tube holder and created the electronic housing.
+
+The electronics housing safely mounts both PSU, control boards, rpi zero and power plug. It's surrounded by acrylic panels, and has two fans at the top to suck in air from the open bottom though the entire assembly
+
+![Electronics](images/electronics.png)
+
+I also updated the BOM and created this document (and it's now past midnight).
+
+Final version (V2.1 in CAD document history):
+![V2.1](images/v2_1.png)
+
+Time spend in CAD: Last 7h (had to go to school until 13:10 to get grades of last 2 years and the admission notice for my final 5 tests)
 
 ---
 
@@ -46,7 +94,7 @@ Time spend in CAD: ~60% of my awake time (pain) -> 9-10h
 <br>
 <br>
 
-> Below is the unused initial version of the journal (from 4 weeks ago) for conservation
+> Below is the unused initial version of the journal (from 4 weeks ago)
 
 <br>
 <br>
