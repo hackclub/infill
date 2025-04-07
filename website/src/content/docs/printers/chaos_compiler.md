@@ -25,6 +25,7 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 |2/4|.5hr = 30min|i had to change some setting in the Z axis holder that i prev made as the one i made earlier was perfectly fitting in left side but for right i need to make a seperate one .this means z axix is compelete|
 |2/4|1hr|trying to cut costs (20$ less from previos)| 
 |5/4|2hr|drawing in paper the x axis(Why is soooo hard to make a desiggnnnnn|
+|7/4?|2hr to 3Hr | learned what the hell is core xy..as i am fked ..i am going to core xy nnow as i cant do tool heads with cartesian why am i so dumbm Nooooo|
 |7/4|1hr| made the x axs rail holder|
 |7/4 |``1hr|worked with the x axis but this shi is hard and i am crashing out becoz i did hackducky ysws pcb (pcb team) then infill its ig 15hr me being near the screen i am feeling so sleeply fk|
 |7/4|2hr |design the tool changer like how the hell it will work and reseach |
