@@ -168,3 +168,30 @@ but i realised how much it helps me to focus when i make things in smaller files
      style="float: left; margin-right: 10px;" />
 
 
+## im doing this while sleep deprived
+
+so im still working on the printer
+
+
+made some overall progress on tidying up the hierarchy of mess in the component tree
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2fc1a9c94b623b9eac78f002a31bd8c028b12ec3_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/372e3ef31efd20ed396d5c5ea15405b7422d3038_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+made alot of work on getting the motor for the x axis actually mounted
+i think it maybe gets easier and harder from here
+from hearing from other people the tool head might be hard
+but i also dread the weird bearing thing i made for the rotation axis
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7314904a7d169b0a2d5c07f96fdbfca2011fbb9c_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     
+
+realised that i needed more material there to propperly support everything
+2.5mm of  pla didnt really feel enough
+also wanted extra thickness there so that i can use heat sets to mount my hot end stuff :D 
