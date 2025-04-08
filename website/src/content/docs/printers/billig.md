@@ -30,7 +30,7 @@ TODO:
 
 - Design: PSU DIN rail mount, MB DIN rail mount (both aren't that important)
 
-> Take a look at the [Design-Notes](notes.md) to better understand the design decisions
+> Take a look at the [Design-Notes](notes.md) to better understand my design decisions!
 
 [Written on April 7]  
 About the journal: So this journal didn't really work out that well. I started planning the printer and a timeline ~4 weeks ago on March 9., but then got sidetracked by other things (hackboard, pre-final school exams, irl stuff). During this time I constantly thought about it though, and decided to try to convert 2 broken [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo) into *this* one big printer, instead of buying all parts brand new.
