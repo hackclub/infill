@@ -23,7 +23,7 @@ About the printer:
 - Direct drive extruder & dual 5020 part cooling
 - Completely enclosed electronics
 - Build-in ABL & Nozzle offset sensor
-- Klipper-Ready
+- With a rpi zero & Klipper-Ready
 - ~$330 (including the two broken printers)
   
 TODO:
