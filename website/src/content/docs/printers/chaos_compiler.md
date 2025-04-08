@@ -4,8 +4,8 @@ description: "A 3d printer"
 project_name: "ChaosCompiler"
 repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/refs/heads/main/notes.md"
 ---
-
-
+### ✅ Total Time Spent: 63h 13min
+---
 | **Date** | **Time** | **Notes** | **Pics / Links** |
 |----------|----------|-----------|------------------|
 | 26/3 | 5h | Designing and made a est. bill of mat. on paper |  |
@@ -34,4 +34,5 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 | 8/4 | 10min | Added support | *(will add img later as it's making probs)* |
 | 8/4 | 33min | Watched this so I understand this more as I am unable to think how is the pulley connected to 2020 | [YouTube](https://www.youtube.com/watch?v=yuAN5AzEWCg) |
 | 8/4 | 2h | Making the Z mechanism so my Z works with only one motor (but I think 2 is better), I will do 2 later… Also I will be making the bed holder myself (to cut costs ofc) so making the Z axis mech — it was rods with lead screw earlier but now it’s same but improved lol | ispiration https://www.youtube.com/watch?v=yuAN5AzEWCg&t=919s T = 10:40 |
-
+|8/4|1.3hr|Z X Y all placeing dome now need to add the pulley system .. the pullys and belts that wont be much of a issue.. now left is tool changer.. I started with cartesian for cost now i am at corexy Learing 2 printers is crazy and also who tf uses both solidworks and fusion (its me 💀)|
+---
