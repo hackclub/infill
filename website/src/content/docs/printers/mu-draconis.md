@@ -48,7 +48,9 @@ im still deciding if the z should be belted or use a lead screw
 i also started to model out some of the components i plan to use in fusion 360, such as the bed as a starting point
 however it appears the technical drawing from the manufacturer REALLY isnt accurate
 
-current rough BOM
+
+
+current rough BOM as of starting
 
 | Part name                      | price         | notes                                                                                            |
 |--------------------------------|---------------|--------------------------------------------------------------------------------------------------|
@@ -221,5 +223,6 @@ you can also see the fan ducts are aligned with the centre of the nozzle, also n
 sorry
 
 this ended up being really spaghettic like, im not sure how to use mark down files properly, you can probably tell
-
+updated BOM is here
+https://docs.google.com/spreadsheets/d/1IZOwHB4fpJywedBBVYQKaOOAUHnNrE4fSURzN-7t6E4/edit?gid=0#gid=0
 

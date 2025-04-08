@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 40 hours
+Total hours so far: 51 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -282,3 +282,93 @@ Total hours so far: 40 hours
 `Research: 1 hour` `CAD: 2 hours`
 
 <br><br>
+## Day 11: April 1st 2025
+
+`CAD` `BOM`
+
+- I worked on making the end pulley holders for the XY-Belt system. The reason they stick out on the side is because I have to leave enough inside space for the toolhead to reach every corner of 100mm<sup>2</sup>.
+
+- I am going to secure the pulleys with a long screw going from the top into a heatset insert at the bottom. They are going to be separated by a platform.
+
+- `CAD: +1 hour`
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5baa229967453bc9b9e92cd56d54e11dc3fdcb9d_screenshot_2025-04-01_at_6.26.11___pm.png" height="350" title="End Pulley Holder"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2edc913b0abc4d11492deb19ddb2260cfe739d12_cad-01_04_2025-3.png" height="350" title="CAD Full Assembly"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/473925c67f323667025212a74965f491cd430e12_cad-01_04_2025-2.png" height="350" title="CAD Full Assembly">
+
+- Here is what they look like by themselves and in the full assembly.
+
+- I then worked on adding all the parts I have so far into my Bill Of Materials with links to where I will source them from and prices.
+
+`BOM: +1 hours`
+
+***+2 hours***
+
+### Time Spent on This Day: 2 hours
+
+`CAD: 1 hour` `BOM: 1 hours`
+
+<br><br>
+## Day 12: April 2nd 2025
+
+`CAD`
+
+- I created a holder/mount for the motor that sits on the right side of the frame (when looking from the front).
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8a750ade6932838f70ef685e348f82cb86faf41b_cad-02_04_2025-1.png" height="350" title="Motor Holder"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" height="350" title="CAD Full Assembly">
+
+- I tried to add support to it from the diagonal to make sure that it would be strong enough to hold the weight of the motor. Here is what it looks like by itself and in the full assembly.
+
+`CAD: +2 hours`
+
+***+2 hours***
+
+### Time Spent on This Day: 2 hours
+
+`CAD: 2 hours`
+
+<br><br>
+## Day 13: April 5th 2025
+
+`CAD`
+
+- I first modelled the mount for the screen that I am using, the _BIGTREETECH MINI 12864 V2.0 LCD Display Screen_. This was difficult, as I had to figure out what to do to secure it.
+
+- I also modelled corner brackets to connect the Aluminium Extrusions together.
+
+- I changed the height of the of the pulleys so that they are both at the lowest possible height. This does a few things:
+  1. Cuts down on filament used
+  2. Puts less stress on the motor holder as it will have a centre of gravity closer to the bracket
+  3. Makes the overall design smaller to fit into the size constraints that I have (250mm<sup>3</sup>)
+
+- My Fusion finally decides to allow me to change the appearances of objects and components so I changed the colours of everything to what they will finally be.
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/de24ff038b22397b964784ae79b422638eb46f35_cad-05_04_2025.png" width="350" title="First Render">
+
+- Here is what my first render looks like... I'm so excited it looks so cool and it's all coming together :grin:
+
+`CAD: +4 hours`
+
+***+4 hours***
+
+### Time Spent on This Day: 4 hours
+
+`CAD: 4 hours`
+
+<br><br>
+## Day 13: April 6th 2025
+
+`CAD`
+
+- I remodelled the motor mount and the end pulley holders so that they will fit into the the design for the corner mounts. They now correspond to the corner mounts to make it easier and more consistent.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/eb85c0aef3dd37b10796e62f28ee6dbfe0ff4f2a_cad-06_04_2025-1.png" width="350" title="Second Render">
+
+- Here is another render (yay!)
+
+`CAD: +3 hours`
+
+***+3 hours***
+
+### Time Spent on This Day: 3 hours
+
+`CAD: 3 hours`
