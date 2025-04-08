@@ -195,3 +195,31 @@ but i also dread the weird bearing thing i made for the rotation axis
 realised that i needed more material there to propperly support everything
 2.5mm of  pla didnt really feel enough
 also wanted extra thickness there so that i can use heat sets to mount my hot end stuff :D 
+
+
+
+## another update
+started and "finished" on the hotend
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37b29bc5192f4756bbafea258dcb289f7c5ff2e3_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a495a2c704a08c9458223e8a892c03d2bdce808b_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7ba5e60490d17250a35571ab1bb2649b27e8abe_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/31273505aa11195a763bba6274ca1df6d5acd30e_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+i was anticipating alot more difficulty designing the ducts for the hot end fans than i actually encounter
+
+however i did encounter some difficulty
+since my hot end is going on the same side of my carridge as my belts, im encountering issue of how to mount the hot end without sacrificing rigidity, i believe it shouldnt be too hard to just have the hot end on the other side, and then just flip the bed onto the other side of the bottom 2020 extrusion, and that should then fix the issue without needing any extra hardware, right now im trying to get the printer functional so i can refine the cad more and fix some the issues that can be fixed without needing more hardware.
+
+you can also see the fan ducts are aligned with the centre of the nozzle, also not intentional :(
+sorry
+
+this ended up being really spaghettic like, im not sure how to use mark down files properly, you can probably tell
+
+
