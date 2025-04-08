@@ -32,7 +32,7 @@ MUST be enclosed. I'll print the parts out of ABS cause I have an X1C? Thinking 
 **Time elapsed: 1h**
 
 ## February 4th, 2025
-Didn't get too much time to work on stuff today - recovering from a concussion + got caugh up in other stuff
+Didn't get too much time to work on stuff today - recovering from a concussion + got caught up in other stuff
 
 I did move my planning and stuff from bare sublime text to an actual obsidian thing though!! So there's that
 
