@@ -24,7 +24,7 @@ About the printer:
 - Completely enclosed electronics
 - Build-in ABL & Nozzle offset sensor
 - With a rpi zero & Klipper-Ready
-- ~$330 (including the two broken printers)
+- ~$340 (including the two broken printers)
   
 TODO:
 
@@ -93,6 +93,10 @@ Final version (V2.1 in CAD document history):
 ![V2.1](images/v2_1.png)
 
 **Time spend in CAD:** Last 7h (had to go to school until 13:10 to get grades of last 2 years and the admission notice for my final 5 tests)
+
+### April 7th - Tuesday (1 day after deadline)
+
+Small improvements & fixes: Improved 'Design notes', fixed spelling mistakes, added JST cables to BOM, added PCB mount to CAD model
 
 *This was a triumph, Huge success*
 
