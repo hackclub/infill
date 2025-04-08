@@ -32,4 +32,5 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 ![image](https://github.com/user-attachments/assets/85882514-f40b-4f2b-add5-1584e5d33c29)|
 
 |8/4|10mins|added suport|![image](https://github.com/user-attachments/assets/c462d8c9-b986-4849-9c02-72d4511a749b)|
+|8/4|33mins|watched this so i understand this more as i am unable to think how is the pully connected to 2020 |https://www.youtube.com/watch?v=yuAN5AzEWCg|
 
