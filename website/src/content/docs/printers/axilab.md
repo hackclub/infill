@@ -44,3 +44,7 @@ Started designing the printhead and researching the best component for it, so fa
 I still have to import all the parts in the 3d model, but as soon as I end with the printhead I'll start working on the printbed, and then I'll just have to check everything and the printer should be ready
 
 2h of researching
+
+
+April 08
+2h of cadding to make it ready to ship
