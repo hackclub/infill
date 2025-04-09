@@ -36,5 +36,6 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 | 8/4 | 2h | Making the Z mechanism so my Z works with only one motor (but I think 2 is better), I will do 2 later… Also I will be making the bed holder myself (to cut costs ofc) so making the Z axis mech — it was rods with lead screw earlier but now it’s same but improved lol | ispiration https://www.youtube.com/watch?v=yuAN5AzEWCg&t=919s T = 10:40 |
 |8/4|1.3hr|Z X Y all placeing dome now need to add the pulley system .. the pullys and belts that wont be much of a issue.. now left is tool changer.. I started with cartesian for cost now i am at corexy Learing 2 printers is crazy and also who tf uses both solidworks and fusion (its me 💀)|
 |9/4|1.6hr|most time in research and math lol ... made the pully holfer for corexy belts |![image](https://github.com/user-attachments/assets/f624f20e-6214-4be7-924a-af84bd361eaf)|
+|9/4|1.4hr|aggandeg the pullys like made the correct placemetnts and added the pully of the moving rod like this|![image](https://github.com/user-attachments/assets/b50470ce-ffcc-4d53-961b-4ba87f0cf53e)|
 
 ---
