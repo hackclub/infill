@@ -14,21 +14,29 @@ Note: I couldn't find a CAD for 150mm stepper, so 200mm is in the CAD. Yes, I kn
 Desired specifications:
 - 150x150x150 build volume
 - Core-xy design, with linear rails for all axes and lead screws for z-axis screws
-- Custom (not just configured) DragonBurner toolhead (Orbiter v2, Phaetus Dragonfly BMS, CRTouch)
 - Klipper run on a Raspberry Pi 4B
 - Enclosed in a polycarb shell (1/8 inch thick?)
 - FAST!!! Possibly a sub 7 or sub 6 benchy!
+- Phaetus Rapido Hotend
+- Sherpa Mini extruder
 
 ## Toolhead
-The Dragon Burner is a really popular toolhead, so a great start, but it doesn't support BLTouch or CRTouch and has some issues in supporting the Orbit v2.0 and Phaetus Dragonfly BMS. So, I completely redesigned it. Also, the original STL files provided open-source were cursed, so I had to do some more redesigns. 
-Final toolhead:
-![image](https://github.com/user-attachments/assets/4a7f108b-63d5-4f36-8368-5d615c173ced)
+For the toolhead, I started off with the aesthetic of the Apogee toolhead for the Ender 3 (https://www.orbiterprojects.com/apogee-ender-3-v2/), but since it doesn't support linear rails (Ender 3 uses v-wheels) or the Sherpa Mini, that was really all I could use.
+- Fan shroud to house all three fans (CFD optimized) and built from scratch to fit the Sherpa mini (3 hrs)
+![image](https://github.com/user-attachments/assets/7493b16f-a735-429f-90a0-f32249da1e3c)
 
-- Added BLTouch support + CRTouch (whatever turns out to be cheaper) (6 hrs)
-![image](https://github.com/user-attachments/assets/b808a4fd-db37-428a-b518-96da17380741)
+- Rapido hotend mount + linear block mount + BLTouch holder mount (6 hrs)
+  I integrated all the mounts into one to save weight -> print faster!
+![image](https://github.com/user-attachments/assets/7b46b22d-0484-464a-bb28-7a0598df8fba)
 
-- Added Phaetus Dragonfly BMS support (the configuration from Dragon Burner was a little scuffed, had to redesign) + Orbiter v2.0 support (the original burner had some cursed intersected parts) (6 hrs)
-![image](https://github.com/user-attachments/assets/0678162d-62e9-488a-9fc6-9f06567c1b44)
+![image](https://github.com/user-attachments/assets/4fce721d-af8b-4e2e-aee1-25a7bd769c94)
+
+- BLTouch mount (Had to be built from scratch to fit the Sherpa Mini) (1 hr)
+![image](https://github.com/user-attachments/assets/633c3ad5-eae2-4f4e-bf5d-8f6ea63f5215)
+
+- Final assembly (with an accelerometer)
+  Klipper needs accelerometer readings for input shaping (make printer go wheee), so I managed to (barely) add one in 
+![image](https://github.com/user-attachments/assets/2f236289-0eb3-480c-9b90-cd85538516bd)
 
 ## Gantry
 For the gantry, I'm going to copy the basic config and geometry of the Voron gantry, but change up spacing + mounts to fit my toolhead and remove legacy Voron attachmnents like support for the tophat and weirdly shaped (IMO) x/y axis endstops. (5 hrs)
@@ -72,6 +80,7 @@ My computer will crash if I load any more assemblies, so here's the plan:
 - Check BOM for electronics details, but I already have most of what I need other than the PSU and Pico
 
 ## Motor improvements
+### Z Axis
 On further thought, I wanna make sure the Z axis stepper I use is enough to go fast. 
 
 I'm gonna first try to estimate the weight of the bed assembly.
@@ -104,6 +113,7 @@ Unfortunately, there is no torque curve, so I need to find the estimated RPM out
 
 Alright, so for a Z axis, this is really fast, so I switched the motor out! 
 
+### Gantry
 Now, for the gantry, here's the torque curve for the stepper I'm using:
 
 ![image](https://github.com/user-attachments/assets/05d45417-a912-4be4-8cea-fc632299be13)
