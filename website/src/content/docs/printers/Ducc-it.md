@@ -109,3 +109,36 @@ I updated the bom, added some GT2 parts, belts, pulleys, etc. The total right no
 I think I am going to just strap all the electronics under the bed, and create mounts as I go, since I cannot find the right CAD models for the parts. Also, for the self-ejecting part, I plan to use a servo to sweep the bed, but that will also need to be further researched into. 
 
 As of now, I am marking this printer as completed until I recieve the parts to fabricate!
+
+### Day 9, 10, 11, 12 - 4/1/2025 to 4/4/2025 (12 Hours)
+
+My parts arrived! Super stoked to to start building, but was sad to find out I actually got scammed from the SKR vendor on Aliexpress. I got a refund but it will be a little while until I can actually get the next one I ordered. 
+
+<img src="https://github.com/user-attachments/assets/41039fc4-cada-46c5-bc69-6f472f0705e0"
+     alt="All my parts came!"/>
+
+I got quite a lot done today (4/2/2025), finished building all the axes without attaching them to the 2020 extrusions.
+
+<img src="https://github.com/user-attachments/assets/4fd99bc2-3416-4d70-aa20-805d263a4947"
+     alt="Axes built"/>
+
+Built the 2020 extrusion base and attached everything together!
+
+<img src="https://github.com/user-attachments/assets/340130ce-0e56-45e0-9dc3-6ac6001b07ae"
+     alt="Attached stuff together!"/>
+
+Thats all for now, signing off!
+
+### Day 13 - 4/8/2025 (4 Hours)
+
+Today I realised I bought a MGN12H rail instead of the MGN12C rail... That meant that I had to redesign the WHOLE hotend to fit the proper block. I spent WAY too long redoing this, and haven't even gotten to the fan duct. 
+
+<img src="https://github.com/user-attachments/assets/1048c0a8-7d65-42ea-871a-1a5587edfafd"
+     alt="Created new hotend"/>
+
+I also realised my linear rail vertical was SUPER unstable, so I reinforced it with 2020 extrusion 90 degree mounts I created myself on Tinkercad.
+
+<img src="https://github.com/user-attachments/assets/57fe77d1-ee2f-47d0-9552-4bbef96d2f96"
+     alt="Fixed stabilization"/>
+
+     
