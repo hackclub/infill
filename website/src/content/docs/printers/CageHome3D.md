@@ -8,7 +8,7 @@ Made by: @chunyinkwong // https://github.com/chunyinkwong/
 
 Repository link: https://github.com/chunyinkwong/infill-journal
 
-Total hours so far: 32
+Total hours so far: 47
 
 - [x] I have access to 3D printing facilities and am able to obtain printed models on or before March 21st.
 
@@ -146,13 +146,13 @@ CAD Progress so far:
 
 ![3d printer draft frame](https://files.catbox.moe/dcolft.png)
 
-CAD TODO List:
-- [ ] Top pulley connector (has 4 bearings for 2 belts and connects to the top of the printer)
-- [ ] XZ axis connector (has 4 bearings, connects to the Z carriages and redirects the belts 90 degrees to the X axis)
-- [ ] Y axis connector (connects Y motor to frame) 
-- [ ] X, Y, and Z carriage endstops (should be just a cube or something, easy)
-- [ ] XZ stepper motor mount (contains belt tensioner, stepper motors and the captive screws to mount the motors to the frame)
-- [ ] Toolhead (connects Sherpa mini v3 to E3D V6 clone and the filament and the fans)
+CAD TODO List (last updated on April 7th):
+- [ x ] Top pulley connector (has 4 bearings for 2 belts and connects to the top of the printer)
+- [ x ] XZ axis connector (has 4 bearings, connects to the Z carriages and redirects the belts 90 degrees to the X axis)
+- [ x ] Y axis connector (connects Y motor to frame) 
+- [ x ] X, Y, and Z carriage endstops (should be just a cube or something, easy)
+- [ x ] XZ stepper motor mount (contains belt tensioner, stepper motors and the captive screws to mount the motors to the frame)
+- [ x ] Toolhead (connects Sherpa mini v3 to E3D V6 clone and the filament and the fans)
 
 For my PCB design, to fix my wattage issues, I might design a voltage step down device that works for either 48V or 28V to 24V if I'm paranoid about things breaking if I run them at 28V and not 24V. I did some research and asked a person who studies electrical engineering and they told me that it would be really small, and recommended me to buy a blank PCB with holes and solder the required parts on. The recommended parts for a 48V to 24V DC Buck converter were:
 - 2 MOSFETS > 20A, something about RDS on but I'm not sure
@@ -162,3 +162,10 @@ For my PCB design, to fix my wattage issues, I might design a voltage step down 
 - Gate driver
 
 Yeah I'll get more information and do more research later, I was only provided with a brief introduction
+
+## 9th April 2025
+I finished but I want to make my printer smaller, to use like 1515 extrusions and a 150x150mm bed
+1. Cheaper
+2. Smaller so it fits easier
+
+But then I'll have to redesign everything AAAAAA

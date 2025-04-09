@@ -130,4 +130,42 @@ Time: 10hrs
 
 ***Total Time: 46hrs***
 
+## **Day 8**
 
+Klicky time, so somehow found a model online. was glithcing so i made the magnts myself.
+Mounted it at the front. 
+For that i a thing. I cant cover the top cause fan, and cant do sides cause fan, and cant do back cause adxl345 😢
+
+Somehow figured it out.
+
+Added a 2020 extrusion. Extended it and made it full size and put it behind the rail: yup, x axis majorly done
+
+I added a 3030 extrusion, copied it, moved it and made a frame. Yup, main stuf done.
+
+Time: 4hrs
+
+***Total Time: 50hrs***
+
+## **Day 9**
+
+Alright, XY joint time....
+
+So i have no idea how this gonna work
+Imma just look at a lot of cads (ps alex inspiration moments)
+
+Somehow understood how this works. Spent a lot of time figuring out sizes for my desired build volume.
+Like a lot of time: was supr confusion.
+
+Started by extending the rail head and adding screws.
+Then extended out an attachment and extruded it upwards.
+
+New issue unlocked. Where tf do i attach belts :| the fans took up all the space
+SOOOOOOO, i spent a lot of time and decided to extend top part and keep the bottom as is.
+And somehow managed to make the xy joint after that, without many issues.
+
+Except the position which took ages. :p
+
+
+Time: 6hrs
+
+***Total Time: 56hrs***
