@@ -26,11 +26,13 @@ About the printer:
 - With a rpi zero & Klipper-Ready
 - ~$340 (including the two broken printers)
   
+> Take a look at the [Design-Notes](notes.md) to better understand my design decisions!
+
+> Take a look at the [PCB](pcb/readme.md)!
+
 TODO:
 
-- Design: PSU DIN rail mount, MB DIN rail mount (both aren't that important)
-
-> Take a look at the [Design-Notes](notes.md) to better understand my design decisions!
+- Design: PSU-, MB- & PCB-DIN rail mount (not important)
 
 [Written on April 7]  
 About the journal: So this journal didn't really work out that well. I started planning the printer and a timeline ~4 weeks ago on March 9., but then got sidetracked by other things (hackboard, pre-final school exams, irl stuff). During this time I constantly thought about it though, and decided to try to convert 2 broken [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo) into *this* one big printer, instead of buying all parts brand new.
