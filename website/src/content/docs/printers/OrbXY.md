@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 51 hours
+Total hours so far: 56 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -263,7 +263,7 @@ Total hours so far: 51 hours
 
 `Research` `CAD`
 
-- I did some research on all the parts of the printbed. I had already chosen the heatbed and to have a magnetic PEI Plate. I decided on putting a _3mm Silicon Sheet_ under the heatbed as an insulator to separate the heat from the 3D printed base. I am using a _NEMA 17 Stepper Motor with Intergrated Lead Screw_ as well as 2 _8mm Linear Rods_ for support to control the Z-Axis movement of the bed.
+- I did some research on all the parts of the printbed. I had already chosen the heatbed and to have a magnetic PEI Plate. I decided on putting a _3mm Silicone Sheet_ under the heatbed as an insulator to separate the heat from the 3D printed base. I am using a _NEMA 17 Stepper Motor with Intergrated Lead Screw_ as well as 2 _8mm Linear Rods_ for support to control the Z-Axis movement of the bed.
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8b38c885590d2b2cdd9524b728067e9fea35e7c6_screenshot_2025-03-30_at_8.25.14___am.png" height="350" title="Bed Assembly"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d149d67eeb63d2dec582fb240623126c19d967fb_screenshot_2025-03-30_at_8.17.23___am.png" height="350" title="Bed Assembly"> 
 
@@ -355,7 +355,7 @@ Total hours so far: 51 hours
 `CAD: 4 hours`
 
 <br><br>
-## Day 13: April 6th 2025
+## Day 14: April 6th 2025
 
 `CAD`
 
@@ -372,3 +372,38 @@ Total hours so far: 51 hours
 ### Time Spent on This Day: 3 hours
 
 `CAD: 3 hours`
+
+<br><br>
+## Day 15: April 9th 2025
+
+`Research` `CAD`
+
+- I modelled the second motor mount and also mounted the Z-Axis Endstop.
+
+- I mounted the Z-Axis Endstop to the bottom of the top frame at the back. This is so that when the bed rises to the Layer 0 height, it will stop just before hitting the nozzle. I experimented with having the Endstop mounted to Bed Assembly itself but due to size constraints, realised that this wouldn't work.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa4d82c6d85f334df1be31af5b00e8a834ec98b0_cad-09_04_2025-1.png" height="350" title="Z-Axis Endstop"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d522b1d7a6b22d843793e98591e5a724c1640ca5_cad-09_04_2025-2.png" height="350" title="CAD Full Assembly">
+
+- Here's what that looks like as well as the full assembly.
+
+`CAD: +3 hours`
+
+***+3 hours***
+
+- I also did some research on Power Supplies. I calculated the full power draw and have settled on a _24V 350W Power Supply_. I will also use a _Plug and Switch Module_ so that I can plug in the wire that will connect to the wall and have the safety of being able to turn it on and off from the printer.
+
+`Research: +2 hours`
+
+***+2 hours***
+
+- What I now have left to do is mounting the Power Supply and Plug and Switch Module to the printer as well as the Mainboard. I also need to mount a Raspberry Pi, so that I can run Klipper and have remote printing.
+
+- I'm so close!!!
+
+### :grin: :grin:
+
+### Time Spent on This Day: 5 hours
+
+`Research: 2 hours` `CAD: 3 hours`
+
+<br><br>
