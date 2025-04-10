@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 32 hours and 30 minutes
+Time spent so far: 33 hours
 
 ## BOM
 
@@ -254,3 +254,16 @@ To do:
 9. ~~Avengers~~ Assemble!!
 
 Time spent: 5 hours
+
+## Day 12 (March 10th 2025)
+
+Haven't had much progress recently, had a couple of book readings hihi 😉. I've decided that I won't do everything all at once and focus on something at once. I've studied for tomorrow's test and here I am continuing my build at 9 pm :)
+*P.S. By the time I wrote this, I forgot my sports attire and therefore fetched them and put them inside my bag 🤦‍♂️*
+
+Even though I have a Fusion Students license, I kinda need to do it other than my main laptop like on my phone connected to a remote desktop. Btw, thanks Jim, I really appreciate it!
+
+I haven't figured the Z-axis yet as of now, but I've gotten some inspiration from the printers other people has made—belt with smooth rods. Also regarding extruder, I can either use Orbiter V2 (highly recommended in the 3D printing community) or design one myself and risk stuff out—one of the dependants on speed.
+
+![Imported a 220mm Heatbed to Onshape GreenSpool](https://dave9123.me/assets/firefox_NX58d92a2i.png)
+
+Time spent: 30 minutes
