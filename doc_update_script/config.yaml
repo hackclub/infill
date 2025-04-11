@@ -414,8 +414,15 @@ Axiom:
   description: "A mini desktop 3D printer powered by USB C."
   repository: "https://raw.githubusercontent.com/coolinventorr/axiom/refs/heads/main/JOURNAL.md"
   file_name: axiom.md
+  
 PandA:
   title: "PandA"
   description: "A printer designed for rapid prototyping on the go."
   repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
   file_name: PandA.md
+
+Strata:
+  title: "Strata"
+  description: "Strata is a CoreXY 3D Printer, that focuses on speed and quality."
+  repository: "https://raw.githubusercontent.com/viv223345/Strata/refs/heads/main/JOURNAL.md"
+  file_name: Strata.md
