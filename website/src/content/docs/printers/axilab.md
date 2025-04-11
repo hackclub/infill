@@ -46,5 +46,12 @@ I still have to import all the parts in the 3d model, but as soon as I end with 
 2h of researching
 
 
-April 08
+## April 08
 2h of cadding to make it ready to ship
+
+## April 09
+I already submitted te design but i still got to check if the weight of the printer will prevent the printer from rotating and then falling, here what i found so far, but it's not finished yet:
+
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a72e7f4913b5e442fd4d29cce7d5d3a1cbee06e_note_share.jpg)
+
