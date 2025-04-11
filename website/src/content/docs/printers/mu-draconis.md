@@ -226,3 +226,30 @@ this ended up being really spaghettic like, im not sure how to use mark down fil
 updated BOM is here
 https://docs.google.com/spreadsheets/d/1IZOwHB4fpJywedBBVYQKaOOAUHnNrE4fSURzN-7t6E4/edit?gid=0#gid=0
 
+
+## managed to count some bolts 
+now at least i know the hardware i need to add to my bom
+
+bed assembly
+m3x8    8pcs
+m3x12 5pcs
+m3 x35   4pcs
+m3 x30 6pcs
+m3 x30 6pcs , 45 degree angle
+m3 nylock nut,   6pcs
+m5 t sloct nut , 2pcs
+m5x18 , 2pcs
+m5x10 , 2pcs
+m3 heat sets , 11pcs
+
+
+frame
+m6x20 , 2pcs
+m3x12 , 21pcs
+m5x8 , 8pcs
+m5 t slot nut, 8pcs
+m3 x8, 6pcs
+m3x20, 8pcs
+m4x28, 2pcs
+m4 nut, 1pcs
+m3 heat set, 3 pcs

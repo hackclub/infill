@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 67
+Total hours so far: 88
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
@@ -141,4 +141,23 @@ I also realised my linear rail vertical was SUPER unstable, so I reinforced it w
 <img src="https://github.com/user-attachments/assets/57fe77d1-ee2f-47d0-9552-4bbef96d2f96"
      alt="Fixed stabilization"/>
 
-     
+### Day 14 - 4/10/2025 (3 Hours)
+
+I finished the hotend!
+
+<img src="https://github.com/user-attachments/assets/1bf88ba2-7ad8-4324-a558-c2107f1b9034"
+     alt="Fixed stabilization"/>
+
+This took SO much longer than expected, I think I made the holes for the heatset a little bit too small, so the plastic would find it's way seeping into the heatset which made screwing everything together SO difficult. I ended up using a drill but its all together. I also belted the X axis, so that axis is good to go! 
+
+I need to do a little more research on how I plan to organize these cables because currently its a massive rats nest. 
+
+### Day 15 - 4/11/2025 (4 Hours)
+
+The bed carriage is on now! I had to redesign this because I bought a 180x180 bed compared to the 160x160 I planned for, I did it in fusion and printed it out. Once I put the heatsets in and tried to screw it in, I actually had some problem with it being really stiff and not moving around at all, but everything was solved when I untightened the rod holders and retightened them at a better place. So far, everything looks amazing! 
+
+<img src="https://github.com/user-attachments/assets/96ca4b57-4331-4ed6-b58a-882922f1f14e"
+     alt="Fixed stabilization"/>
+
+For now, I am just waiting on the mobo to come, so I can start wiring everything together! Can't wait.
+
