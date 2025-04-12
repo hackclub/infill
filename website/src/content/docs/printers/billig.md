@@ -63,7 +63,7 @@ On saturday I basically redid everything I did the day before. Instead of boltin
 
 I'm very happy with the progress one that day, cause the frame and gantry has been one of these low motivation, hard to imagine progress blockers. Also, the top "extrusion structure mounts" worked first time, and I never had to change them later
 
-**Time spend in CAD:** ~60% of my time awake (pain, at least I managed to sit outside and enjoy the warm weather for 30h) -> 9-10h
+**Time spend in CAD:** ~60% of my time awake (pain, at least I managed to sit outside and enjoy the warm weather for 30min) -> 9-10h
 
 ### April 6th - Sunday
 
