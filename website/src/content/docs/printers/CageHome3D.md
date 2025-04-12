@@ -12,6 +12,73 @@ Total hours so far: 47
 
 - [x] I have access to 3D printing facilities and am able to obtain printed models on or before March 21st.
 
+# Information
+
+This printer is a CoreXZ bed slinger 3D printer designed to be easily stored after usage. The problem I tried to solve is when living in a small apartment, a 3D printer takes up a relatively a lot of space. Furthermore, my 3D printers aren't being used that often. Thus, I wanted to store my 3D printer in a space efficient way, while keeping a large print area.
+
+My final idea is to have parts of the printer easily removable so it can be stored flush to the wall without taking up too much space. The final design has 4 captive screws and 3 wire clips to disconnect before separating into 2 pieces that can be stored flat.
+
+I decided on a bed slinger design because it only has 2 vertical extrusions to remove. I decided on a CoreXZ system, because leadscrews would be hard to remove.
+
+Furthermore, this printer is powered by USB-C PD 3.1. This means you will need a 28V 140W compatible charger, eg Macbook Pro charger to power it. This is because I found 24V PSUs to be giant and clunky, whereas a USB C sink is small and cheap.
+
+# Instructions to build
+Follow the CAD. You'll need to determine a good place to screw on the electronics on a piece of wood.
+
+Notes:
+- There are no screws modelled in the CAD, but the depth of the screwholes are modelled.
+- There are no belts modelled, just follow the CoreXZ belting.
+- You will need to crimp the wires on the stepper motor and connect them to a clipped wire connector for easy removal later on.
+  - Route the wires carefully 
+
+# BOM
+
+Part	Qty
+2040 300 Aluminum extrusions	2
+2020 400 Aluminum extrusions	2
+2020 340 Aluminum extrusions	4
+	
+MGN12 Linear Rails 300mm + Carriage	3
+M3x8 Screws	30
+	
+15mm Diameter Flanged Ball Bearings	16
+1mm Washers	6
+	
+Open timing belts 6mm, 2mm, 800mm	2
+Open timing belts 6mm, 2mm, 400mm	1
+Belt tensioners	6
+Limit switches	3
+NEMA17 Stepper Motors	3
+GT2 Pulleys 20 tooth	3
+	
+Sherpa Mini	1
+E3D v6 Clone	1
+4010 fans	2
+	
+SKR Mini v3 Mainboard	1
+Raspberry Pi 4B	1
+USB PD 140W Sink Board	1
+USB C 140W charger	1
+Piece of wood (to screw electronics on)	1
+	
+Heated bed 220x200mm 	1
+PEI Sheet	1
+Magnets	4
+Piece of wood (to hold the bed to carriage)	1
+6mm Spacers	4
+	
+M5x16 captive screws	4
+M3x30 screws	12
+M3x12 screws	20
+M5x40 screws	4
+M5x10 screws	20
+
+24AWG wires  1m
+Wire connectors  3
+
+
+# Journal
+
 ## 26th February 2025
 
 Research: 1 hour (brainstorming + printer type researching)
