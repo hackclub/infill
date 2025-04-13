@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 88
+Total hours so far: 102
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
@@ -160,4 +160,23 @@ The bed carriage is on now! I had to redesign this because I bought a 180x180 be
      alt="Fixed stabilization"/>
 
 For now, I am just waiting on the mobo to come, so I can start wiring everything together! Can't wait.
+
+### Day 16 & 17 - 4/12/2025 - 4/13/2025 ( ~ 14 Hours)
+
+Welp, it's been a LONG 2 days. After the last entry in this journal, I started testing the motors with an arduino, and found the Z axis's unstable motion SUCKED the toolhead moved all over the place when the Z axis was going up or down, and it was because of the joint of the aluminum exutrsions with the base. I went through quite a few iterations of how to fix it, but I ended up with this design that finally worked (made it stable enough). I'm kinda sad I ran out of black filament and had to start using blue, since the all black would've been so cool. 
+
+<img src="https://github.com/user-attachments/assets/3a11cf3d-6564-4eec-a44b-3655e4832918"
+     alt="Fixed stabilization"/>
+
+Along with that, I designed the belt idler for the Y axis, with it working amazing. I belted the bed on as well.
+
+<img src="https://github.com/user-attachments/assets/a4c30162-e298-412b-b658-f1748310c98d"
+     alt="Fixed stabilization"/>
+
+Finally, I extended the cables to the fans since they were only 20cm long and weren't long enough to reach the mobo. It took me a while to do this suprisingly but it's all done! 
+
+<img src="https://github.com/user-attachments/assets/c1b7f062-0f21-499c-8444-95aa422e866d"
+     alt="Fixed stabilization"/>
+
+This also means that I hit the 100 hour mark making my printer! It's been a crazy ride so far. 
 
