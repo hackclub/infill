@@ -8,11 +8,22 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 22
+Total hours so far: 88
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
-### Day 1 - 2/15/2025 - 12:02 PM
+This is a custom made 3d printer for Hack Club's Infill YSWS! Currently, the printer's features are: 
+- 160x160x160mm Print Volume
+- Cantilever Design
+- Auto Ejecting prints
+- Fits under $300 USD
+- At least 100mm/s printing
+- Klipper support
+
+As someone who has used Autodesk's Tinkercad their whole life, I have realised that CADing models on that software may not be the best idea. I have used this YSWS as an opportunity to learn Fusion 360 along with the electronic workings of a 3D printer. 
+
+
+### Day 1 - 2/15/2025 - 12:02 PM (1 Hr)
 
 I want to lay some ground rules down for what this printer can do:
 
@@ -23,11 +34,11 @@ I want to lay some ground rules down for what this printer can do:
 
 Going to try and sort out the BOM today
 
-### Day 1 - 2/15/2025 - 1:37 PM
+### Day 1 - 2/15/2025 - 1:37 PM (1 Hr)
 
 Worked on my bom, added steppers, aluminum rails, and linear rails.
 
-### Day 1 - 2/15/2025 - 10:36 PM
+### Day 1 - 2/15/2025 - 10:36 PM (6 Hrs)
 
 Just did a super long work session ~6h, added a ton of things to the bom! Lead screw, motor bracket, coupler, build plate, linear bearings, and linear rods! Turns out Aliexpress is really my best friend...
 
@@ -38,7 +49,7 @@ I did a ton of work on the CAD, doing pretty good with the cad so far:
 
 I struggled quite a lot as im pretty new to fusion, but all seems to be good! 
 
-### Day 2 - 2/16/2025 - 10:08 AM
+### Day 2 - 2/16/2025 - 10:08 AM (1 Hr)
 
 I thought this through, and I will restart this. I realised that with my current progress, I have barely made a dent in my CAD and have already blown through half the budget. I think the current progress is amazing, but even using the cheapest parts I can find, I don't think I can hit my desired $300 budget. I think a bedslinger would be cheaper? Something like the bambu A1, where the z axis is supported on both sides. 
 
@@ -58,16 +69,16 @@ Here is the current BOM:
 
 The total comes to ~ $139, which excluding electronics and such doesn't sound so feasable. 
 
-### Day 2 - 2/16/2025 - 11:01 PM
+### Day 2 - 2/16/2025 - 11:01 PM (6 Hrs) 
 
-I did a bit of work here and there throughout the day, came out to ~ 3 hours. I worked on achieving a cheaper frame, and eneded up settling with a cantilever design, similar to the Bambu A1 mini. Here is the progress for today! 
+I did a bit of work here and there throughout the day, came out to ~ 6 hours. I worked on achieving a cheaper frame, and eneded up settling with a cantilever design, similar to the Bambu A1 mini. Here is the progress for today! 
 
 <img src="https://github.com/user-attachments/assets/b288cdf1-0d52-48ea-b8a0-5dd2686a3132"
      alt="Day 2 cad progress"/>
 
 I'll get to updating the BOM soon, maybe tomorrow.
 
-### Day 3 - 2/24/2025 - 4:53 PM
+### Day 3 - 2/24/2025 - 4:53 PM (10 Hrs)
 
 Wow... School really put everything to a halt. I updated the BOM and put everything on a spreadsheet, making these tables in markdown SUCK, [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing) is the link to that.
 
@@ -76,3 +87,77 @@ I have worked a little more on the CAD, hope to get the mechanics and everything
 Here is the CAD progress:
 <img src="https://github.com/user-attachments/assets/18ab51fa-7a8f-4070-ad20-3bb4b8cdb752"
      alt="Day 3 cad progress"/>
+
+### Day 4, 5, 6, 7 - 3/1/2025 to 3/17/2025 (~35 Hrs)
+
+School, Scrapyard, HQ, everythings been putting this on the backburner, but I am finally here to continue on the writeup! I did quite a lot of work in between my trips to hq fulfilling hackpad, texas for scrapyard, and others, and have finished the hotend assembly, updating the spreadsheet with everything needed, and have everything done except for the electronics and fan shroud (and the feet but thats not high priority). 
+
+I need to figure out how to make a good looking fan shroud since I'm pretty new to fusion, definitely will figure that out soon. As per now, I have quite a lot of stuff figured out, this is basically the final stretch!
+
+<img src="https://github.com/user-attachments/assets/b7593ea6-c7cc-43a7-bef1-3798d3698031"
+     alt="Day 4-7 cad progress"/>
+
+### Day 8 - 3/21/2025 - 11:39 PM (7 Hours)
+
+Finally had some time to work on this, worked ~ 7 hours today figuring out electronics, PSU, what I am going to use since I have zero experience with what I am using. The popular choice was to go with a SKR Mini E3 V3, a 350W Creality power supply, and a RPI3 I have laying around. I also added a roll of Polymaker Carbon Reinforced filament, as the brace for the X axis won't be able to support the weight with normal PLA. This suprisingly took SO long because I watched so many YouTube videos on whats good and what isn't.
+
+I updated the bom, added some GT2 parts, belts, pulleys, etc. The total right now is a little over $290 USD, but I added around $2 to each part, since customs may be an issue. 
+
+<img src="https://github.com/user-attachments/assets/e77a89f3-8840-4f13-8c97-0db9c4bc47a3"
+     alt="Day 8 cad progress"/>
+
+I think I am going to just strap all the electronics under the bed, and create mounts as I go, since I cannot find the right CAD models for the parts. Also, for the self-ejecting part, I plan to use a servo to sweep the bed, but that will also need to be further researched into. 
+
+As of now, I am marking this printer as completed until I recieve the parts to fabricate!
+
+### Day 9, 10, 11, 12 - 4/1/2025 to 4/4/2025 (12 Hours)
+
+My parts arrived! Super stoked to to start building, but was sad to find out I actually got scammed from the SKR vendor on Aliexpress. I got a refund but it will be a little while until I can actually get the next one I ordered. 
+
+<img src="https://github.com/user-attachments/assets/41039fc4-cada-46c5-bc69-6f472f0705e0"
+     alt="All my parts came!"/>
+
+I got quite a lot done today (4/2/2025), finished building all the axes without attaching them to the 2020 extrusions.
+
+<img src="https://github.com/user-attachments/assets/4fd99bc2-3416-4d70-aa20-805d263a4947"
+     alt="Axes built"/>
+
+Built the 2020 extrusion base and attached everything together!
+
+<img src="https://github.com/user-attachments/assets/340130ce-0e56-45e0-9dc3-6ac6001b07ae"
+     alt="Attached stuff together!"/>
+
+Thats all for now, signing off!
+
+### Day 13 - 4/8/2025 (4 Hours)
+
+Today I realised I bought a MGN12H rail instead of the MGN12C rail... That meant that I had to redesign the WHOLE hotend to fit the proper block. I spent WAY too long redoing this, and haven't even gotten to the fan duct. 
+
+<img src="https://github.com/user-attachments/assets/1048c0a8-7d65-42ea-871a-1a5587edfafd"
+     alt="Created new hotend"/>
+
+I also realised my linear rail vertical was SUPER unstable, so I reinforced it with 2020 extrusion 90 degree mounts I created myself on Tinkercad.
+
+<img src="https://github.com/user-attachments/assets/57fe77d1-ee2f-47d0-9552-4bbef96d2f96"
+     alt="Fixed stabilization"/>
+
+### Day 14 - 4/10/2025 (3 Hours)
+
+I finished the hotend!
+
+<img src="https://github.com/user-attachments/assets/1bf88ba2-7ad8-4324-a558-c2107f1b9034"
+     alt="Fixed stabilization"/>
+
+This took SO much longer than expected, I think I made the holes for the heatset a little bit too small, so the plastic would find it's way seeping into the heatset which made screwing everything together SO difficult. I ended up using a drill but its all together. I also belted the X axis, so that axis is good to go! 
+
+I need to do a little more research on how I plan to organize these cables because currently its a massive rats nest. 
+
+### Day 15 - 4/11/2025 (4 Hours)
+
+The bed carriage is on now! I had to redesign this because I bought a 180x180 bed compared to the 160x160 I planned for, I did it in fusion and printed it out. Once I put the heatsets in and tried to screw it in, I actually had some problem with it being really stiff and not moving around at all, but everything was solved when I untightened the rod holders and retightened them at a better place. So far, everything looks amazing! 
+
+<img src="https://github.com/user-attachments/assets/96ca4b57-4331-4ed6-b58a-882922f1f14e"
+     alt="Fixed stabilization"/>
+
+For now, I am just waiting on the mobo to come, so I can start wiring everything together! Can't wait.
+

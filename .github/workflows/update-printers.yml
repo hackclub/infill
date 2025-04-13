@@ -30,18 +30,21 @@ jobs:
         cd doc_update_script  # Change to the doc_script folder
         python copy-printer-files.py  # Adjust path if necessary
 
-
     - name: Check for file changes and commit if needed
       run: |
-        cd doc_update_script  # Change to the doc_script folder
-        git config --global user.name "github-actions"
+        cd doc_update_script
+        git config --global user.name "infill bot"
         git config --global user.email "github-actions@github.com"
-        
-        # Check if there are any changes
+
+        # Get list of changed files (comma-separated)
+        CHANGED_FILES="$(git diff --name-only | xargs -n1 basename | paste -sd "," -)"
+
         git add -A
-        git status
-        git diff --cached
         git diff --cached --exit-code || (
-          git commit -m "Auto update printer files" &&
-          git push origin main  # Replace 'main' with the appropriate branch if needed
+          if [ -z "$CHANGED_FILES" ]; then
+            git commit -m "Auto update printer files"
+          else
+            git commit -m "Auto update printer files. Modified: $CHANGED_FILES"
+          fi &&
+          git push origin main
         )

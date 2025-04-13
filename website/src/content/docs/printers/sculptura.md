@@ -8,54 +8,56 @@ repository: "https://raw.githubusercontent.com/arsoninstigator/sculptura/refs/he
 
 > username: @arsoninstigator aka @anne on the slack (she/her) <br>
 > here's the printer's [github repository](https://arsoninstigator/sculptura) and the main [infill page](https://infill.hackclub.com/printers/sculptura/) <br>
-> total time spent on this till date: 17.2 hours (as of 21/2)
+> total time spent on this till date: 52 hours (as of 28/03)
 - [X] i currently / will have access to a 3d printer before 21st march (bambu a1 mini)
 
+## about
 sculptura is a wip fully **open-source** and customized budget 3d printer made from scratch for printing smooth, detailed and precise models that are meant to to be used as high quality decorative pieces (like you would see at an art gallery) :D
 
 
-## planning
-<img src="https://www.mdpi.com/polymers/polymers-14-04659/article_deploy/html/images/polymers-14-04659-g001.png">
-
-### ⋆ overview
-- build volume: ~220x220x250mm
-- multi-color & silent operation
-- doesn't start on fire
-- costs <250$ excluding costs of filament (im working with a bambu lab a1 mini)
-- designed for printing functional decorative pieces over the industrial applications
-
-### ⋆ desired specifications
-- rigid braced aluminum frame + improved stability (wrt ender3 v3se)
-- higher print resolution (0.1mm layer height capability)
-- prints pla (silk, matte, wood, marble, metal-infused), transparent petg, tpu
-- cartesian (since we need precise extrusion control and cooling rather than raw speed)
-- smooth motion system + linear rails (if budget permits)
-- runs klipper
-
-## bill of materials
-im currently researching stuff to make a comprehensive bom with everything i would require to make my printer come to life
-
 ## daily log
-### ⋆ day one - initial research (time taken - 3 hours + ½ hour for readme)
-started my journey by researching different 3D printer motion systems. the main types i considered were corexy, cartesian, and delta. after watching multiple comparison videos and reading user reviews, i decided on corexy and explored some popular diy corexy builds to understand potential designs:
-- **[voron 0.1](https://vorondesign.com/voron0)** – super cool & compact
-- **[vzbot](https://github.com/VZBot3D/VZBot)** – too complex and expensive
-- **[ratrig v-core 3](https://ratrig.com/)** – over budget
+### ⋆ day one - day ten — initial research (time taken: ~ 15h)
+found out even more about how 3d printers work by reading documents, watching youtube videos, looking at existing open-source builds (including neutrino), sketching out what i was trying to achieve. i loosely consulted reddit threads that answered my super specific questions and asked a lot of questions on dedicated discord servers (i'm surprised they didn't ban me for being annoying). i did my initial light research on:
+- frame and motion system
+  - frame design & materials
+  - printer kinematics & motion types
+  - linear motion
+  - belt & pulley system
+- extruder and hotend
+  [i spent a lot of time going back and forth to decide whether i wanted to make a clay or paste-y printer (since the name of my printer is sculptura) but ultimately decided against it and took the traditional route]
+  - hotend types
+  - nozzles & material compatibility
+  - direct drive
+- bed and print surface
+- firmware (will run klipper)
+- electronics
+  - mainboard selection
+  - stepper motor drivers
+  - power supply & wiring
 
-### ⋆ day two -  frame & motion system (time taken - 3 hours)
-to ensure stability while keeping costs low, i chose 2040 aluminum extrusions for the frame, offering a solid balance between rigidity and weight. for motion, i debated between <ins>linear rails</ins> (provide high precision and smooth movement but expensive) and <ins>pom wheels</ins> (budget-friendly and simpler to install but wear down over time). <br> <br> 
-after reviewing multiple builds and cost analyses, i decided to start with pom wheels, knowing i can upgrade to linear rails later if needed. <br><br>
-helpful video: [pom wheels vs. linear rails](https://youtu.be/9LVSXidVbzE?si=kI6JSTTjm1Ju_WpN)
+at this point i obviously knew only the basics so nothing was set in stone but i started to form a **very rough image** in my head of what my printer would look like and started to make interations on the components i had chosen and added to my current bom before i started cad-ding and got in too deep!
 
-### ⋆ day three - extruder & hotend (time taken - 2 hours)
-choosing the right extruder and hotend was crucial for handling various filament types, especially for multicolor printing. i considered the bmg clone (affordable, reliable, and widely used) and orbiter 2.0 (higher filament grip and better retraction control, reducing stringing) extruders and opted for <ins>orbiter 2.0</ins> for its improved grip and lightweight design. 
+### ⋆ day eleven - day nineteen — research + begin cad (time taken: ~ 17h)
+continued my quest to research on more stuff and get into the details. watched actual people talk about their experience working w 3d printer builds to get a holistic view that's beyond the pages of a book. some topics i covered included:
+- bed & print surface
+  - heated bed types
+  - bed surfaces
+  - auto bed leveling?
+- cooling & enclosure design
+  - part cooling fans and ducts
+  - hotend cooling fans
+  - enclosures and filtration
 
-for the hotend, i needed something all-metal to handle a range of filaments (pla, petg, tpu, etc.). i chose the <ins>e3d v6 clone</ins>, as it provides good heat dissipation and consistent extrusion without ptfe degradation.
+sketched out a wip printer and its measurements with a paper/pencil and then started working on the cad. focused on the frame. decided: aluminum extrusions, no question. modeled a simple 2020 extrusion profile, then tried to boolean it into a frame mockup. fusion crashed twice. used a combination of fusion 360 and freecad (love the open source-ness but it's not quite there yet in terms of features) and even though this wasn't the hardest part of the build, but i had to restart from scratch multiple times and do it all over again and again till i was somewhat satisfied with the results.
 
-### ⋆ day four - heated bed & printed surface
-a heated bed is essential for improving first-layer adhesion and preventing warping, especially when printing with materials like petg and abs. i needed a bed that could heat quickly and evenly across the surface, so i researched different heating solutions: pcb heater beds affordable but uneven heat distribution, silicone heater pads (expensive) and aluminium heated beds (good heat retention + even heating). after comparing options, i decided on a 12v or 24v heated bed with an aluminum plate, as its cheaper and durable.
+### day twenty - day twenty-five — cadding
+realized i didn’t dimension the extrusion lengths. spent a whole day fixing it. fusion's sketch constraints started ghosting me. drove myself mad figuring out why my midpoint constraint wasn’t snapping. next day, found a nice trick on grabcad for corner brackets. "borrowed" the design and parameterized it to fit my frame. made fusion crash only once which is a victory in itself in my book. next two days, scrolled discord printer groups. stumbled across some fun idler designs. screenshot folder became 134 images deep. did no cad stuff since i felt kinda burnt out. after that, finally locked in and started laying out core xy belt paths. sketched some pulleys and tried routing the belt. decided it looked like spaghetti and got hungry. googled “corexy belt routing diagram” 17 times and was still confused.
 
-a quality print surface is essential for good first-layer adhesion. i compared options of a glass bed (that's smooth but requires adhesive for some filaments) and pei-coated spring steel (that's flexible, durable w better adhesion) and textured powder coated pei (first-layer adhesion and provides a textured bottom layer) and chose the pei-coated spring steel sheet for easy print removal.
+### day twenty six - day thirty two
+made some core xy progress - refined the belt paths. added idler pulley placeholders. felt like a god for 30 minutes until i realized i forgot to check belt tensioning. next day, modeled my first tensioner block. completely forgot clearance for the screw head. redid the whole thing. scrapped it entirely in anger. redid it *again*. next, i borrowed some gantry ideas from voron. decided on linear rails. modeled a rail and slapped it onto the frame. *wingardium laviosa* noticed it's floating in mid-air but oh well. next, added actual mounting points to the frame for rails. realized i sized them 3mm too short. adjusted everything. fusion performance starting to tank from component count. next, modeled a rough carriage and constrained it to slide on the x rail. watching it move felt great. next, added pulley mounts to the carriage. spent 40 minutes debating between single or dual pulleys. settled on dual for tensioning flexibility. upped my dosage for ritalin (prescribed ofc) to lock in but fell asleep with fusion open and my head on the keyboard so that went as well as you can imagine.
 
-reference video - [guide to pei 3d printer beds](https://youtu.be/Z7LK28tL028?si=_4-VgD_tuooDlpQ8)
+### day thirty-three - day forty
+designed a motor mount plate. fusion crashed during patterning. auto-recovered my file but lost constraints. raged. cried. ate chips. returned. next day, ranted in my journal about fusion not autosaving often enough. redesigned motor mount properly this time. frame finally started feeling real !!! next, got stuck deciding between optical or mechanical endstops. prototyped a slot for microswitches, decided to stay simple. will probably regret this later. next, modeling the y carriages today. realized they look suspiciously like voron’s. decided that was good ??? looked up juvenile sentences for shoplifting (/s). next, redesigned how extrusions join for better rigidity. added hidden fasteners. model was getting heavy but fusion was surprisingly cooperative. next, discovered i need spacers everywhere. modeled one spacer, then made 12 variants. started going insane and had to go for a walk. started raining while i was walking. yay. 
 
+### day forty-one — printhead-ing
+explored printhead designs. half-considered a compact, single-fan setup but ended up copying a stealthburner clone layout. next, modeled the printhead mount. forgot to add wire management. amazing. next, finally added wire guides. fusion assemblies slowed to 5 fps but the model looked neat.

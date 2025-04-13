@@ -48,7 +48,9 @@ im still deciding if the z should be belted or use a lead screw
 i also started to model out some of the components i plan to use in fusion 360, such as the bed as a starting point
 however it appears the technical drawing from the manufacturer REALLY isnt accurate
 
-current rough BOM
+
+
+current rough BOM as of starting
 
 | Part name                      | price         | notes                                                                                            |
 |--------------------------------|---------------|--------------------------------------------------------------------------------------------------|
@@ -137,3 +139,117 @@ but im hoping maybe if i go all belts then i can reuse the belt tensioners acros
 
 it feels quite voron 0 inspired, but that was what i was inspired by :D 
 
+## im honestly not sure what the time frame was,  probably arround 23 hours total time
+anytime i was at my computer doing nothing i would try and get a lil bit done
+so i didnt really get much big stuff done
+but still
+stuff changed
+
+## 07/04/2024 (arround 26 hours total probably more)
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6809a37ab901d0c59df1570e0966768f70669afb_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd995bc9d460bce7234d485519b325053d14c932_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+realised how much easier it would be if i just went the route of desiging some parts seperately then importing them into the main file
+i can definetly say
+it took me way to long to get that basic belt tensioner working :( 
+but oh well
+
+## 07/04/2024 arround 31 hours in
+some more jumps got stuck as one of my parts was 0.2 degrees misaligned and that really threw me off
+BUT I FOUND THE ALIGN TOOL
+
+i had been using components to make everything work
+but i realised how much it helps me to focus when i make things in smaller files where i can and combine them into a bigger file later :D
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e27147d0ae0ed23eb96c917d1e0006914f1f460e_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+## im doing this while sleep deprived
+
+so im still working on the printer
+
+
+made some overall progress on tidying up the hierarchy of mess in the component tree
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2fc1a9c94b623b9eac78f002a31bd8c028b12ec3_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/372e3ef31efd20ed396d5c5ea15405b7422d3038_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+made alot of work on getting the motor for the x axis actually mounted
+i think it maybe gets easier and harder from here
+from hearing from other people the tool head might be hard
+but i also dread the weird bearing thing i made for the rotation axis
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7314904a7d169b0a2d5c07f96fdbfca2011fbb9c_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     
+
+realised that i needed more material there to propperly support everything
+2.5mm of  pla didnt really feel enough
+also wanted extra thickness there so that i can use heat sets to mount my hot end stuff :D 
+
+
+
+## another update
+started and "finished" on the hotend
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37b29bc5192f4756bbafea258dcb289f7c5ff2e3_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a495a2c704a08c9458223e8a892c03d2bdce808b_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7ba5e60490d17250a35571ab1bb2649b27e8abe_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/31273505aa11195a763bba6274ca1df6d5acd30e_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+i was anticipating alot more difficulty designing the ducts for the hot end fans than i actually encounter
+
+however i did encounter some difficulty
+since my hot end is going on the same side of my carridge as my belts, im encountering issue of how to mount the hot end without sacrificing rigidity, i believe it shouldnt be too hard to just have the hot end on the other side, and then just flip the bed onto the other side of the bottom 2020 extrusion, and that should then fix the issue without needing any extra hardware, right now im trying to get the printer functional so i can refine the cad more and fix some the issues that can be fixed without needing more hardware.
+
+you can also see the fan ducts are aligned with the centre of the nozzle, also not intentional :(
+sorry
+
+this ended up being really spaghettic like, im not sure how to use mark down files properly, you can probably tell
+updated BOM is here
+https://docs.google.com/spreadsheets/d/1IZOwHB4fpJywedBBVYQKaOOAUHnNrE4fSURzN-7t6E4/edit?gid=0#gid=0
+
+
+## managed to count some bolts 
+now at least i know the hardware i need to add to my bom
+
+bed assembly
+m3x8    8pcs
+m3x12 5pcs
+m3 x35   4pcs
+m3 x30 6pcs
+m3 x30 6pcs , 45 degree angle
+m3 nylock nut,   6pcs
+m5 t sloct nut , 2pcs
+m5x18 , 2pcs
+m5x10 , 2pcs
+m3 heat sets , 11pcs
+
+
+frame
+m6x20 , 2pcs
+m3x12 , 21pcs
+m5x8 , 8pcs
+m5 t slot nut, 8pcs
+m3 x8, 6pcs
+m3x20, 8pcs
+m4x28, 2pcs
+m4 nut, 1pcs
+m3 heat set, 3 pcs

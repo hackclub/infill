@@ -12,7 +12,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 58.5h
+Hours so far: 75.5h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -57,6 +57,10 @@ Currently the outline is 400mm x 410mm
 | 01/03 | PCB                                  | 3 hours | :D |
 | 02/03 | CFD + X axis                         | 6 hours | Fuck yeah! |
 | 03/03 | Counting screws                         | 1 hour  | I lost track :heavysob: |
+| ~ | Getting printer & approved + planning | 2 hours | Welp |
+| 27/03 | Ordering everything | 4 hours | Kudos to anicetus again <3 |
+| 28,29,30,31,01/03 | Fixing orders, ordering more, solving shipping, yapping with merchants that doesn't want to ship, refunding from merchants that doesn't wanna ship, and mooooreee ordering | 7 hours | Ah china = complex |
+| 04/04 | Order PCB and final buying stuff (before yesterday) | 4 hours | Nyaa |
 
 ## BOM
 
@@ -96,7 +100,6 @@ At home:
 | 3D Printer Holder                | 1x    | 69 (9.47) | [link](https://item.taobao.com/item.htm?abbucket=11&id=704269813634&ns=1&priceTId=2100c88d17407601577377238e0943&skuId=4959504069707&spm=a21n57.1.item.4&xxc=taobaoSearch) |
 | 10mm Diam 20mm Height Spring     | 4x    | 1 (0.14)  | [link](https://item.taobao.com/item.htm?id=721543036692&ns=1&priceTId=undefined&skuId=5020222620818&spm=a21n57.1.item.4&xxc=ad_ztc) |
 | 24V 400W 16.5A Power Supply      | 1x    | 50 (6.87) | [link](https://item.taobao.com/item.htm?abbucket=11&id=616623109443&ns=1&priceTId=2100c88e17407665259624703e0bf7&skuId=5078909843522&spm=a21n57.1.hoverItem.10&xxc=taobaoSearch) |
-| Round LCD                        | 1x    | 14 (1.92) | [link](https://item.taobao.com/item.htm?abbucket=11&id=834424049622&ns=1&priceTId=2147841917408153090834368ec02c&spm=a21n57.1.hoverItem.29&xxc=taobaoSearch) |
 | M3 35mm Sink Bolts               | 4x   | 1.1 for 20 (0.17) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
 | M3 8mm Sink Bolts               | 4x   | 3.4 for 100 (0.47) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
 | M3 10mm Bolts                    | 53x    | 2.7 for 50 (0.37) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
@@ -113,11 +116,12 @@ At home:
 | M5 T-Nuts for 3030               | 10x   | 1.4 for 50 (0.19) | [link](https://item.taobao.com/item.htm?abbucket=1&id=720521078724&ns=1&priceTId=2100c82317398927757001065e0bf9&skuId=5192323987974&spm=a21n57.1.item.3.447f523cP1MZ65&xxc=taobaoSearch) |
 | M6 12mm Bolts                    | 42x   | 3.4 for 20 (0.45) | [link](https://detail.tmall.com/item.htm?from=cart&id=635755541429&skuId=4555949761448&spm=a1z0d.6639537%2F202410.item.d635755541429.5d357484CFoQER) |
 | M6 T-Nuts for 3030               | 42x   | 1.4 for 50 (0.19) | [link](https://item.taobao.com/item.htm?abbucket=1&id=720521078724&ns=1&priceTId=2100c82317398927757001065e0bf9&skuId=5192323987974&spm=a21n57.1.item.3.447f523cP1MZ65&xxc=taobaoSearch) |
-- TFT
-- 1x mmu
 Maybe ASA for 46 rmb
+- 1x mmu
 
 Current total: 99.24 USD
+
+TODO: CABLES!!!!!
 
 PCB:
 - 1x AW9364
