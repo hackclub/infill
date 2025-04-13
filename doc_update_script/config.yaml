@@ -1,5 +1,12 @@
 ## Add your printers below
 
+Ender X4: 
+  title: "Ender X4"
+  description: "A low cost, quad extruder 3D printer based on the Ender 3."
+  repository: "https://github.com/ading2210/ender-x4/raw/refs/heads/main/journal.md"
+  file_name: "ender_x4.md"
+  rewrite_urls: Yes
+
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
@@ -354,6 +361,7 @@ Billig:
   description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
   repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
   file_name: billig.md
+  rewrite_urls: Yes
 
 WayneTech3D:
   title: "WayneTech3D"

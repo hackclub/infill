@@ -23,7 +23,7 @@ Written updates! Here's what to do:
 - Get the URL to that file. Edit the [config.yaml file](https://github.com/hackclub/infill/blob/main/doc_update_script/config.yaml) of this website to add your printer to the list!
 - Within 30 minutes, your journal will automagically be added to the website! Automation by yours truly.
 
-Reminder to NOT reference static assets in your markdown file. Please use #cdn in the slack and paste links there instead! Otherwise the entire verce deployment will break and I'll have to hunt you down :peefest:
+Tip: You can reference static assets in your markdown file, using a relative URL (such as `![My image](images/picture.png)`). Make sure you add `rewrite_urls: Yes` to the config entry for your printer in this repository. This will load the files from the Github CDN. 
 
 #### Do I *need* to have written updates on the website?
 Yup! This is for a couple reasons:
