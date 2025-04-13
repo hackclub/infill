@@ -26,9 +26,9 @@ About the printer:
 - With a rpi zero & Klipper-Ready
 - ~$340 (including the two broken printers)
   
-> Take a look at the [Design-Notes](notes.md) to better understand my design decisions!
+> Take a look at the [Design-Notes](https://github.com/playlogo/billig/blob/main/notes.md) to better understand my design decisions!
 
-> Take a look at the [PCB](pcb/readme.md)!
+> Take a look at the [PCB](https://github.com/playlogo/billig/tree/main/pcb/readme.md)!
 
 TODO:
 
@@ -43,8 +43,8 @@ After all, this project was a lot of fun and very interesting. Once I got into t
 
 4 Days ago I finally started to speedrun the entire CAD design starting with the frame (which I then redid one day later...). I started by converted these drawing I made about two weeks earlier during school into this frame:
 
-![Intial sketches](images/sketch_initial.PNG)
-![Initial frame](images/friday.png)
+![Intial sketches](https://github.com/playlogo/billig/blob/main/images/sketch_initial.PNG?raw=true)
+![Initial frame](https://github.com/playlogo/billig/blob/main/images/friday.png?raw=true)
 
 As you can see in the sketches, I was initially targeting a CoreXY build with linear rails, but this idea later got ditched in favor of a simple V-Wheel based Belted XY-Gantry to keep costs down.
 
@@ -58,8 +58,8 @@ I also started dissembling one of the broken printers to take measurements of th
 
 On saturday I basically redid everything I did the day before. Instead of bolting the profiles strait to each other using blind joints, I took some inspiration of the Ender3NG, and created these "in-between structures" (see picture). I also converted this sketch (which I created the night before) into CAD (once again, inspired by the Ender3NG, but created from scratch and the final part also ended up completely different)!
 
-![Sketch of Z-Axis bottom mount](images/sketch_z.PNG)
-![Improved frame](images/first_version.png)
+![Sketch of Z-Axis bottom mount](https://github.com/playlogo/billig/blob/main/images/sketch_z.PNG?raw=true)
+![Improved frame](https://github.com/playlogo/billig/blob/main/images/first_version.png?raw=true)
 
 I'm very happy with the progress one that day, cause the frame and gantry has been one of these low motivation, hard to imagine progress blockers. Also, the top "extrusion structure mounts" worked first time, and I never had to change them later
 
@@ -71,11 +71,11 @@ I'm very happy with the progress one that day, cause the frame and gantry has be
 
 This day was super productive. I've designed the entire toolhead, reworked the entire gantry, and finally managed to create a **draggable 3 dimensional toolhead** in onshape, that allows me to test the reachable positions of the nozzle.
 
-![V1.9](images/v1_9.png)
+![V1.9](https://github.com/playlogo/billig/blob/main/images/v1_9.png?raw=true)
 
 Reworking the gantry was *a lot* of pain. This is my first time seriously using assemblies in Onshape, and I based the original gantry part assembly on a feature I deleted while reworking the frame (ahhh). This broke my entire gantry when I finally updated it's context, which I need to do, because I've extended it by ~8cm to allow the nozzle to reach all positions. This is a example of the pain I had to endure:
 
-![Pain](images/refactoring_pain.png)
+![Pain](https://github.com/playlogo/billig/blob/main/images/refactoring_pain.png?raw=true)
 
 **Time spend in CAD:** ~75% of my time awake (didn't even go outside) -> 10h
 
@@ -87,12 +87,12 @@ Today I fixed a lot of small stuff in the CAD model: I added endstops for X&Y, a
 
 The electronics housing safely mounts both PSU, control boards, rpi zero and power plug. It's surrounded by acrylic panels, and has two fans at the top to suck in air from the bottom though the entire assembly.
 
-![Electronics](images/electronics.png)
+![Electronics](https://github.com/playlogo/billig/blob/main/images/electronics.png?raw=true)
 
 I also updated the BOM and created this document (and it's now past midnight).
 
 Final version (V2.1 in CAD document history):
-![V2.1](images/v2_1.png)
+![V2.1](https://github.com/playlogo/billig/blob/main/images/v2_1.png?raw=true)
 
 **Time spend in CAD:** Last 7h (had to go to school until 13:10 to get grades of last 2 years and the admission notice for my final 5 tests)
 
