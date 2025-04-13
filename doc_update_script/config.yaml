@@ -323,3 +323,123 @@ DelPrint-X:
   description: "A budget-friendly and stable 3D printer - fro stable performance"
   repository: "https://raw.githubusercontent.com/Programer6/DelPrint-X/refs/heads/main/DelPrint-X(Journal).md"
   file_name: DelPrint-X(Journal).md
+
+  NonLinear:
+  title: "NonLinear"
+  description: "5-axis printer designed for precision and complex parts"
+  repository: "https://github.com/Jyst7/NonLinear"
+  file_name: nonlinear.md
+
+DelPrint-X:
+  title: "DelPrint-X"
+  description: "A budget-friendly and stable 3D printer - fro stable performance"
+  repository: "https://raw.githubusercontent.com/Programer6/DelPrint-X/refs/heads/main/DelPrint-X(Journal).md"
+  file_name: DelPrint-X(Journal).md
+=======
+
+QuestionableAtBest:
+  title: "QuestionalPrinter"
+  description: "A large-build volume 5-axis printer"
+  repository: "https://raw.githubusercontent.com/DinosaurPotato534/questionableAtBest/refs/heads/main/JOURNAL.md"
+  file_name: questionable.md
+
+PancakeFlipper:
+  title: "Pancake Flipper"
+  description: "Upside-down toolchanger printer with belted Z axis"
+  repository: "https://raw.githubusercontent.com/tmshader/pancake-flipper/refs/heads/main/JOURNAL.md"
+  file_name: pancake-flipper.md
+
+IshanB3D:
+  title: "IshanB3D"
+  description: "A Smart 3D Printer With A Helpful Touch UI + Possibly A Wireless Feature"
+  repository: "https://raw.githubusercontent.com/ibhat2010/ishanb3dp/refs/heads/main/JOURNAL.md"
+  file_name: ishanb3d.md
+
+OwOPrinter:
+  title: "OwOPrinter"
+  description: "A 3D Printer with as many 3D Printed parts as possible while maintaining speed"
+  repository: "https://raw.githubusercontent.com/owohappy/OwOPrint/refs/heads/main/JOURNAL.md"
+  file_name: OwOPrinter.md
+
+TwinTrude:
+  title: "TwinTrude"
+  description: "A dual extrusion/print head 3D printer with a type-c port!"
+  repository: "https://raw.githubusercontent.com/joel909/project-twintrude/refs/heads/main/journal.md"
+  file_name: TwinTrude.md
+
+Stratos:
+  title: "Stratos"
+  description: "Compact and high-speed 3D printer based on the Voron V0 design, with modular upgrades, future automation capabilities, touchscreen interface, silent stepper motors, auto bed leveling (BLTouch), and Wi-Fi connectivity for remote control."
+  repository: "https://raw.githubusercontent.com/aayush-ojha/Stratos/refs/heads/main/JOURNAL.md"
+  file_name: Stratos.md
+
+Billig:
+  title: "Billig"
+  description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
+  repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
+  file_name: billig.md
+
+WayneTech3D:
+  title: "WayneTech3D"
+  description: "A 3D printer that is stoarage efficient, of good build quality and some basic features of a normal printer hopefully and a littlebit of batman wayne company style as much as possible"
+  repository: "https://raw.githubusercontent.com/Bhavya312007/WayneTech/refs/heads/main/JOURNAL.md"
+  file_name: WayneTech3D.md
+
+Terbium:
+  title: "Terbium"
+  description: "Can't afford a printer? Terbium, build one. Cheap CoreXY printer!"
+  repository: "https://raw.githubusercontent.com/akulsaju/terbium/refs/heads/main/JOURNAL.md"
+  file_name: terbium.md
+  
+EZ3d:
+  title: "EZ3D"
+  description: "a printer that's minimal and gets the job done (hence the EZ)"
+  repository: "https://raw.githubusercontent.com/VedanshMannem/EZ3D/refs/heads/main/JOURNAL.md"
+  file_name: EZ3D.md
+
+MuonForge:
+  title: "MuonForge"
+  description: "A battery and direct electricity powered 3d printer with rechargeability"
+  repository: "https://raw.githubusercontent.com/asmahdi08/MuonForge/refs/heads/main/JOURNAL.md"
+  file_name: MuonForge.md
+
+MiniPrintV1:
+  title: "MiniPrintV1"
+  description: "3-axis printer designed for precision and complex parts and maybe even a swappable tool head"
+  repository: "https://raw.githubusercontent.com/arp2019-Dev/MiniPrintV1/refs/heads/main/JOURNAL.md"
+  file_name: MiniPrintV1.md
+  
+NanoLab:
+  title: "NanoLab"
+  description: "A enclosed, small and thus hopefully portable 3D printer that allows printing high quality models with a whole bunch of different materials"
+  repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/main/JOURNAL.md"
+  file_name: nano_lab.md
+
+OrbeXY:
+  title: "OrbeXY"
+  description: "A small CoreXY 3D printer with a 10x10x10 build area"
+  repository: "https://raw.githubusercontent.com/esemv07/OrbeXY-3D-Printer/refs/heads/main/JOURNAL.md"
+  file_name: OrbXY.md
+
+CORE-SIX:
+  title: "CORE-SIX"
+  description: "A big, fast, multi-color CoreXY printer."
+  repository: "https://raw.githubusercontent.com/grandell1234/CORE-SIX/refs/heads/main/JOURNAL.md"
+  file_name: core_six.md
+
+Helper 1:
+  title: "Helper 1"
+  description: "A printer primarily focused on being tall to print big plane wings"
+  repository: "https://raw.githubusercontent.com/Patcybermind/helper-1/refs/heads/main/JOURNAL.md"
+  file_name: helper-1.md
+
+Axiom:
+  title: "Axiom"
+  description: "A mini desktop 3D printer powered by USB C."
+  repository: "https://raw.githubusercontent.com/coolinventorr/axiom/refs/heads/main/JOURNAL.md"
+  file_name: axiom.md
+PandA:
+  title: "PandA"
+  description: "A printer designed for rapid prototyping on the go."
+  repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
+  file_name: PandA.md
