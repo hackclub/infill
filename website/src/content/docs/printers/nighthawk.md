@@ -5,9 +5,10 @@ project_name: "Nighthawk"
 repository: "https://raw.githubusercontent.com/yashsethu/nighthawk/refs/heads/main/logbook.md"
 ---
 # Nighthawk 
-Nighthawk is a budget, beginner friendly core-xy printer inspired by the Voron 0.2! Ideally, the goal is for it to be as fast as possible!
+Nighthawk is a budget, beginner friendly core-xy printer designed to go fast! 
+![image](https://github.com/user-attachments/assets/b6e3fc30-78a2-4334-b283-a82a34367e71)
 
-CAD: https://cad.onshape.com/documents/9f6081b42dd620e3b70b8ed4/w/61d0d2c4dd2d5a6a0ed231f5/e/00db797bbb767489537577aa?renderMode=0&uiState=67ee31a8cbe352034e171d82
+CAD: https://cad.onshape.com/documents/3186eea6377bce7836e0401c/w/5553290dba011a4fef555910/e/45d615a5b9130724f59f9021?renderMode=0&uiState=67fb559247aff81f521ea9fc
 Note: I couldn't find a CAD for 150mm stepper, so 200mm is in the CAD. Yes, I know it will hit the x/y axis.
 
 ## Planning
@@ -27,6 +28,7 @@ For the toolhead, I started off with the aesthetic of the Apogee toolhead for th
 
 - Rapido hotend mount + linear block mount + BLTouch holder mount (6 hrs)
   I integrated all the mounts into one to save weight -> print faster!
+
 ![image](https://github.com/user-attachments/assets/7b46b22d-0484-464a-bb28-7a0598df8fba)
 
 ![image](https://github.com/user-attachments/assets/4fce721d-af8b-4e2e-aee1-25a7bd769c94)
@@ -34,44 +36,87 @@ For the toolhead, I started off with the aesthetic of the Apogee toolhead for th
 - BLTouch mount (Had to be built from scratch to fit the Sherpa Mini) (1 hr)
 ![image](https://github.com/user-attachments/assets/633c3ad5-eae2-4f4e-bf5d-8f6ea63f5215)
 
-- Final assembly (with an accelerometer)
-  Klipper needs accelerometer readings for input shaping (make printer go wheee), so I managed to (barely) add one in 
+- Final assembly (with an accelerometer) (30 min)
+  Klipper needs accelerometer readings for input shaping (make printer go wheee), so I managed to (barely) add one in (faster! faster!)
+
 ![image](https://github.com/user-attachments/assets/2f236289-0eb3-480c-9b90-cd85538516bd)
 
-## Gantry
-For the gantry, I'm going to copy the basic config and geometry of the Voron gantry, but change up spacing + mounts to fit my toolhead and remove legacy Voron attachmnents like support for the tophat and weirdly shaped (IMO) x/y axis endstops. (5 hrs)
-![image](https://github.com/user-attachments/assets/1bee0fc3-490e-4f85-9b37-064485aadf3c)
+- I forgot about belts, redesigned v2 (3 hrs)
+![image](https://github.com/user-attachments/assets/ee3a5241-a645-4dcf-ac49-a45c4f623c82)
 
-Changes:
-- Redesigned the cursed toolhead mount that has this part that inexplicably intersects with the cowl (It might be a support? Idk, but took some digging to delete it (2 hrs)
-- Deleted legacy x/y endstop mounts (See final assembly for new mounts) (30 min)
-- Changed spacing/mounting stuff, removed tophat support, removed polycarbonate mounts, etc. (3 hrs)
+- MGN12H rails are too bulky/heavy for this size of printer (plus, their geometry straight up doesn't work with 1515 extrusions), downsized to MGN7H rails v3 (2 hrs)
+![image](https://github.com/user-attachments/assets/be4c5caa-4b0a-4720-a701-b15e1a2be0dc)
+
+- Needed to slim carriage to avoid impact with joints (so that homing is easier, and faster!) (v4) (1 hr)
+![image](https://github.com/user-attachments/assets/9c6d2dd7-f889-4e27-a841-c43ae2de02f0)
+
+## Gantry
+- First, I made an "x-axis" (I'll import real extrusions later) (10 min)
+![image](https://github.com/user-attachments/assets/d439d250-47d6-41d7-b26f-d47b58a284e8)
+
+- Then, I had to get working on the two joints. I sketched up a basic sketch of their shape first, I tried to keep it minimal to save weight (20 min)
+![image](https://github.com/user-attachments/assets/0cef8b3a-180a-4c14-8553-1e436dc09891)
+
+- To determine holes, I modeled the belt paths before making the holes (20 min)
+![image](https://github.com/user-attachments/assets/d115b90d-1cb6-4e57-b317-dfecbff768ac)
+
+- Then, I made the holes, and I have basic joints now! (10 min)
+![image](https://github.com/user-attachments/assets/97d45350-9fa5-4c91-8547-13f0b25fb847)
+
+- With some chamfers and fillets, this looks a lot nicer (5 min)
+![image](https://github.com/user-attachments/assets/997feab2-7bd0-4aa0-9434-3c27265c941b)
+
+- Uhh, just realized that I forgot about the actual blocks on the carriage joint, added them now (30 min)
+![image](https://github.com/user-attachments/assets/5a31f54f-9f6b-4507-9ed7-380b631133bb)
+
+- Quick block cad of the drives, the stepper is mounted to the top because it doesn't clear the height of the toolhead anyway and it's much better for CG (20 min)
+![image](https://github.com/user-attachments/assets/0682a8a6-ca4b-404a-8524-d04958f86cb7)
+
+![image](https://github.com/user-attachments/assets/5b604b8c-1ca0-4e09-9fb0-277d9207f7ff)
+
+- Sketched out motor holes (mounted to the top) (Tensioning should be relatively simple with these style) (20 min)
+![image](https://github.com/user-attachments/assets/28ee6ab4-2447-40b4-bd4e-9c4e1d2b720c)
+
+- Made holes and shaft hole + some chamfering/filleting (20 min)
+![image](https://github.com/user-attachments/assets/3421074c-41fe-4a19-a8f3-e4fe92dfe616)
+
+- Made a quick idler pulley (5 min)
+![image](https://github.com/user-attachments/assets/c4325f1f-d7dc-4a57-ae69-904399732975)
+
+- Mated the two steppers in, added screws, mated in pulleys and idler pulleys (1 hrs)
+![image](https://github.com/user-attachments/assets/6c44ccf9-3bb5-4eca-8726-4777c912573f)
+
+- Quick sketch + block of idlers (20 min)
+![image](https://github.com/user-attachments/assets/48e7102b-4be7-409b-9939-d21eba0fbcd5)
+
+- Chamfers + parts (20 min)
+![image](https://github.com/user-attachments/assets/d7735c36-751f-4624-8f22-f802616ad2b3)
+
+- Modeling belts (1 hr, so many things broke :( )
+![image](https://github.com/user-attachments/assets/22289dee-ee9f-47a9-a7e9-3623e9cda514)
+
+- Fully gantry assembled!
+![image](https://github.com/user-attachments/assets/4c30e520-25a9-4a62-bcd9-21ad322be88e)
 
 ## Z-Axis
-This is still heavily inspired by the v0.2 (It's such a good printer), but it has been almost completely redesigned compared to legacy.
+Final assembly:
 ![image](https://github.com/user-attachments/assets/557f1e79-0397-48e8-9bbf-03bd7d31b402)
 
-Changes:
-- Completely redesigned all bed mounts (From build plate to extrustions), needs to be more filament-efficient and less blocky looking (2 hrs)
+- Built all all bed mounts (From build plate to extrustions), needs to be small (filament efficient) and light (while being strong enough to support the bed) (3 hrs)
 ![image](https://github.com/user-attachments/assets/02fe16ed-926a-40e9-a522-681f534479db)
 
-- Moved ball screw stepper next to bottom-most extrusion (Instead of mounted underneath) to save the extra two extusions and +1/4 ft height increase (30 min)
+- Mounted the ball screw stepper next to the bottom-most extrusion for stability + save extrusions (1 hr)
 ![image](https://github.com/user-attachments/assets/4de5d8cd-29fa-4c1b-9911-b79e3463fc15)
 
 - Made a mounting plate for the ball screw stepper (30 min)
 ![image](https://github.com/user-attachments/assets/6357a97a-c544-4060-b830-6da8d91044fd)
 
-- New mounting plate for the ball screw and nut to the bed (spacing changed, also ugly geometry replaced) (2 hrs)
+- Munting plate for the ball screw and nut to the bed (spacing changed, also ugly geometry fixed) (2 hrs)
 ![image](https://github.com/user-attachments/assets/ba5ed8d7-0c78-4ba5-9fb4-04e6a28ba45c)
 
 ## Frame
-I wanted to keep it simple here, 15mm extrusions with a very simple architecture. The v.02 was too complicated with the tophat and skirts so yeet they go! Then, I remade it so I wouldn't have to hold everything together with 3d printed parts. (3 hrs)
+I wanted to keep it simple here, 15mm extrusions with a very simple architecture. I tried to use as much of the v0.2 architecture as possible because their frame kits are relatively inexpensive (3 hrs)
 ![image](https://github.com/user-attachments/assets/ec3bfd3c-25a0-4ecb-8a03-405cacc6d4c2)
-
-Changes:
-- Screw the tophat! If I really want it later, I'll make it but I'm too lazy to copy it and too broke to buy more extrusions
-- No skirts! I moved the stepper so I have more space now!
-- No 3d printed stuff holding aluminum together! Iron sharpens iron as extrusions screw into extrusions
 
 ## Electronics
 My computer will crash if I load any more assemblies, so here's the plan:
@@ -113,7 +158,7 @@ Unfortunately, there is no torque curve, so I need to find the estimated RPM out
 
 Alright, so for a Z axis, this is really fast, so I switched the motor out! 
 
-### Gantry
+### Gantry Physics
 Now, for the gantry, here's the torque curve for the stepper I'm using:
 
 ![image](https://github.com/user-attachments/assets/05d45417-a912-4be4-8cea-fc632299be13)
