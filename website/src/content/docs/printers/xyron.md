@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/de
 ---
 made by @Rmardia \
 Repositiory link: https://github.com/Rikhav21/Xyron \
-Total hours so far: 32.5
+Total hours so far: 74.5
 - [x] I have a 3d printer right now.
 ## Day one
 ### Research
@@ -23,25 +23,25 @@ I started with onshape, and got a liitle of the gantry done.
 ### Design
 Today I learnt a little bit more about onShape and got continued with the assembaly. Most of my time just was spent figuring out how to use the assembaly.
 ### Time
-3 hours and 30 minutes
+5 hours and 30 minutes
 
 ![gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f9479e545415152b83557be21132319edbca0ca3_image.png)
 ## Day three
 ### Design
 Today I continues working on the gantry and now have to work on the tool head. The X and Y linear rods are finished with the modeling.
 ### Time
-2 hours.
+6 hours.
 
 ![gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/69f2ee63b276ca6b8ddcc5fadbf4cd25cfd2c24f_image.png)
 ## Day four
 ### Design
 Today I did a lot of work on the gantry, and added some screws on the assembally, however I realized that I forgot about the idelers, so I have to do that later. 
 ### Time
-Today I spent 2 hours on the design.
+Today I spent 5 hours on the design.
 ## Day five
 ### Design
 Today I have redesign a lot of the parts because I forgot the idlers, I also redid the assembally and a ton of the parts, It was so annoying that I had to make so many changes for one tiny thing
-Time 3 and a half hours.
+Time 5 and a half hours.
 ## Day six
 ### Design
 Today I did a lot of designing, made the x axis with the linear rods, and though about ways that I could do bed leveling. I decided on just using screws, and rubber bands to hold the bed in place
@@ -51,7 +51,7 @@ Six and a half hours.
 ### Design
 Today I continued working on the bed and started my BOM.BOM. I finished most of it, then realized that I would also need am extruder, so I had to model a mount for that.
 ### Time
-4 hours.
+8 hours.
 ![BOM](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7d7b2ad1ec9edff963e7cf3785368f108ebc2c96_image.png)
 ## Day Eight
 ### Design
@@ -66,3 +66,27 @@ Today I just adjusted some clearances, and mounted the board to the printer. I g
 ![Design](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e94fbb0cf590c2e1e21ef8fae0c81a895c2cb617_image.png)
 ### Time
 2 hours.
+
+## Day nine
+### Design
+Today I mainly just ordered parts, and researched for some better deals. I also researched for a filament extruder.
+### Time
+Five and a half hours.
+
+## Day ten
+### Design
+Today I satrted getting some of parts, and just did some assembling, and printed a hot end holder out of petg, although I did suffer some stringing, but it worked well enough.
+### Time 
+three hours.
+
+## Day eleven
+### Design
+Today I just continued with assembly mounted the motors, and started screwing parts together. I might have made the holes too small for the heat set inserts, but at the end I expeanded it with a wood burner, so it worked out.
+### Time
+Seven hours.
+
+## Day twelve
+### Desgin
+Today I worked on assembling the gantry, and I did a lot of trying to getting the bearings into the part where I could screw them into the back.
+### Time
+four and a half hours.

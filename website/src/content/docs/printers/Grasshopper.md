@@ -8,163 +8,152 @@ Made by: @The Grass
 
 Repository link: https://github.com/IM-THE-GRASS/Grasshopper/
 
-Total hours so far: 25hrs
 
 
-Idea: My open-source, DIY 3D printer that aims to be <$300, fast ~~and have multi-color capabilities~~ and be made in less than ~~2~~ 3 days
+Idea: My open-source, DIY 3D printer that aims to be <$300, fast and have multi-color capabilities
 (basically a knockoff Bambu Labs printer :P )
 
 
 Needs:
-- Klipper compatibility
-- ~~Multicolor capability~~
+- Klipper compatibility 
+- Multicolor capability
 - Speed
 - <$300 
+- tool changing w 3+ toolheads
 - doesn't burn my house down
-- finished in <3 days (Before the deadline for the [](infill)(infill.hackclub.com) grant!)
 
 
 
-## BOM: 
+## BOM: https://docs.google.com/spreadsheets/d/11WWtIpPK1oKAUAqFiGI0ntGETxiEKY7pBF-rYmQmeXQ/edit?gid=0#gid=0
 
-> [](!NOTE)
+> [!NOTE]
 > Price & Source is the case for my part individually. Source parts yourself if you plan on building a Grasshopper
-
-https://docs.google.com/spreadsheets/d/11WWtIpPK1oKAUAqFiGI0ntGETxiEKY7pBF-rYmQmeXQ/edit?usp=sharing
 
 
 
 
 <div align="center"><h1>Day 1</h1></div>
-<div align="center"><h3>Mar 26, 2025 - 11hrs</h3></div>
 
 <hr>
+Today I talked to @darii/alexren and I realized that the the original Grasshopper project had strayed quite far from my original intentions for this project. Instead of a multicolor and user friendly printer, what I made was a rushed & generic corexy machine running Klipper. Because of that, I'll be spending a while to try and completely redesign the project into a toolchanger printer similar to a Prusa XL that's a bit more reasonable in terms of cost.
 
-The Infill grant is due in less than 5 days, so my goal for the next couple days was to speedrun the printer, and that's why I spent 10+ hours almost every day.
+In the new BOM we're using 3 toolheads that each have HGX LITE extruders and Bambu lab x1c hotends. The hotends may seem like an odd choice, but they surprisingly have a large market of clones on AliExpress with decent performance and dirt-cheap prices compared to some other hotends. heres a detailed list of why i chose each part on these new toolheads:
 
-### update 1 :
+HGX lite
+- super powerful with the big gears
+- dirt cheap (fr tho how do they make these so cheap??? theyre all metal!!!)
+- all metal (somehow)
 
-Initially, I spent some time creating a BOM for my printer to plan out a budget & make a concept for what will be needed for the printer.2-3 hours were spent formulating a BOM that included all the necessities for a basic printer, but didn't have multicolor. 
-In the future, if I can manage some budgeting I'm planning to add a [Pico MMU](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20%40LH), but without the extra servo, stepper, belts, etc. added by a Pico MMU the total (excluding shipping & taxes) was already $283.82. The size of the Infill grant limits the Grasshopper's budget to <$300, and even a basic BOM was reaching far too close to that ceiling. That means I'll certainly have to adjust the BOM, but for now I'll start on CAD for a basic frame.
-
-### update 2 :
-
-After looking at my options for the frame of the printer, I decided to make the basic frame out of 2040 and 4040 T slot aluminum extrusions (and later 2020 extrusions). They're sturdy enough and I already had enough for almost the entire printer. 
-
-
- ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5d7cdbc9105f61a7cad67849f1820dc6ed512496_pasted_image_20250329002239.png)
+Bambu lab hotend
+- small so I don have to make my printhead tooo big (unlike my old one ☠)
+- oddly good performance
+	- according to people on reddit, also an x1c can run at 500mm/s
+- dirt cheap
+	- it has a huge market for clones on aliexpress, and even the legit ones are kinda crazy cheap
  
- I made this connector in Fusion 360 that allows 4040 and 2040 extrusions to slot together at a 90 degree angle.  
+5020 blower fan
+- apparently the bare minimum according to @evan le (lol)
+- not tooo big but probably enough cooling that i can have only 1 fan instead of 1 on both sides like before
+  
+klicky auto leveling
+- this thing is suuuper cheap somehow 
+	- ~$5 instead of $60 for a BLtouch?!?
+- has good enough performance for me
+
+Now it's time to start making the toolchanger. 
+
+
+### update 1:
+
+After searching around, I found ankurv2k6's DAKSH V2 project on [Github](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main) and it's perfect for the Grasshopper. I'm certainly going to heavily modify his design but the basic connection mechanism will stay the same. For more info [this video](https://www.youtube.com/watch?v=OmmizInw3kI) (from ankurv2k6 himself!) explains the mechanism pretty well.
 
 
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ace9f111929f94a44a4dfc45c80402d2f7979c7_pasted_image_20250329002521.png)
+### update 2:
+I managed to position most of the parts including the fans, hotend and extruder. I'm now realizing though that there are some major clearence issues with the extruder and the dock. I'll try and modify the dock a little bit tommorow to rememdy that. I also got a fan duct that I'm not sure will work very well but it's the best I could do. 
 
-Using those connectors, I made this basic frame that I would later fill in the gaps of.
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0907216a2ebc2f3ca47dfa407b0ede9cf5a8cf24_pasted_image_20250402005109.png>
 
+## update 3:
+I realized this positioning won't work, because the extruder motor and fan both interfere with where the dock would connect to the printer. Because of that, I flipped the extruder around and cut a hole in back. This design is a lot better because it 
+1. clears up some space so we can have a bit more build volume
+2. makes it actually feasible to make lol
+3. makes the center of gravity a bit closer to the actual center.
 
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/5077f0535e6fb918c8460ab92b5b20f581463c9e_pasted_image_20250412115956.png>
+Along with that, to fix the fan's positioning I moved it to be part of the base of the toolchanger. I also made a basic fan duct using the revolve and loft tools (may or may not work idrk lol)
+This is better because
+- now we only have to buy one fan, instead of 4 which saves a ton of money 
+- the center of gravity is closer to the back 
+- also frees up a bit of space for more build volume
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3b34aa4472cd874a85e0b6d1293a5c2864cf60c1_pasted_image_20250329002423.png)
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8e68ab58c3b5e327442473bf643656b181d24be0_pasted_image_20250412120149.png>
+also i fixed the position of the klicky :P
 
-For the top of the printer, I modeled some other basic connectors for 2040 and 2020 extrusions and then sed some pre-tapped extrusions for the other side. The pre-tapped extrusions use M5 screws.
+## update 4
 
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/92d17536dd27f5011e55d92f4404c59e6696d21b_pasted_image_20250412120508.png>
+I positioned the hotend and the cooling fan. The position is actually completely diffrent from what I chose before because I needed to make it line up with the extruder (lol) 
 
+I also made some minor changes to the dock by moving some parts around like some of the magnets and stuff, but they weren't really noticeable enough for me to take a photo.
 
-### update 3 :
-
-
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0f6f7b6c501c9203689d99bb5caa0b555ceb203_pasted_image_20250329004626.png)
-
-After, I mounted the linear rods and placed the Z axis stepper motor so I could then mount the bed. 
-
-The linear rods are mounted using a 3d printed bracket that slides into the 4040 extrusions and uses M5 screws to secure itself. The top of the linear rods are supported by a 3D printed part that bridges two connectors at the top.
-
-
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/37f4b09b3e8de830b9507300700ae7b585d7351d_image.png)
-
-I then sketched out a part that the bed would screw into. The two linear rods stabilize it and the lead screw moves the bed up and down.
-
-
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb27de552991d3d2be47da5eca9cd98f3d4b7fe9_image.png)
-
-The bed I used was a 220W heated bed from a Creality Ender 3 V2 that I already had on hand. It uses M3 screws to fasten itself to the part that was mentioned in the last section.
-
-
-
-### update 4 :
-
-
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7c53cb4a6336e7ec3f0e6721507e41ddca229221_image.png)
-
-I added a box for the mainboard and Raspberry Pi Zero 2W to reside in. The box has a separated top and bottom which allows easy access to the electronics within. Both parts slide in using the slots in the 4040 aluminum extrusions and are locked into place by the connectors
-
-
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45cebf00cb5f906e07140097ebed021163b99d5e_image.png)
-
-I added screw holes to the connectors that permit M5 screws using heat set inserts to secure the connectors and prevent issues with the connectors moving slightly out of place.
-
-
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77c9f5d570a17c2c8b18863fd23436d18d806ee8_image.png)
-
-Afterwards I began on the XY gantry at the top of the printer that would later hold the printhead and all the motion components (other than the Z axis). It uses MGN12 linear rails and 3d printed connectors. 
 
 
 
 <div align="center"><h1>Day 2</h1></div>
-<div align="center"><h3>Mar 27, 2025 - 5hrs</h3></div>
-
-<hr>
-Today was spent on mostly making the belt path of the printer. I also researched a bit more about the parts required and realized that there was no way the Grasshopper can fit a Pico MMU in the budget. Today the budget was finalized and, after accounting for a higher flow nozzle and faster stepper motors, I was overbudget by a significant amount without any gimmicks like multicolor. Because of that, I scrapped the multicolor idea and decided to pay for part of the printer out of pocket. 
+Today I planned to start working a bit on the frame. I would mostly be stealing parts from the Grasshopper v1 but making it a lot longer so I would have space for the toolchanger in the back. 
+I also decided to try and use some metal connectors from aliexpress instead of the 3d printed ones i made mostly because they were 1. a lot stronger and 2. took less time ( i didnt have to design them :P )
 
 
+## update 1
+I used mainly the same peices for this, but i also added a couple 2020 extrusions that I didnt have before because in my past design 2/4 of the extrusions on the top were 3d printed which was certainly not very good for the structural rigidity
 
-Today I didn't do much in terms of CAD other than copy & pasting pulleys and belts.
+The PSU was also positioned kinda odd but that's because the gap will be filled by a box to hold some electronics.
+
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2628bb02bc8877ee750cb1785c8a674897bf9a7a_pasted_image_20250412134507.png>
 
 
-In the end, this is how the belt path looked:
+## update 2
+Next I added the X axis and the toolhead. The part that connects the linear rails on the y axis and the 2020 extrusion for the X axis is a pretty basic 3d printed part. I'm not quite sure it'll hold up in the end but if it doesn't I'll just redesign it in the future.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9c7cc142ff2ee6b9c614c51687d43f2df668c0ba_image.png)
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6f1611befbcf7ce6ba1bd64612548bd46347f0b8_pasted_image_20250412141939.png>
 
-The path follows this basic idea:
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/abb2dfa7e547077a7952fed45b0ad16df1b02d14_image.png)
+Heres how it looks w/ the toolchanger: (there isn't going to be 4 in the end prolly its just gonna be 3)
+
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/38f4a59c4bb0bb549c7b071269d7efc79f67e7b6_pasted_image_20250412142056.png>
+
+
+## update 3
+After doing the x and y axis, I made this triple lead screw z axis.
+in the OG grasshopper I used only 1 and 2 linear rods, but after talking a bit online I realized that would cause a lot of issues with the z axis locking up. Also, I had some extra motors and ports either way so it wouldnt take much out of my budget
+
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e67ad0fea0ab7b7aa8353be60891e90b577b6ccc_pasted_image_20250412143243.png>
+
+
+
+## update 4
+At this point I was basically done the printer's CAD so i just tried to add some finishing touches.
+I added a screen holder for a random car display i had in my garage and a couple boxes to hold the elexctronics. 
+
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9e4b5b588f8c5bea3a94fee58b5d4a5f50b41a6_pasted_image_20250412144345.png>
+
+Other than that, I also added a small camera in the corner. The camera is a composite one that runs on 12v that i stole from my garage jus like the screen :P
+
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/c271211791758cb3f25ba66a821f273bb89a53db_pasted_image_20250412144535.png>
+
+
+
+
 
 <div align="center"><h1>Day 3</h1></div>
-<div align="center"><h3>Mar 28, 2025 - 9hrs</h3></div>
-
-<hr>
-
-Today I didn't do much research as my BOM was mostly done but I spent my time CAD-ing the toolhead, which was by far the part of the printer I was least confident in making.
-
-### update 1:
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ea2fa665451e1eddfe5b0c38364d4cc0c2a84ccb_image.png)
-
-First, I placed the parts in the way they would be in the final printer. On top there's a Sherpa Mini extruder, the hotend is a Trianglelabs Dragon Ace and the fans on the side are 4020 blower fans.
-
-### update 2:
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/584f3c8cbb15b7d8d7e5447573b7b8adbdd202e2_image.png)
-
-After some struggle, I made this part that would connect the entire hotend together that I plan to 3D print using a heat resistant filament.
-
-### update 3:
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d9c8e220aa6b050ee45316fadb3c233ca31ce427_image.png)
-
-Afterwards, I built a case around the core of the hotend.
+Today I basically just did the belts on the top and the overall motion system. In the past it really wasn't that good because I was really confused about how a corexy belt path worked, but now I think I got it a bit more nailed down.
 
 
+### update 1
+I made this kinda belt path but idrk if it will work too well
+the idlers are just kinda screwed into the extruison and I'm afraid the screws holding them in might bend. If they do then I'll prolly change them up a lot but rn I have a math test and I want to ship this printer 😭
 
-### update 4:
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/49285c0e45f7e32027b6f85ed6823e348486b1c2_pasted_image_20250413143211.png>
 
-At this point, the printer was finished. 
-
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5953286877d5b56647b48d954d0bf627fb1a39e_image.png)()
 
