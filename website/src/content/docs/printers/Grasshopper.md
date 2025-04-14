@@ -24,7 +24,7 @@ Needs:
 
 
 
-## BOM: https://docs.google.com/spreadsheets/d/11WWtIpPK1oKAUAqFiGI0ntGETxiEKY7pBF-rYmQmeXQ/edit?gid=0#gid=0
+## BOM: https://github.com/IM-THE-GRASS/Grasshopper/blob/main/V2/BOM.md
 
 > [!NOTE]
 > Price & Source is the case for my part individually. Source parts yourself if you plan on building a Grasshopper
