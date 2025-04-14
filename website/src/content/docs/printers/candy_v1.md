@@ -9,7 +9,7 @@ Made by: @outdatedcandy92
 
 Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outdatedcandy92/CandyV1)
 
-### Total Hours: 40
+### Total Hours: 56
 
 - ✅I have a 3D printer or will be getting one before March 21st
 
@@ -18,7 +18,7 @@ Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outd
 
 Things To Do:
 
-- [ ] Order Parts
+- [x] Order Parts
 - [ ] Mechanical Filament runout sensor
 - [ ] Part Cooler Design
 - [ ] X-axis motor mount
@@ -179,6 +179,55 @@ I'm planning on buying the parts soon, and then continue on improving the design
 
 3D Model-
 ![Image](https://github.com/user-attachments/assets/5ad5988c-e98f-4c5f-a250-8dab14d97939)
+
+### Time Spent: 6 Hours
+## Day 12 (March 27th)
+
+### Update:
+I orderded all the parts, and they should be arriving in the next 3 weeks.
+
+
+
+## Day 13-21 (Apr 1st - Apr 9th)
+Over the past 2 weeks almost 90% of my stuff has arrived and I have started the build process.
+The main frame of my printer was completed this week, I made a few minor changes from my orignial frame design like changing the orientation of the bottom 2020 extrusions and how they connect to each other. Instead of one end of a 2020 extrusion going into the side of another 2020 extrusion, they both now connect to a 20x20mm block, so the overall footprint of the bottom frame is now 490x490mm instead of the previous 490x450mm.
+[image]
+
+For the vertical part of my frame I had a few design prototype, the first prototype was where my smooth rod was attached to the corner bracket of the bottom and vertical 2020 extrusion.
+![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/94c1b77004b54978e7840ce50080848ec38dda9c_20250406_133310.jpg)
+![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b969f9580cb1a9e5dd1ca2cef322348cb458d6b9_20250406_210339.jpg)
+The second prototype changed the location of the smooth rods and moved them to inside the frame instead of on the frame.
+![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eef63a4949be86229bc8fa97b55f2d39029abd5b_20250408_221733.jpg)
+
+
+Since my printed doesn't have heatplate, I used 2 of 2mm wood boards glued together as the base which connects the y-carriage to the build plate, In theory this should work just fine as I am only gonna print PLA on it and it has a textured PEI sheet which should be sticky enough for the PLA without heat.
+[Image]
+
+
+#### Diy AMS System
+For my AMS system my plan was to use 28BYJ48 5V motors to extrude the filament, but unfortunately that did not work as expected, the motor was running slow and filament wasn't being gripped properly by the 3D printed gears.
+![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/55a4e7331eb15a2d620d683c12ef264d17fad1a2_20250406_210518.jpg)
+
+Going forward I think I'll buy metal gears and nema 14 or nema 17 motors to push the filament.
+
+### Time Spent: 8 Hours
+
+## Day 22 (10th Apr)
+Most of today was spent on prototypes for the Y-axis smooth rod holders. I had a couple iterations of prototypes for this design and for now ended up with this.
+![Image]
+
+However this keeps the smooth rods centred which is a problem because our tool head is not exactly centred on our printer, to solve this problem I plan on moving the smooth rods a bit forward later on.
+
+### Time Spent: 2 Hours
+
+## Day 23-24 (12th-13th Apr)
+
+- Worked on Z-Axis Motor Mounts
+
+*will include updated images in next commit*
+
+
+
 
 
 
