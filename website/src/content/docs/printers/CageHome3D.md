@@ -33,48 +33,49 @@ Notes:
 
 # BOM
 
-Part	Qty
-2040 300 Aluminum extrusions	2
-2020 400 Aluminum extrusions	2
-2020 340 Aluminum extrusions	4
-	
-MGN12 Linear Rails 300mm + Carriage	3
-M3x8 Screws	30
-	
-15mm Diameter Flanged Ball Bearings	16
-1mm Washers	6
-	
-Open timing belts 6mm, 2mm, 800mm	2
-Open timing belts 6mm, 2mm, 400mm	1
-Belt tensioners	6
-Limit switches	3
-NEMA17 Stepper Motors	3
-GT2 Pulleys 20 tooth	3
-	
-Sherpa Mini	1
-E3D v6 Clone	1
-4010 fans	2
-	
-SKR Mini v3 Mainboard	1
-Raspberry Pi 4B	1
-USB PD 140W Sink Board	1
-USB C 140W charger	1
-Piece of wood (to screw electronics on)	1
-	
-Heated bed 220x200mm 	1
-PEI Sheet	1
-Magnets	4
-Piece of wood (to hold the bed to carriage)	1
-6mm Spacers	4
-	
-M5x16 captive screws	4
-M3x30 screws	12
-M3x12 screws	20
-M5x40 screws	4
-M5x10 screws	20
-
-24AWG wires  1m
-Wire connectors  3
+| Part                                        | Qty | Unit Price (RMB) | Final Price (USD) | Link                                                                                                                                                                                                                                                                 |
+| ------------------------------------------- | --- | ---------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2040 300 Aluminum extrusions                | 2   | 20.18            | 5.65              | [CNC D Prin...-Taobao Singapore](https://sg.world.taobao.com/item/682065534894.htm)                                                                                                                                                                                  |
+| 2020 400 Aluminum extrusions                | 2   | 12.50            | 3.50              | [100-800MM ...-Taobao](https://world.taobao.com/item/745562250942.htm?spm=a21wu.10013406-tw.taglist-content.4)                                                                                                                                                       |
+| 2020 340 Aluminum extrusions                | 4   | 30.29            | 16.96             | [4pcs/lot 2...-Taobao](https://world.taobao.com/item/680971167240.htm?spm=a21wu.10013406-tw.taglist-content.1)                                                                                                                                                       |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| MGN12 Linear Rails 300mm + Carriage         | 3   | 73.00            | 30.66             | [1PC High P...-Taobao](https://world.taobao.com/item/823495859898.htm?spm=a21wu.10013406-tw.taglist-content.11)                                                                                                                                                      |
+| M3x8 Screws                                 | 30  | 0.50             | 2.10              | [M2M3 M2.5 ...-Taobao](https://world.taobao.com/item/657162623600.htm?spm=a21wu.10013406-tw.taglist-content.4)                                                                                                                                                       |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| 15mm Diameter Flanged Ball Bearings         | 16  | 1.50             | 3.36              | [Promotional High Quality Flange Bearing F695-2Rs 5\*13\*4mm F695Rs 3D Printer Bearing Cup Type-Taobao](https://world.taobao.com/lang/en-us/item/593248474426.htm)                                                                                                   |
+| 1mm Washers                                 | 6   | 0.00             | 0.00              | (at home)                                                                                                                                                                                                                                                            |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| Open timing belts 6mm, 2mm, 800mm           | 2   | 20.50            | 5.74              | [2pcs 20T G...-Taobao](https://world.taobao.com/item/895113913815.htm?spm=a21wu.10013406-tw.taglist-content.1)                                                                                                                                                       |
+| Open timing belts 6mm, 2mm, 400mm           | 1   | 20.50            | 2.87              | [2GT-6mm橡膠開...-Taobao](https://world.taobao.com/item/45734470156.htm?spm=a21wu.10013406-tw.taglist-content.3)                                                                                                                                                        |
+| Belt tensioners                             | 6   | 0.00             | 0.00              | (included in above)                                                                                                                                                                                                                                                  |
+| Limit switches                              | 3   | 2.76             | 1.16              | [https://world.taobao.com/item/680045689973.htm](https://world.taobao.com/item/680045689973.htm)                                                                                                                                                                     |
+| NEMA17 Stepper Motors                       | 3   | 39.00            | 16.38             | [42步進馬達 NEM...-Taobao](https://world.taobao.com/item/41556672992.htm)                                                                                                                                                                                                |
+| GT2 Pulleys 20 tooth                        | 3   | 0.00             | 0.00              | (included in above)                                                                                                                                                                                                                                                  |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| Sherpa Mini                                 | 1   | 129.00           | 18.06             | [5pcs Mini ...-Taobao](https://world.taobao.com/item/680045689973.htm)                                                                                                                                                                                               |
+| E3D v6 Clone                                | 1   | 13.00            | 1.82              | [E3D V6沃龍vo...-Taobao](https://world.taobao.com/item/691955764036.htm?spm=a21wu.10013406-tw.taglist-content.12)                                                                                                                                                      |
+| 4010 fans                                   | 2   | 15.98            | 4.47              | [CAIZHU-FAN...-Taobao](https://world.taobao.com/item/758694705918.htm?spm=a21wu.10013406-tw.taglist-content.1)                                                                                                                                                       |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| SKR Mini v3 Mainboard                       | 1   | 358.00           | 50.12             | [BIGTREETEC...-Taobao](https://world.taobao.com/item/674685993845.htm?spm=a21wu.11804641-tw.shop-content.20)                                                                                                                                                         |
+| Raspberry Pi 4B                             | 1   | 0.00             | 0.00              | (at home)                                                                                                                                                                                                                                                            |
+| USB PD 140W Sink Board                      | 1   |                  | 4.38              | [140W USB-C Fast Charge Trigger Board Module PD/QC Decoy Board USB Type-c PD3.1Power Delivery Boost Module 28V/36V/48V - AliExpress 13](https://www.aliexpress.com/item/1005006493054354.html)                                                                       |
+| USB C 140W charger                          | 1   | 0.00             | 0.00              | (at home)                                                                                                                                                                                                                                                            |
+| Piece of wood (to screw electronics on)     | 1   | 0.00             | 0.00              | (at home)                                                                                                                                                                                                                                                            |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| Heated bed 220x200mm                        | 1   | 55.84            | 7.82              | [3D打印机热床MK3铝基板DIY套件Reprap加热板铝板平台配件带线套装-淘宝网](https://item.taobao.com/item.htm?abbucket=1&id=640200686112&ns=1&priceTId=2100c88517397981806302575e0bf8&skuId=5297253604557&spm=a21n57.1.item.46.aeba4b7a0sKoKk&xxc=taobaoSearch)                                       |
+| PEI Sheet                                   | 1   | 44.50            | 6.23              | [TZ拓竹子3D打印双...-Taobao](https://www.taobao.com/list/item/713641176769.htm?spm=a21wu.10013406.taglist-content.2)                                                                                                                                                       |
+| Magnets                                     | 4   | 0.00             | 0.00              | (at home)                                                                                                                                                                                                                                                            |
+| Piece of wood (to hold the bed to carriage) | 1   | 0.00             | 0.00              | (at home)                                                                                                                                                                                                                                                            |
+| 6mm Spacers                                 | 4   | 0.30             | 0.17              | [TZ拓竹子3D打印双...-Taobao](https://www.taobao.com/list/item/713641176769.htm?spm=a21wu.10013406.taglist-content.2)                                                                                                                                                       |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| M5x16 captive screws                        | 4   |                  | 4.25              | [M2 M2.5 M3 M4 M5 M6 M8 GB839 304 Stainless Steel Short Head Slotted Captive Hand Screw Knurled Thumb Anti-loosening Screws Bolts - AliExpress](https://www.aliexpress.com/item/1005005870441490.html?pdp_ext_f=%7B%22order%22%3A%2268%22%2C%22eval%22%3A%221%22%7D) |
+| M3x30 screws                                | 12  | 0.50             | 0.84              | [M2M3 M2.5 ...-Taobao](https://world.taobao.com/item/657162623600.htm?spm=a21wu.10013406-tw.taglist-content.4)                                                                                                                                                       |
+| M3x12 screws                                | 20  | 0.50             | 1.40              | [M2M3 M2.5 ...-Taobao](https://world.taobao.com/item/657162623600.htm?spm=a21wu.10013406-tw.taglist-content.4)                                                                                                                                                       |
+| M5x40 screws                                | 4   | 0.50             | 0.28              | [M2M3 M2.5 ...-Taobao](https://world.taobao.com/item/657162623600.htm?spm=a21wu.10013406-tw.taglist-content.4)                                                                                                                                                       |
+| M5x10 screws                                | 20  | 0.50             | 1.40              | [M2M3 M2.5 ...-Taobao](https://world.taobao.com/item/657162623600.htm?spm=a21wu.10013406-tw.taglist-content.4)                                                                                                                                                       |
+| Misc screws (dw cainiao deliver in 2 days)  | 1   | 50.00            | 7.00              | (at home? or just buy as needed)                                                                                                                                                                                                                                     |
+|                                             |     |                  |                   |                                                                                                                                                                                                                                                                      |
+| Total                                       |     |                  | 189.62            |    
 
 
 # Journal
