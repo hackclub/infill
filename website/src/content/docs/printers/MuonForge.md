@@ -4,6 +4,7 @@ description: "A battery and direct electricity powered 3d printer with rechargea
 project_name: "MuonForge"
 repository: "https://raw.githubusercontent.com/asmahdi08/MuonForge/refs/heads/main/JOURNAL.md"
 ---
+
 # Smoother
 * title: "Smoother"
 * description: "A smooth printing friend..."
@@ -16,7 +17,7 @@ Total hours so far: 7
 
 Total time: 45+ hours 30 mins (Idk how accurate this is probably pretty close tho)
 
-**Micro-3D-Printer** is a compact, budget-friendly 3D printer designed to stay under $300 while maintaining high functionality. It features a filament detection system to automatically pause printing when the filament runs out, ensuring smooth and uninterrupted prints. Built for efficiency and affordability, it’s ideal for makers looking for a reliable and cost-effective 3D printing solution.
+**Smoother** is a compact, budget-friendly 3D printer designed to stay under $300 while maintaining high functionality. It features a filament detection system to automatically pause printing when the filament runs out, ensuring smooth and uninterrupted prints. Built for efficiency and affordability, it’s ideal for makers looking for a reliable and cost-effective 3D printing solution.
 
 ### **Plan to achieve**
 I ofter notices after 3D prints finish, thin plastic threads (stringing) often appear between gaps or travel paths. This ruins surface quality and usually requires manual post-processing. So I plan to build a system to auto smooth the printing, by automatically blows **precisely controlled hot air** at specific positions, we can do this thing to get smooth print.
@@ -35,7 +36,7 @@ I ofter notices after 3D prints finish, thin plastic threads (stringing) often a
 ## BOM (Bill Of Materials) & CAD Model
 
 - Here is the full BOM - [*Click*](https://docs.google.com/spreadsheets/d/14x0yJbEj5C0rEIQlVVuA8SjHctHjPKWwfSs_GVw-i9w/edit?usp=sharing)
-- Cad file in [autodesk]() , [OneShape]()
+- Cad file in [autodesk](https://autode.sk/42gcF8B) , [OneShape](https://cad.onshape.com/documents/3349b807a03fe84f4fc0f3cb/w/b2111816dbf8ea3aa4b7eab1/e/ff7fe39f09c31c14beff4fb1?renderMode=0&uiState=67faccc9e9a02b4af7a81ac3)
 
 ## **Day - 1, ( 20/03/25 ) - Planning and breakdown idea**  
 
