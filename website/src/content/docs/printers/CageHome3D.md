@@ -29,7 +29,15 @@ Notes:
 - There are no screws modelled in the CAD, but the depth of the screwholes are modelled.
 - There are no belts modelled, just follow the CoreXZ belting.
 - You will need to crimp the wires on the stepper motor and connect them to a clipped wire connector for easy removal later on.
-  - Route the wires carefully 
+  - Route the wires carefully through the molex connectors
+ 
+## Wiring diagram
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cde123f967f533f0ccc7d565e12edfd9b90cca49_image.png)
+
+## Disassembly instructions
+- The screws are captive screws, meaning they won't fall out
+  - Can't see the [video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/372b1311d0f22af1f2cf17011c7d389de56e2523_frame_v172.avi)? Try upgrading your browser to one that supports AV1 files 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/372b1311d0f22af1f2cf17011c7d389de56e2523_frame_v172.avi)
 
 # BOM
 
