@@ -407,3 +407,22 @@ Total hours so far: 56 hours
 `Research: 2 hours` `CAD: 3 hours`
 
 <br><br>
+## Day 16: April 10th 2025
+
+`BOM`
+
+- I updated my Bill of Materials with any relevant parts that I had not yet added. I realised for a few of the parts I had linked that they were 'Max. 1 pcs/shopper' but I needed multiple of the part, so I had to find new sellers that allowed me to get more than 1.
+
+- I realised this is a much bigger problem than I thought, and I need to update more parts than I anticipated. I'll fix it later though.
+
+`BOM: +1 hour`
+
+***+ 1 hour***
+
+- Also, Fusion stopped opening my files on my laptop so I'll have to fix that :confounded:
+
+### Time Spent on This Day: 1 hour
+
+`BOM: 1 hour`
+
+<br><br>
