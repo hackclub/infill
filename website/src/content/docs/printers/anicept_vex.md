@@ -10,7 +10,7 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anicept-vex  
-Total hours so far: 102
+Total hours so far: 142
  - ✅ I have a 3D printer
 
 ### about the anicept vex
@@ -224,7 +224,78 @@ oh yeah, and funny thing this printer was originally called the anixus vex! I li
 
 CAD: 15 hrs, research 5 hrs
 
-## pictures!! my timeline of printer 🥲
+## a ton of days - mar 17 - apr 15
+I thought I was bad at updating before..................... I've had a butt ton of school work and other stuff and lowk been forgetting to journal.
+
+anyways here's what I got done in this month. I finished everything of the list above, and ordered parts. I paid about 70 bucks out of pocket, not including high seas credits. Now here's where the trouble begins.
+I posted my design on the 3d printing discord server, open to critique. Turns out there was a ton of stuff that wasn't going to work, forcing me to all but redesign the entire kinematics for x, y, and especially z. I've gone from a single lead screw to dual screws operated on a belt system, like the vzbot. At the time of writing, I've just finished the design. It was tough, I'll admit. But it's way worth knowing that all the things I'd worried about were OK and that the printer will be AWESOME. All of the parts I'd ordered arrived minus two that got lost 😭
+
+I'm planning to refund the lost orders tmrw, and I also had to refund some 8awg wire that I got in favor of 10awg. The new wire was stopped and delayed by customs, so I don't have very high expectations for that, either. Oof. I also reached out to polymaker about a filament donation, since the only PLA I have is black, white, and blue. I requested a spool of black PETG and a spool of their panchroma gold-silver pla. I think it'd look fantastic with the gold pei sheet and silver aluminum extrusions! It's been a few days, though, and they haven't responded. I don't have high hopes for that either, and worst case the printer is kinda splotchy looking.
+
+It's been a real journey, and I've learned a lot thus far. Like, don't buy parts before you get people to look at your design. Bad idea. Speaking of parts, I have to return a few things:
+1) Z flexible coupler: not necessary with a z belt system
+2) Lead screw: 20mm too short with the new design
+3) M5 screws: should have been M6 (for connecting stuff to the corner brackets)
+4) Part cooling fans: they may not be powerful enough. Getting 5015s would be what I'd get instead, but would mean redesigning the entire printhead. I'll do some tests with my current 3d printer to figure it out.
+5) LM8LUU bearings: by using 4 linear rods for z-axis instead of two, I'll need two more bearings, likely LMF8UU's, which only come in packs of four. I'd return these and buy the four-pack, but it's probable that I could 3D print bearings.
+
+Since I already returned the 8awg wire, I only have 4 more monthy free returns from AliExpress. I probably won't return the LM8LUU's, and possibly not the M5 screws since they were only a buck fifty anyways. Lead screw is a must, and Z-coupler was five bucks so it'd be best if I can. Again, part cooling fans I'll have to wait and see.
+
+List of stuff I had to change:
+1) Shear the motors: I had to add bearings to the ends of the motors shafts so that the tension of the belts doesn't ruin the motors - $2
+2) Add dowel pins to the idlers: Pins are necessary because 3D printed shafts to hold the idlers will snap under tension - $4
+3) Redesign kinematics: The belts have to be routed straight. They weren't, and I had to redesign _everything__.
+4) Redesign Z-axis: since the entire bed was held up by only one lead screw in the back, it would have sagged immensely. I was mistaken in assuming that the bearings in the front would give it some leverage and keep it up. They would only catch onto the screw and bend the bed more. A kind discord user pointed out the VZBot, which uses two lead screws on either side and four linear rods at the corners of the build plate. I basically copied this layout. No need to reinvent the wheel, right? Anyways I just now finished the lead screw holders and belt system, and it's ⬇️🔑🔥 (low key fire for you silly people)
+
+Here are some pictures
+
+![full printer pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5beb8d4fe4e04ff0a58194a03bc22a99109f588_image.png)
+
+</br>
+</br>
+</br>
+belt drive pic  
+
+![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5e91e337324f3ce90279a0e2045dcece1b8d728c_image.png)
+
+</br>
+</br>
+</br>
+belt drive again  
+
+![belt drive again](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f701f4e7789ec5bf884b1ab685407637a06d4a06_image.png)
+
+</br>
+</br>
+</br>
+linear rail holder  
+
+![linear rail holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/305967b105307954a096fe71786344b1c8ac1adb_image.png)
+
+</br>
+</br>
+</br>
+lead screw holder  
+
+![lead screw holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b152f07c15e7ed25768a8299dcc95e13ffad4681_image.png)
+
+</br>
+</br>
+</br>
+castle idler hast becometh mansion idler  
+
+![super sturdy idler holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/766493a561bee6ab1e09e516b168070fb76ac700_image.png)
+
+</br>
+</br>
+</br>
+x/y idler holders!  
+
+![x/y idler holders](https://hc-cdn.hel1.your-objectstorage.com/s/v3/27b1ff8fcb953c6bf06f155bcf06d7171ee241e7_image.png) 
+
+For a month of work, I'd give this a solid 40 hours. Not a ton, but like I said there's been a bunch of school and stuff that tbh takes priority.
+
+## pictures!! my timeline of the printer 🥲
 
 Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1606de4940ed5a146b976a6f102ae7194444790e_screenshot_2025-02-02_182817.png)
@@ -343,6 +414,6 @@ Wow! Beautiful render
 </br>
 </br>
 
-That's quite a bridge to gap,,,
+That's quite a gap to bridge,,,
 
 ![uhoh](https://hc-cdn.hel1.your-objectstorage.com/s/v3/426656da9cbad3609a97db1f1353591fadfdea3a_screenshot_2025-03-19_154424.png)
