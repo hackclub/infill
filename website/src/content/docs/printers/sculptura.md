@@ -76,6 +76,9 @@ worked on the readme/journal log for my printer :3 made a list of future modific
 
 
 ## final results
+![alt text](<sculptura v3 v3.png>)
+cad link - [here](https://a360.co/4czRthb)
+<br><br>
 sculptura's direct drive, high-temp hotend setup makes it great for fun filaments:
 - wood pla
 - marble pla

@@ -169,3 +169,7 @@ Time += 2 hours
 ![image](https://github.com/user-attachments/assets/76d732e8-785f-4f6f-b521-8d951a502f05)
 
 Ok annd with that i think thats all! Ill be doing wire management and all that stuff once i acc get the hardware so uh yeah hopefully it works :pray:
+
+
+stl file can be found here
+https://github.com/M0HID/prntr/blob/main/prntr%20v37.stl
