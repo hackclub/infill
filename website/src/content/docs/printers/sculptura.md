@@ -12,7 +12,10 @@ repository: "https://raw.githubusercontent.com/arsoninstigator/sculptura/refs/he
 - [X] i currently / will have access to a 3d printer before 21st march (bambu a1 mini)
 
 ## about
-sculptura is a wip fully **open-source** and customized budget 3d printer made from scratch for printing smooth, detailed and precise models that are meant to to be used as high quality decorative pieces (like you would see at an art gallery) :D
+sculptura is a fully **open-source** and customized budget corexy 3d printer  that incorporates a p1p-style z-axis  <br> <br>
+<b>initial aim -</b> for printing smooth, detailed and precise models that are meant to to be used as high quality decorative pieces (like you would see at an art gallery) :D
+
+![Screenshot 2025-04-15 151731](https://github.com/user-attachments/assets/e3b74c2b-d204-4876-bf18-cc093eb02e41)
 
 
 ## daily log
@@ -59,5 +62,15 @@ made some core xy progress - refined the belt paths. added idler pulley placehol
 ### day thirty-three - day forty
 designed a motor mount plate. fusion crashed during patterning. auto-recovered my file but lost constraints. raged. cried. ate chips. returned. next day, ranted in my journal about fusion not autosaving often enough. redesigned motor mount properly this time. frame finally started feeling real !!! next, got stuck deciding between optical or mechanical endstops. prototyped a slot for microswitches, decided to stay simple. will probably regret this later. next, modeling the y carriages today. realized they look suspiciously like voron’s. decided that was good ??? looked up juvenile sentences for shoplifting (/s). next, redesigned how extrusions join for better rigidity. added hidden fasteners. model was getting heavy but fusion was surprisingly cooperative. next, discovered i need spacers everywhere. modeled one spacer, then made 12 variants. started going insane and had to go for a walk. started raining while i was walking. yay. 
 
-### day forty-one — printhead-ing
-explored printhead designs. half-considered a compact, single-fan setup but ended up copying a stealthburner clone layout. next, modeled the printhead mount. forgot to add wire management. amazing. next, finally added wire guides. fusion assemblies slowed to 5 fps but the model looked neat.
+### day forty-one - day forty-five — printhead-ing + electronics
+explored printhead designs. half-considered a compact, single-fan setup but ended up copying a stealthburner clone layout. next, modeled the printhead mount. forgot to add wire management. amazing. next, finally added wire guides. fusion assemblies slowed to 5 fps but the model looked neat. next, roughed out a bottom electronics compartment. stole layout inspiration from voron switchwire. power supply mount looked questionable. felt pointless spending an hour designing a snazzy power button mount. next, added cutouts for ac inlet and exhaust fan. the model had started looking suspiciously printer-like.
+
+
+### day forty-six onwards — wrapping up the printer
+modeled some custom fan grills. made them a bit too decorative. questioned my aesthetic priorities. next, started mocking up bed mounting. spring setup first, decided that i will explore silicone mounts later. next, modeled bed leveling knobs. realized i hate knobs. felt like i might switch to automatic probing. took a break from the printer to model a cookie cutter for fun (and #bakebuild). next, modeled a mount for a bed probe. debating between bltouch or inductive sensor. prototyped both. decided that it looked slick. next, added fasteners to most major components. took some vanity renders of the assembly. cursed the bloodline of whoever created fusion. next, spent an unhealthy amount of time designing a filament guide path. cleaned up the toolhead design. was actually happy with this iteration. next, fusion constraints exploded mysteriously. spent 3 hours untangling dependencies. next, modeled a simple filament runout sensor holder. used a borrowed sensor design. printer started looking somehwat complete. chamfered edges, added fillets, prettied up exposed mounts because #vibes. revisited motor mounts. strengthened weak points. added bed cable chain mount. model complexity was at an all-time high. did some fancy renders again. asked mom for color palette inspiration since my model looked ... sad.
+<br> <br>
+designed enclosure panels for my printer (the 20$ printer mod mini ysws) which finally looked like a printer. 
+
+### present
+worked on the readme/journal log for my printer :3 made a list of future modifications i would like to make (when i have time + extra funding of my own). worked on the bill of materials which was a pain because hcb cards dont always work in india + aliexpress etc. and other chinese manufacturers are simply banned in india + so it was a hit or miss + the tariffs now made everything so much harder to source because hobby electronics in india is not cheap. at all. 
+
