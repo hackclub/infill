@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/arsoninstigator/sculptura/refs/he
 
 > username: @arsoninstigator aka @anne on the slack (she/her) <br>
 > here's the printer's [github repository](https://arsoninstigator/sculptura) and the main [infill page](https://infill.hackclub.com/printers/sculptura/) <br>
-> total time spent on this till date: 52 hours (as of 28/03)
+> total time spent on this till date: 81 hours
 - [X] i currently / will have access to a 3d printer before 21st march (bambu a1 mini)
 
 ## about
