@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 102
+Total hours so far: 113
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
@@ -163,6 +163,7 @@ For now, I am just waiting on the mobo to come, so I can start wiring everything
 
 ### Day 16 & 17 - 4/12/2025 - 4/13/2025 ( ~ 14 Hours)
 
+
 Welp, it's been a LONG 2 days. After the last entry in this journal, I started testing the motors with an arduino, and found the Z axis's unstable motion SUCKED the toolhead moved all over the place when the Z axis was going up or down, and it was because of the joint of the aluminum exutrsions with the base. I went through quite a few iterations of how to fix it, but I ended up with this design that finally worked (made it stable enough). I'm kinda sad I ran out of black filament and had to start using blue, since the all black would've been so cool. 
 
 <img src="https://github.com/user-attachments/assets/3a11cf3d-6564-4eec-a44b-3655e4832918"
@@ -180,3 +181,21 @@ Finally, I extended the cables to the fans since they were only 20cm long and we
 
 This also means that I hit the 100 hour mark making my printer! It's been a crazy ride so far. 
 
+### Day 18 - 4/14/2025 (11 Hours)
+
+I'm actually writing this on the 16th of April... That day was way too long. When I finished my bed, I was so excited, and I hooked all the electronics up, and when I went to move the motors, and the shakiness in the bed was so bad. I made the stupid decision to rip it out... and restart it. I had some extra 2020 extrusion and POM wheels laying around, so I decided to completely redesign the bed. Here it was before: 
+
+<img src="https://github.com/user-attachments/assets/c6b38d78-964a-40f8-96f2-c4b0745b109e"
+     alt="Fixed stabilization"/>
+
+And here it was ripped out: 
+
+<img src="https://github.com/user-attachments/assets/ed8f9860-0474-43dc-917e-e9edda4aab44"
+     alt="Fixed stabilization"/>
+
+Here is the new carriage! 
+
+<img src="https://github.com/user-attachments/assets/dbba9ee7-3e0c-46c2-bf42-8ef86fafd050"
+     alt="Fixed stabilization"/>
+
+I've learned not to trust linear rods and SC8UU bearings anymore :) and now love how stable the bed is! Everything works great and looks amazing. 
