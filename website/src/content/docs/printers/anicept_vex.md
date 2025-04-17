@@ -10,14 +10,14 @@ This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Le
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anicept-vex  
-Total hours so far: 142
+Total hours so far: 150
  - ✅ I have a 3D printer
 
 ### about the anicept vex
 
 I'm Anicetus, and I'm making a CoreXY because my Anycubic Kobra 2 Neo doesn't print over 250mm/s and can't print hotter than PETG. This will change all of that.
 
-🕐 Speed: 400mm/s  
+🕐 Speed: 350mm/s  
 📐 Build size: 230mm x 230mm x 260mm  
 👍 Materials I want to print with: anything up to 300°C! Mainly pla, petg, and tpu
 
@@ -224,7 +224,7 @@ oh yeah, and funny thing this printer was originally called the anixus vex! I li
 
 CAD: 15 hrs, research 5 hrs
 
-## a ton of days - mar 17 - apr 15
+## days 34 - 57 - mar 17 - apr 15
 I thought I was bad at updating before..................... I've had a butt ton of school work and other stuff and lowk been forgetting to journal.
 
 anyways here's what I got done in this month. I finished everything of the list above, and ordered parts. I paid about 70 bucks out of pocket, not including high seas credits. Now here's where the trouble begins.
@@ -294,6 +294,14 @@ x/y idler holders!
 ![x/y idler holders](https://hc-cdn.hel1.your-objectstorage.com/s/v3/27b1ff8fcb953c6bf06f155bcf06d7171ee241e7_image.png) 
 
 For a month of work, I'd give this a solid 40 hours. Not a ton, but like I said there's been a bunch of school and stuff that tbh takes priority.
+
+### day 58
+
+Today I got my current 3D printer back up and running after a week or two of inactivity due to wifi issues. It's all set and ready, and I started by doing a test. I printed a benchy at 50% fan speed to see what would happen, in order to test if the 4010 blower fans would be enough for the Vex. It turned out well. Not great, but not awful. I did some research and asked perplexity.ai and got the general consensus that 7+ CFM would be best for 30mm<sup>3</sup>/s or more. The fans I got are about 3.62 CFM each, and I have two, so that could be enough? I'm not sure but I want to try them. I also connected the lead screw nuts to the bed holder, meaning all I have left is attaching the back linear rods. I'm planning to order parts tmrw after some research today.
+
+Here goes nothing.
+
+Research: 1 hr 30 min, CAD: 1 hr
 
 ## pictures!! my timeline of the printer 🥲
 
