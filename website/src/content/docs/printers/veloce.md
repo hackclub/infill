@@ -169,3 +169,89 @@ Except the position which took ages. :p
 Time: 6hrs
 
 ***Total Time: 56hrs***
+
+## **Day 10**
+
+Time to work on the idlers.
+Soooo I started by looking at other printr designs, and decided I want to incorporate a tensioner.
+
+I planned out an overall belt path, and placed the gt2 pulleys at the proper places. I then designed around them.
+I made a joint which connected to the y extrusions, and left an empty space in middle, for idlers.
+Then I made a body which had clearance to move left and right, and passed a screw through it and the idler, to allow it to move with the body.
+I also passed a screw through the movable body, to provide a straight line for it to move to prevent the idler from getting misaligned.
+
+So one idler done.
+I mirrorred it on the other side, and basically redisgned part of it so it could align with the belt path. THIS WAS PAAAAAAAAIIIN... ;(
+
+Idlers done doh
+
+![image](https://github.com/user-attachments/assets/efb8dc7b-b51d-489a-81d5-83ba132b0abd)
+
+
+
+Time: 7hrs
+
+***Total Time: 63hrs***
+
+## **Day 11**
+
+Motor mount time...
+
+So i posititoned the motors and other pulleys to align with the belt path, and once again designed around them
+
+I made a bottom holder for the motor, and screwed it into extrusion. I also screwed motor to attachment to help in vibration distribution.
+I made a top layer to allow me to make attach pulley for top belt. This was honestly pretty simple.
+
+I then mirrored this, and changed part of the design to allow everything to align. I moved the motors in the mirrorred one more backward, so there was space for pulley and belt.
+I also moved it upwards, as it didn't need the lower height.
+This was also done pretty quick (Comparatively)..
+
+PS: Im designing everything on the insie and below so itll be easier to enclose later on.
+
+![image](https://github.com/user-attachments/assets/c64dbf41-49ce-49e6-aa82-525e5f47a0c4)
+
+Time: 5hrs
+
+***Total Time: 68hrs***
+
+## **Day 11**
+
+Z time, So i played around with heights and added rods and screw. I made a bed mount thingy on top of the screws.
+I added my planned stuuf to it.
+So lik a block representing cork sheet for insluation, springs, then alu sheet for rigidity and temp and heatbed on top of that, and then the buildplate.
+
+Honestly? the main stuf of z took pretty less time. But like fine tuning the heights and positioning took a shit ton. I moved it up and down constantly and moved the x axis to see if it could reach the entire bed, and fine tuned stuff till it could.
+
+I also mounted a webcam to the bed, which is my main idea.........
+
+Im pretty sure the z height is 256 - 265??? not 100% but in this range.
+
+![image](https://github.com/user-attachments/assets/5d6a4d56-6e83-486a-a71c-4567ebf43c4a)
+
+
+Time: 5hrs
+
+***Total Time: 73hrs***
+
+## **Day 12**
+
+More fine tuning and skirt and electronics
+
+So i added right joints to the frame with screws to estimate fixings and stufff.
+Also made little mounting feet and added electronics to try to simulate their actual positioning. Played a bit with y disctance.
+
+SOOOOOO i messed up. I didnt look at z clearances properly, and it turn out the hotend couldnt reach the back of the buildplate. I had to increase the space, and it was soooo painful :(
+But everything is fixed now.
+
+I added colors. YIPPEEEE. perfection. hopefully ; p
+
+![image](https://github.com/user-attachments/assets/a008c3a0-c15c-4684-a610-d76752d1696a)
+
+SOOOO this printr satisfied by build volume req, and its main purpose was rapid prototyping with good quality print,
+which it should be able to do. I tried to optimize it as much as I could, and im using pretty good motors and balanced stuf so it should be pretty fast.
+Im also using webcam for continuosly altering print settings to try to get better quality, using AI/ML.
+Hopefully it works ;)
+
+Time: 5hrs
+
+***Total Time: 78hrs***
