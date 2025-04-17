@@ -6,7 +6,11 @@ repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/re
 ---
 Made by: @Amaya
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore
-Total hours so far: 18 hrs 5 mins
+BOM: https://docs.google.com/spreadsheets/d/1q4xtd6th8_cM6Qn8iwp2R4_8qS0gYeFDji75B9E_PQI/edit?usp=sharing
+Images: https://docs.google.com/document/d/1O2JPVw-2Jhm0MzPRCLd0zcRRRKDtKQYV07AwvWWCOpY/edit?usp=sharing
+
+Fusion 360 CAD Sharing Link of final assembly: https://a360.co/3RkSeRq
+Total hours so far: 82 hrs 5 mins
 - [x] I have a 3d printer or will be getting one before March 21st
 ---
 < Briefing >
@@ -224,7 +228,7 @@ UPDATE: I let my partner know about the correct specifications and he agreed to 
 
 I've also worked out our extruder situation considering the E3D V6 Hotend I picked earlier. This was important, because my stupid #$% didn't realize you... didn't have to design an extruder from scratch.... oh well.
 
-We'll be using the E3D Titan Extruder.
+We'll be using the Sherpa Mini.
 
 All of this in mind... I'm fairly confident I can just- START with the final CAD model tomorrow :DD 
 EXCITINGGGG
@@ -239,3 +243,294 @@ ___
 
 ### April 1st
 
+My computer exploded and I lost all of my project files.
+
+
+
+
+Just kidding. :3
+
+Today I've decided to model the full printhead. To do this, I'll need to create a holding mechanism or structure for the E3D V6 hotend that links up to the Sherpa Mini extruder. Shouldn't be too hard, but then, what do I know lol.
+
+NOTES: Self supplying 2x motors with pre-fastened timing pulleys for the X and Y axis, self supplying 2x additional motors and flex couplings for Z axis (Will need to purchase lead screws). This leaves only one motor to be actually purchased for the extruder.
+
+It's going to be tricky with clearance, but I just need to design an adapter between the E3D's obnoxious 16mm notch connector thingy and the even more obnoxious space consuming Voron M4 extruder (Which by the way we're using now instead of the Sherpa because it's so insanely inexpensive.)
+
+
+
+Total time elapsed: 1 hour
+
+---
+
+# Day 8
+
+### April 3rd
+
+It's been an abysmal pain trying to use all of the models I've collected for this project for reasons beyond me. Despite that, I've continued to make progress, although extremely slowly. I've got no idea what I'm doing with this project and it's driving me insane.
+
+Today, I hope to actually model the stupid gantry, but luck seems to despise me as of recent.
+
+To make things different from my multiple prior attempts to design this, I'll be designing it in reverse, starting from the mount attached to the 2020 extrusion acting as a frame for the x-axis, and working my way up to the hotend.
+
+Holy molay I forgot just how much music helps me to get out of depressive moods lol. I LOVE YOU RWBY SOUNDTRACK.
+
+Also sidenote why do I write like... idk something fancy whenever I'm upset lol???
+
+MODELING IS GOING GREAT I'VE DONE SO MUCH ON THE MOUNTING PLATE FOR THE PRINTHEAD YIPPIEEEEEE!!!
+
+Update: Spent 3 hours modeling something I didn't need :D I LOVE LIFE GUYS I LOVE MY LIFEEEEEE!!!11111
+
+(Also personal note: Pester my elder engineers more)
+
+I know what I'm doing now. Just added a full kit of the ender 3's POM wheels and spacers to the BOM, so I'll just need to model or scrape those from somewhere to get them in Fusion 360 :P
+
+GODSPEED TO YOU FUTURE ME
+
+Total time elapsed: 4 hrs
+
+---
+
+# Day 9
+
+### April 4th
+
+New day, new stuff. I'm fetching the models for the "Isolation Column" and 5mm eccentric spacers I need to the POM mounted motion systems
+
+Updating most of the spacers/washers, lock nuts, and other components in my final printhead/gantry assembly to fit with an M5 screw since I previously modelled them to interface with M4 screws.
+
+After about 2 hours I finished redesigning the mounting plate for the printhead. Later today after a break, I'll model the notches for the ends of the belt and the mounting system for the extruder.
+
+I forgot to log most of what I was doing so I'll speed run explaining all of it really really quickly. OKAY SO. I imported the aluminum extrusion (2020 x 200mm) and modeled everything around it, since HEY y'know, kinda a STUPID amount easier when you're modeling stuff in decending order of importance.
+
+So anyways, I started with the extrusion, slopped in the POM Wheels and jointed them to the rail in Fusion 360, gave it a sliding joint because why the flip not (I spent way too much time doing that in school to not use it here), then I made a plate using the projected positions of the wheels hugging the extrusion. This was helpful because it allowed me to get a really good estimation of where the holes in the plate would need to be.
+
+Then I had to research how to fasten the wheels to the plate and tighten them on the aluminum extrusion. To do this I simply stared at an image of the ender 3 and drank an abnormal amount of coffee before getting extremely jittery and crying over stupid stuff for like 2 hours. After this mindbogglingly stupid way of research, I learned what I was doing wrong. Eccentric nuts need a slot in the mounting plate to rotate in, otherwise they're useless.
+
+Oh also yes I literally just stole I mean stole I mean stole I mean- borrowed the x-axis/gantry design of an ender 3. I LEARNED SOMETHING REGARDLESS, SO I DON'T WANNA HEAR IT, SHUSH.
+
+BUT ANYWAYS, after figuring out what spacers to use, how the eccentric nut worked, where I could buy everything, etc. I got to work again. I put those holes into the mounting plate and then jointed everything together, spacers and all. That made me really happy and I thought I was done, but then I was like "wait no there's literally nothing on that plate", and so you'll never guess what I decided to do next. Actually I slept for like 10 hours, but AFTER THAT, I modeled.. heh.. you guessed it, a TRIANGLE SHAPED HOLE! ....It helped remove unnecessary material okay?
+
+After wasting wayyyy too much time on that, I moved on to modeling the slots/notches for the belt, that was simple enough (HAHA NO JK IT TOOK HOURS AND AT LEAST 5 SEPERATE REDESIGNS. ALSO I CRIED AGAIN). After the notches were modelled I decided to move onto making a mount for the extruder, which took the most time by a LONG SHOT. I kept projecting sketches, revolving circular depressions, and otherwise just fumbling around with it until it looked semi-functionable. Then I fumbled with it some more and got this kind of like, pressure mount? You have to screw a plate that compresses the E3D V6 hotend into a groove that keeps it tightly secured. HOPEFULLY, THAT'S ENOUGH.
+
+I already KNOW this is gonna be a major p.i.t.a. when I print it, but that's a future me problem.
+
+Something ended up happening so I decided to work the rest of the night until early morning to take my mind off things, as I typically do to take my mind off of things.
+
+Ended up modeling a shroud and mount for the 5010 blower fan I've decided to use for print cooling, so that's nice. It only took an additional 2 hours... TT
+
+Christ I'm still going and it's 12:31 A.M.... waiiit I need to switch logs.
+
+Total time elapsed: 12 hrs
+
+---
+
+# Day 10
+
+### April 5th
+
+Got my partner to start working on the project again, surprisingly we're both nocturnal. 
+
+I did a lot today, not as much as yesterday, pretty sure that was like a one time thing (I ended up sleeping until after 12pm today, so safe to say we won't be trying that again lol).
+
+Today I've decided to work on the Z-Axis and adding in the stepper motor for the x-axis, which should in all honesty be connected to the same mounting plate as the z-axis carriage. If you don't know what that means, I didn't either when my brother was explaining it, but after brute forcing the design a few hours, I think I understand it now.
+
+Spent most of the day modeling the Z-axis when I learned I had to redesign almost everything because it couldn't be 3d printed and still function well.
+
+yay.
+
+Total time elapsed: 6 hrs
+
+---
+
+# Day 11
+
+### April 6
+
+I have today and maybe 1 or 2 hours (thanks American education system for taking away any liberty over my own personal life) to finish this entire design.
+
+I do not believe it's enough time, considering I have to redesign literally everything to be under budget again, but I'm not going to sleep, so I intend to use every hour available.
+
+Just a note, I have m3, m4, and m5 t-nuts
+
+Current total cost of BOM excluding taxes and shipping sits at $239.86
+
+Spent a little time organizing everything into folders in fusion 360 so I can stop scrolling all the damn time.
+
+NOTE: Use M4 screws to mount printhead carriage. 
+
+Added 0.5 tolerance to the hotend mounting brackets.
+
+Printhead assembly now contains both interference fittings for the linear bearings (2 rods per axis, excluding Y with it's linear rail), and a mounting bracket for the hotend. I'll add the print cooling fan and BL-Touch later today.
+
+Finished the printhead at the end of the day
+Fasteners are obnoxiously large.
+
+Total time elapsed: 8 hrs
+
+---
+
+# Day 12
+
+### April 8th
+
+Hoping to finish designing the gantry today. I created a tensioning bracket to hold the linear rods yesterday, a simple clamping shape that fits around the rods and is held together via one M4 and two M3 screws. Didn't document it though because I only just finished designing that.
+
+My current design challenge of the day is modifying that same bracket to include space for a linear bearing (For the Z axis) and a stepper motor to drive the X axis.
+
+I am currently approaching this design by adding the linear bearing on the back of the tensioning bracket. Adding the lead screw will be harder, though. After asking my brother (Thank you big brooooo lmfaooo) I learned that the hardware I need is called a "lead screw nut", and I'll need to model a part on the tensioning bracket to hold it very, very securely. I found a pack on amazon, 250mm lead screws and lead screw nuts, perfect for the project. I added them to the BOM, and got to work adding the lead screws into my CAD model for the gantry. It'll be a little bit difficult since I'm trying to keep the size of the tensioning bracket down as much as possible, however it should be possible to fit them both onto the bracket if I move the linear bearing towards the center, and the lead screw somewhere near the edge.
+
+Ended up opting for the kit with only one screw and one nut, so total cost is down to $244.95, which is dangerously close to my limit, but we're still floating.
+
+I realized far too late that the tensioning bracket's current design makes it impossible for the x-axis to move, and that the way I had intended to move it originally wasn't possible to begin with. I'm now redesigning a small part on the tensioning bracket to make space for the new motion system, then I'll redesign a small part of the printhead to interface with the belt properly.
+
+It took many hours, but after making things bigger and smaller over and over again, everything finally fits, and the parts are beautiful. I just have to design the right side version of the tensioning bracket for the linear rods and we're pretty much done for today! Gantry done and over.
+
+Worked until really late, but the entire gantry is finally finished. Tomorrow, I'll work on the Z-axis.
+
+Total time elapsed: 8 hrs
+
+---
+
+# Day 13
+
+### April 9th
+
+After about two hours, I fixed a few glaring issues with the gantry. I forgot to add an idler pulley to the right brackets (timing pulley was on the left side already), so I did that, and then I modified the print head so that the notches for the belt were in the correct locations and not on an entirely different axis... TT
+
+Moving on- I'll be working on the z axis today. I don't actually know what that part is called- sorry.
+
+I'm going to start by putting two linear rods in. That'll be the last two I have available from the BOM, so for the last axis (Y), I'll use my linear rail. To start, I need to collect the distance of the linear bearings (specifically their center), and replicate that with the position of the linear rods in the z axis part of the gantry... wait omfg this means I'm not done with the gantry doesn't it. Oh well.
+
+When does this count as the frame in my books? Idk. I guess when you make A FRAME. ??? lol
+From now on, I'm just going to call this next part "UPPIES" because I can't think of a technical term, and I'm chill like that
+
+After a quick edit, I just changed the spacing of the linear bearing's centers to EXACTLY 220mm. I would have preferred 240, since the spacing would be like 20mm + 20mm (since 2020 extrusions) + 200mm (The extrusion between two extrusions), but I can get creative and make it work anyways.
+
+Wait no technically this would count as part of the frame, because I'll need to design some of it for this anyways-
+
+WELL, FRAME TIME.
+
+Wait also I just realized- 220mm spacing works perfectly because I forgot to divide the 20mm length since we're imagining the center of the aluminum extrusion... Yay :3
+
+After moving stuff around in CAD for a bit, I settled on a layout/setup for the frame. It was so perfect, that I didn't even need 300mm long 2020 extrusions, only 200mm long ones, so I deleted the 300s from my BOM and saved a few bucks by just doubling the 200s. Very nice :D
+
+I created a specialized corner bracket to hold the linear rods in place using the same kind of tensioning plate as the x-axis portion of the gantry.
+
+It looks really really ugly though lmfao.
+
+To drive the Z axis I've decided to take a page out of the Prusa Mini's book and mount the stepper at the top of the printer, facing down.
+
+Is current total $244.6 with the additional hardware. Cut costs ever so slightly by ditching the limit switch and finding a cheaper 4020 axial fan.
+
+Did a lot of research today and learned about thrust bearings, which is the additional hardware I mentioned earlier. It's extremely helpful for mounting the stepper upside down, but it's also nice that I learned something pretty cool today :D
+
+Didn't get a whole lot done because of the research breaks, but I still did a lot today and I can be proud of that. I estimate I should finish this project either before or during Saturday. Before I end today's work, though, I'm going to add the new models for the new additions to the BOM. Just two things, won't take very long if I'm lucky enough to find premade step files for the parts.
+
+Total time elapsed: 7 hrs
+
+---
+
+# Day 14
+### April 10th
+
+We're practically in overtime now and I need to finish everything immediately. I still have to fix a few things on the Z-axis, mount the electronics, finish the Y-axis, and find out our power situation. Let's begin then:
+
+I DO not want to solve the battery issue, so I'll start with it. I need a battery that's close to 24 volts.
+
+I have little to no experience, so I'm going to spend a few hours reading up on voltage regulators and creating PCBs in Fusion 360.
+
+
+[ PROJECT TERMINATED AND RESUMED ON APRIL 14th ]
+
+Total time elapsed: N/A
+
+---
+
+# Day 15
+### April 14th
+
+We're on a tight deadline as usual so I have to make this quick. This is the outlook of our current schedule by order of importance:
+
+1. Revise BOM to operate within budget and time constraints (Today/Immediately)
+2. Finish designing Z axis (Today/Immediately)
+3. Finish designing Y axis (Tomorrow)
+4. Extruder mounting and filament holder at top of frame (Tomorrow)
+5. Electronics mounting and battery situation (Tomorrow)
+6. Printer review (Tomorrow)
+7. Purchase parts (After review, est. 4/15-4/17)
+8. Assemble printer (When parts arrive, est. 4/22-4/23)
+9. Test for any major issues and fix immediately (est. 4/22-4/23)
+10. Ship battery to location (est. 4/23-4/24)
+11. REP RAP!!! (May 16)
+
+So, as the schedule suggests, I'll start by revising the BOM. We'll remove most things and rearrange them, starting with the battery. It's important that I get an estimate of the total cost of everything ASAP so my partner can find a suitable battery while we work in tandem.
+
+The battery will be hot swappable now to ensure ease of installation when we ship it to the festival.
+
+Keeping track of everything that I delete from the BOM:
+1. Original GT2 6mm belts from Creality (Scrapped them myself)
+2. Ferrule connectors (Don't need them anymore for new battery design)
+
+I saved additional funds by disassembling the Sovol Sv01 I've been hollowing out completely.
+
+Now that the BOM is revised, I'm going to continue modeling the rest of the motion systems while my friend works on our power situation.
+
+Total time elapsed: 3 hrs
+
+---
+
+# Day 16
+### April 15th
+
+Modeling day. I need to have the entire thing ready for review for tomorrow.
+
+I modified the brackets so that the screws wouldn't collide with the aluminum extrusions, then rejointed everything in the frame. Next up is assembling the thrust bearing housing bracket.
+
+I'm looking at the weight distribution of the flipped Z axis motion system, and we'll most likely need to put something underneath the thrust bearing housing bracket. I suggest something rubber-like with an adhesive backing, but we'll most likely just shove a folded shirt under it at the actual festival.
+
+Minor adjustments to the thrust bearing housing bracket were made to allow the top washer to make exclusive contact with the shaft collar, since the previous design had little to no clearance between the 3d printed part and the shaft collar, which would have rendered the thrust bearings useless.
+
+I noticed that the gantry would need to be updated to accommodate our belts so I completely revamped the right clamps. For all of these clamps, I've modeled two brackets that hug the linear rod, one bracket always slightly thinner so that if the two halves were to touch, they would not form a complete circle. This intentional bit of removed material gives an offset that a screw can utilize to tighten around the linear rods.
+
+With the same concepts I learned designing the bracket the first time, I strived to recreate it with a belt tensioner. After the revamp, I reassembled the gantry (had a few issues with Fusion randomly not letting me save things :/ thanks guys) and went to bed for my pre-act test the following morning (YIPPIIEEEE (not)).
+
+Total time elapsed: 4 hrs
+
+---
+
+# Day 17
+### April 16th, 2025
+
+As crazy as it is to think about, I'm actually almost entirely done with my work. That's just completely insane to think about considering how for most of this project, I felt like I'd always have half a dozen more things to do until the end of time, but no. We're really in the home stretch (fingers crossed I didn't just jinx it.)
+
+Today I plan to finish the Y-axis, and it'll be the easiest of the three to be entirely honest. It's comprised of 3 components (not always just in my design): the underplate (what I'm calling the thingy underneath the buildplate), the mounting bracket (shaped like an X, screws to the part underneath which is the next item), and the spacing bracket. 
+
+It took barely more than 2 hours and I finished modeling all of the components. I then jointed everything and double checked if I missed anything. I forgot the belt. Obviously you... you kinda need that. TT.
+
+In the upcoming parts of this journal I'll attempt to add images, not really sure how to yet but I'll figure it out. I just want to explain how everything works.
+
+Few more issues to work out before we're done here. I didn't think when I was modeling the notches in the mounting bracket of the build plate, so they're on the wrong axis TT.
+
+I've moved the notches slightly to the side, the stepper motor will need to be mounted on it's slide in order for the belt to slot in properly. I've also added a lot of structural support for the new notches, since they're hanging now, but I'm still worried the tension could cause problems later on. We'll keep moving on for now.
+
+I finished designing the tensioner and the Y axis is done, we are approaching the finish line.
+
+Mounting the extruder and creating a filament holder were by far, the easiest part of this entire project lol.
+
+It took awhile, but I decided to create separate mounting plates underneath the bed in the remaining space of the frame. These plates would be problematic normally, but I created plastic risers to account for their low-clearance with the ground.
+
+After all of that, we're done.
+
+Well, with the bulk of it at least. I still need to clean everything up, prepare a portfolio of all the screenshots I've been taking, and submit my work for review for the "Infill" challenge.
+
+In order of what I need to do and what:
+
+1. Add screws into brackets
+2. Retrieve all printable files and put into a folder on my computer or github (not sure where exactly, just make publicly accessible.)
+3. Put all major screenshots into a google doc and add notes for context
+4. Submit printer design for review to purchase parts
+
+
+Total time elapsed: 9 hrs
+
+---
