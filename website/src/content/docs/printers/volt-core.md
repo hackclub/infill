@@ -21,7 +21,7 @@ NOTICE! Print files and quantity specifications listed in STLs folder on github 
 ---
 < Briefing >
 A silly concept accidentally turned reality
-Pitch: An extra portable and partially remote solution to printing without an active power source
+Pitch: A semi-portable solution to printing without an active power source
 
 ---
 
