@@ -52,11 +52,8 @@ I ofter notices after 3D prints finish, thin plastic threads (stringing) often a
 
 ## **Day - 2, ( 21/03/25 ) - Findings and gather printer idea from exist one**  
 ⏳ **Time Spent:** 3+ hours  
-- **Researching Existing Printers**: Studied features, components, and designs of popular 3D printers to understand how they operate.
-- **Identifying Key Features**: Noted the most important features like print volume, filament types, print quality, and ease of use.
-- **Documenting Findings**: Organized your notes on design elements, specifications, and potential improvements based on existing models.
-- **Evaluating Technology**: Investigated technologies such as auto bed leveling, filament detection, multi-color printing, etc. And sooooo on...
 
+Firstly I researched popular 3D printers to understand their features, components, and designs. I noted key aspects like print volume, filament types, quality, and ease of use. I organized my findings and explored technologies to make the idea happen. So lessgo on building....
 
 ## **Day - 3, ( 22/03/25 ) - Assembly frame structure**  
 ⏳ **Time Spent:** 2+ hours  
