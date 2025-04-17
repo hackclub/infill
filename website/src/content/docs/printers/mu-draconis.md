@@ -253,3 +253,121 @@ m3x20, 8pcs
 m4x28, 2pcs
 m4 nut, 1pcs
 m3 heat set, 3 pcs
+
+
+
+# 17/04/2025 big changes and a bit of a write up and summary that is long due
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37b29bc5192f4756bbafea258dcb289f7c5ff2e3_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+     
+spent the last 10 hours working on the 3d printer polishing out all of the missing bolts in the cad
+and making a copy of the cad, the removing each body until there was nothing left to get a good BOM that is actually complete and accurate :D
+
+so, going through some of the issues that ive faced and problems as i think that is what i should probably put here, the end result is nice and all but its the challenges we faced along the way and all of the little decisions we make that really define a project
+
+the first issue i really faced in the project was the slip ring for powering the bed
+i realised i needed both power for the bed and some sort of bearing that was big enough for the slip ring to go through the bearing
+i reallyyy didnt like the look of how expensive beaings costed
+so my solution was to 3d print a bearing
+i found a couple of videos that served as a good starting ground as to how to make a bearing
+i also decided on using a thrust bearing as those have good axial and radial stability which i thought would be usefull
+<img src="https://cdn.fluff.pw/slackcdn/8a3f4df7fb7a52623e637efdca4d7c22.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://cdn.hackclubber.dev/slackcdn/553f5c9ee2c64cd7d511de5192805539.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://cdn.fluff.pw/slackcdn/5d0447e687a3665127562cfc6f3593ed.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+
+
+
+i then stacked two of those on top of each other to try and get a bit more stability
+as i  REALLY dont want my bed to be wobbly
+that would kill my print quality
+so that gets us to about here
+
+
+<img src="https://cdn.hack.ngo/slackcdn/4d7636f2917300e47599d96ff16be786.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://cdn.hackclubber.dev/slackcdn/65983c089fffe8714f3ef4a00ad519e0.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+my next task was to try and transmit the actual mechanical power that was going to turn the bed
+so i want to try and have some sort of "gear ratio" since i dont think i need the max speed of the nema 17 motors that i wanted to use
+however to spin the bed it think i need more torque so my solution was for the bed to have a sprocket that has a more teeth, then the motors has a pulley with less teeth
+
+now the issue is trying to get a pulley that has something like 80 teeth 
+out of metal that would be big and expensive and i dont know how i would mount it 
+so why not 3D print it i thought?
+WHY NOT 3D PRINT IT
+so i set out on a journey to try and model a pulley with a custom ammount of teeth
+then some youtube following later and some thinking 
+you get this :D 
+(i really dont know why this bit started to feel like a monologue from something, its fine im just tired)
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d4e66f1cfb928d36813db7cc3069780253fcada6_gt2_pulley_v20230127_v19_bb.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+now i just need to design a motor mount that has a tensioner aswell because i will need to use a closed belt loop
+i have a v0.1 (im proud of this i will say it now and i will probably yap and say it again)
+and i was inspired by the way they did it 
+so i set along desinging the mounts the way i wanted to 
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b602801982ba89e59a38b8189c6f013b6d53573c_image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+here you can also see my stupidity in full force
+i didnt use contraints properly
+and as a result 
+there is a tiny angle between the two sides of my tensionser
+i didnt realise this until ALOT
+later in the design
+
+i did think something was off when i designed it
+however my normal checks for how square the coners for something are, are
+check the opposing sides are equal
+then check the diagonals are equal
+
+since the angle was so tiny
+the diagonals were so closer that fusion said they were the same :sob :
+     
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/795d3f197e265576b7fdaa632c4ab405d09838d8_gt2_pulley_v20230127_v19_bbb.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+
+so looking at what i have so far in that assembly it looks something like this
+i also added in a pair of bearing to  help the belt contact more of the pulleys teeth at any one time
+since the pulley will be 3d printed after all
+
+i also 3d printed a test of the pulley to see if the teeth mesh properly with some spare gt2 belt from my V0.1 (i told you i would mention it again)
+sadly ive managed to loose that :sad:
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8d8144b9ed315e830718423095f8427d36e04b5f_gt2_pulley_v20230127_v20a.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3bccfe6fabf2646c911e2e7b7a6824c4aaf9f47e_aaa.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+i also added on some little sticky out bits to the bearing that i hoped to later use for mounting to the frame of the printer
+
+
+
+
