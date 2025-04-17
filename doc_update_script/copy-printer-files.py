@@ -33,11 +33,11 @@ def rewrite_image_urls(text, url):
         return match.group(0).replace(img_url, new_url, 1)
 
     #this regex matches the urls inside markdown images and html image tags
-    urls_regex = r"!\[.+?]\((.+?)\)|<img.+?src=['\"](.+?)['\"].*?>"
+    urls_regex = r"!\[.+?]\(<?(.+?)>?\)|<img.+?src=['\"](.+?)['\"].*?>"
     return re.sub(urls_regex, regex_callback, text)
 
 # Function to download a markdown file and create metadata within the file
-def download_and_create_metadata(url, title, description, project_name, file_name, rewrite_urls):
+def download_and_create_metadata(url, title, description, project_name, file_name):
     # If file_name is provided in the config, use it; otherwise, use the basename of the URL
     if file_name:
         filename = file_name
@@ -59,9 +59,7 @@ repository: "{url}"
 ---
 """
         text = metadata + response.text
-
-        if rewrite_urls:
-            text = rewrite_image_urls(text, url)
+        text = rewrite_image_urls(text, url)
 
         # Write metadata + markdown content to the file
         with open(file_path, "w") as f:
@@ -82,13 +80,12 @@ def parse_config(config_file):
         description = project_info.get('description')
         repository = project_info.get('repository')
         file_name = project_info.get('file_name', None)  # Default to None if not provided
-        rewrite_urls = project_info.get('rewrite_urls', False) 
 
         if not file_name.endswith('.md'):
             print(f"Skipping project {project_name} due to invalid file name")
             continue
         if title and description and repository:
-            download_and_create_metadata(repository, title, description, project_name, file_name, rewrite_urls)
+            download_and_create_metadata(repository, title, description, project_name, file_name)
         else:
             print(f"Skipping project {project_name} due to missing required fields")
 
