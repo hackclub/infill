@@ -368,6 +368,125 @@ sadly ive managed to loose that :sad:
      style="float: left; margin-right: 10px;" />
 i also added on some little sticky out bits to the bearing that i hoped to later use for mounting to the frame of the printer
 
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fb4699f730b00b6d34ee98721cad8a2cb5b5bb7_aaaa.png
+
+i will come back to the custom 3d printed bearings again later and how they should be assembled because i think thats probably a good idea
+
+
+my next step was to start desinging a frame 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/7156bb5a7499150568c56d813a0a457d4c8d5f1e_its_a_simple_frame.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/a4281b408b863e5e372d6c7b032734ca29c093a2_frame_1.png
+
+and then after that some feet so it doesnt fall over
+the timeline is a bit messy here
+but i think it would be better to have them here with the frame, it just makes sense that way
+
+the design of the legs are pretty simple
+just doing it by eye so the printer is stable enough
+im going to have the powersupply at the bottom later , and the priter should be pretty stable as any wobling would be parralel to the bottom extrusion 
+
+the feet are also two part to make them easier to print
+then using a heat set and a screw  to join them together 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f51bcdc3bb8617c94d9e346289e3074da05f885_legs_close_up.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/676064ef896a37624a84b696d0332c8d6b32bbfb_just_legs.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/190d31337b33a842dba1131238115d85ee2a0b56_feet.png
+
+chronologically, i had started to work on getting the bed mounted 
+however i wasnt sure exactly where the hotend was supposed to end up
+so it ended up being a bit overwealming and that lead to me getting lost quite a few times while trying to go that route
+so instead i started work on the Z axis
+with hopes of then working on the X axis, 
+and then the hottend so i could actually see where my nozzle was going to end up
+
+my first step towards a Z acis was getting something to hold to linear rods
+and for that i designed this little thing that could be used for the top and the bottom of each rod
+nicely securing them to the extrusion :D
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/632528b3460264b9e73d4814cb13a0eb14fa55e7_single_rod_holder.png
+
+and then adding in the rods,
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cbfa8752e390414a62922718f1d3906033979e_printer_prototype_1_v53.png
+
+then got a nice little carridge going :D
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed000ce97eaec9d004aa89687c4825e24e2b2603_frame___z.png
+
+and realised i needed a way to get the belts to actually be gripped onto
+my soltion, just weird grippy thing :D with teeth or the blet profile, whatever you want to call it
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4a08658c974a6a0c9ae8223eab1de8035b36890_belt_gripper.png
+
+then with another chunk of messing arround i got the belt modeled in with all the teeth,
+i dont exactly know wher i deceided to modeling in the teeth, i didnt do it for any of the other belts, so now it just looks a bit odd
+
+BUT YEAH
+i got the belts modelled in
+and then i also got a nice little motor bracket modelled in with a motor and pulley i got from grabcad
+very nice so far
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/41ab42b438bd0783c88b2e29603b431f1ca96f5c_motor_mount_png.png
+
+thats the Z axis done
+
+good time to also mention
+breaking the chronological timeline here
+but i designing a belt tensionser while making the x axis
+with the idea being to use it wherever i need to tension belts so that was also used here
+to avoid the overwhelming mess of what the fusion file was at this point, i designed the idler in a different files and then imported it into the main file
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/f72c2692a40c57fca44bc38c3196042ccb8f295c_tensioner.png
+
+you do have to love the way i designed the bracket that holds the tensioner 
+it's HORRIBLE
+BUT IT WORKS
+you just need to tension the z before you mount the belt idler
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/d74014b47b385b4378cc463bb2d0db2258731c1a_horrible_z_axis_mount.png
+so actually the Z axis looks like this
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/4482abbf5940694846faa8c2ebf4c437de6e3e59_another_z_axis_photo.png
+
+first thing i did was quickly throw together a plate to finish attaching the X axis rods to the Z axis
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/550000d71b361c0edc9900587851f0d097d1cc73_step_1_x.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/157699d0951cc8afec68cd665f17ce208045a7e3_x_axis_2.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/729722f46ca12e9bdc219234baadc3bd395e54eb_x_axis_3_another_use_of_that_idlet_thing.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/a977c225d8bf1812b08dfec78daaf00c7d7fd3b3_another_one_of_those_grippy_plates_for_x_axis_4.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/8133603e89dd5bdcb5fc5bc1f0212e8fb43daee6_nice_chunky_x_motor_bracket_5.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cc750f8558057b66d48fdee3e098ecc48d77a9c_x_6_what_we_have_so_far.png
+
+
+then that gets us onto the next bit
+the hotend, the fun fancy probably most expensive part of this whole thing
+i decided to save a good chunk of the budget, i was going to use the dragon HF hotend, with the mellow NF crazy volcano heatblock for this printer
+and i would take it off of my voron 0.1 (WOOO THE VORON V0.1 MENTIONED AGAIN), and use the stock hotend that came with the voron on the voron
+meaning this printer gets quite a nice hotend :D
+i also wanted to use a sherpa mini extruder as i have found them to just be a nice extruder that is relaiable, and can handle pretty much whatever material you can throw at it
+ive printed TPU with it so its pretty nice :D
+ here is a little render of the hotend
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/2921c9a01d15f689d849ce04473063b6ab6bb767_hotend_pretttyyy.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aaa8ab847f2dd543859224de700ef470266aa14_midplate_hotend.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c2d9f76f1b20ebcc7c516300e15e9bc12377007_hotend_midplate_and_sherpa.png
 
 
 
+fan mount for this was super simple
+i do love the simplicity of it :D
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/43d0647659dfa3759a56e4342b59883b2aed7eb7_cheeky_lil_fan_mount.png
+
+add in some ducts
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/71a95cbfc4675e34f97d032da97a18cd14388a46_and_thats_a_hotend.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/f8018bf92a7501edb24200e65ad7e923c1c5298a_frame___x___y.png
+
+
+
+
+
+random bits for the end
+almost forgot to make endstops
+so i came up with this cute little thing that fits on the the 8mm linear rods, as shown here :D
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/91c783fab330cab99d186919589173521b7cd190_endstop_on_its_own.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/97e0418ba3bd944ecc93f7dc82496af1b2232157_end_stop.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f18c54eebadf9dd56dc3ebeae7205ff896d0ef6_use_of_enstop_again.png
