@@ -9,7 +9,7 @@ Made by : William
 respository link: https://github.com/WilliamPrime/Mu-Draconis
 
 i have a 3d printer :D
-
+total hours so far: arround 60
 
 
 
@@ -227,40 +227,9 @@ updated BOM is here
 https://docs.google.com/spreadsheets/d/1IZOwHB4fpJywedBBVYQKaOOAUHnNrE4fSURzN-7t6E4/edit?gid=0#gid=0
 
 
-## managed to count some bolts 
-now at least i know the hardware i need to add to my bom
-
-bed assembly
-m3x8    8pcs
-m3x12 5pcs
-m3 x35   4pcs
-m3 x30 6pcs
-m3 x30 6pcs , 45 degree angle
-m3 nylock nut,   6pcs
-m5 t sloct nut , 2pcs
-m5x18 , 2pcs
-m5x10 , 2pcs
-m3 heat sets , 11pcs
+# 17/04/2025 BIG changes and a bit of a write up and summary that is long due arround 
 
 
-frame
-m6x20 , 2pcs
-m3x12 , 21pcs
-m5x8 , 8pcs
-m5 t slot nut, 8pcs
-m3 x8, 6pcs
-m3x20, 8pcs
-m4x28, 2pcs
-m4 nut, 1pcs
-m3 heat set, 3 pcs
-
-
-
-# 17/04/2025 big changes and a bit of a write up and summary that is long due
-
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37b29bc5192f4756bbafea258dcb289f7c5ff2e3_image.png"
-     alt="image of printer"
-     style="float: left; margin-right: 10px;" />
 
      
 spent the last 10 hours working on the 3d printer polishing out all of the missing bolts in the cad
@@ -369,14 +338,21 @@ sadly ive managed to loose that :sad:
 i also added on some little sticky out bits to the bearing that i hoped to later use for mounting to the frame of the printer
 
 https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fb4699f730b00b6d34ee98721cad8a2cb5b5bb7_aaaa.png
+<img src=""
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 i will come back to the custom 3d printed bearings again later and how they should be assembled because i think thats probably a good idea
 
 
 my next step was to start desinging a frame 
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/7156bb5a7499150568c56d813a0a457d4c8d5f1e_its_a_simple_frame.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/a4281b408b863e5e372d6c7b032734ca29c093a2_frame_1.png
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a4281b408b863e5e372d6c7b032734ca29c093a2_frame_1.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7156bb5a7499150568c56d813a0a457d4c8d5f1e_its_a_simple_frame.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 and then after that some feet so it doesnt fall over
 the timeline is a bit messy here
@@ -389,9 +365,16 @@ im going to have the powersupply at the bottom later , and the priter should be 
 the feet are also two part to make them easier to print
 then using a heat set and a screw  to join them together 
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f51bcdc3bb8617c94d9e346289e3074da05f885_legs_close_up.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/676064ef896a37624a84b696d0332c8d6b32bbfb_just_legs.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/190d31337b33a842dba1131238115d85ee2a0b56_feet.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f51bcdc3bb8617c94d9e346289e3074da05f885_legs_close_up.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/676064ef896a37624a84b696d0332c8d6b32bbfb_just_legs.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/190d31337b33a842dba1131238115d85ee2a0b56_feet.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 chronologically, i had started to work on getting the bed mounted 
 however i wasnt sure exactly where the hotend was supposed to end up
@@ -404,18 +387,30 @@ my first step towards a Z acis was getting something to hold to linear rods
 and for that i designed this little thing that could be used for the top and the bottom of each rod
 nicely securing them to the extrusion :D
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/632528b3460264b9e73d4814cb13a0eb14fa55e7_single_rod_holder.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/632528b3460264b9e73d4814cb13a0eb14fa55e7_single_rod_holder.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 and then adding in the rods,
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cbfa8752e390414a62922718f1d3906033979e_printer_prototype_1_v53.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cbfa8752e390414a62922718f1d3906033979e_printer_prototype_1_v53.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 then got a nice little carridge going :D
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed000ce97eaec9d004aa89687c4825e24e2b2603_frame___z.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed000ce97eaec9d004aa89687c4825e24e2b2603_frame___z.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 and realised i needed a way to get the belts to actually be gripped onto
 my soltion, just weird grippy thing :D with teeth or the blet profile, whatever you want to call it
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4a08658c974a6a0c9ae8223eab1de8035b36890_belt_gripper.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4a08658c974a6a0c9ae8223eab1de8035b36890_belt_gripper.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 then with another chunk of messing arround i got the belt modeled in with all the teeth,
 i dont exactly know wher i deceided to modeling in the teeth, i didnt do it for any of the other belts, so now it just looks a bit odd
@@ -425,7 +420,10 @@ i got the belts modelled in
 and then i also got a nice little motor bracket modelled in with a motor and pulley i got from grabcad
 very nice so far
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/41ab42b438bd0783c88b2e29603b431f1ca96f5c_motor_mount_png.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/41ab42b438bd0783c88b2e29603b431f1ca96f5c_motor_mount_png.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 thats the Z axis done
 
@@ -435,25 +433,52 @@ but i designing a belt tensionser while making the x axis
 with the idea being to use it wherever i need to tension belts so that was also used here
 to avoid the overwhelming mess of what the fusion file was at this point, i designed the idler in a different files and then imported it into the main file
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/f72c2692a40c57fca44bc38c3196042ccb8f295c_tensioner.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f72c2692a40c57fca44bc38c3196042ccb8f295c_tensioner.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 you do have to love the way i designed the bracket that holds the tensioner 
 it's HORRIBLE
 BUT IT WORKS
 you just need to tension the z before you mount the belt idler
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/d74014b47b385b4378cc463bb2d0db2258731c1a_horrible_z_axis_mount.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d74014b47b385b4378cc463bb2d0db2258731c1a_horrible_z_axis_mount.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 so actually the Z axis looks like this
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/4482abbf5940694846faa8c2ebf4c437de6e3e59_another_z_axis_photo.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4482abbf5940694846faa8c2ebf4c437de6e3e59_another_z_axis_photo.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 first thing i did was quickly throw together a plate to finish attaching the X axis rods to the Z axis
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/550000d71b361c0edc9900587851f0d097d1cc73_step_1_x.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/157699d0951cc8afec68cd665f17ce208045a7e3_x_axis_2.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/729722f46ca12e9bdc219234baadc3bd395e54eb_x_axis_3_another_use_of_that_idlet_thing.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/a977c225d8bf1812b08dfec78daaf00c7d7fd3b3_another_one_of_those_grippy_plates_for_x_axis_4.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/8133603e89dd5bdcb5fc5bc1f0212e8fb43daee6_nice_chunky_x_motor_bracket_5.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cc750f8558057b66d48fdee3e098ecc48d77a9c_x_6_what_we_have_so_far.png
+
+
+
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/550000d71b361c0edc9900587851f0d097d1cc73_step_1_x.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/157699d0951cc8afec68cd665f17ce208045a7e3_x_axis_2.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/729722f46ca12e9bdc219234baadc3bd395e54eb_x_axis_3_another_use_of_that_idlet_thing.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a977c225d8bf1812b08dfec78daaf00c7d7fd3b3_another_one_of_those_grippy_plates_for_x_axis_4.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8133603e89dd5bdcb5fc5bc1f0212e8fb43daee6_nice_chunky_x_motor_bracket_5.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cc750f8558057b66d48fdee3e098ecc48d77a9c_x_6_what_we_have_so_far.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 
 then that gets us onto the next bit
@@ -465,19 +490,155 @@ i also wanted to use a sherpa mini extruder as i have found them to just be a ni
 ive printed TPU with it so its pretty nice :D
  here is a little render of the hotend
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/2921c9a01d15f689d849ce04473063b6ab6bb767_hotend_pretttyyy.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aaa8ab847f2dd543859224de700ef470266aa14_midplate_hotend.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c2d9f76f1b20ebcc7c516300e15e9bc12377007_hotend_midplate_and_sherpa.png
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2921c9a01d15f689d849ce04473063b6ab6bb767_hotend_pretttyyy.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aaa8ab847f2dd543859224de700ef470266aa14_midplate_hotend.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c2d9f76f1b20ebcc7c516300e15e9bc12377007_hotend_midplate_and_sherpa.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 
 
 fan mount for this was super simple
 i do love the simplicity of it :D
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/43d0647659dfa3759a56e4342b59883b2aed7eb7_cheeky_lil_fan_mount.png
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/43d0647659dfa3759a56e4342b59883b2aed7eb7_cheeky_lil_fan_mount.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
 add in some ducts
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/71a95cbfc4675e34f97d032da97a18cd14388a46_and_thats_a_hotend.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/f8018bf92a7501edb24200e65ad7e923c1c5298a_frame___x___y.png
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/71a95cbfc4675e34f97d032da97a18cd14388a46_and_thats_a_hotend.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f8018bf92a7501edb24200e65ad7e923c1c5298a_frame___x___y.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+this is probably the least gracefull, and most confusing part of the entire printer
+the bed
+my first step was to create something to mount the two bearings to the frame
+its not gracefull
+but here is the little mount i designed
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd60cff176a750daa79ba3b6e0b2c5565fe2dd1d_render_of_the_attachment_for_those_bearings.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+the next step was actually joining the two bearing and the pulley together to get it all working as one nice big peice
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c2640f1cf173a07840c3e34afbafabdd15197ea_start_of_bed.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+i also realised that i need something to stop the stationary part of the slipring from just spinning
+since there wount be much force on it AT ALL , i could make it really quickly and not worry about strength, which gives us this little cute thing
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/81b3960a68aa22956eac1bd4a5e2d13fddd03047_anti_twisty_thing.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+then for the electonics
+i threw together a little mount for the skr mini
+and the ras pi i have allready has a heatsync and i dont really want to take it out of that
+so im just doulble sided taping it to the frame :D
+then the mount for the skr mini will also be getting the double sided tape treatment 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4e4ee00423cb85bf02bf9c283e6c288953738706_skr_mini.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/17e6f1f24cc8f0bf7bed7d8d3304cec9ca37b2e6_doulbe_sided_tape_ras_pi_mount.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+i also had a nice little solution for how to mount the c14 inlet
+i first designed a thing to hold the c14 inlet
+and then just joined it to the same leg that has the pi and skr mini
+just on the other side
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad1740a3e4afd5808a67f2b0a24d178b71fa66f2_other_side_of_c14.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5395992a6c0613aa9078ed1ef33dde49fb2004c6_c14_mount_thing.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+
+but i wasnt quite sure where to put the psu 
+since the vertical extrusion has stuff all over it
+i cant mount it to that
+the horizontal extrusion has stuff
+and then it just seemed really hard to find anywhere that it could actually mount to
+but i found a nice little place to nestle it
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9938794e1a9b2ebbfad29169aea849332a75ee2b_where_psu_2.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/98382c8bee9e9d3b8d621843d633d4c9d14209e4_where_psu.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+the soluation i managed to come up with     
+was to raise the "feet" of the printer a little bit i think arround 4mm
+and then it fits VERY snugly under the z motor with that extra clearance
+and its right next to the foot under the vertical extrusion which gives me something nice for it to mount to
+
+here you can see ive raised the feet to fit it, and then the holes that will let me mount the PSU
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c2ad02e4ba71402850c94e94b8a03999de563317_raising_the_feet_so_it_fits.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+and then with the psu it looks like thise
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/00554409dadbf4d4a6942ec921cdd0b22423cbb3_mounted_psu.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+however the screw terminals looked a bit exposed
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c0d71f225338157ca6ec41493fe225d3277082b_unsafe_psu_smoller_file.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     
+and i REALLYY dont want to accidentally touch live 240v ac 
+thats not how i want to go out
+so i designed a nice little cover for the screw terminals to prevent me accidentally zapping myself 
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/688367c394d2c4927cdece1cd4788c7c28199e39_safer_psu_even_smaller_file.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+
+
+now that we are on electronics i should probably make an electronics diagram for this
+but im not sure if it needs one
+
+so i will just write it out
+
+240v comes in through the C14 inlet
+That then goes to the PSU so i have 24v for the rest of the printer
+
+that 24v will need to power the:
+2 heater relays,
+SKR MINI E3 V3, and
+kliiper expansion board
+
+the motors all attach to the SKR mini
+the endstops all attach to the SKR mini
+thermistors attach to SKR mini
+
+however because of the me having an SKR mini that has a dead multiplexer, meaning that none of the mosfets work
+i need to use a klipper expansion board to get mosfets to controll my fans and heaters
+my fans will connect directly to the klipper expansion board
+the bed and hotend however draw alot more power
+the bed could draw 150w
+and the hotend 80w
+im not confident the klipper expansion board can handle that much current , arround 3-6A
+so im using a little external mosfet board to power the bed and hotend
+the boards get power from the PSU
+but they get the signal from the klipper expansion board mosftets
 
 
 
@@ -487,6 +648,53 @@ random bits for the end
 almost forgot to make endstops
 so i came up with this cute little thing that fits on the the 8mm linear rods, as shown here :D
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/91c783fab330cab99d186919589173521b7cd190_endstop_on_its_own.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/97e0418ba3bd944ecc93f7dc82496af1b2232157_end_stop.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f18c54eebadf9dd56dc3ebeae7205ff896d0ef6_use_of_enstop_again.png
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/91c783fab330cab99d186919589173521b7cd190_endstop_on_its_own.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/97e0418ba3bd944ecc93f7dc82496af1b2232157_end_stop.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f18c54eebadf9dd56dc3ebeae7205ff896d0ef6_use_of_enstop_again.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+so that gets us to this nice render of the printer in what is currently its finished form :D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6241c7993d7a243c48dfeaf707213b25041c25ed_wow_thats_close.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0edb0c29515d91259e80ba64416a0e4c7e0aaf2e_printterrr.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+i have got some things i do want to improve, but those involve change the 3d printed parts not any of the hardware
+the list of stuff i want to make less bad are:
+
+make the hotend mount more secure
+
+better fan duct design
+
+fix the 0.0027 degree angle on the sides of the bed belt tensioner thing
