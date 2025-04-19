@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/invictus-anic3tus/anicept-vex/ref
 ---
 ## firstly,
 
-This 3D printer has been made possible by Hack Club and the awesome Alex Ren. Let's give them a hand! 👏👏👏
+This 3D printer has been made possible by Hack Club, Alex Ren, and the awesome Polymaker Joel. Let's give them a hand! 👏👏👏
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anicept-vex  
@@ -295,13 +295,29 @@ x/y idler holders!
 
 For a month of work, I'd give this a solid 40 hours. Not a ton, but like I said there's been a bunch of school and stuff that tbh takes priority.
 
-### day 58
+### day 58 - apr 16
 
 Today I got my current 3D printer back up and running after a week or two of inactivity due to wifi issues. It's all set and ready, and I started by doing a test. I printed a benchy at 50% fan speed to see what would happen, in order to test if the 4010 blower fans would be enough for the Vex. It turned out well. Not great, but not awful. I did some research and asked perplexity.ai and got the general consensus that 7+ CFM would be best for 30mm<sup>3</sup>/s or more. The fans I got are about 3.62 CFM each, and I have two, so that could be enough? I'm not sure but I want to try them. I also connected the lead screw nuts to the bed holder, meaning all I have left is attaching the back linear rods. I'm planning to order parts tmrw after some research today.
 
 Here goes nothing.
 
 Research: 1 hr 30 min, CAD: 1 hr
+
+### days 59 thru 61 - apr 17 - 19
+
+These days I ordered all of the remaining parts after getting refunds from AliExpress. They should arrive in about a week, and in the meantime, I'm printing parts. I plan to make a livestream of me building the printer on the HC slack as soon as I get parts printed, but I'm not sure how my parents will react. 🤞
+
+But here's a really big thing.
+
+On day 61,
+
+## Polymaker sponsored my 3D printer
+
+That's right!! I sent them an email, and none other than Polymaker Joel responded by giving me free filament to make the Anicept Vex! Gigantic shoutout to them. Polymaker ROCKS. Like this has singlehandedly rekindled my love of humanity. it's just a little reminder that good people exist, and i'm so blessed to be able to interact with them. as im writing this im literally grinning widely because of how great it all is. thank you so, so much.
+
+Polymaker🔛🔝
+
+(plz note, if you're a hackclubber reading this I'd appreciate if u didn't tell everybody on slack,,, not because they don't deserve the sponsorship but because if 50 ppl ask polymaker for free filament for the same reason, they may start to become suspicious and less lenient. this can put a bad name on hack club. thx.)
 
 ## pictures!! my timeline of the printer 🥲
 
