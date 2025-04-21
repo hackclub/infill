@@ -27,7 +27,7 @@ I don't fucking know but I'll figure it out in the vacations. I never failed any
 3. 310x310x310+mm
 4. Cute & colorful
 5. Have removable cat ears on it :3 (Dad's killing me if he sees cat ears TwT)
-6. Multicolor!!! 8+ colors!
+( 6. Multicolor!!! 8+ colors! I'll whip something up with my parts :3)
 Extra: Be able to print some metalic filament, that would be soo cool
 
 How to source the parts cheaply? I'm buying everything from china lol
