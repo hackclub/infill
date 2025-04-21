@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 55.0 hrs
+Total hours so far: 57.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -40,6 +40,12 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Ordering Parts! April 11th, 2025
+
+Today I ordered a majority of my parts! It took a lot longer than expected, and I still haven't orderd my complete BOM. I only ordered "the big items," like hotend, motors and extruder.
+
+Time:2 hrs
 
 ## April 6th, 2025
 
