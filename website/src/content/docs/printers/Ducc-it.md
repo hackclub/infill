@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 113
+Total hours so far: 153
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
@@ -199,3 +199,46 @@ Here is the new carriage!
      alt="Fixed stabilization"/>
 
 I've learned not to trust linear rods and SC8UU bearings anymore :) and now love how stable the bed is! Everything works great and looks amazing. 
+
+### Day 19-25 4/16/25 - 4/21/25 (~ 40 Hours)
+
+I FORGOT TO DO MY LOG NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+Okay, back on track, the first few days, I finished soldering the endstops, and mounting them. Suprisingly, this took me really long because I had to manually crimp the JST connectors (without a crimping tool). 
+
+Next, I modeled and CADed a electronics mount for my rpi + btt skr, didn't take too long to cad out and looks pretty cool. The RPI sits on the bottom and the skr sits on top. 
+
+<img src="https://github.com/user-attachments/assets/5b56ea50-9602-4eee-9e0f-de0779cdd93c"
+     alt="Fixed stabilization"/>
+
+Heres how it looks IRL: 
+
+<img src="https://github.com/user-attachments/assets/a86e50dc-bbe7-4057-93b9-2f5cbe4d4813"
+     alt="Fixed stabilization"/>
+
+After that was done, I made the 3 hour journey of: 
+- adjusting motor wire length
+- soldering JST connectors on the motor wire
+- mounting electronics to the 2020 extrusions
+- plugging everything in
+- testing electronics
+- cable managing (THIS WAS TOUGHHHHH I used ~ 20 zip ties)
+- testing
+
+And after all that, doom struck. The Z wobble on the machine was ATROCIOUS, and it was due to my nema17 motor mount and how it wasn't even bent to 90 degrees fully. With the super wobbly Z axis, I printed a few prints, this benchy that really stood out! 
+
+<img src="https://github.com/user-attachments/assets/de49dd9e-7919-42e8-866c-58c52bec662b"
+     alt="Fixed stabilization"/>
+
+Not my proudest moment, but a benchy is a benchy! Ducc it finally printed something. I redesigned the motor mount and made it a 3d print for accuracy, and here is the result! 
+
+<img src="https://github.com/user-attachments/assets/0e96579e-9e3e-4a62-9119-822927290cfd"
+     alt="Fixed stabilization"/>
+
+There was still some slight wobble in the Z axis, and upon further inspection, the shaft coupler was under so much load that when I took it off, it was naturally bent. I replaced it with a rigid coupler, and printed a calibration cube with a slight modification to it. I made the last 2mm as a overhang test and it performed really really well. 75 degree overhangs are pretty crazy. 
+
+<img src="https://github.com/user-attachments/assets/c02f370f-5f3b-44ce-b5d8-b2c136c97522"
+     alt="Fixed stabilization"/>
+
+Really happy with the result of the print! Of course it isn't perfect and it definitely can't stack up to Bambu Lab's printers, but the result is undeniably decent! Thats the base printer for now, I still need to finish the lighting and create the auto ejecting part of it! 
+
