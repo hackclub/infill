@@ -4,12 +4,12 @@ description: "Battery-powered 3d printer to print without access to any nearby o
 project_name: "Volt-core"
 repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/refs/heads/main/CAPTAINSLOG.md"
 ---
-Made by: @Amaya
+Made by: @Amaya and @Jonathan G 
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore
 BOM: https://docs.google.com/spreadsheets/d/1q4xtd6th8_cM6Qn8iwp2R4_8qS0gYeFDji75B9E_PQI/edit?usp=sharing
 Images: https://docs.google.com/document/d/1O2JPVw-2Jhm0MzPRCLd0zcRRRKDtKQYV07AwvWWCOpY/edit?usp=sharing
 
-Fusion 360 PCB link: https://a360.co/4jejSvC
+Fusion 360 PCB link: https://a360.co/4jejSvC (DEPRECATED - DOES NOT WORK)
 Fusion 360 Printer assembly link: https://a360.co/3RkSeRq
 
 Total hours so far: 82 hrs 5 mins
@@ -21,7 +21,7 @@ NOTICE! Print files and quantity specifications listed in STLs folder on github 
 ---
 < Briefing >
 A silly concept accidentally turned reality
-Pitch: A semi-portable solution to printing without an active power source
+Pitch: An extra portable and partially remote solution to printing without an active power source
 
 ---
 
@@ -538,5 +538,134 @@ In order of what I need to do and what:
 
 
 Total time elapsed: 9 hrs
+
+---
+
+# Day 18
+### April 20th 2025
+
+Purchased the parts a few days ago, and now we're just waiting for all of them to come in. I started assembling what we had today, which was all of the parts for the frame, bed, and the electronic mountings (excluding the voltage regulator).
+
+At some point, Josef Prusa must have blessed me or something, because I literally FOUND Haribo gummy bears near my backpack that fell from my closet.
+
+Thank you Josef... I think???
+
+Assembling was and will be much harder than I initially theorized. It took a total of 4 hours to square the 4 2020 extrusions at the base of the frame and insert the extrusion with the fully assembled bed. I think the bed was the easiest part to design and assemble out of the entire machine. A few redesigns were necessary to keep screw management in check (There was far to many M4s being used and we don't have that many), as well as some redesigns for design errors. I think that we'd be much more re-assured with a backup voltage regulator, so I'm going to do some research to find one that we can get for cheap in case our custom regulator dies/shorts. 
+
+And for the millionth time, we have battery problems. The voltage regulator we ordered is most definitely not up to code, so we're gonna have to order a new one...
+
+I've had to make a few redesigns as I'm assembling, mostly to the brackets, as well as adding some stuff in where there should've initially been supporting brackets.
+
+Personal note:
+Following parts need a redesign before continuing:
+- ~~Y Axis Idler and Tensioning Bracket (Make thicker to use an M3)~~
+- ~~Extruder mounting bracket (Change to M3)~~
+- ~~Filament mounting bracket (Change to M4 x 20mm)~~
+
+Total time elapsed: 7 hrs
+
+---
+
+# Day 19
+### April 21
+
+More parts arrived. I'll be assembling the Voron M4 extruder later today when the parts finish printing, until then, I have what I need to continue assembling the frame.
+
+There's a lot of issues now, these linear bearings don't fit in any of the parts, and I used screws that we don't have in the cad model. SERIOUS redesign binge or this doesn't work, and that cannot happen.
+
+Stuff that works so far:
+- Angle brackets
+- All bed parts
+- Filament holder (with slight modifications)
+
+Screws used so far (tracking M4 and M5):
+- M4 x 10 (16)
+- M5 x 10 (8)
+
+Stuff to redesign/design:
+- ~~Anything with linear bearings to diameter of 15.35 instead of 15.1~~
+- Completely redesign right bracket for gantry (Using M3 x 20 not M3 x 30)
+- Redesign both idlers (M3 x 30 does not exist)
+- New voltage regulator bracket
+- ~~Thrust bearing housing (Bearings are too low and not enough screw clearance)~~
+- CR Touch mounting bracket (No cable clearance)
+- ~~Y axis stepper mounting bracket (Overhang makes it JUST too fat to use)~~
+- ~~Extruder mount (Backside is JUST too close to the frame)~~
+- Printhead clamps (M3 x 40mm screw doesn't exist)
+
+Stuff redesigned:
+- ModF_YAxis_Idler_&_Tensioning_Bracket.stl
+- Y axis stepper mounting bracket
+- Thrust bearing housing
+- Extruder mount
+
+To make my life easier, I concluded that I'll redesign all the listed files, as well as the entire gantry.
+
+Total time elapsed: 6 hrs
+
+---
+# Day 20
+### April 22
+
+The following modules are complete and do not require further adjustment until a test involving the entire printer is conducted:
+- Frame (Generic structure, angle brackets only)
+- Extruder
+
+What I finished today: Complete mounting and assembly of the Mobius extruder. (Voron M4 extruder kit).
+
+Total time elapsed: 5 hrs
+
+---
+
+# Day 21
+### April 23
+
+I've managed to disassemble the bed and am now going to take the time to redesign a clamping system for the belts so that they may be attached properly this time.
+
+After redesigning the bed, I decided to use my time to work on the gantry, which I've been putting off for a few days. I wanted to make the design much more organized and much cleaner than the last time, since it was previously so messy that the file decided to straight up off itself mid-modeling session and destroyed a bunch of stuff. To do this, I'm employing the same design solutions I came up with for the gantry previously, only this time I'm designing them all together, instead of smaller and uncontrolled edits of a larger part. Sorta like resolving a puzzle that didn't change.
+
+The gantry is in reality, a stepper motor with a lead screw nut and a supporting/alignment structure of your choice (in this case, linear rods). The left side of our gantry is a tensioning bracket for the linear rods, where the lead screw nut resides, and a mount for the X-axis stepper motor. The right side is the same thing, but with a (typically adjustable) idler instead of a stepper.
+
+I finished redesigning the gantry after awhile, and honestly the revised version is much cleaner and a little bit more compact. I have no idea if it works, that's obviously the idea, but we won't know until the parts finish printing and I won't be awake when that happens.
+
+Did a lot today, got the Y axis working (FINALLY.) and finished remodeling the gantry. Tomorrow, assuming the gantry assembles good, I'm going to move on to finishing up the Z axis modifications. It's still not working.
+
+Total time elapsed: 6 hrs
+
+---
+
+# Day 22
+### April 24
+
+Not a lot done today, mostly just minor redesigns and whatnot. Added screw-tightened clamps to the bed since the previous method to hold them in place was just not working, fixed up the gantry some more (some stuff didn't fit), and that's about it. The bed works now, in theory, and the gantry is almost done being perfected.
+
+Total time elapsed: 4 hrs
+
+---
+
+# Day 23
+### April 25
+
+Spent some time to redesign the printhead today, I'll be printing the revised parts momentarily, but I wanted to fix up the X axis idler body, since it didn't quite work out the first time. Tolerances are way too out of whack with the M4 nut we're using to tension the idler; it literally bumps into the idler pulley and prevents it from being screwed in place. Not ideal.
+
+After redesigning the printhead and sending it off to the printer, there were a few more things I needed to do with the new files. First, and most importantly, I need to add it to the complete assembly in CAD, so we have a finished model of the revised printer. At this point, there is only one thing dysfunctional in our design, the Z axis thrust bearing housing bracket, and it may not even be necessary considering how well the printer seems to old it in place with absolutely no help.
+
+The next thing to do is revise the entire github, there's been so many changes in the design that I may as well take the time to dump all the old files and replace them with one zip of all the printable parts.
+
+Lastly, I'll have to make a few adjustments with some more images and files per the recommendation of Dari, the event organizer. 
+
+Checklist of updated README.md in STLS folder of the github repo:
+
+- [x] Printhead
+- [x] Gantry
+- [x] Extruder
+- [x] Bed
+- [x] Frame
+
+After finishing the reorganization, I decided to continue with adding Dari's recommendations, before I collapse from sleep deprivation. Remember to not stay up until 2 AM regularly, kids!
+
+Files have been added, we are good for now. I'll let you all know how it goes horribly wrong when I wake up from my nap and all the printed parts I left running explode or something else equally as absurd.
+
+Total time elapsed: 3 hrs
 
 ---
