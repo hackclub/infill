@@ -4,8 +4,8 @@ description: "A printer designed for rapid prototyping on the go."
 project_name: "PandA"
 repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
 ---
-# PandA RPD 
- The Portable and Automated Rapid Protyping Device
+# PandA
+ The Portable and Automated Printer
  
  Made by @lolwutboi987
  Total Hours on CAD: 15
