@@ -195,7 +195,7 @@ ChaosCompiler:
 erLay:
   title: "erLay"
   description: "A ultra portable 3D printer designed for competitions"
-  repository: "https://raw.githubusercontent.com/Badbird5907/erLay/refs/heads/master/README.md"
+  repository: "https://raw.githubusercontent.com/Badbird5907/erLay/refs/heads/master/journal.md"
   file_name: erLay.md
 
 Prometheus:
