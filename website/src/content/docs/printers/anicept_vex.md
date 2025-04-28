@@ -319,6 +319,26 @@ Polymaker🔛🔝
 
 (plz note, if you're a hackclubber reading this I'd appreciate if u didn't tell everybody on slack,,, not because they don't deserve the sponsorship but because if 50 ppl ask polymaker for free filament for the same reason, they may start to become suspicious and less lenient. this can put a bad name on hack club. thx.)
 
+## days 62 - 70 - apr 20 - 28
+
+In these days pretty much all the parts arrived, plus my polymaker order! I got a spool of white and a spool of black pla, which I already owned but needed more of, a spool of red pla, a spool of black PETG, and a spool of metallic gold pla!!! My printer is gonna be sick with the white/black/gold theme.
+
+I started 3d printing a bunch of parts for it, and began to piece it together bit by bit to make sure it works. I'm planning to do a livestream of me building it, and I might record it somewhere and link it, but idk if my parents will let me :b  
+As I'm writing this I'm setting up my new gold pla with a temp tower (looks like it just finished 215℃!) and then I'll get my black petg set up. I won't be using the polymaker petg for this project, since, while it's better, I have some rapid petg for the bigger parts so that it doesn't take ages to print them.
+
+One kinda weird thing that happened tho, a linear rod from aliexpress arrived empty 😭
+Like, you can't do that!!!! Looks like the seller shipped it empty!!!!!! I applied for a refund but they haven't given it yet since I can't really prove it. So I'm waiting on that (actually it's kinda not necessary maybe. I'll see.) and a digikey order just for some sttuff like wires, wire nuts, etc.
+
+Anyways that's basically it. Z axis belt system works good. Oh yeah, I also need to get a build plate from amazon. Will do.
+
+OH YEAH and I also................... waiiit........... i forgot... oh yeah. I changed the printhead logo to be super sick and much better since it was super ugly. Now it matches my logo at [https://anicetus.dev](https://anicetus.dev) (shameless plug) as a cool hexagon thing:
+
+![new logo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bf08cb30a5bd7cdd6134c7e9cb830e697c99ef9c_anicept-vex-new-logo.jpg)
+
+and here's a belt drive rendered pic for good measure
+
+![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
+
 ## pictures!! my timeline of the printer 🥲
 
 Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
