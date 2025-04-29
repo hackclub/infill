@@ -33,7 +33,7 @@ def rewrite_image_urls(text, url):
         return match.group(0).replace(img_url, new_url, 1)
 
     #this regex matches the urls inside markdown images and html image tags
-    urls_regex = r"!\[.+?]\(<?(.+?)>?\)|<img.+?src=['\"](.+?)['\"].*?>"
+    urls_regex = r"!\[.*?]\(<?(.+?)>?\)|<img.+?src=['\"](.+?)['\"].*?>"
     return re.sub(urls_regex, regex_callback, text)
 
 # Function to download a markdown file and create metadata within the file
