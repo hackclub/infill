@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 57.0 hrs
+Total hours so far: 72.5 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -41,7 +41,37 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
-## Ordering Parts! April 11th, 2025
+## All Pikes Peak Makes - April 26th, 2025
+
+Today I attended the All Pikes Peak Makes maker faire at library 21c! It was great, I got to share all my projects including my 3D printer, along with my brother. We advertised Hack Club as well, with a lot of potential signups. I tuned my printer live at the event, and managed to print a bad benchy at 350mm/s. I still need to completely replace the parts and add the toolchanging head.
+
+![](Media/2025-04-26%20me%20at%20All%20Pikes%20Peak%20Makes.jpg)
+
+Time: 7 hrs
+
+## Prep for event tommorow - April 25th, 2025
+
+I spent awhile building sub-assemblies and trying to make my printer functional for tomorrow. I ended up not finishing the entire new assembly, and since my new printer is similar enough to my old printer, I decided to replace some compatible parts and leave the rest. I managed to cut myself multiple times extracting the bearing towers from the old parts.
+
+All I ended up doing: Set up the RPi4 completely with klipper, attach it, and replace the front towers.
+
+Time: 5 hrs
+
+## Printed all the parts - April 24th, 2025
+All my parts are printed, there was a lot of trial and error initially printing the orange ASA, I had to make sure my chamber was sealed and all fans were off.
+
+![](Media/Screenshot%20from%202025-04-28%2021-33-00.png)
+
+Time: 3 hrs
+
+## Parts Arrived! - April 19th, 2025
+All my important parts arrived! Some parts are going to be reused from old projects as well, which aren't shown here
+
+![](Media/Screenshot%20from%202025-04-28%2021-32-23.png)
+
+Time: 30 mins
+
+## Ordering Parts! - April 11th, 2025
 
 Today I ordered a majority of my parts! It took a lot longer than expected, and I still haven't orderd my complete BOM. I only ordered "the big items," like hotend, motors and extruder.
 
