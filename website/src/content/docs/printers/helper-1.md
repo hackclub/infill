@@ -115,3 +115,12 @@ my wood scraps are 8.75cm by 3.75 cm aprox
 my screws are: 6 , 1 1/3
 
 (i plan on building some support to hold the printer by the top out of some wood i recycled from an old project)
+
+### rest of april update:
+15 hours
+worked on my printer mod
+started planning a redesign. Because my goal with this printer is to have large volume printing with little regards to speed and not much about precision the reason for that being that i plan on printing large rc plane wings, i figured itd be better off with a robotic arm 3d printer. I'm going for 1.2m reach with this and im gonna use brushless motors along with my own foc esc with encoders ill make using onboard live. this should allow me to print even big single wing planes!
+
+### may 3rd:
+0.5 hours
+Received the heated bed pcbs from jlcpcb! i tested them and the calculated resistance of the tracks was only off by 7%! And they heat up pretty well!
