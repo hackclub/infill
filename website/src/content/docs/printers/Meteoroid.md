@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 72.5 hrs
+Total hours so far: 82.5 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -40,6 +40,14 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Redesigned toolhead - May 4th, 2025 
+
+I spent the past 2 days and today redesigning my toolhead. It now has a BTT EBB36 mount and much better ducts
+
+![](Media/Screenshot%20from%202025-05-04%2014-51-12.png)
+
+Time: 10hrs
 
 ## All Pikes Peak Makes - April 26th, 2025
 
