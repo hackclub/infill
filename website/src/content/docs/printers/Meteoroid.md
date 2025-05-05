@@ -45,7 +45,7 @@ This is a log of every day I have worked on this project
 
 I spent the past 2 days and today redesigning my toolhead. It now has a BTT EBB36 mount and much better ducts
 
-![](Media/Screenshot%20from%202025-05-04%2014-51-12.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-05-04%2014-51-12.png)
 
 Time: 10hrs
 
@@ -53,7 +53,7 @@ Time: 10hrs
 
 Today I attended the All Pikes Peak Makes maker faire at library 21c! It was great, I got to share all my projects including my 3D printer, along with my brother. We advertised Hack Club as well, with a lot of potential signups. I tuned my printer live at the event, and managed to print a bad benchy at 350mm/s. I still need to completely replace the parts and add the toolchanging head.
 
-![](Media/2025-04-26%20me%20at%20All%20Pikes%20Peak%20Makes.jpg)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/2025-04-26%20me%20at%20All%20Pikes%20Peak%20Makes.jpg)
 
 Time: 7 hrs
 
@@ -68,14 +68,14 @@ Time: 5 hrs
 ## Printed all the parts - April 24th, 2025
 All my parts are printed, there was a lot of trial and error initially printing the orange ASA, I had to make sure my chamber was sealed and all fans were off.
 
-![](Media/Screenshot%20from%202025-04-28%2021-33-00.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-28%2021-33-00.png)
 
 Time: 3 hrs
 
 ## Parts Arrived! - April 19th, 2025
 All my important parts arrived! Some parts are going to be reused from old projects as well, which aren't shown here
 
-![](Media/Screenshot%20from%202025-04-28%2021-32-23.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-28%2021-32-23.png)
 
 Time: 30 mins
 
