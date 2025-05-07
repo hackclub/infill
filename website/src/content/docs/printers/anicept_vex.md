@@ -10,7 +10,7 @@ This 3D printer has been made possible by Hack Club, Alex Ren, and the awesome P
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anicept-vex  
-Total hours so far: 150
+Total hours so far: 165
  - ✅ I have a 3D printer
 
 ### about the anicept vex
@@ -339,7 +339,39 @@ and here's a belt drive rendered pic for good measure
 
 ![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
 
-## pictures!! my timeline of the printer 🥲
+## days 71 - 76 - apr 29 - may 6
+
+Well, my digikey order and amazon order arrived. AliExpress still wont let me refund the package, but this time around I chatted with the seller and they acknowledged that the packaeg was empty. I took a screen recording of the chat as well as the chat ID so they can check it. I really hope I get it refunded! However I'm like 79% sure I won't need the rod, so no rush on the refund really. 3 rods should be enough according to some geeks in the 3d printing discord.
+
+[This](https://www.amazon.com/gp/product/B0CQ1S6Z32/) is the build plate I got from amazon (gold pei + gold peo). it looks ssooooooo goooood!!! the peo side is super shiny and makes amazing rainbow reflections
+
+turns out I didnt need to get wire nuts from digikey tho, since my dad has some... well it's too late. completely unrelated but with my new digikey order I now have 14 esp32s and an arduino uno :D
+
+however  
+I need to do more redesign. Again. Yes. Ow. so turns out my mainboard wouldn't fit in the enclosure i made for it with all the wires and stuff blocking everything (the spade connectors for the psu are suuuuper long) so i had to totally redesign it. i think im just about done, and I made a new design with the mainboard above the aluminum extrusions and rotated 180° to make it fit better.
+
+unfortunately, moving the mainboard around and such will mean editing the z-axis. this is probably for the better, cuz some geeks on the 3d printing discord were saying that having 4 linear rods will overconstrain the bed or something like that. my current design has 3 rods (which is what I currently have) but if need be I can easily add a 4th (granted stupid aliexpress refunds me)
+
+this means all but redesigning the entire heated bed holder. ouch.
+
+ig that's enough yap for today. my hour count is super inaccurate already so for the 6 days since last update I'll give it a 15 hrs of cad.
+
+P.S. I've blown through about 500g of filament in the past two weeks
+P.P.S. I finished my school year so i'll probably have more time to write these updates!
+
+## what i've learned from making the Anicept Vex
+
+1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
+2) dont make compromises. it never works. dont buy the cheap thing because its cheap. there's a reason it's cheap. and when designing stuff, dont maximize space. leave tolerances and tons of room for wires and whatnot. cutting corners, as fun and easy as it may look, never works. this is probably cliche to you, but it's very true. when i was designing the z-axis (the first time) for the vex, it seemed ok to be able to use one screw in the back and two rods in the front. this was a huge mistake on my part. in the back of my head, i thought the bed might sag and it might not work, but i ignored it. welp now I'm redesigning it, for the _second_ time. don't make compromises.
+3) do your research. always, always, always read aliexpress (or amazon) reviews. check the product specifications before buying. I thought my motors had a 2.7mH inductance, but they have a 3mH inductance. This isn't ideal, and will hamper how fast I can print. I thought it had the lower inductance because, surprise surprise, the aliexpress page said it did. but when I got the motors, the card that came with them clearly said 3mH inductance. I checked out the official store, omc-stepperonline.com, and the page there clearly said 3mH inductance. the aliexpress page was dead wrong, and it's costing me. I won't return them, because I couldn't find any better motors for a decent price anyways, but always remember to do your research, and never trust aliexpress specifications. you'll be sorry if you don't.
+4) dont get discouraged. believe it or not, you _can_ do it. It'll take time and effort, and you'll be sick of it, but power through and just DO it. the only way to get a hard thing done is to do it or hire somebody else to do it, and nobody can afford that. when you get bored or angry, don't doomscroll youtube shorts. literally just do it. honestly this is tough for me, especially designing tough parts like the printhead and gantry of the vex. but when it's done, it's DONE! Now reward yourself and watch 11 hours of zach freedman.
+5) remember that _you_ decided to do this project, the highs and the lows, so have fun with it. it's easy to get frustrated at the amount of work you have to do, but soon enough you're gonna be a responsible adult who has an actual job doing something likely even more frustrating. have fun with a project that you're doing of your own free will, and know that soon enough it'll be over, and you'll feel both sad and happy. You'll be sad because it was a big journey that you no longer are on, and happy for the exact same reason.
+6) you're not alone. probably. at least for infill, it's me and a dozen other active members. they're doing the same thing you are, and probably feeling just as frustrated as you. go chat with them about whatever it is you're doing. it helps. and help people who are new or just starting. use your minimal experience to guide people who were in the same place as you. when I was starting, i had a bunch of help from assorted people, but i had to research a ton of stuff myself. i.e. what motors, belts, and other parts to use. if other people are working on the same thing and are a bit ahead of you, they've likely already researched those parts. ask them what parts they use. to be fair, it may not apply sometimes, particularly with a scope as broad as a 3d printer to design. dont be afraid to ask for help, and especially not to give help when you can
+7) here's a bit of 3d printer specific advice: design the printhead, gantry, and z-axis before you design anything else. I went straight from printhead to electronics casing because I was scared of the gantry. dont be. it'll be super tough, but it'll save you a bunch of heartache having to redesign stuff because it doesn't fit in what you already have.
+
+Well that's it!! Hope that helps somebody.
+
+## pictures!! my timeline of the printer :D
 
 Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1606de4940ed5a146b976a6f102ae7194444790e_screenshot_2025-02-02_182817.png)
