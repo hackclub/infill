@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 62 hours
+Total hours so far: 63 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -464,5 +464,22 @@ Total hours so far: 62 hours
 ### Time Spent on This Day: 3 hours
 
 `Orders: 3 hours`
+
+<br><br>
+## Day 19: April 18th 2025
+
+`Orders`
+
+- I continued to try to pay for the Hotend; I tried many different sellers but all of them failed. Eventually I ended up having to use a different card to pay for it and it worked first time.
+
+- No idea why it was so difficult but it was pretty annoying. At least I got it ordered in the end.
+
+`Orders: +1 hour`
+
+***+ 1 hour***
+
+### Time Spent on This Day: 1 hour
+
+`Orders: 1 hour`
 
 <br><br>
