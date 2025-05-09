@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/M0HID/prntr
-Total hours so far: 38
+Total hours so far: 40
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -168,8 +168,14 @@ Time += 2 hours
 ![image](https://github.com/user-attachments/assets/3ed2f983-8d30-4d64-ae53-fedb996509fd)
 ![image](https://github.com/user-attachments/assets/76d732e8-785f-4f6f-b521-8d951a502f05)
 
-Ok annd with that i think thats all! Ill be doing wire management and all that stuff once i acc get the hardware so uh yeah hopefully it works :pray:
 
 
-stl file can be found here
-https://github.com/M0HID/prntr/blob/main/prntr%20v37.stl
+# Improvements
+
+## Hotbed
+
+Upgraded the linear rod mount to hopefully something more secure and reliable.
+Time += 2 hours
+![image](https://github.com/user-attachments/assets/6267c09e-f7ac-4115-8f32-054bc5cb78e6)
+
+
