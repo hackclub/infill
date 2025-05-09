@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 31.5   
+Total hours so far: 42.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -49,6 +49,13 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |4/3/2025|CAD, Fixing Journal|1 Hour||
 |4/5/2025|CAD, Fixing Journal|1 Hour||
 |4/6/2025|CAD|2 Hours|Made a toolhead swapper?|
+|4/15-18/2025|Ordering parts|5 hours|i hate amazon so much|
+|4/21/2025|Got parts, started assembling|4 Hours|YAY PARTS|
+|4/22/2025|CAD, Assembly|1 Hour|yay screws|
+|4/23/2025|CAD, Assembly|1 hour|made the XY axis|
+|5/4/2025|CAD, Assembly|3 hours|I found a problems|
+|5/6/2025|Assembling|1 Hour|good progress|
+
 
 ## Detailed Log
 3/6/2025  
@@ -107,6 +114,10 @@ Worked on a toolhead swapper, it is kinda hard to see on the main model, so here
 ![Hotswap Assembly Side 1](https://github.com/user-attachments/assets/71de066b-77cf-4acf-9278-3b0b8207c125)  
 ![Hotswap Assembly side 2](https://github.com/user-attachments/assets/b716b90c-9c88-47be-96b0-70e1e49424b0)  
 As I mentioned yesterday, it is based on the WhamBam Mutant. To remove the toolhead, all you do is pull the lever, which will force the toolhead off.
+    
+4/21/2025  
+Got my parts WOO  
+!![IMG_0017](https://github.com/user-attachments/assets/98e1261f-7219-434f-a873-67c4b1075e81)  
 
 ## OLD DESIGN INFO (Icharus)  
 
