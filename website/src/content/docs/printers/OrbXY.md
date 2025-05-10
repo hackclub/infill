@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 63 hours 30 mins
+Total hours so far: 64 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -453,6 +453,8 @@ Total hours so far: 63 hours 30 mins
 
 - I wasn't able to order the Hotend because for some reason the payment kept failing; I think AliExpress had flagged the card as suspicious for no reason. I tried to submit an appeal for the payment but it wouldn't allow me to. So I tried to chat with customer support but I was stuck going round in circles with the bad AI 'customer support worker' that kept suggesting the same solutions that had already not worked :roll_eyes:
 
+- I also ordered my Power Supply from a local eBay seller which was cheaper and easier.
+
 `Orders: +3 hours`
 
 - I also realised after ordering one of the parts, that the seller was very suspicious so the order may not get fulfilled. Hopefully I can get a refund.
@@ -485,18 +487,57 @@ Total hours so far: 63 hours 30 mins
 <br><br>
 ## Day 20: April 23th 2025
 
-`Orders`
+`Orders` `Assembly`
 
 - My first item arrived today :partying_face: which was the LCD Screen
 
 - I put the mount for it on to print, so that when the other parts arrive, I can mount it to the Aluminium Extrusions
 
-`Orders: +30 mins`
+`Assembly: +30 mins`
 
 ***+ 30 mins***
 
 ### Time Spent on This Day: 30 mins
 
-`Orders: 30 mins`
+`Assembly: 30 mins`
+
+<br><br>
+## Day 21: April 25th 2025
+
+`Orders` `Assembly`
+
+- A bunch of parts arrived today! :tada::tada: Here is what arrived:
+    - GT2 Timing Pulleys
+    - Orbiter v2.0 Extruder
+    - 3010 Axial Fan
+    - 4010 Blower Fan
+    - Power Switch and Socket*
+    - GT2 Timing Belt
+    - PC3 M6 Connector
+    - M3 Heatset Inserts
+    - Magnetic PEI Plate
+    - GT2 20 Tooth Pulley
+    - GT2 No Tooth Pulley
+    - Silicone Foam Mat
+    - M3 Bolt and Nut Set
+    - 2020 200mm Aluminium Extrusions
+    - MGN9H Linear Rails
+ 
+    - Power Supply (from eBay)
+
+
+ - *When I ordered the Power Switch and Socket, I accidentally ordered it without the wires. It's actually cheaper and easier for me to just buy it again but with the wires rather than buying the wires and crimping tools, so that's I'll do.
+
+ - The Power Supply is larger than I expected so I will have to redesign the holder/mount for it.
+
+ - I set the Corner Brackets to print so that I can assemble the Aluminium Extrusions.
+
+`Assembly: +30 mins`
+
+***+ 30 mins***
+
+### Time Spent on This Day: 30 mins
+
+`Assembly: 30 mins`
 
 <br><br>
