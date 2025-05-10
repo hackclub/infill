@@ -12,6 +12,12 @@ Infinite Benchy Theorem:
   repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/journal.md"
   file_name: infinite_benchy_theorem.md
 
+Smoother:
+  title: "Smoother"
+  description: "A smooth printing friend..."
+  repository: "https://raw.githubusercontent.com/nadim-shahriar-apurbo/Smoother/refs/heads/main/WorkLog.md"
+  file_name: WorkLog.md
+
 Radeon:
   title: "Radeon"
   description: "A budget-friendly printer designed around CoreXY kinematics and linear rails."
