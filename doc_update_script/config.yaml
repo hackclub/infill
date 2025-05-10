@@ -420,8 +420,17 @@ Axiom:
   description: "A mini desktop 3D printer powered by USB C."
   repository: "https://raw.githubusercontent.com/coolinventorr/axiom/refs/heads/main/JOURNAL.md"
   file_name: axiom.md
+
+Azad1N:
+  title: "Azad 1 Nano"
+  description: "A small RepRap 3D Printer"
+  repository: "https://raw.githubusercontent.com/mo8codes/Azad1N/refs/heads/main/JOURNAL.md"
+  file_name: Azad1n.md
+
 PandA:
   title: "PandA"
   description: "A printer designed for rapid prototyping on the go."
   repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
   file_name: PandA.md
+
+
