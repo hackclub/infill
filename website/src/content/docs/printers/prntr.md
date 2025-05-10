@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/M0HID/prntr
-Total hours so far: 40
+Total hours so far: 41
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -178,4 +178,9 @@ Upgraded the linear rod mount to hopefully something more secure and reliable.
 Time += 2 hours
 ![image](https://github.com/user-attachments/assets/6267c09e-f7ac-4115-8f32-054bc5cb78e6)
 
+## Component structure
+
+Fixed my WHOLE file tree, renamed everything to be more meaningful and sorted bodies into different components
+Time += 1 hour
+![image](https://github.com/user-attachments/assets/3427e308-fbaf-456f-ab96-d58e1a6ec933)
 
