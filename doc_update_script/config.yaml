@@ -425,3 +425,9 @@ PandA:
   description: "A printer designed for rapid prototyping on the go."
   repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
   file_name: PandA.md
+  
+TitanForge:
+  title: "TitanForge"
+  description: "A large CoreXY 3D printer designed with printing TPU and Nylon in mind"
+  repository: "https://raw.githubusercontent.com/KyleDavis2200/TitanForge/refs/heads/main/JOURNAL.md"
+  file_name: TitanForge.md
