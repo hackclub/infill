@@ -100,3 +100,10 @@ Finalized the redesign, made all the parts look nice with chamfers and fillets.
 ![image](https://github.com/user-attachments/assets/6f3944e6-0495-494b-adb0-ba702418a07b)
 Most of the parts have arrived, but still waiting on a few.
 
+5/6/25-5/8/25 - 4hr (51 total)
+Finally began printing parts for the printer. Started assembling the frame.
+
+5/9/25 - 2 hr (53 total)
+Continued printing and redesigning parts. The frame was extremely wobbly starting off and required redesigning supports to be thicker and larger.
+Made a karambit out of the Y axis mount ![image](https://github.com/user-attachments/assets/6748ddf1-f3bb-44ce-8ef5-483194329bb6)
+
