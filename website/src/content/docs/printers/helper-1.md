@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 82
+Total hours so far: 97.5
 
 ### Sunday, march 2nd
 7 hours
@@ -118,6 +118,7 @@ my screws are: 6 , 1 1/3
 
 ### rest of april update:
 15 hours
+
 worked on my printer mod
 started planning a redesign. Because my goal with this printer is to have large volume printing with little regards to speed and not much about precision the reason for that being that i plan on printing large rc plane wings, i figured itd be better off with a robotic arm 3d printer. I'm going for 1.2m reach with this and im gonna use brushless motors along with my own foc esc with encoders ill make using onboard live. this should allow me to print even big single wing planes!
 
