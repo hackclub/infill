@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/M0HID/prntr
-Total hours so far: 41
+Total hours so far: 44
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -184,3 +184,15 @@ Fixed my WHOLE file tree, renamed everything to be more meaningful and sorted bo
 Time += 1 hour
 ![image](https://github.com/user-attachments/assets/3427e308-fbaf-456f-ab96-d58e1a6ec933)
 
+## Z axis
+
+Fixed the mount, it didnt really work before and now it does!
+
+![image](https://github.com/user-attachments/assets/95e6889f-0fdf-4047-ab59-24786c9125da)
+
+## insert descriptive title
+Remade some mounts
+Time += 3 hours
+![image](https://github.com/user-attachments/assets/61dc0476-768e-4011-8daa-c4c627b6fe3d)
+![image](https://github.com/user-attachments/assets/4deb53bc-f87d-43b8-b3c6-be724a9c8367)
+![image](https://github.com/user-attachments/assets/25ff8a18-fd8c-4b02-be25-b3399c6d9cdc)
