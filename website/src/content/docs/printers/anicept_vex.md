@@ -31,7 +31,8 @@ Again, a short, fiery, awesome name.
 
 OK, good. Down to business.
 
-## day 1 - feb 2 '25
+## researching and printhead CAD
+### day 1 - feb 2 '25
 Today I'm researching some parts!! Good stuff. I think ima use the Phaetus Rapido ACE hotend and BTT SKR E3 mainboard. Other than that, I have no idea.
 
 The Rapido ACE HF is built for ~45mm<sup>3</sup>/s printing, which is really really fast and happy. I may upgrade to the UHF if I'm underbudget and want to go 75mm<sup>3</sup>/s.
@@ -47,7 +48,7 @@ I started CAD-ing, and got only the hotend and extruder in their places :P
 Research and parts: 3 hrs  
 CAD: 30 minutes
 
-## day 2 - feb 3
+### day 2 - feb 3
 I started today off by doing some research! Some Slack members told me that the Orbiter v1.5 wasn't going to cope with the high-flow Rapido Ace, so I decided to look for a new power pair.
 
 I asked ChatGPT about some stuff, and it pointed me eventually to the Orbiter v2.0 and the Phaetus Dragonfly BMS, getting closer to 450mm/s which is pretty nice! The Dragonfly can also get to around 300°C, which is perfect for PETG and some hotter filaments.
@@ -64,7 +65,7 @@ I figured out some stuff with part cooling and whatnot, readjusted the CAD, got 
 Research and parts: 4.5 hrs  
 CAD: 1.5 hrs
 
-## day 3 - feb 4
+### day 3 - feb 4
 Today was mainly a research day (again.) This is me the following morning because I forgot to update 😁
 
 Anyways, I did a lot of research on the best motors for my setup and found a really good deal for 3 for about $25, and they're strong enough to let me go around 430mm/s straight. If you want the link DM me or check the BOM spreadsheet above  
@@ -76,7 +77,7 @@ Then I started CAD-ing, and I've got nearly the entire printhead set up! I think
 Research + parts: 4 hrs  
 CAD: 2 hrs
 
-## day 4 - feb 5
+### day 4 - feb 5
 Today I worked on the BOM a bit and researched where I might find cheaper parts. I think I over-calculated how expensive the frame will be (hopefully) so maybe I'll get out of debt? Worst case I spend 30 bucks out of my pocket.  
 
 I have plenty of doubloons from High Seas, but DigiKey and the rest don't seem to have great parts. Surprisingly, DigiKey has absolutely no 3D printer mainboards, and the stepper motors they have aint worth squat. The rest of the time was basically just CAD, with a side-tangent to try an airflow simulator. I decided not to, though, because I was lazy. I worked on the fans, connected it to the linear rail, and made my logos!
@@ -86,12 +87,12 @@ CAD: 3 hrs
 
 ![vex logo](https://cloud-3vcb9x7yd-hack-club-bot.vercel.app/0vex-logo.png)
 
-## day 5 - feb 6
+### day 5 - feb 6
 Today I didn't do a whole lot because of schoolwork and other projects. I CAD-ed a little and that's basically it.
 
 CAD: 1.5 hrs
 
-## day 6 - feb 7
+### day 6 - feb 7
 Today I had a stroke of genius *ok maybe just a stroke* and I decided to make the Vex a dedicated **upside-down** CoreXY! It's mainly for print farms and stuff because when the bed cools, the printhead just gives it a little nudge and the print falls right off! Also it just looks cool.
 
 I'll probably make it reversable so you can print like a normal person if you want, with feet that can be put on either side and a removable Klipper host/screen. This does mean using linear rods instead of rails, though, so it may get more expensive? Idk.
@@ -105,13 +106,13 @@ Either way linear rods are a good thing to do so that's what I'm doing.
 Research: 2 hrs  
 CAD: 30 min
 
-## day 7 - feb 9
+### day 7 - feb 9
 Yesterday I had an all-day D Now (Disciple Now) with my church which was very very fun!! No work though. Today was mostly research and some CAD, as I'm working on #printboard a lot now. Trying to get it done 😭
 
 Research: 30 min  
 CAD: 30 min
 
-## day 8 - feb 10
+### day 8 - feb 10
 Printboard!!!!!!!!!!!!!!! Some CAD for this though...
 
 My current printhead setup:
@@ -119,7 +120,7 @@ My current printhead setup:
 
 CAD: 1 hr
 
-## day 9 - feb 12
+### day 9 - feb 12
 Again, I haven't been doing a whole lot of this due to printboard, but I was able to get the linear rail mounting and a little bit of the hotend screw mounting figured out. Some pics:
 
 
@@ -128,7 +129,7 @@ Again, I haven't been doing a whole lot of this due to printboard, but I was abl
 
 CAD: 2.5 hrs
 
-## day 10 - feb 13
+### day 10 - feb 13
 Today I researched a whole bunch of parts, from Gates belts to idlers, linear rods, and more! You can see my BOM [here!](https://docs.google.com/spreadsheets/d/1GO_HGXTeiZWquWsCZzynmvAluWZnmblAnS994K72vQ0/edit?usp=sharing)
 
 I also did a little CAD today, importing some models for the bed, aluminum extrusions, and such. I fixed some model symmetry issues and increased the tolerance between the parts and the hotend. I've yet to run any CFD (computational flow dynamics) tests, but I may just get all the parts and see how the airflow works in real life instead.
@@ -136,7 +137,7 @@ I also did a little CAD today, importing some models for the bed, aluminum extru
 Research: 2.5 hrs  
 CAD: 1 hr
 
-## day 11 - feb 14
+### day 11 - feb 14
 Happy Valentines Day! Homeschooling doesn't usually provide Valentines though. On the bright side, I got lots of candy!!
 
 Anyways, today was a big CAD day. I did research some mechanics, like the z-screws, bearings, idlers, and whatnot, but mostly just fixed CAD part tolerances and adjusted some of the models to make them more symmetric and nice looking. I've yet to add the BLTouch and Gates belt connecters though... maybe on day 12!!
@@ -144,19 +145,19 @@ Anyways, today was a big CAD day. I did research some mechanics, like the z-scre
 Research: 2 hrs
 CAD: 2 hrs
 
-## day 12 - feb 15
+### day 12 - feb 15
 Today I only researched stuff, as my hotend turns out <i>isn't</i> high-flow like ChatGPT said it was, and I needed to find a new one asap. Also researched frame parts and some kinematics!
 
 Research: 3 hrs
 
-## day 13 - feb 17
+### day 13 - feb 17
 After finallllly getting my printboard submission in yesterday, today I can work fully on CAD and research. All I have left to do on the printhead is the BLTouch, belts, and accelerometer! I finished adjusting for the new hotend, the TZ E3 2.0, which doesn't get the 45mm<sup>3</sup>/s that I hoped for in the beginning, but gets 33mm<sup>3</sup>/s (according to the seller.)
 
 I'm expecting probably 30mm<sup>3</sup>/s out of it, which is plenty for what I want.
 
 CAD: 2.5 hrs
 
-## day 14 - feb 18
+### day 14 - feb 18
 Ouch. Turns out the hotend _doesn't_ fit all the way yet... well I guess I know what I have to do 😭
 
 Other than that, I started the BLTouch mount and did some research on how to mount the belts and accelerometer :/
@@ -164,14 +165,14 @@ Other than that, I started the BLTouch mount and did some research on how to mou
 Research: 1 hr
 CAD: 2 hrs
 
-## day 14 - feb 19
+### day 14 - feb 19
 I finally got the hotend to fit! I also mounted the BLTouch and the accelerometer. I started a bit on the belts, but wasn't able to get them done quite yet. [Here's](https://cdn.hackclubber.dev/slackcdn/afa3ab80102c1eb30fef80da450fb23d.mp4) a video of what my printhead looks like so far!
 
 I also did more to improve tolerances and printablility. I decided to wire the accelerometer through a little printhead tunnel, which is 1) cute and 2) saves space :3
 
 CAD: 2.5 hrs
 
-## days 15 + 16 - feb 20 + 21
+### days 15 + 16 - feb 20 + 21
 WOOOOOOOOOOOOOOOOOOOO  
 I got the printhead done :D
 
@@ -185,7 +186,7 @@ All I have left to do with the z-axis is add the linear rods and attach them to 
 
 CAD: 7 hrs
 
-## z-axis and electronics days
+## z-axis - revision one && electronics housing - revision one
 
 ### days 17 - 20 - feb 22 - 24
 These days I got finally got the Z-axis done! Connected the linear rods to the bed, the lead screw to the bed, all sorts of good stuffs.
@@ -203,7 +204,7 @@ I know my updates are getting less frequent, but there's really not a lot to upd
 
 CAD: 15 hrs
 
-## days 24 - 34 - feb 28 - mar 16
+### days 24 - 34 - feb 28 - mar 16
 wow... I'm being very bad about updating. I'm so sorry! Tomorrow I'll post a butt ton of pictures that will mark my progress. _my screenshots folder is getting kinda big..._
 
 but over these days, I've all but finished the printer. I finalized the z-axis and attached the x-aluminum extrusion to the y-gantry. I've mounted the gantry on top of the aluminum extrusions to save space and mounted most of the idlers.
@@ -224,7 +225,7 @@ oh yeah, and funny thing this printer was originally called the anixus vex! I li
 
 CAD: 15 hrs, research 5 hrs
 
-## days 34 - 57 - mar 17 - apr 15
+## problems: days 34 thru 57 - mar 17 - apr 15
 I thought I was bad at updating before..................... I've had a butt ton of school work and other stuff and lowk been forgetting to journal.
 
 anyways here's what I got done in this month. I finished everything of the list above, and ordered parts. I paid about 70 bucks out of pocket, not including high seas credits. Now here's where the trouble begins.
@@ -295,6 +296,7 @@ x/y idler holders!
 
 For a month of work, I'd give this a solid 40 hours. Not a ton, but like I said there's been a bunch of school and stuff that tbh takes priority.
 
+## parts
 ### day 58 - apr 16
 
 Today I got my current 3D printer back up and running after a week or two of inactivity due to wifi issues. It's all set and ready, and I started by doing a test. I printed a benchy at 50% fan speed to see what would happen, in order to test if the 4010 blower fans would be enough for the Vex. It turned out well. Not great, but not awful. I did some research and asked perplexity.ai and got the general consensus that 7+ CFM would be best for 30mm<sup>3</sup>/s or more. The fans I got are about 3.62 CFM each, and I have two, so that could be enough? I'm not sure but I want to try them. I also connected the lead screw nuts to the bed holder, meaning all I have left is attaching the back linear rods. I'm planning to order parts tmrw after some research today.
@@ -319,12 +321,13 @@ Polymaker🔛🔝
 
 (plz note, if you're a hackclubber reading this I'd appreciate if u didn't tell everybody on slack,,, not because they don't deserve the sponsorship but because if 50 ppl ask polymaker for free filament for the same reason, they may start to become suspicious and less lenient. this can put a bad name on hack club. thx.)
 
-## days 62 - 70 - apr 20 - 28
+## parts arrive - and more problems
+### days 62 thru 70 - apr 20 - 28
 
 In these days pretty much all the parts arrived, plus my polymaker order! I got a spool of white and a spool of black pla, which I already owned but needed more of, a spool of red pla, a spool of black PETG, and a spool of metallic gold pla!!! My printer is gonna be sick with the white/black/gold theme.
 
 I started 3d printing a bunch of parts for it, and began to piece it together bit by bit to make sure it works. I'm planning to do a livestream of me building it, and I might record it somewhere and link it, but idk if my parents will let me :b  
-As I'm writing this I'm setting up my new gold pla with a temp tower (looks like it just finished 215℃!) and then I'll get my black petg set up. I won't be using the polymaker petg for this project, since, while it's better, I have some rapid petg for the bigger parts so that it doesn't take ages to print them.
+As I'm writing this I'm setting up my new gold pla with a temp tower (looks like it just finished 215°C!) and then I'll get my black petg set up. I won't be using the polymaker petg for this project, since, while it's better, I have some rapid petg for the bigger parts so that it doesn't take ages to print them.
 
 One kinda weird thing that happened tho, a linear rod from aliexpress arrived empty 😭
 Like, you can't do that!!!! Looks like the seller shipped it empty!!!!!! I applied for a refund but they haven't given it yet since I can't really prove it. So I'm waiting on that (actually it's kinda not necessary maybe. I'll see.) and a digikey order just for some sttuff like wires, wire nuts, etc.
@@ -339,7 +342,7 @@ and here's a belt drive rendered pic for good measure
 
 ![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
 
-## days 71 - 76 - apr 29 - may 6
+### days 71 thru 76 - apr 29 - may 6
 
 Well, my digikey order and amazon order arrived. AliExpress still wont let me refund the package, but this time around I chatted with the seller and they acknowledged that the packaeg was empty. I took a screen recording of the chat as well as the chat ID so they can check it. I really hope I get it refunded! However I'm like 79% sure I won't need the rod, so no rush on the refund really. 3 rods should be enough according to some geeks in the 3d printing discord.
 
@@ -358,6 +361,11 @@ ig that's enough yap for today. my hour count is super inaccurate already so for
 
 P.S. I've blown through about 500g of filament in the past two weeks
 P.P.S. I finished my school year so i'll probably have more time to write these updates!
+
+## 3d print parts
+### days 77 thru 82 - may 7 - 12
+so yeah i 3d printed a buncha parts! nearly all of the pla ones. i still have to print the petg bed holder, motor mounts, idler holders, etc.  
+i also fixed the z-axis and electronics casing thankfully. aliexpress still isn't refunding me and I decided the 4 bucks wasn't worth my time so i gave up. no biggie ig. i'll attach some pics in a minute, can't rn
 
 ## what i've learned from making the Anicept Vex
 
