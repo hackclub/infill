@@ -79,12 +79,36 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 
 ### Days 41–47: March 23–29, 2025 (26.5 hours)
 - **Final Touches & Submission:**
-  - Submitted the finished ED3D printer for review.
+- Submitted the finished ED3D printer for review.
  
     
-    ![PRINTER](https://github.com/user-attachments/assets/f3fd9fda-ad09-4d44-9c03-00bf5b19854b)
-    ![PRINTER-TOP](https://github.com/user-attachments/assets/26eac7e6-4b60-45c7-854c-48d358da1f2e)
+![PRINTER](https://github.com/user-attachments/assets/f3fd9fda-ad09-4d44-9c03-00bf5b19854b)
+![PRINTER-TOP](https://github.com/user-attachments/assets/26eac7e6-4b60-45c7-854c-48d358da1f2e)
 
+
+## BUILD
+
+### Day 48: April 10, 2025
+-Most of my parts from Amazon and Robu came. The other parts my relative picked up when from some other country (nl).
+![image](https://github.com/user-attachments/assets/3cd2b5fd-ccb2-4dc8-96dc-dd5a4d6784c6)
+![image](https://github.com/user-attachments/assets/dfcd8c63-7b4b-4913-9c17-a13732b97a2b)
+![image](https://github.com/user-attachments/assets/12cf95a3-9189-4a02-9923-4c9babe9fe2c)
+
+### Day 48: April 28, 2025
+-Went to get steel for frame and cantilever. 800inr for the steel.  
+![image](https://github.com/user-attachments/assets/2f9932db-37a6-4cc1-856b-0163eda27314)
+![image](https://github.com/user-attachments/assets/e5c0383e-ec33-429d-9876-c98230cea7bc)
+![image](https://github.com/user-attachments/assets/292b305f-e52d-4a28-b8d3-f1a10c1324b3)
+
+### Day 49: March 4, 2025
+-FRAME
+![image](https://github.com/user-attachments/assets/4e654d3d-63eb-4aa6-bc72-36f7ed774ba2)
+![image](https://github.com/user-attachments/assets/307c1de9-0b25-4fdc-81d5-d3faba3b0149)
+![image](https://github.com/user-attachments/assets/ab29e5a8-9191-4e20-a1af-d0b82bd7eb24)
+-4 deg skew 😭
+
+### Day 50: March 8, 2025
+-drilled holes in the frame. assembled the xy stuff. 
 
 ---
 
