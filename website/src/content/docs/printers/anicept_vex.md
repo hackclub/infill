@@ -362,10 +362,19 @@ ig that's enough yap for today. my hour count is super inaccurate already so for
 P.S. I've blown through about 500g of filament in the past two weeks
 P.P.S. I finished my school year so i'll probably have more time to write these updates!
 
-## 3d print parts
+## 3d print parts + more issues
 ### days 77 thru 82 - may 7 - 12
 so yeah i 3d printed a buncha parts! nearly all of the pla ones. i still have to print the petg bed holder, motor mounts, idler holders, etc.  
-i also fixed the z-axis and electronics casing thankfully. aliexpress still isn't refunding me and I decided the 4 bucks wasn't worth my time so i gave up. no biggie ig. i'll attach some pics in a minute, can't rn
+i also fixed the z-axis and electronics casing thankfully. aliexpress still isn't refunding me and I decided the 4 bucks wasn't worth my time so i gave up. no biggie ig. i'll attach some pics soon, can't rn
+
+### day 83 - may 13
+Continued printing parts! I did a lil bit of PETG printing, but ran into an issue. Again.  
+My fan ducts don't work at all. Like, 0 air comes out. It's all bouncing back out of the duct and through the fans' air inlets. It is 100% not going to work and im afraid ill have to redesign the entire printhead. I'll experiment tmrw and see what happens.
+
+### day 84 - may 14
+I THINK I DID IT. I widened the duct holes a LOT to let more air in, and sure enough the airflow septupled. It's not very focused, but that's OK I guess. The air still bounces back some, so i may need to do a bit more so that the fans aren't like blowing directly at a solid wall of plastic. However making the holes any wider would point air in directions I don't want it to go, so to fix this I'd need to smooth out the 75-ish degree turn in the duct and possibly angle the fans different. But honestly, this new printer will probably be mainly for rapid PETG or other filaments that don't need a ton of fan power, so I may just leave it be.
+
+For now, I'm gonna keep the ducts as they "air" (hehe) and see how it does with regular ol' PLA. Wish me luck 🫡
 
 ## what i've learned from making the Anicept Vex
 
