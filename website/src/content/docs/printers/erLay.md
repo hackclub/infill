@@ -29,3 +29,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Interesting note on design!
 As you will notice, most of the frame is built out of linear rods. I was inspired by hex shafts in FRC and how we tap them and use a bolt to clamp both sides. I decided to do this for infill to maximize rigidity and minimize construction/deconstruction time.
+
+# Sponsors
+[![polymaker-colored-logo-proportioned](https://github.com/user-attachments/assets/84dc3a07-88ae-4ef1-a6cf-d2ce2e3e5598)](https://polymaker.com/)
+
+Massive thanks to PolyMaker for sponsoring erLay!
