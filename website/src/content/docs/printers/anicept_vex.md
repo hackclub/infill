@@ -376,6 +376,12 @@ I THINK I DID IT. I widened the duct holes a LOT to let more air in, and sure en
 
 For now, I'm gonna keep the ducts as they "air" (hehe) and see how it does with regular ol' PLA. Wish me luck 🫡
 
+### day 85 - may 15
+today i didnt do a whole lot due to ANOTHER PROBLEM!!!!!!!!!!!!!! The idlers dont fit in their mounts. the idlers i bought from aliexpress have the standard outer diameter of 18mm, but the models from grabcad have an outer diameter of 15mm! i had to redesign all of the idler mounts, on the gantry as well as on the corners. this was a total pain in the neck and sucked up my entire day. of course I only learned this after actually printing the mounts, so i wasted 3h30m and 70g of filament printing them.
+
+### day 86 - may 16
+dang... just realized today is when everybody else is going to rmrrf. but im not. makes me pretty sad but also my printer is lagging wayyy behind so ig it's for the better. today i printed out the motor holders which work realllly well. very proud :D
+
 ## what i've learned from making the Anicept Vex
 
 1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
