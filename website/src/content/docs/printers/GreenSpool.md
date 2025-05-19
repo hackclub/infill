@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 33 hours
+Time spent so far: 44 hours
 
 ## BOM
 
@@ -240,7 +240,7 @@ Printing services I might use, *as they're insanely cheap and pretty quick*:
 Useful Resources:
 - [Try these filament combinations for Multi-Material and Supports!](https://www.youtube.com/watch?v=5VV2fbJ0apg)
 - [ERCF v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2), an open source AMS/MMU
-- [Klicky Probe], a cheaper yet quite accurate bed leveller
+- [Klicky Probe](https://github.com/jlas1/Klicky-Probe), a cheaper yet quite accurate bed leveller
 
 To do:
 1. Figure out ERCF and Klicky Probe
@@ -267,3 +267,73 @@ I haven't figured the Z-axis yet as of now, but I've gotten some inspiration fro
 ![Imported a 220mm Heatbed to Onshape GreenSpool](https://dave9123.me/assets/firefox_NX58d92a2i.png)
 
 Time spent: 30 minutes
+
+# Day 13 (May 15th 2025)
+
+Wow, it's been a while since I've continued this printer due to known reasons, exams and lack of motivation 😇. Now that ~~general hardware ysws~~ [Highway to Undercity](https://highway.hackclub.com/) is here and with a great looking budget, it's time to resume our creation with Fusion—I'm not going to learn a new CAD app today for sure.
+
+Useful resources:
+- https://github.com/protoloft/klipper_z_calibration
+
+Done:
+1. Added Klicky Probe to the BOM and now I'm crying even worse
+
+Time spent: ~2 hours
+
+# Day 14 (May 16th 2025)
+
+Useful resources:
+- https://www.youtube.com/watch?v=p3ZIM3megIU TL;DR use 50% flushing multiplier
+
+I did nothing much except watching YouTube videos on 3D printers, sadly.
+
+Time spent: 2 hours
+
+# Day 15 (May 17th 2025)
+
+I figured out yesterday during class the most effective way to deal with multi filament printing. It is joining the tubes so that the filament can push each other in case the filament isn't enough to be pushed by the Bowden setup or the extruder which means I'm going to need a few extra stepper motors (like maybe 2) for the multi filament system.
+
+Today, I'm planning on figuring out the best way to create an enclosed 3D printer as enclosed are not well documented on the internet as of my research.
+
+![Prusa Core X1](https://dave9123.me/assets/firefox_qYlsvsplAI.jpg) ![Prusa Core One](https://dave9123.me/assets/firefox_F5f0sB3SYB.jpg) ![Bambu X1](https://dave9123.me/assets/firefox_pOsPtvhG00.jpg)
+![Prusa Core One](https://dave9123.me/assets/firefox_R6YvnZctVG.jpg)
+Totally not me trying to figure out how did they have the printer structure set up by looking up on their design. They all have something in common, no linear axis (because they are just incredibly expensive lol). Instead, they use 3 threaded rods or linear screws with either motor controlling each of them or gears, I can't figure that out as I don't have one in hand 😭.
+
+Regarding motor controls (as I'm going to be controlling a huge amount of motors), the BTT SKR 3 (which I'll use) natively supports 6 stepper motors which is probably enough if I'm going to use 1x Z-axis (or maybe 3), X movements, Y movements, 2x for multi filament. Using belts is possible to save money but like we love great control 😉. *Maybe belts though, as $350 budget is already tight as it is*.
+
+Also the EXP-MOT is like $7.62 on Biqu Equipment and Rp 170.000 (about $9.69 as of today) on Tokopedia.
+
+|                       Tokopedia                        |                     Biqu Equipment                     |
+| :----------------------------------------------------: | :----------------------------------------------------: |
+| ![](https://dave9123.me/assets/firefox_8FrII1Jv1V.png) | ![](https://dave9123.me/assets/firefox_TuruUvnMch.png) |
+
+I really love talking about money as if I have a lot of money to spend on this project, what a sad life /j
+
+![Prusa Core One](https://dave9123.me/assets/firefox_TjY63JWsoJ.jpg)
+Wow printer got air vents to prevent user from inhaling the air inside the printer.
+
+![Prusa Core One](https://dave9123.me/assets/firefox_knr6ZJWBGy.jpg)
+They literally even got a holder for the filaments? Wow that's insane
+
+So as for the door, they use a high-durability polymer which is safer than glass because it's nearly indestructible. The entire XY gantry is made of steel as combining different materials such as steel and aluminium would lead to thermal expansion.
+
+Time spent: 2 hours
+
+# Day 16 (March 18th 2025)
+
+It turns out that it's called linear screw/ball screw for the Z axis, not a threaded rod but threaded rods seem to be a cheaper alternative.
+
+Glad to announce that I started doing CAD! I looked for 3D models and have added the Orbiter V2 extruder and the E3D V6 hotend along with its bracket.
+![](https://dave9123.me/assets/Fusion360_mtxbeJncE2.png)
+
+Time spent: 2 hours
+
+# Day 17 (March 19th 2025)
+
+Did some CAD, made a 5010 radial fan air redirector along with some parts research.
+
+![](https://dave9123.me/assets/Fusion360_k00nqXyAns.png)
+![](https://dave9123.me/assets/Fusion360_QkpLOC8mCF.png)
+![](https://dave9123.me/assets/Fusion360_br0KDyAuyf.png)
+
+Time spent: 3 hours
