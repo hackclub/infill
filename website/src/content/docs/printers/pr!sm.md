@@ -29,3 +29,11 @@ Then i decided i should better start with a quick sketch and used onshape to do 
 
 <img width="622" alt="image" src="https://github.com/user-attachments/assets/17f8328a-b545-4cbb-9761-f1c9d581a0fd" />
 <img width="622" alt="image" src=https://github.com/user-attachments/assets/59bae35d-6c01-4527-9092-d5a3dc26e52a />
+
+---
+## May 19th
+
+I started to work on the frame and the base. Onshape is such a pain to work with \
+Started to think about how i'm going to move the bed too. I may have a big problem :( \
+.
+<img width="622" alt="image" src=https://github.com/user-attachments/assets/3ddbf4b7-3143-4180-8b0c-597eff2a2082 />
