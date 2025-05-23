@@ -21,10 +21,10 @@ Things To Do:
 - [x] Order Parts
 - [ ] Mechanical Filament runout sensor
 - [ ] Part Cooler Design
-- [ ] X-axis motor mount
-- [ ] PTEF Tube
+- [x] X-axis motor mount
+- [x] PTEF Tube
 - [ ] Build Failure (opencv?)
-- [ ] Y-axis tensioner 
+- [x] Y-axis tensioner 
 - [ ] PCB (Oled display and Buttons)
 - [ ] Software UI
 - [ ] Nozzle Cleaner
@@ -191,7 +191,7 @@ I orderded all the parts, and they should be arriving in the next 3 weeks.
 ## Day 13-21 (Apr 1st - Apr 9th)
 Over the past 2 weeks almost 90% of my stuff has arrived and I have started the build process.
 The main frame of my printer was completed this week, I made a few minor changes from my orignial frame design like changing the orientation of the bottom 2020 extrusions and how they connect to each other. Instead of one end of a 2020 extrusion going into the side of another 2020 extrusion, they both now connect to a 20x20mm block, so the overall footprint of the bottom frame is now 490x490mm instead of the previous 490x450mm.
-[image]
+![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/719c5d4ba1eb05d2082b18788b33f3c761d566cf_image.png)
 
 For the vertical part of my frame I had a few design prototype, the first prototype was where my smooth rod was attached to the corner bracket of the bottom and vertical 2020 extrusion.
 ![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/94c1b77004b54978e7840ce50080848ec38dda9c_20250406_133310.jpg)
@@ -226,8 +226,100 @@ However this keeps the smooth rods centred which is a problem because our tool h
 
 *will include updated images in next commit*
 
+#### Notes: Over the past few week I've been very busy and did not have time to write my updates properly in this journal. I was however maintaining an actual physical journal which tracked my progress. Below is basically the tl;dr of my journal.
+
+# Day 25 -  Day 27 (18th Apr - 20th Apr)
+
+I started working on designing the Y-axis belt tensioner for my printer.
+	- Version 1 of this was failure. I had very tight tolerances for the design and the supports messed it up.
+I printed Y-axis tensioner without supports in a different orientation and it worked properly.
+
+Also modeled Y-axis motor mount and Y-carriage belt mount.
+	- Version 1 of the motor mount was also a fail, I made it into a box like design and completely forgot about how I would actually put the motor inside it.
+	- Version 2 split the mount into 2 different parts which would now screw onto the motor
+	- Y-carriage mount worked first try, but I might redesign it in the future
+Finished designing Z-axis belt tensioner
+	- Had a few failed prototype of the thumb screw for tightening it. Decided to just use a long M4 screw 
+	- I heat welded an open GT2 belt into a closed loop for the Z-axis, but it not that strong and loop snapped under tensioner
+
+Designed and printer holder for the Y-axis smooth rods.
+
+Printed a mount for the extruder to the linear rail block. 
+	- Version 1 failed because I forgot to countersink the holes for the screws, which blocked the extruder motor from fitting in.
+	- Version 2 failed because I forgor to take into account the lengths of the screw and I made it too thin.
+	- Version 3 worked but one of the screws got stuck in the mgn block and is literally impossible to take out
+
+Printed a fan mount for the V6 hotend which acted like a part cooler and hotend cooler at the same time. This will most likely get updated later into an actually good part coolder, but for now I used this as its easy to take off and put back.
+
+Printed out the top and bottom holders for the Z-axis smooth rods
+
+Designed a temporary mount for the X-axis to the lead screw nut
+	- Made V1 5mm thick which did not work because the screws at 12mm (they need atleast 6mm thick block to screw in without hitting the back of the extrusion)
+	- V2 was made 6mm thick
+
+Designed a mount for LM8UU bearings to the X-axis
+	- Version 1 failed because the holes on it were not big into to fit a zip tie through
+	- Version 2 worked with increased hole width
 
 
+# Day 28 - Day 30 (30th Apr - 2nd May)
+The single Z-axis motor with synced lead screw using a belt idea was very difficult to actually implement for me, so I decided to upgrade my printer to dual Z-axis motors.
+
+Designed a new mount for the extruder which has holes on the side to allow for the GT2 belt to loop into.
+
+Designed a motor mount bracket for the X-axis motor
+	- Version 1 was a fail, it was suppose to use the bottoms screws of the nema motor but the threads were pretty deep on the motor so it just did not screw at all.
+	- Version 2 was redesigned to use the top screw holes for securing the motors, but again I designed it like a box with no way to actually put the motor inside in the first place
+	- Version 3 split the design into two different parts (top and bottom). Top screws into the motor and bottom screws onto the lead screw nut.
+
+# Day 31 (3rd May)
+
+Printed belt tensioner block for X axis
+	- Version 1 had some problems. The block was not tall/thick enough on the bottom of the idler edges were touching the tensioner block holder, which cause friction and rough movement.
+	- Version 2 fixed this issue, but I still think I could improve its design in later version
+
+I also setup Kiauh on my Raspberry pi 4 and flashed Klipper on my SKR board
+	- I had some issue with flash Klipper onto the board. I was using a 64gb SD card which the board cannot accept. I partitioned it down to 512 mb which worked. I spent so much time on figuring this out.
+	- Installed mainsail on Raspberry pi. I was able to see the printer in mainsail but could not control the motors. Had a UART error for no reason which I spent hours troubleshooting but did not find a solution
+
+# Day 32 (4th May)
+
+So the UART error I was facing just resolved itself!?
+
+I added some temporary endstops just to test the printer (used glue dots to stick the endstops).
+	- All axis were moving properly
+	- The temporary endstops were doing their job properly
+	- The extruder motor was motor was not working, turned out I had the wrong pin definition in my config
+
+**Problem**: The Z-axis's lowest position was apparently not low enough for the toolhead to actually touch the bed. As a temporary solution I placed a cardboard box under the build plate to increase the bed height. I plan on redesigning the lead screw position later.
 
 
+# Day 33 (10th May)
 
+Major Printer Redesign!!!
+	- Redesigned the Z-axis. I moved the Z-axis motors down to get more Z Travel
+	- Also planning on moving the Y-Axis up a bit and then fitting the PSU and Controller under it.
+	- Redesigned the toolhead mount, It now just uses one single part which screws directly into the MGN block.
+	- The x-axis motor mounts and tensioner were also redesigned and a bit more optimized now.
+	- Designed an actual mount for Z axis endstop.
+	- New Z-axis lead screw guide/top holder design
+	- Pushed the Y-Axis 30mm up
+		- Version 1 of the smooth rod holder did not work. Tolerances were too tight.
+		- Motor holder worked perfectly
+
+# Day 34 (11th May)
+
+
+Updated some designed and printed a lot of drag chains
+	- Fixed the Y-axis smooth rods tolerances
+	- Designed a mount for Y-axis endstop
+	- Redesigned the toolhead motor mount to have another hole in which I could screw in the drag chain holder. 
+	- Printed a LOT of drag chains for cable management (took prob about 6-8 hours)
+
+# Day 35 (16th May)
+
+I tested the printer over the past few days, but it was mostly a fail. I had a pretty bad print the first time which was clumpy and stringy (I think I had the wrong extruder settings) and the print detached from the bed midway. Did some more testing, but since I did not buy a bed leveling probe I had to manually level it. which caused a lot of issues and the nozzle ended up scrapping the PEI sheets multiple times while testing. I decided its not worth it to manually level and ordered a BLTouch sensor.
+
+I also designed a new version of the drag chain mount for the X to Z axis adapter, This version screws onto the X axis motor.
+
+Also redesigned the drag chain mount for the bottom Z axis mount, V1 actually had the wrong side of the clip so the chain could not be attached. The updated version makes it such that both sides can be used to clip in.
