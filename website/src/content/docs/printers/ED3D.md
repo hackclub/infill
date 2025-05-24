@@ -107,8 +107,14 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ![image](https://github.com/user-attachments/assets/ab29e5a8-9191-4e20-a1af-d0b82bd7eb24)
 -4 deg skew 😭
 
-### Day 50: March 8, 2025
+### Day 50: May 20, 2025
 -drilled holes in the frame. assembled the xy stuff. 
+
+### Day 51: May 24, 2025
+-gone on vacation, gonna change the z axis
+-ordered parts for changed z axis 
+![image](https://github.com/user-attachments/assets/10872195-f767-49b8-b460-0e0d72f5cafd)
+
 
 ---
 
