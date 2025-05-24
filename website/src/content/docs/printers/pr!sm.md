@@ -37,3 +37,12 @@ I started to work on the frame and the base. Onshape is such a pain to work with
 Started to think about how i'm going to move the bed too. I may have a big problem :( \
 .
 <img width="622" alt="image" src=https://github.com/user-attachments/assets/3ddbf4b7-3143-4180-8b0c-597eff2a2082 />
+
+## May 20th to 23rd
+
+I added linear rails, first one then realized i needed two to get a better stability \
+I also added a belt to move the bed. \
+Started to work on the z axis but nothing really important yet. \
+Bed plate is finished!!
+
+<img width="622" alt="Screenshot 2025-05-24 at 12 59 26" src="https://github.com/user-attachments/assets/1cafcc0f-8616-45d9-bb61-dbea898566d5" />
