@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 97.5 hrs
+Total hours so far: 98.5 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -41,7 +41,32 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
-## RMRRF Day 2 - May 18th
+## Released v0.7 May 27th, 2025
+
+This version is essentially the printer that I showcased at RMRRF. Toolchanging has not been setup, and in fact the locking mechanism itself fails with high vibrations. I should have released this before the event.
+
+New Features:
+- Pnp Toolhead
+- CRTouch head
+- LCD display mount
+- Backing wall for all toolheads
+
+Fixes:
+- Fixed X joints config error introduced in v0.5.3
+- Fixed Assembly mates
+- Adjusted build plate frame parts
+- Redo corner stiffeners for M5 screws and adjusted distance
+- Changed Z endstop to be side mounted instead of top mounted
+- Aligned toolhead kinematic mount to have proper 45 degrees contact angle
+- Cutout more plastic in hotend cooling fan mount to increase airflow
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-05-27%2020-13-00.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/c2a582b56fbe86c2e3bf18a1/e/f03e8779d1a8cc2741025c01)
+
+Time: 1 hr
+
+## RMRRF Day 2 - May 18th, 2025
 
 Day 2 my printer was working! I could relax finally, put it at the front of the table, and explore the venue. There were A LOT of interesting booths, and I got some pictures with a few youtubers. I also got inspiration for new toolchanger designs, such as Misschanger, and an unidentified one with round door latch style of lock.
 
@@ -51,7 +76,7 @@ Some group pictures:
 
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/20250518_144135.jpg)
 
-## RMRRF Day 1 - May 17th
+## RMRRF Day 1 - May 17th, 2025
 
 Most of the day I was working on my printer in the HackClub booth, in the back. I missed quite a few give-a-ways and youtubers stopping by.
 
@@ -64,7 +89,7 @@ I stayed up till 1:30 am getting my printer somewhat opperational back at the ho
 Time: 8 hrs.
 
 
-## Driving & setup - May 16th
+## Driving & setup - May 16th, 2025
 Today I packed everything and drove up to the event to meet up with other Hackclub members and get setup.
 
 I didn't spend much time on the printer itself, only a little bit setting up a wifi hotspot on the RPi.
