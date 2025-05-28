@@ -11,7 +11,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 82.5 hrs
+Total hours so far: 97.5 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -40,6 +40,60 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## RMRRF Day 2 - May 18th
+
+Day 2 my printer was working! I could relax finally, put it at the front of the table, and explore the venue. There were A LOT of interesting booths, and I got some pictures with a few youtubers. I also got inspiration for new toolchanger designs, such as Misschanger, and an unidentified one with round door latch style of lock.
+
+Some group pictures:
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/RMRRF_20250518_111917.jpg)
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/20250518_144135.jpg)
+
+## RMRRF Day 1 - May 17th
+
+Most of the day I was working on my printer in the HackClub booth, in the back. I missed quite a few give-a-ways and youtubers stopping by.
+
+In the middle of the day my replacement control board arrived, so I drove back to the airbnb to retrieve it, as well as to get some parts for other hack club members.
+
+I finally got the printer up and running, and I have determined that the sensorless homing is absolutely a driver issue. Swapping out the MKS TMC2209 drivers for BTT TMC2209 drivers with another Hackclubber solved my problems and I could get readings.
+
+I stayed up till 1:30 am getting my printer somewhat opperational back at the house.
+
+Time: 8 hrs.
+
+
+## Driving & setup - May 16th
+Today I packed everything and drove up to the event to meet up with other Hackclub members and get setup.
+
+I didn't spend much time on the printer itself, only a little bit setting up a wifi hotspot on the RPi.
+
+Time: 30 min
+
+## Shorted Motherboard! - May 15th, 2025
+I was very foolish today. While configuring klipper and runnign tests I couldn't get sensorless homing to work and I tried everything. I removed one of the drivers to identify the manufacture of the TMC2209 (it was Makerbase). This might of been my problem, but the system was still on when I plugged it back in. In an instant their was a snap sound, a spark, and smoke appeared from somewhere. The short circuit alarm started going off and the raspberry pi 4 shut off.
+
+I inspected the board and the driver, and there was a blown op amp chip on the signal lines for the socket, and the driver chip had a hool in it as well. Remarkably the RPi was perfectly fine booting separately, so I didn't dare plug it back in to do a power test with the main board. The main board power test did not go well, no alarms this time but the STM32 chip rapidely heated up too hot to touch, so shut it off.
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/20250515_211612.jpg)
+
+The most likely thing that happend was I plugged in the step stick driver offset by one, connecting the 2 ground pins on the driver to the 5v and the 24v pins on the board.
+
+I rapidely ordered a replacement, because this weekend is RMRRF! It should be delivered on May 17th at the airbnb I'm staying at for the event. I also bought a few extra parts, like screws, copper brushes, a PTC car heater, and air filters. These will be future upgrades, all I definitely need is the control board.
+
+Time: 4 hours 
+
+## Some Assembly - May 12th, 2025
+
+I finished a lot of the assembly tonight, including replacing some of the toolhead parts again, and adding backing walls.
+
+Time: 2 hours
+
+## May 11th, 2025
+
+I discovered an interesting way to attach the chamber mounts: Pull tightly and spin in. I didn't design the attachment properly but it still ended up working fine. 
+
+Time: 30 min
 
 ## Redesigned toolhead - May 4th, 2025 
 
