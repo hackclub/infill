@@ -115,7 +115,8 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 -ordered parts for changed z axis 
 ![image](https://github.com/user-attachments/assets/10872195-f767-49b8-b460-0e0d72f5cafd)
 
-
+### Day 52: May 30, 2025
+- got the electronics to work! tft 3.5 (on touchscreen) + rpi4 + skr mini e3v3 + klipper
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
