@@ -12,11 +12,15 @@ Images: https://docs.google.com/document/d/1O2JPVw-2Jhm0MzPRCLd0zcRRRKDtKQYV07Aw
 Fusion 360 PCB link: https://a360.co/4jejSvC (DEPRECATED - DOES NOT WORK)
 Fusion 360 Printer assembly link: https://a360.co/3RkSeRq
 
-Total hours so far: 82 hrs 5 mins
+Total hours so far: 113 hrs 5 mins
 - [x] I have a 3d printer or will be getting one before March 21st
 
 ---
-NOTICE! Print files and quantity specifications listed in STLs folder on github repo. I'm printing all of the files in PLA with standard infill (lol) and 2mm layer height. Basic settings. Tolerances are baked into the models. NOTICE END!
+NOTICE! Print files and quantity specifications listed in STLs folder on github repo. I'm printing all of the files in PLA with standard infill (lol) and 2mm layer height. Basic settings. Tolerances are baked into the models. 
+
+This project has been resumed for the Highway event at Hackclub, per authorization of Dari aka Alex Ren
+
+END OF NOTICE!
 
 ---
 < Briefing >
@@ -666,6 +670,140 @@ After finishing the reorganization, I decided to continue with adding Dari's rec
 
 Files have been added, we are good for now. I'll let you all know how it goes horribly wrong when I wake up from my nap and all the printed parts I left running explode or something else equally as absurd.
 
-Total time elapsed: 3 hrs
+Aaaand about 3-4 hours later I woke up. Good news and bad news. Good news, most of the stuff I printed works. Bad news, I have a really annoying headache. Moving on.
+
+The extruder clamp is a bit too fat, it's hard to slip on without interfering with the preinstalled fan duct. To solve this, I'll simply shrink it's profile vertically. Additionally, the tolerances for the linear bearings are ever so slightly too big. It's not sticking in the print. The holes to access the belt tensioner are too small for any screwdriver I have either. I did come up with a small idea while assembling the functional parts, though. Since the wires for the radial cooling fan are very short, it would be a good idea to use a cable chain. It might also look very cool, so that's a plus. 
+
+I ended up sending another print with some revisions to fix the earlier mentioned issues. I'll see how that goes, but I wanted to address something else first. The bed. There's less than a millimeter of clearance with the belt clamps screwed in, so I'm going to make a new spacer that's a millimeter taller or two.
+
+Total time elapsed: 5 hrs
+
+---
+
+# Day 24
+### April 26
+
+Good news! The Y axis is completely done and functions. I have to test the Z axis for any wobble once the printer is fully assembled, so far it's looking a little iffy. 
+
+The printhead assembled pretty good, the wires are a little hard to manage, and I think we'll have to extend some of them (luckily I just so happen to have 16 guage wire literally LYING around in a box), but past that it looks pretty good. Before I close/screw the gantry shut, the printhead needs to be a completed module. In order to do this, I will need to fix the printhead mounting bracket (the one with the linear bearings), since it one, cannot hold the linear bearings, and two, has no belt clamping mechanism. I made at least 4 redesigns for the belt clamp, before finally stopping on one with a screwable plate like I used on the Y axis.
+
+Hopefully it works when it's done printing.
+
+Additionally, my friend/partner Jonathan is coming over to my place so we can share our work and continue fixing the machine in-person.
+
+We finished assembling the X axis after an insane amount of fumbling and makeshift solutions (all of which were entirely my fault for cutting the belt slightly too short). The reprint of the printhead mounting bracket was also a success and now functions on the printer's gantry. Pretty much every module is functional (theoretically), except for the thrust bearing housing. Moving on, we'll get to work on the electronics.
+
+While my partner works on getting a bracket modeled for the voltage regulator, I ended up finishing the cable chain I mentioned earlier. It's really funny to me how nearly everything I've designed has led to me creating the same design choices as other people when I realize why they did what they did. I.e. remove material here so that they can move, but leave some here so you don't need supports. Stuff like that.
+
+
+
+Checklist:
+- [ ] Extend wires to nominal length using 16awg wire
+- [x] Put buck converter on the frame 
+- [ ] Connect buck converter to mainboard
+- [ ] Route wires through cable chain 
+- [x] Connect to mainboard
+
+Total time elapsed: 5 hrs
+
+---
+
+# Day 25
+### April 29th
+
+After meeting in person to test the voltage regulator with my partner, we determined that the regulator was in fact dysfunctional and we ended up having to return it to get a new one. After the replacement arrived we tested it again, and it worked with a 12v power source, whereas the previous one had failed completely. We didn't have enough time to hook it up to the battery, but I'm fairly confident that at this point, it's going to work as expected
+
+Total time elapsed: 2 hrs
+
+---
+
+# Day 26
+### May 3rd
+
+Today, I decided to dedicate my time to shortening the wires we currently have (excluding the stepper motors) so that the cable management is significantly easier and the printer doesn't just have 2 meter cords hanging off of it in an impractical mess of hapharzardly thrown together garbage.
+
+To do this, the following connections will be modified. I've also decided that we will only extend wires, not shorten them (as to avoid any major and irreversible mistakes.)
+
+Cable guide:
+
+1. Extruder Fan Wires
+2.  Print Cooling Fan Wires
+
+---
+
+Once the cables are done being modified, I will slide them into an expandable cable braid and put that cable braid into a cable chain for additional support and rigidity that's capable of avoiding collisions with the printer's frame and components.
+
+With this step done, I'll be ready to connect the mainboard to the power source (from the voltage regulator), which my partner should be working on in the meantime. Another calibration will be necessary since the new voltage regulator isn't calibrated to our current voltage (24V output), so we'll of course need to do that first and foremost. 
+
+I expect that if we work diligently, we should be able to finish the project by the end of tomorrow. Though, if we cannot meet this weekend, we'll need to meet in person sometime during the school week, and that tends to be an annoying impedance to our workflow.
+
+Second thought, there's still the software side of things. We created a printer configuration in advance to upload to the printer's mainboard when we were ready, but I think we'll need to make some adjustments to it before we're DONE done. Once klipper functions, we'll be ready for a real test.
+
+
+I noticed some sagging along the gantry due to the plastic clamps of the linear rods starting to deform under pressure, so I decided to reprint/modify them to increase the strength of the tensioning brackets.
+
+Total time elapsed: 2 hrs 
+
+---
+
+# Day 27
+
+### April 9th
+
+After setting up another meeting to finally get our voltage regulator operational, I met with my partner today to hook said regulator to the battery so we could test it.
+
+After the regulator is calibrated, mounted to its final position, and wired to the mainboard, we should be ready to proceed with extending the wires like I intended in previous logs. With all of that done, the physical printer is ready for firmware, and finally a system-wide test.
+
+If all goes according to plan, we should be ready for the "pre-flight" checklist several days ahead of schedule. Perfect for fixing mishaps and last minute screwups.
+
+Here's to hoping we don't monumentally obliterate our work leading up to this point.
+
+Total time elapsed: 1 hour
+
+---
+
+# Day 28
+### April 14th
+
+Absolute chaos, project is still not working, parts need to be reprinted, firmware does not work in the slightest capacity at all. I'm losing my mind, there's so much to do and it's school and life too not just this. Working as fast as hard as I can, just to get it all done. For the love of god please.
+
+I'm going to reattempt to flash the firmware. Once I can get this working, I will do the basic calibration required to get it print-ready. After that we'll focus on cable management and rebuilding faulty parts with the filament holder.
+
+I've tried virtually everything I possibly could to get the MCU to be detected by the pi but no matter what I do, it never seems to make a change. While I continue to troubleshoot the SD card, I've switched my pi to work on reprinting some more stuff for the filament holder issues (low clearance, snaps filament and spool unwinds causing catastrophic issues if actually printing)
+
+Total time elapsed: 1 hrs
+
+---
+
+# Day 29
+
+### April 24th
+
+After getting permission from Alex, we're continuing this project and making it actually work! As well as severely upgrading our major oversights.
+
+The following upgrades will be implemented:
+- Extend height and modify frame
+- Fix motherboard issues
+- Create custom voltage regulators for both the raspberry pi and the motherboard, respectively
+- More to come later on as we work
+
+Total time elapsed: 1 hrs
+
+---
+
+# Day 30
+
+### June 1st
+
+Happy pride loves <3
+
+Today, I'll be remodeling and rejointing the CAD assembly of Voltcore into a new and improved design that should actually work in real life this time.
+
+To begin, I'll reassemble the frame.
+
+![[https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa974465df1b71744721cf2256d6a69d85bdfca0_image.png]]
+
+
+Total time elapsed: hrs
 
 ---
