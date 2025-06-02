@@ -12,7 +12,7 @@ Images: https://docs.google.com/document/d/1O2JPVw-2Jhm0MzPRCLd0zcRRRKDtKQYV07Aw
 Fusion 360 PCB link: https://a360.co/4jejSvC (DEPRECATED - DOES NOT WORK)
 Fusion 360 Printer assembly link: https://a360.co/3RkSeRq
 
-Total hours so far: 113 hrs 5 mins
+Total hours so far: ~127 hours
 - [x] I have a 3d printer or will be getting one before March 21st
 
 ---
@@ -801,9 +801,59 @@ Today, I'll be remodeling and rejointing the CAD assembly of Voltcore into a new
 
 To begin, I'll reassemble the frame.
 
-![[https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa974465df1b71744721cf2256d6a69d85bdfca0_image.png]]
+![Bottom frame image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/455ffc18b062616104de7c46508d86c65febef1b_image.png)
+(Bottom frame assembly)
 
+Took me a minute to remember how the hell you put images here, but I'm doing it more often from now on for Alex's sake. (NOT MAD - I SHOULA DONE THIS FROM THE START, IK)
 
-Total time elapsed: hrs
+One of the major issues with the way we assembled the printer in CAD before stemmed from the fact that we were using a single file to combine minor modules into one single device. This creates major issues later down the road when you need to change things because suddenly, the ONE poorly modelled bracket you created 17 log entries ago has broken 87 other joints in the file. To fix this on "take two" of this project, we'll be finalizing the designs of major modules and combining them into the final printer only when said modules are completed in their own respective folders and files.
+
+My current dilemma is picking whether or not I should fully assemble the major modules or do that in the complete printer CAD assembly file.
+
+Or, I could make two versions of the major modules, split by assemblies with all their respective components or just the bare frame structures.
+
+I think I'll just finish the assemblies with all their components.
+
+![Slightly more assembled bottom frame image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f989f2215c31deb8114b969681c9292347db9749_image.png)
+(With Y axis attached)
+
+The bottom frame still needs the electronics mountings, but I think I wanna opt instead for a side mount this time around.
+
+Speaking of the electronics, we need mounting for the following:
+- Voltage regulator from battery to the mainboard
+- Voltage regulator from mainboard OR battery into the RPI for Klipper firmware
+- Mainboard
+
+Jeez, with a side mounted mainboard and RPI we really are just ripping pages out of Prusa's book aren't we TT oh well.
+
+Anyways, we'll leave the bed for now and work on the gantry.
+
+![In progress image of upper frame/gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed94aa00e3b17c2f19d6c6754a6357e27fc46be8_image.png)
+(Extended 100mm in height from older versions)
+
+We previously had issues with the filament spool holder not having enough clearance, and our solution to that in the past significantly increased the size profile of the printer, so I've remodeled the entire component to make use of vertical space.
+
+![Spool holder image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e0d8b1513e1dcee3fdc498589528d5317c7422a0_image.png)
+(Improved spool holder)
+
+For the remaining components I need to add for this upper part of the frame, we need the extruder, and the side mounts for our electronics.
+
+After that, we should be ready for a full assembly with the hardware (screws and whatnot) and all components put together :D
+
+Though, the belt tensioner for the gantry needs a serious upgrade, so I may be forced to redesign the entire thing again.
+
+Total time elapsed: 3 hrs
+
+---
+
+# Day 31
+
+### June 2nd
+
+Today will be dedicated to attempting to finalize the CAD assembly of all previous modules for Voltcore (since we are redoing everything). Afterwards, I will spend my time working on the new components.
+
+To get started, I'll be working on 
+
+Total time elapsed: 
 
 ---
