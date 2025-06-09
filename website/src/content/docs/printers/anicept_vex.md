@@ -10,7 +10,7 @@ This 3D printer has been made possible by Hack Club, Alex Ren, and the awesome P
 
 Made by: @anicetus  
 Repository link: https://github.com/invictus-anic3tus/anicept-vex  
-Total hours so far: 165
+Total hours so far: 170
  - ✅ I have a 3D printer
 
 ### about the anicept vex
@@ -391,6 +391,11 @@ i also started a lot of assembly, and everything seems to be working well. i'm q
 
 ### day 95 - june 5
 oh gosh,,, it's been ages. i've been caught up with a lot of stuff, from vacation, to hanging out with my best friend, to working on a [drone](https://github.com/invictus-anic3tus/v4) for highway, and all sorts of stuff in between. in my off-time, however, I've gotten the entire thing assembled, minus the power. this is simply because I needed more 12awg wire, and today i finally got it! I'll try to finish that later and then... power it on 👀
+
+### days 96 thru 98 - june 6 thru 9
+assembled the power! I also powered on the printer and it looked good. the power strip finally works too! however when I tried to flash klipper the mainboard just kept flashing for a long time. i fixed it by finding my 8gb sd card (instead of 64gb) and formatting it to FAT32 (ha fat). after a bunch of fiddling around i got klipper screen working too!! I heated up the bed to 60°C and it worked perfectly. I'm not going to heat up the nozzle quite yet since I need to do a little work with it regarding thermal grease and whatnot. i set up sensorless homing and the Klicky, until my Raspberry Pi decided to malfunction. Tomorrow me problem. i was focused on my drone mostly these past three days.
+
+5 hrs
 
 ## what i've learned from making the Anicept Vex
 
