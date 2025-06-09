@@ -120,6 +120,8 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ![image](https://github.com/user-attachments/assets/80aae668-46aa-48a6-8715-a0b2b0875c45)
 ![image](https://github.com/user-attachments/assets/eb6e7410-f7bb-456d-872d-e9021db3ab2f)
 
+### Day 53 : June 9, 2025
+- bruh the parts are taking so long to comeeeeeeeeeee
 
 ---
 
