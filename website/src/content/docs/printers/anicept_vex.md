@@ -408,6 +408,22 @@ got back from summer camp... what a great day 100. got the hotend to extrude fil
 ### day 101 - june 17
 i calibrated my extruder steps today, and had a ton of issues with the sensorless homing again!!! What's going on? I tried to start a benchy but so many things were going wrong.
 
+### day 102 - june 18
+these are hard days. hard, hard days. these are the days that stupid design considerations and bad advice hurt. the gantry wobbles way too much, the bed sags a _lot_, and in general it just really hurts to see all my effort from these past months to turn into such a bad printer. i tried a benchy and it failed miserably. _miserably_...
+
+### day 103 - june 19
+i'm not going to let this stop me. I'm not going to give up; my name is Anicetus -- "unconquered." How could I call my self unconquered with a 3D printer unfinished? How could I call my self invincible when I've been conquered by a project? How could I give this up? How could I quit on this thing? How could I spend hours and hours designing, building, fixing, and fixing again, just to sweep it under the rug? How could I lose?
+
+I wont
+
+Whatever it takes, I'm going to finish this thing. This _will_ be on my resume, and I _will_ make it the best. I'm going to rock the world someday. It may not be with this, but if I give up on every project I start, how could I? Anicept will rise to the occasion.
+
+The main issues from yesterday were:  
+1. The gantry wobbled a lot, meaning the nozzle was all over the place  
+2. The bed sagged with pressure, ruining the first--and subsequently, every layer.
+
+I fixed the gantry wobbling by hot gluing it in place but the bed I need to figure out. Idk how im going to brace it
+
 ## what i've learned from making the Anicept Vex
 
 1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
