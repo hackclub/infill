@@ -424,6 +424,16 @@ The main issues from yesterday were:
 
 I fixed the gantry wobbling by hot gluing it in place but the bed I need to figure out. Idk how im going to brace it
 
+### day 104 - june 20
+ok so the main issue i'm facing is layer shift. originally, i thought it was due to the nozzle hitting the bed and thus making the motors skip. this is what I've been trying to combat with securing the gantry and bed.
+
+but i was wrong! i started a benchy, and when i heard the motors skip, i paused the print and took the benchy off. i resumed the print, and watched as the motors were still skipping _without anything to bump into_! I asked perplexity.ai about it, and it said i should try to change the Dupont connections to JST XH like the mainboard accepts, and if that doesn't work to bump up the run_current so that they have more torque. I'll replace the connectors and start a new benchy tmrw.
+
+### day 105 - june 21
+ok i replaced the connectors for X and Y (Z moves so little idt it'll matter) and started another benchy. no luck, unfortunately. I increased the motor run_current from 0.58 A to 0.9 A in hopes of providing more torque. I did this in line with the [motor current section](https://ellis3dp.com/Print-Tuning-Guide/articles/determining_motor_currents.html) of ellis's print guide. But it still wasn't enough!
+
+I found a well-used formula saying multiply the peak current of your motor by 0.707 and then by 0.85 for a safety margin, which I did and got about 1.2A. I put that in and started another benchy!
+
 ## what i've learned from making the Anicept Vex
 
 1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
