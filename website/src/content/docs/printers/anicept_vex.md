@@ -434,6 +434,13 @@ ok i replaced the connectors for X and Y (Z moves so little idt it'll matter) an
 
 I found a well-used formula saying multiply the peak current of your motor by 0.707 and then by 0.85 for a safety margin, which I did and got about 1.2A. I put that in and started another benchy!
 
+### day 106 - june 22
+1.2A did nothing!!!!!!!!!!!!!!!!!!!!!!!!!!!!! AAAAAAAAAAAAAAAAAAA
+
+I lowered the accels dramatically, hoping it would work. I found success with... 1k accel... I know it's slow, but I haven't tested out the max on this thing yet. I looked at my new benchy... and it was really short! Like i didn't know what happened, but it was all squished down. I started another one after almost doubling the Z-axis motor's amperage (i'd heard sounds coming from it) and it worked!!
+
+I got a good lookin benchy! Pics tmrw maybe :D
+
 ## what i've learned from making the Anicept Vex
 
 1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
