@@ -441,6 +441,17 @@ I lowered the accels dramatically, hoping it would work. I found success with...
 
 I got a good lookin benchy! Pics tmrw maybe :D
 
+### day 107 - june 23
+
+haha the rpi isn't working anymore!! when i plug usb to the mainboard into it before booting, it freezes right after booting. when i plug usb into it after booting, it glitches out and freezes. but it works perfectly with my other printer's mainboard.
+
+later: fixed! I added dtoverlay=dwc2 to /boot/firmware/config.txt which i think did the trick. now i can finally get back to working on this thing.
+
+### day 108 - june 24
+today i worked on sensorless homing... again. I really am starting to hate sensorless homing, and I dont recommend it for anybody making a custom build. it's so finicky and unreliable, especially for slightly janky kinematics systems. for instance, sometimes the Y axis homes fine, sometimes it jams itself really hard up against the back of the printer, and sometimes it thinks that 0 is in the middle of the print bed. It's really annoying. I may have to switch to sensor homing, but i dont have any switches :sob:
+
+[later] ok well this is quite strange: running g28 y, g1 y100, and then g28 x manually works fine, but using the macro doesn't. idek anymore
+
 ## what i've learned from making the Anicept Vex
 
 1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
