@@ -452,6 +452,20 @@ today i worked on sensorless homing... again. I really am starting to hate senso
 
 [later] ok well this is quite strange: running g28 y, g1 y100, and then g28 x manually works fine, but using the macro doesn't. idek anymore
 
+### day 109 - june 25
+i put a endstop on x axis for homing. i hate sensorless homing so much. now it works perfectly.
+
+also it turns out my y axis is reversed! i thought the standard homing position was back left, but it's actually front left. thankfully it was an easy fix by changing the endstop_position for y to be the max in the y direction instead of 0.
+
+### day 110 - june 26
+i finished re-setting up klicky due to the 
+reversed printer! I also did some speed tests and was able to get my printer to (at least, just keeping this for now) 350mm/s at 12k accel! Much better than 100mm/s at 1k. i'm going to print a benchy at these speeds once i have the chance. i was able to do this by disabling stealthchop, klipper's built in feature to keep motors super quiet, for the price of little power. i disabled it on Z as well, and I like how powerful it sounds now.
+
+### day 111 - june 27
+it's the big triple one! today i fixed the bed mesh, since with a reversed Y axis my bed meshes were reversed as well. i fixed the corner coordinates and ran another mesh, and got a range of 0.7mm. not super great but I'm happy with it, especially for a custom build!
+
+update: i forgot to calibrate it with the bed heated, so i put it at 65°C and did it again. I got 0.5mm range! Yay!!
+
 ## what i've learned from making the Anicept Vex
 
 1) NEVER EVER EVER EVER EVER EVER EVER trust AI alone. Always google it first and if you're lucky, some rando on reddit has already answered it. if not, get some help from ppl who actually know what they're doing. If you have to use AI, use [perplexity](https://www.perplexity.ai/) it uses much more sources than other ais, like chatgpt. the way most ai works is it scours the web for data, and whether or not it's true or not doesn't make a difference. it might take the statement "idk but im pretty sure that it gets up to 45mm<sup>3</sup>/s" and use it as proof that the hotend gets up to 45mm<sup>3</sup>/s, even though it's likely just somebody's arrogant opinion. I was researching what hotend to get and chatgpt told me that the Phaetus Dragonfly gets up to 45mm<sup>3</sup>/s, when, in reality, it only gets 15mm<sup>3</sup>/s. I'd already designed the entire printhead when I learned this, and thus had to redo a lot to account for a new one. Not only does trusting AI waste time making you redesign and do more research, it wastes time and effort making you redesign and do more research.
