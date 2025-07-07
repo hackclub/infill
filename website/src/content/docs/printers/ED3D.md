@@ -123,6 +123,10 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ### Day 53 : June 9, 2025
 - bruh the parts are taking so long to comeeeeeeeeeee
 
+### Day 54: July 7, 2025
+- all parts are here, halfway done with the z axis. the z axis is taking too long.
+![54facdf6-da4c-471e-8b23-d6674fd403e4](https://github.com/user-attachments/assets/62d3cb98-e964-421e-8b18-cc26c1e7569b)
+
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
