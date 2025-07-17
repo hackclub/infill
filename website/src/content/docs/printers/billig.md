@@ -4,7 +4,7 @@ description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
 project_name: "Billig"
 repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
 ---
-**Done:** **YES!! Click here to see it's first benchy!**  
+**Done:** **YES!! [Click here to see it's first benchy!](#july-13th)**  
 **Result:** *~500$ 440x230x260mm 3D printer*
 
 **Author:** [@playlogo](https://github.com/playlogo)  
@@ -31,7 +31,7 @@ About the printer:
 
 Create a NeRF and a super fancy marketing video for it :D
 
-![Flyby](https://raw.githubusercontent.com/assets/building/videos/flyby.gif)
+![Flyby](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/videos/flyby.gif)
 
 ### July 14th-15th
 
@@ -39,29 +39,31 @@ Improved the config, added Z-tilt adjust, pressure advance, leveled the bed (it 
 
 Here's my favorite one: Over 1.5mm difference from one side to the other
 
-![Hilside](https://raw.githubusercontent.com/assets/building/Screenshot_20250716_151134.png)
+![Hilside](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/Screenshot_20250716_151134.png)
 
 (Also I really really like the build-in [~~Prusa~~Billig-Research theme in Mainsail!](https://docs.mainsail.xyz/overview/features/built-in-themes)!)
 
-![Mainsail](https://raw.githubusercontent.com/assets/building/Screenshot_20250715_222339.png)
+![Mainsail](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/Screenshot_20250715_222339.png)
 
 ### July 13th
 
-More klipper configuration and wiring fixes. While trying to debug the Z-probe I manged to release the magic smoke of one of the toolhead breakout boards I reused from the defective printers.
-
-![Smoke](https://raw.githubusercontent.com/assets/building/IMG_4222.jpg)
+More klipper configuration and wiring fixes.
 
 Toward the evening (or midnight, depending on how you define that) I got it to print it's first bench!
 
-![Benchy!](https://raw.githubusercontent.com/assets/building/videos/IMG_4226.gif)
+![Benchy!](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/videos/IMG_4226.gif)
 
-I'm super proud of it, just look at it. No layer shifting (only minor extrusion issues)!!!
+I'm super proud of it, just look at it. No layer shifting (only minor extrusion issues and some stringing since the filament is super old)!!!
 
-![BNenchy again](https://raw.githubusercontent.com/assets/building/IMG_4234.jpg)
+![BNenchy again](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4234.jpg)
 
 And the electronics look so cool!
 
-![Electronics](https://raw.githubusercontent.com/assets/building/IMG_4224.jpg)
+![Electronics](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4224.jpg)
+
+While trying to debug the Z-probe I manged to release the magic smoke of one of the toolhead breakout boards I reused from the defective printers.
+
+![Smoke](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4222.jpg)
 
 ### July 12th
 
@@ -71,19 +73,19 @@ At this point I was still using physical switches as endstops for the Y-Axis, la
 
 Also the case for the touchscreen finished printing and got mounted!
 
-![homeing](https://raw.githubusercontent.com/assets/building/videos/IMG_4218.gif)
+![homeing](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/videos/IMG_4218.gif)
 
 ### July 11th
 
 A new SKR pico arrived! Also the touch screen from elecrow arrived and I designed a case for it! (And got sidetracked by another project)
 
-![Screen](https://raw.githubusercontent.com/assets/building/IMG_4207.jpg)
+![Screen](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4207.jpg)
 
 ### July 10th
 
 The SKR picos arrived! And one was used....... **** you Amazon.
 
-![SKr picos](https://raw.githubusercontent.com/assets/building/IMG_4205.jpg)
+![SKr picos](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4205.jpg)
 
 ### July 9th
 
@@ -117,21 +119,21 @@ shutdown command invoked
 But it didn't turn on anymore... For some reason some person decided that disabling the SWD-reset wire in the rp2040 version of the debugprobe firmware would be a good idea, so if you need that (which you do!), delete the `#if false` and `#endif` line in [this file](https://github.com/raspberrypi/debugprobe/blob/466432c5eb8d3c4a70842833804996c15ed18c51/include/board_pico_config.h#L38) and recompile it!
 I also had a extremely hard time connecting to the chip via SWD, since the reset (with the lines remove) still only worked in about ~10% of the tries...
 
-![Picoborbe](https://raw.githubusercontent.com/assets/building/IMG_4203.jpg)
+![Picoborbe](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4203.jpg)
 
-![MCUs](https://raw.githubusercontent.com/assets/building/IMG_4195.jpg)
+![MCUs](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4195.jpg)
 
 ### July 7th
 
 Designed & build a little wire extending box for the steppers on the left side & chaotic wiring.
 
-![Extender](https://raw.githubusercontent.com/assets/building/IMG_4193.jpg)
+![Extender](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4193.jpg)
 
 ### July 1st
 
 Added fans for electronics section, started wiring for Y-Gantry & Z-Motors.
 
-![onlyfans](https://raw.githubusercontent.com/assets/building/IMG_4160.jpg)
+![onlyfans](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4160.jpg)
 
 ### June 26th
 
@@ -139,7 +141,7 @@ Back from holiday!
 
 Did the Mains & 24V wiring (which didn't blow up!) using a old power cord that now doesn't exist anymore.
 
-![Electronics](https://raw.githubusercontent.com/assets/building/IMG_4066.jpg)
+![Electronics](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_4066.jpg)
 
 ### June 1st-10th
 
@@ -147,23 +149,23 @@ Still in the final exam phase, so not that much progress, BUT:
 I mounted the PSUs (yep, 2), the original control boards (from the 2 broken printers) and other stuff including the electronics enclosure.
 
 (Made no picture of them, see next entry)
-![PSU](https://raw.githubusercontent.com/assets/building/IMG_2148.jpg)
+![PSU](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_2148.jpg)
 
 ### May 21th
 
 Insulated & mounted the beds & assembled and installed the XY-Gantry (using the subassemblies from before).
 
-![Insulated beds](https://raw.githubusercontent.com/assets/building/IMG_2013.jpg)
+![Insulated beds](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_2013.jpg)
 
 I'm really happy with how the design turned out!
 
-![the printer](https://raw.githubusercontent.com/assets/building/IMG_2022.jpg)
+![the printer](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_2022.jpg)
 
 ### May 20th
 
 Assembled the top part of the frame - Not much more to say, apart from that my taps weren't perfect (which meant that I couldn't use all screwholes, but who cares... It will be strong enough anyway right... right ?)
 
-![Top part of the frame](https://raw.githubusercontent.com/assets/building/IMG_2011.jpg)
+![Top part of the frame](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_2011.jpg)
 
 ### May 19th
 
@@ -172,13 +174,13 @@ With enough force every fitted together nicely and it's also somewhat square, i'
 
 Foreshadowing: The leadscrew in the top left (which was a spare I had lying around) has the wrong pitch...
 
-![Bottom part of frame](https://raw.githubusercontent.com/assets/building/IMG_2010.jpg)
+![Bottom part of frame](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_2010.jpg)
 
 ### May 15th
 
 Assembling the new drill press, and drilling all the left over holes in 1h... I hate that cnc
 
-![Drill press](https://raw.githubusercontent.com/assets/building/IMG_1998.jpg)
+![Drill press](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_1998.jpg)
 
 ### May 14th
 
@@ -190,7 +192,7 @@ Tapping & Drilling - Fun...
 
 To save money I decided to tap all aluminum proifles and drill all necessary blind holes in them myself. There were a lot of taps and holes - and I though that using a (already heavily modded!) 3018 CNC for drilling the holes would be a good option...
 
-![Drilling holes using a 3018cnc](https://raw.githubusercontent.com/assets/building/videos/IMG_1988.gif)
+![Drilling holes using a 3018cnc](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/videos/IMG_1988.gif)
 
 It worked (i'll give it that much), but it took around 10min per hole with a feed rate of a staggering 2mm/min... Cannot recommend
 
@@ -202,25 +204,25 @@ Tapping the ends of the extrutions turned out to be a rabit hole too: [this is n
 - Still still same day: Getting a new tap from the local hardware store (my third time today being there) only for me to be too scared to use it
 - Still same day, same hardware store visit as above (at ~19:40): Impulse buying the cheapest drill press since I don't want to use that cnc anymore
 
-![Tapping](https://raw.githubusercontent.com/assets/building/IMG_1990.jpg)
+![Tapping](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_1990.jpg)
 
 ### May 11th
 
 Assembled all smaller subassemblies + the camera mod for the Ender3NG, lot's of heat-set inserts (Hackadot leak)
 
-![Assembly of subassemblies](https://raw.githubusercontent.com/assets/building/IMG_1972.jpg)
+![Assembly of subassemblies](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_1972.jpg)
 
 ### May 4th
 
 More printing over the last few days, most parts have now arrived - So far everything seems to fit together
 
-![Progress parts](https://raw.githubusercontent.com/assets/building/IMG_1960.jpg)
+![Progress parts](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_1960.jpg)
 
 ### Rest of April
 
 Not much progress here, due to final High school exams - Started printing parts towards the end of April, and rage bought the cheapest 2 role filament dryer (Sovol SH01) since the parts looked like this:
 
-![Stringing](https://raw.githubusercontent.com/assets/building/IMG_1946.jpg)
+![Stringing](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/building/IMG_1946.jpg)
 
 ## Phase 2: Design
 
@@ -239,8 +241,6 @@ After all, this project was a lot of fun and very interesting. Once I got into t
 
 Small improvements & fixes: Improved 'Design notes', fixed spelling mistakes, added JST cables to BOM, added PCB mount to CAD model
 
-*This was a triumph, Huge success*
-
 ### April 7th - Monday (today)
 
 *I really want a break from cad plsss!*
@@ -249,12 +249,12 @@ Today I fixed a lot of small stuff in the CAD model: I added endstops for X&Y, a
 
 The electronics housing safely mounts both PSU, control boards, rpi zero and power plug. It's surrounded by acrylic panels, and has two fans at the top to suck in air from the bottom though the entire assembly.
 
-![Electronics](https://github.com/playlogo/billig/blob/main/images/electronics.png?raw=true)
+![Electronics](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/electronics.png)
 
 I also updated the BOM and created this document (and it's now past midnight).
 
 Final version (V2.1 in CAD document history):
-![V2.1](https://github.com/playlogo/billig/blob/main/images/v2_1.png?raw=true)
+![V2.1](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/v2_1.png)
 
 **Time spend in CAD:** Last 7h (had to go to school until 13:10 to get grades of last 2 years and the admission notice for my final 5 tests)
 
@@ -264,11 +264,11 @@ Final version (V2.1 in CAD document history):
 
 This day was super productive. I've designed the entire toolhead, reworked the entire gantry, and finally managed to create a **draggable 3 dimensional toolhead** in onshape, that allows me to test the reachable positions of the nozzle.
 
-![V1.9](https://github.com/playlogo/billig/blob/main/images/v1_9.png?raw=true)
+![V1.9](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/v1_9.png)
 
 Reworking the gantry was *a lot* of pain. This is my first time seriously using assemblies in Onshape, and I based the original gantry part assembly on a feature I deleted while reworking the frame (ahhh). This broke my entire gantry when I finally updated it's context, which I need to do, because I've extended it by ~8cm to allow the nozzle to reach all positions. This is a example of the pain I had to endure:
 
-![Pain](https://github.com/playlogo/billig/blob/main/images/refactoring_pain.png?raw=true)
+![Pain](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/refactoring_pain.png)
 
 **Time spend in CAD:** ~75% of my time awake (didn't even go outside) -> 10h
 
@@ -278,8 +278,8 @@ Reworking the gantry was *a lot* of pain. This is my first time seriously using 
 
 On saturday I basically redid everything I did the day before. Instead of bolting the profiles strait to each other using blind joints, I took some inspiration of the Ender3NG, and created these "in-between structures" (see picture). I also converted this sketch (which I created the night before) into CAD (once again, inspired by the Ender3NG, but created from scratch and the final part also ended up completely different)!
 
-![Sketch of Z-Axis bottom mount](https://github.com/playlogo/billig/blob/main/images/sketch_z.PNG?raw=true)
-![Improved frame](https://github.com/playlogo/billig/blob/main/images/first_version.png?raw=true)
+![Sketch of Z-Axis bottom mount](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/sketch_z.PNG)
+![Improved frame](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/first_version.png)
 
 I'm very happy with the progress one that day, cause the frame and gantry has been one of these low motivation, hard to imagine progress blockers. Also, the top "extrusion structure mounts" worked first time, and I never had to change them later
 
@@ -289,8 +289,8 @@ I'm very happy with the progress one that day, cause the frame and gantry has be
 
 4 Days ago I finally started to speedrun the entire CAD design starting with the frame (which I then redid one day later...). I started by converted these drawing I made about two weeks earlier during school into this frame:
 
-![Intial sketches](https://github.com/playlogo/billig/blob/main/images/sketch_initial.PNG?raw=true)
-![Initial frame](https://github.com/playlogo/billig/blob/main/images/friday.png?raw=true)
+![Intial sketches](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning//sketch_initial.PNG)
+![Initial frame](https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/assets/planning/friday.png)
 
 As you can see in the sketches, I was initially targeting a CoreXY build with linear rails, but this idea later got ditched in favor of a simple V-Wheel based Belted XY-Gantry to keep costs down.
 
@@ -313,7 +313,7 @@ I also started dissembling one of the broken printers to take measurements of th
 | ABL using cheap [BLTouch clone](https://de.aliexpress.com/item/1005007554425544.html)| | |
 | Temperature Sensor inside & Temp-control fans | | |
 
-### March 8 - Saturday
+### March 8th - Saturday
 
 Brainstorming about goal. Final 3 candidates:
 
@@ -338,3 +338,5 @@ Initial design ideas:
 - Printbed consist of 4 [smaller (and cheaper) print beds](https://de.aliexpress.com/item/1005007288279620.html): ~ 40€ total
 
 **Time:** 3h
+
+*This was a triumph, Huge success*
