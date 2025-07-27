@@ -8,7 +8,7 @@ erLay is a ultra-portable CoreXY 3D printer made by [Evan Yu](https://evanyu.dev
 
 This printer is built to print small parts needed fast at robotics competitions where our main limitations are space and time. This printer will mainly print spacers, shaft collars, pullies, etc.
 
-## [BOM](https://docs.google.com/spreadsheets/d/1s7m9KlAu-EawWQ5k7trbtZSsV5alHb0_lQaYVRcTUCk/view) | [CAD](https://cad.onshape.com/documents/c8077fee67b983eb99774ac1/w/a53d436f84abc79ea5797123/e/d46022eb7d51b7e61800c962?renderMode=0&uiState=67f3385f421ce1387ca2ed81) | [Journal](https://github.com/Badbird5907/erLay/blob/master/journal.md)
+## [BOM](https://docs.google.com/spreadsheets/d/1s7m9KlAu-EawWQ5k7trbtZSsV5alHb0_lQaYVRcTUCk/view) | [CAD](https://cad.onshape.com/documents/c8077fee67b983eb99774ac1/w/a53d436f84abc79ea5797123/e/d46022eb7d51b7e61800c962?renderMode=0&uiState=67f3385f421ce1387ca2ed81) | [Journal](https://github.com/Badbird5907/erLay/blob/master/journal.md) | [Video](https://youtu.be/6_dDa2ZOsmI)
 
 # Goals (we didn't manage to hit all of these within budget)
 - Ultra-portable (for robotics competitions!!)
