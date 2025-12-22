@@ -10,7 +10,6 @@ Made by: Atharv Sharma aka scattercat_123 | Slack id = [scattercat_123](https://
 Repository link: [Click mE!](https://github.com/scattercat-123/Printopus)
 
 Total hours so far: 75+
-BTW I have an Ender 3 V3 KE <i>really fast</i>
 
 <hr>
 
@@ -64,7 +63,7 @@ https://robocraze.com/products/17hs4401-nema17-stepper-motor-40mm?variant=424907
 ## Day 3 - High Fever 🤒
 
 ## Day 4 (16th Feb 2025) :
-## Total time 4 Hours!!! Started from 1 pm (No school!)
+## Total time 4 Hours!!! Started from 1 pm
 
 I had to research the skr board first because many pins are very confusing. I decided to go with the btt skr v1.4 board and I found this very useful link - 
 [Official site info](https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3?_pos=1&_sid=a4a30553b&_ss=r&variant=31898702970978)
@@ -82,7 +81,7 @@ Now I have lots of things on my mind that I have to buy so I decided to start wo
 Here is the unfinished work of the spreadsheet:
 https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing
 
-## Day 5 (17th Feb 2025) My High Fever 🤒 Still there :(
+## Day 5 (17th Feb 2025)
 ## Total Time 2 Hours!!! Started From 2 pm
 Started to update the [BOM](https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing)
 
@@ -217,20 +216,15 @@ Here is my finished and updated pcb with some copper blocks and a capacitor whic
 I am grinding rn im really tired lol
 
 I finished almost evrything of the cad!!!!
-YAYAY
-AYAYA
-
-AYAY hefdjunslovcs'jskd;
-⏫sorry autism
 BL TOUCH ADDED!
-Oh and i forgot to tell you i have also designed a nice bltouch mount too!
+Oh and i have also designed a nice bltouch mount too!
 
 Here are some good photos:
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bdc4c1b63e727eefb399dc45ee9d3962f5886645_image.png">
 <img src="https://hackclub.slack.com/archives/C016DEDUL87/p1743597133980869?thread_ts=1743597130.402979&cid=C016DEDUL87">
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3472ba0ece47d5a98e1e4b43309347173b155eb_image.png">
 
-Okay imma sleep tmrw ill work on the BOM <- THE MOST SHITTY PART HELPPPPP
+Okay imma sleep tmrw ill work on the BOM <- THE MOST Worst PART HELPPPPP
 
 ## Day 39-40 (1st - 2nd April 2069)
 ## Total time 69 hourss
@@ -244,6 +238,13 @@ ALSO !!! I have added something really cool:
 ## Its basically a arm connected to a servo which automatically removes prints from the print bed!
 
 I havent included all screws screws cauze im lazy
-I just have 2 words: WOMPWOMP
 
-Okay bye i think cause thiis is the last day.
+Thank you! This is the last day of me deisgining, I will add pictures of the finsished build
+<img width="1620" height="911" alt="image" src="https://github.com/user-attachments/assets/d175f557-94cb-420b-8757-01ea82f5cf2f" />
+
+<img width="1620" height="911" alt="image" src="https://github.com/user-attachments/assets/53da1831-78fc-45c7-8846-cb50f2c4aee5" />
+
+<img width="512" height="911" alt="image" src="https://github.com/user-attachments/assets/ea4d8e3b-966a-4364-8cd8-13bfa303ba43" />
+
+
+
