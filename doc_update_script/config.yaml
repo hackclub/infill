@@ -425,3 +425,9 @@ PandA:
   description: "A printer designed for rapid prototyping on the go."
   repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
   file_name: PandA.md
+
+nomad:
+  title: "nomad"
+  description: "A printer which is desined to be portable"
+  repository: "https://raw.githubusercontent.com/Manan-Coder/nomad/refs/heads/main/JOURNAL.md"
+  file_name: nomad.md
