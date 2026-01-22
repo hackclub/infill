@@ -318,12 +318,17 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
-
 QuestionableAtBest:
   title: "QuestionalPrinter"
   description: "A large-build volume 5-axis printer"
   repository: "https://raw.githubusercontent.com/DinosaurPotato534/questionableAtBest/refs/heads/main/JOURNAL.md"
-  file_name: questionable.md
+  file_name: questionable.md  
+  
+DelPrint-X:
+  title: "DelPrint-X"
+  description: "A budget-friendly and stable 3D printer - fro stable performance"
+  repository: "https://raw.githubusercontent.com/Programer6/DelPrint-X/refs/heads/main/DelPrint-X(Journal).md"
+  file_name: DelPrint-X(Journal).md
 
 PancakeFlipper:
   title: "Pancake Flipper"
@@ -425,3 +430,10 @@ PandA:
   description: "A printer designed for rapid prototyping on the go."
   repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
   file_name: PandA.md
+
+
+DelPrint-X:
+  title: "DelPrint-X"
+  description: "A budget-friendly and stable 3D printer - fro stable performance"
+  repository: "https://raw.githubusercontent.com/Programer6/DelPrint-X/refs/heads/main/DelPrint-X(Journal).md"
+  file_name: DelPrint-X(Journal).md
