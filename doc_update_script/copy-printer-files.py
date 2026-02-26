@@ -7,8 +7,8 @@ from urllib.parse import urlparse
 
 # Directories
 script_dir = os.path.dirname(os.path.realpath(__file__))
-config_file = os.path.join(script_dir, 'config.yaml')
-website_dir = os.path.join(script_dir, '../website/src/content/docs/printers')
+config_file = os.path.join(script_dir, 'config_v2.yaml')
+website_dir = os.path.join(script_dir, '../website/src/content/docs/printers_v2')
 
 # Make sure the website directory exists
 os.makedirs(website_dir, exist_ok=True)
