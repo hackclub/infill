@@ -1,1 +1,6 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+Storm:
+    title: "Storm"
+    description: "My first 3D printer. Cheap, uses usb c, large, fast (180mm/s), easy to use, accurate, and cool looking (hopefully all of that!"
+    repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main/JOURNAL.md"
+    file_name: storm.md
