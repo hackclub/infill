@@ -1,1 +1,6 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+STUDPRINT: 
+  title: "Studprint"
+  description: "A 3D printer built using classic LEGO bricks."
+  repository: "https://github.com/AdamTuraj/Studprint/blob/main/JOURNAL.md"
+  file_name: "studprint.md"
