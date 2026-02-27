@@ -1,1 +1,6 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+Vector A1:
+  title: "Vector A1"
+  description: "Vector A1 is my attempt at building a Bambu Lab A1 killer.. It’s a high-speed dual-color 3D printer w/ a modular design I can keep upgrading."
+  repository: "https://raw.githubusercontent.com/shezanusdf/Vector-A1/refs/heads/main/JOURNAL.md"
+  file_name: vector_a1.md
