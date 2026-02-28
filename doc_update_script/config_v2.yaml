@@ -1,1 +1,7 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+
+Shift-7:
+    title: "Shift-7"
+    description: "A printer with an easily switchable toolhead and overall very easy to mod"
+    repository: "https://raw.githubusercontent.com/bobis1/Shift-7/refs/heads/main/Journal.md"
+    file_name: shift-7.md
