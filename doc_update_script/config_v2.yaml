@@ -1,1 +1,6 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+Briefcase Printer:
+    title: "Briefcase-printer"
+    description: "A bedslinger 3D printer disguised as a Briefcase"
+    repository: "https://github.com/civilizayden/Briefcase-printer"
+    file_name: Briefcase-printer.md
