@@ -1,1 +1,6 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+Ultiprint:
+    title: "Ultiprint"
+    description: "CoreXY 3d printer with 3 point ABL and an enclosure"
+    repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
+    file_name: Ultiprint.md
