@@ -1,4 +1,10 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+
+TIM:
+    title: "TIM"
+    description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
+    repository: "https://github.com/2Mon/tim"
+    file_name: TIM.md
 Ultiprint:
     title: "Ultiprint"
     description: "CoreXY 3d printer with 3 point ABL and an enclosure"
