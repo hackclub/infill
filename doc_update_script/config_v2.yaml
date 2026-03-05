@@ -5,3 +5,8 @@ TIM:
     description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
     repository: "https://github.com/2Mon/tim"
     file_name: TIM.md
+Ultiprint:
+    title: "Ultiprint"
+    description: "CoreXY 3d printer with 3 point ABL and an enclosure"
+    repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
+    file_name: Ultiprint.md
