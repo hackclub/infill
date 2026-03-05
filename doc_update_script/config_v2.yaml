@@ -1,7 +1,21 @@
 # Printer list for infill version 2 (2026) - add your printers here!
-
 Shift-7:
     title: "Shift-7"
     description: "A printer with an easily switchable toolhead and overall very easy to mod"
     repository: "https://raw.githubusercontent.com/bobis1/Shift-7/refs/heads/main/Journal.md"
     file_name: shift-7.md
+Stratum:
+    title: "Stratum"
+    description: "A simple 3D Printer which works(hopefully)"
+    repository: "https://raw.githubusercontent.com/arungeorgesaji/stratum/refs/heads/main/JOURNAL.md"
+    file_name: stratum.md
+TIM:
+    title: "TIM"
+    description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
+    repository: "https://github.com/2Mon/tim"
+    file_name: TIM.md
+Ultiprint:
+    title: "Ultiprint"
+    description: "CoreXY 3d printer with 3 point ABL and an enclosure"
+    repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
+    file_name: Ultiprint.md
