@@ -24,3 +24,8 @@ Ultiprint:
     description: "CoreXY 3d printer with 3 point ABL and an enclosure"
     repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
     file_name: Ultiprint.md
+moron:
+    title: "moron"
+    description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
+    repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
+    file_name: moron.md
