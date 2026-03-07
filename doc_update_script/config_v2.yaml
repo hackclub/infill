@@ -2,7 +2,7 @@
 STUDPRINT: 
   title: "Studprint"
   description: "A 3D printer built using classic LEGO bricks."
-  repository: "https://github.com/AdamTuraj/Studprint/blob/main/JOURNAL.md"
+  repository: "https://raw.githubusercontent.com/AdamTuraj/Studprint/refs/heads/main/JOURNAL.md"
   file_name: "studprint.md"
 Shift-7:
     title: "Shift-7"
@@ -17,7 +17,7 @@ Stratum:
 TIM:
     title: "TIM"
     description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
-    repository: "https://github.com/2Mon/tim"
+    repository: "https://raw.githubusercontent.com/2Mon/tim/refs/heads/main/JOURNAL.md"
     file_name: TIM.md
 Ultiprint:
     title: "Ultiprint"
