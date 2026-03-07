@@ -26,6 +26,6 @@ Ultiprint:
     file_name: Ultiprint.md
 moron:
     title: "moron"
-    description: "120x120x120 CoreXY cross-gantry printer, inspired by the Voron V0."
+    description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
     repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
     file_name: moron.md
