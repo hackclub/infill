@@ -4,3 +4,33 @@ Storm:
     description: "My first 3D printer. Cheap, uses usb c, large, fast (180mm/s), easy to use, accurate, and cool looking (hopefully all of that!"
     repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main/JOURNAL.md"
     file_name: storm.md
+STUDPRINT: 
+  title: "Studprint"
+  description: "A 3D printer built using classic LEGO bricks."
+  repository: "https://raw.githubusercontent.com/AdamTuraj/Studprint/refs/heads/main/JOURNAL.md"
+  file_name: "studprint.md"
+Shift-7:
+    title: "Shift-7"
+    description: "A printer with an easily switchable toolhead and overall very easy to mod"
+    repository: "https://raw.githubusercontent.com/bobis1/Shift-7/refs/heads/main/Journal.md"
+    file_name: shift-7.md
+Stratum:
+    title: "Stratum"
+    description: "A simple 3D Printer which works(hopefully)"
+    repository: "https://raw.githubusercontent.com/arungeorgesaji/stratum/refs/heads/main/JOURNAL.md"
+    file_name: stratum.md
+TIM:
+    title: "TIM"
+    description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
+    repository: "https://raw.githubusercontent.com/2Mon/tim/refs/heads/main/JOURNAL.md"
+    file_name: TIM.md
+Ultiprint:
+    title: "Ultiprint"
+    description: "CoreXY 3d printer with 3 point ABL and an enclosure"
+    repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
+    file_name: Ultiprint.md
+moron:
+    title: "moron"
+    description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
+    repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
+    file_name: moron.md
