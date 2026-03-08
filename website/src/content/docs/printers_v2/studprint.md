@@ -119,3 +119,24 @@ The final major motion part of this project is complete: the extruder. Using a r
 
 ![Extruder](https://cdn.hackclub.com/019cc151-bc87-756c-8422-77012bc3dae7/Screenshot%202026-03-05%20230404.png)
 ![Complete printer](https://cdn.hackclub.com/019cc151-d8c5-7be5-9027-b08ea18827ca/Screenshot%202026-03-05%20225251.png)
+
+### Day 21 (March 7th)
+
+Hours Worked: 5 hours
+Total Hours Worked: 36 hours
+
+---
+
+#### Electronics
+
+The last part of the project was electronics. Im using the LRS-150 and BTT SKR Pico v1.0. I decided to put the PSU under the printer and mounted the BTT on the back. It looks good and compact. The mounts are not the greatest but they are good enough. My main goal is to get an initial draft done so I can order the parts and get building.
+
+Overall, the initial design is done. I just have to update the BOP and see what parts I need.
+
+![Finished printer](https://cdn.hackclub.com/019ccb5f-7670-7e53-a309-8d6cbaab3454/Screenshot%202026-03-07%20174320.png)
+
+#### BOM
+
+I updated the BOM and added the LEGO parts. I still need to figure out the part numbers for the wheel and axle, along with checking how many of the right angle pieces are inverted. Afterwards, I will go through my stash and see what I need!
+
+![BOM](https://cdn.hackclub.com/019ccbfd-ddc6-71c0-8fcf-3b1d10217087/Screenshot%202026-03-08%20004836.png)
