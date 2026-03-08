@@ -39,3 +39,8 @@ moron:
     description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
     repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
     file_name: moron.md
+Enderson:
+    title: "Enderson"
+    description: "A 240x240x240 Fast Core XY 3D Printer Build from Scratch with feature like Autobed leveling ,Filament run out & etc"
+    repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/refs/heads/main/JOURNAL.md"
+    file_name: Enderson.md
