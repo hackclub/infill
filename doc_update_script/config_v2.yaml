@@ -1,19 +1,19 @@
 # Printer list for infill version 2 (2026) - add your printers here!
 Vector A1:
-  title: "Vector A1"
-  description: "Vector A1 is my attempt at building a Bambu Lab A1 killer.. It’s a high-speed dual-color 3D printer w/ a modular design I can keep upgrading."
-  repository: "https://raw.githubusercontent.com/shezanusdf/Vector-A1/refs/heads/main/JOURNAL.md"
-  file_name: vector_a1.md
+    title: "Vector A1"
+    description: "Vector A1 is my attempt at building a Bambu Lab A1 killer.. It’s a high-speed dual-color 3D printer w/ a modular design I can keep upgrading."
+    repository: "https://raw.githubusercontent.com/shezanusdf/Vector-A1/refs/heads/main/JOURNAL.md"
+    file_name: vector_a1.md
 Storm:
     title: "Storm"
     description: "My first 3D printer. Cheap, uses usb c, large, fast (180mm/s), easy to use, accurate, and cool looking (hopefully all of that!"
     repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main/JOURNAL.md"
     file_name: storm.md
 STUDPRINT: 
-  title: "Studprint"
-  description: "A 3D printer built using classic LEGO bricks."
-  repository: "https://raw.githubusercontent.com/AdamTuraj/Studprint/refs/heads/main/JOURNAL.md"
-  file_name: "studprint.md"
+    title: "Studprint"
+    description: "A 3D printer built using classic LEGO bricks."
+    repository: "https://raw.githubusercontent.com/AdamTuraj/Studprint/refs/heads/main/JOURNAL.md"
+    file_name: "studprint.md"
 Shift-7:
     title: "Shift-7"
     description: "A printer with an easily switchable toolhead and overall very easy to mod"
