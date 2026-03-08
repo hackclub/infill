@@ -124,4 +124,53 @@ I also added dual 24V 5015 Turbo Blowers to cool the plate and parts quickly.
 I got all the electronics down, but I still need to find the extrusions and rails/rods, and I might have to change some parts because the total is already around $280.
 
 ---
+### Day 1 - Mar 7 2026 - 3 Hours
+After looking at my parts and looking at the prices, I started to question if this is actually possible
+
+And the math said no
+
+So I had to build the entire thing for cheaper
+
+So I started swapping expensive parts for cheaper ones
+
+So this isn't finalized (if you haven't realised I'm updating this as I go), but
+
+I'm switching the BTT SKR Mini E3 V3.0 to the MKS Robin Nano V3 because it has a better chip and more ram so its faster, but it has less support in places like Reddit.
+
+I'm switching the Orbiter V2.5 to the Sherpa Mini cause the orbiter is super expensive, and the Sherpa Mini is just lighter which makes my printer fast, and since it weighs less, its easier to stop making my prints more accurate (yay! paying attention in science class paid off!)
+
+I also switched the BTT Pi with a normal Raspberry Pi Zero 2 W because the BTT PI is just a waste of money
+
+I'm also going to find a cheaper smaller touch screen
+
+And for thing like the hotend and nozzle, I'm gonna use clones that are just as good as the original instead of paying more
+
+Everything else is going to stay pretty much the same, but even with this new budget, I'm pretty cooked
+
+So I was wondering, how do I further lower the cost,
+
+So I read other journals of people who made 3D printers last year and their BOMs (of course I did realize that tarrifs changed the  prices by alot for things)
+
+And in one journal, I read that someone got sponsored by Polymaker
+
+And that got me think about all the videos about making 3D printers that are sponsored by PCBWay, Polymaker, and tons of other 3D printing companies
+
+So I spent some time making a list of all the companies that are in the 3D printing field and have sponsored projects before, or are just a big name in the business
+
+I'll post the full link of sponsors here later, because I don't want them to get spammed before I send in my request : 
+<img width="119" height="704" alt="image" src="https://github.com/user-attachments/assets/f7b15bd0-5586-43ec-aea7-2142343780f3" />
+
+Now, I've finally decided to start working on the formal BOM on a spreadsheet to actually see what parts I need to swap and where the money is going (right now I'm just doing it in my head)
+
+The link is: https://docs.google.com/spreadsheets/d/1btD1Bjle54Zft8ynW4hvl1bNV1Zsg6aF89J3ntGE-do/edit?usp=sharing
+
+After checking the BOM from the one video, I watched earlier (https://www.youtube.com/watch?v=EX62plOF-So&list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY)
+
+I learned that a site called Misumi has Extrusions for really cheap, so I'm getting all my extrusions from there
+
+But, Aliexpress claims to be cheaper, but I'd have to have a talk with a seller
+
+---
+
+
 
