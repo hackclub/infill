@@ -14,8 +14,8 @@ Total hours so far: 13
 ### Goals:
 
 - Beat the A1 at everything
-- Cartesian bedslinger (like Bambu A1)
-- 256×256×300mm build volume
+- Cartesian bedslinger (like the Bambu Lab A1)
+- 300×300×450mm build volume
 - 500–700mm/s, sub-5min Benchy, high quality
 - Screen, WiFi, Quiet
 - Under $350 including shipping/taxes
