@@ -4,9 +4,9 @@ description: "My first 3D printer. Cheap, uses usb c, large, fast (180mm/s), eas
 project_name: "Storm"
 repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main/JOURNAL.md"
 ---
-Made by: @Dhiaan Dave // Dhiaan Dave
+Made by: @the-X-alien // Dhiaan Dave
 Repository link: https://github.com/the-X-alien/Storm/
-Total hours so far: 13
+Total hours so far: 16
 
 - [] I have a 3D printer or will be getting one before March 21st (printing legion pls save me)
 
@@ -124,7 +124,7 @@ I also added dual 24V 5015 Turbo Blowers to cool the plate and parts quickly.
 I got all the electronics down, but I still need to find the extrusions and rails/rods, and I might have to change some parts because the total is already around $280.
 
 ---
-### Day 1 - Mar 7 2026 - 3 Hours
+### Day 4 - Mar 7 2026 - 3 Hours
 After looking at my parts and looking at the prices, I started to question if this is actually possible
 
 And the math said no
