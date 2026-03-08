@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads
 ---
 Made by: @kyle.mason
 Repository link: https://github.com/Icyconfusion/Ultiprint
-Total hours so far: 18
+Total hours so far: 20
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -51,3 +51,8 @@ I also started designing the Z support for the bed, and edited the corner bracke
 6/3/26
 3 hours
 Refined the CoreXY system. To do this, I also edited the extruder to include fasteners for securing the belts. Also designed the Z axis holders using leadscrew nuts, LM8UU and some metal dowels I had laying around. The CAD is now complete, time to move onto the electronics. For the motherboard, I will use a PCB motherboard I made for a blueprint 3d printer. This motherboard has the capabilities to support all the features of this printer. Also configured the firmware to this motherboard and my printer layout. Pretty simple as it is a pretty standard setup. Realised while I was writing this I forgot to model the door and hinge in the CAD, so once I do that, the project will be ready to go.
+
+**Log 7**
+8/3/26
+2 hours
+Finished the final few steps. Added a hole to hold the smooth rods, and modelled a handle for the polycarb door. Everything is now complete and ready to go.
