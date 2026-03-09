@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads
 ---
 Made by: @kyle.mason
 Repository link: https://github.com/Icyconfusion/Ultiprint
-Total hours so far: 20
+Total hours so far: 21
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -77,3 +77,7 @@ Finished the final few steps. Added a hole to hold the smooth rods, and modelled
 
 <img width="733" height="658" alt="image" src="https://github.com/user-attachments/assets/dc6b344b-9727-473f-af31-6d2567808e48" />
 
+**Log 8**
+9/3/26
+1 hour
+Added a build of marlin for the printer. Had to make my own pin mapping and board in firmware.
