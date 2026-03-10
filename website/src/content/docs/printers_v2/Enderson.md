@@ -6,9 +6,14 @@ repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/
 ---
 **Made by:** @Paglu // Robotic Paglu <br/>
 **Repository link:** https://github.com/smartlearningorbit-arch/Enderson <br/>
-**Total hours so far:** 48 Hr <br/>
+**Total hours so far:** 61 Hr <br/>
 
 - [✓] I have a 3D printer or will be getting one before March 21st  
+
+# Date/log - Tuesday, 10  March, 2026      13 hr 
+## Big Decision 
+Breaking news I'm no longer buying ender 3 for Scrap part After Conducting a long long long long long research 
+My conclusion is simple It isn't worth that much 
 
 # Date/log - Tuesday, 9-10  March, 2026      18 hr 
 ## Designing the printer
