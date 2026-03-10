@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main
 ---
 Made by: @the-X-alien // Dhiaan Dave
 Repository link: https://github.com/the-X-alien/Storm/
-Total hours so far: 16
+Total hours so far: 18
 
 - [] I have a 3D printer or will be getting one before March 21st (printing legion pls save me)
 
@@ -171,6 +171,39 @@ I learned that a site called Misumi has Extrusions for really cheap, so I'm gett
 But, Aliexpress claims to be cheaper, but I'd have to have a talk with a seller
 
 ---
+### Day 5 - Mar 9 2026 - 2 Hours
+I started working on the BOM, and I planned out the full frame, and motion system
 
+<img width="1896" height="575" alt="image" src="https://github.com/user-attachments/assets/5343cc77-f8c4-4969-8bda-a0c74d6b4bab" />
+
+Now all thats left is the electronics
+
+It was a bit challenging because I had to balance price, preformance, and shipping date for each part
+
+I'm starting to wonder what sourcing parts was like before tarrifs and inflation
+
+Because all the videos and articles I find are from years ago, when everything was cheap and you could make a high end 3D printer for $350
+
+These days Extrusions are $60 alone
+
+How did metal become so expensive?
+
+But, since the Corner Plates were just too expensive, I'm going to try to just 3D print them
+
+I realised, that I can probably print alot of the parts
+
+I wonder if I can just print Extrusions . . .
+
+Today we also had a group agreement to name all of our printers after real names, like Tim, David, John, Bruce, and I'm naming mine Bob.
+
+It's going to be a play on Bob the Builder, so Bob the Printer
+
+Tommorow, I plan on finishing the BOM and starting the toolhead design
+
+Then on Thursday, I want to build the full CAD Assembly
+
+And I hope that I can submit on friday, so I can order parts in time
+
+---
 
 
