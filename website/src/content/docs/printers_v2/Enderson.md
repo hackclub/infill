@@ -33,12 +33,49 @@ New plan for the structure:
 - Use aluminum sheet for mounting parts
 - Use acrylic for the body  <br/> 
 Print the final outer case after the printer is working, so it doesn't affect the print process.
+
+
+
+
  
-# Date/log - Tuesday, 9-10  March, 2026      18 hr 
+# Date/log - Tuesday, 9-10 March, 2026      / 18 hr
+
 ## Designing the printer
-After all the plan is done I finally designed the 3D printer and Many part is made by scratch 
-So the final reveal of the printer is here
-<img width="465" height="503" alt="image" src="https://github.com/user-attachments/assets/cdb8ab3a-6667-40ba-993a-b0603e7a0d3c" />
+
+After all the planning is done I finally started designing the **3D printer**.  
+This step take a lot of time because many parts I decide to **make from scratch** instead of using ready made models. <br/>
+
+Some of the parts I worked on while designing:
+
+- Frame layout and overall structure  
+- Motor mount positions  
+- Linear motion system placement  
+- Electronics mounting area  
+- Belt path and pulley placement  <br/>
+
+Since this is my first time designing a **full printer**, I had to re-check many things again and again to make sure the alignment and spacing is correct. Also tried to keep the design **simple but strong**, because weak frame can cause vibration which affect the print quality alot.  <br/>
+
+Many small small adjustment were made during this process like:
+- changing mount holes 
+- adjusting motor position  
+- fixing spacing issue  
+- making sure parts are printable  <br/>
+
+Also there are many thing that i build from Scratch like ts heatbed mount where i have to ensure the Strength <br/>
+here U see what i am taking about <br/>
+<img width="842" height="606" alt="Screenshot 2026-03-09 134937" src="https://github.com/user-attachments/assets/d51f10fb-178e-4695-9732-8c0137a6af2a" /> 
+<img width="902" height="606" alt="Screenshot 2026-03-09 135104" src="https://github.com/user-attachments/assets/37630a2b-b9b2-4235-ba95-bb4e63863d0b" /> <br/>
+
+
+ 
+Some parts are still **rough and might be improved later**, but for now the main structure of the printer is ready.  
+So here is the **final reveal of the printer design**  
+
+<img width="465" height="503" alt="image" src="https://github.com/user-attachments/assets/cdb8ab3a-6667-40ba-993a-b0603e7a0d3c" />  <br/>
+
+Still some improvement might come later during the build process but the **base design is completed now**.  
+Next step will be checking parts compatibility and preparing the **BOM**.
+
 
 
 
@@ -58,21 +95,105 @@ Show my new approaches is to buy a Ender 3 at 13k Rs And tear down it fully To g
 which is the good package at that prize point 
 ## Let's start with the body Designing 
 
-# Date/log - Sunday , 8 March, 2026 / 14.5 hr 
-## Research & plan 
-Today i plan what should be there in my printer, so for that I made a list of feature 
-here is the list { pls ignor my writing }
+
+
+
+
+# Date/log - Sunday, 8 March, 2026 / 14.5 hr  
+## Research & Plan  
+
+Today I worked on planning what features should be included in my 3D printer. <br/>  
+Instead of randomly building things, I wanted to first decide the capabilities and design direction of the printer. So I started by making a **feature list** of everything that should be part of the machine. <br/>
+
+Here is the list I made *(please ignore my writing)*  
 <img width="280" height="1164" alt="image" src="https://github.com/user-attachments/assets/7636f9e1-0583-4105-b660-580b152ca45a" /> <br/>
-This thing look Simple but it contain the lot of research to comes to this conclution 
-resources used 
-- #infill slack Community {really helpfull}
-- Toutorial
-- Documentation
-- AI 
+
+At first this list might look simple, but reaching this point actually required **a lot of research and thinking**. <br/> 
+
+I didn’t just write random features. For each item I tried to understand:  
+- Is this feature actually useful for the printer ?  
+- Is it possible to implement with the hardware I plan to use?  
+- Will it increase complexity t00 much!!! ?  
+- Will it improve reliability or print quality? <br/>
+
+So this list is basically the result of **many hours of comparison and research**.
+## What I researched while making this list <br/>
+
+While creating this feature plan, I explored different topics such as:
+- Common features used in modern DIY 3D printers  
+- Hardware requirements for each feature  
+- Firmware support for different functions  
+- How these features affect print quality and reliability <br/>
+
+This helped me decide **which features are important and which are unnecessary** for my build.
+## Resources used
+
+To gather this information I used multiple sources:
+- **#infill Slack Community** *(really helpful!!!!!!!!!!!!!!)*  
+- Tutorials  
+- Documentation  
+- AI  <br/>
+Using multiple sources helped me verify information and avoid wrong assumptions.
 
 
-# Date/log - Saturday, 7 March, 2026 / 12.5 hr 
-## Research & plan 
-I'm not joking here it take really that long to do. I'm GOOD at hardware But i never made a plotter based project and 3D printer works on that princle only ,
-So for that I collect the basic and the Architecture info in first 3-4 hr 
-Watch over 50 + toutorial so i Understand in deapth and what the mistake they make so far while working on it  takes 8 hr 
+
+## Outcome of this research
+
+By the end of this session I now have:
+- A clear **feature list** for the printer  
+- Better understanding of what is **practical to implement**  
+- A direction for the **next design steps** <br/>
+
+This planning step is important because it will guide the **mechanical design, electronics selection, and firmware configuration** of the printer.
+
+
+
+
+
+
+
+# Date/log - Saturday, 7 March, 2026 / 12.5 hr
+## Research & Plan
+
+I'm not joking here!! — it really took this long. I'm good with hardware and electronics, but I never made a plotter-based project before.
+And a 3D printer works on the same basic principle as a plotter — controlled movement on X, Y, and Z axes. <br/>
+So before starting the build, I decided to properly understand the architecture. <br/>
+## First 3–4 hours — Understanding the basics
+
+In the beginning I focused on learning the core concepts of how a 3D printer actually works. <br/>
+
+Some of the main things I researched were:
+- How Cartesian motion systems work
+- How stepper motors control precise movement
+- The role of G-code in controlling printer motion
+- How the hotend and extruder system push filament
+- Basic printer electronics like MCU, stepper drivers, and endstops
+- This helped me understand the overall architecture of the machine.
+
+## Next ~8 hours — Tutorials and deep research
+After understanding the basics, I spent the next 8 hours watching tutorials and technical explanations.
+In total I watched 50+ tutorials and guides about:
+
+- 3D printer mechanics
+- Motion systems
+- Frame design
+- Common hardware mistakes
+-  Firmware basics
+- While watching these, I wasn't just watching randomly. <br/>
+
+### I tried to analyze the mistakes people make while building printers, such as:
+- weak frame design
+- vibration problems
+- poor cable management ( It makes difficult to Repair in future)
+- incorrect belt tension & Not equal Belt ( Break the pully)
+- bad placement of electronics { Causing heat Issue and Not proper weight balance } <br/>
+
+Understanding these mistakes is important because it helps me avoid them while designing my own printer.
+What I learned from this research
+### After this research session I now have a better understanding of:
+- Basic 3D printer architecture
+- Motion system design
+- Common design mistakes
+- Key components required for the build <br/>
+
+This research phase was important because it will help me plan the printer more efficiently before starting the actual build.
