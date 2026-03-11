@@ -49,3 +49,8 @@ Enderson:
     description: "A 240x240x240 Fast Core XY 3D Printer Build from Scratch with feature like Autobed leveling ,Filament run out & etc"
     repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/refs/heads/main/JOURNAL.md"
     file_name: Enderson.md
+Loopy Delta:
+    title: "Loopy Delta"
+    description: "A delta 3d printer thats hopefully stupid fast, and uses string instead of rods to move the print head."
+    repository: "https://github.com/CosmicengineerC/Delta-printer-that-hopefully-works/blob/main/JOURNAL.md"
+    file_name: Loopy Delta.md
