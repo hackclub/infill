@@ -140,3 +140,16 @@ Overall, the initial design is done. I just have to update the BOP and see what 
 I updated the BOM and added the LEGO parts. I still need to figure out the part numbers for the wheel and axle, along with checking how many of the right angle pieces are inverted. Afterwards, I will go through my stash and see what I need!
 
 ![BOM](https://cdn.hackclub.com/019ccbfd-ddc6-71c0-8fcf-3b1d10217087/Screenshot%202026-03-08%20004836.png)
+
+### Day 22 (March 11th)
+
+Hours Worked: 0.25 hours
+Total Hours Worked: 36.25 hours
+
+---
+
+#### Extruder
+
+I quickly modelled out the axle adapter for the extruder. Due to lack of space, it will be using a friction fit and I may add a blob of glue to ensure it stays. Im not entirely sure if the axle will fit. Its difficult to measure the part I have due to how small it is.
+
+![Axle adapter](https://cdn.hackclub.com/019cdf23-5bb2-708f-943d-888b14a88b75/Screenshot%202026-03-11%20190050.png)
