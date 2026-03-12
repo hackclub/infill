@@ -8,7 +8,7 @@ Made by: @1Mon
 
 Repository link: https://github.com/2Mon/tim
 
-Total hours: 22
+Total hours: 28
 
 # Feb 15 2026 | Research
 
@@ -105,3 +105,38 @@ Lastly, I added a top plate for the printer. Currently its very simple and just 
 should I develop my own silly dual extruder? maybe. would be funny. 
 
 Time Spent: 10h
+
+# March 10-11 2026 | Bed + Belt Clamps
+
+In this session I added the bed and the belt clamps to the gantry. The design of the belt clamp is fairly simple, just teeth cut out in the part where the belt can go, and a clamp to go on top of it to squeeze it into the teeth. The clamp part is held down with a M3 bolt going into a heatset insert, for simplicity. For belt tensioning, I plan to have the top frame (which holds the top idlers) be able to move up and down, which lets me tension the belts. For now I just put four screw holes in the top of the frame, which I can use to push screws through and push the frame up against the z rods. 
+
+<img width="451" height="366" alt="Screenshot 2026-03-11 at 10 10 19 PM" src="https://github.com/user-attachments/assets/9f775bd2-d359-4f30-9079-a033e56b9f0e" />
+
+
+I also added the electronics bay in this session. Currently it is just a JLCMC aluminum electronics box, which is cheap and should be able to hold everything well. It is exactly the same size as the base of the printer, which is cool. 
+
+Here you can see the electronics (LDO PSU, SKR PICO, Raspi 4B) in the electronics box. I may end up switching to a lower profile electroniccs box to make the printer more space efficient. 
+
+<img width="497" height="358" alt="Screenshot 2026-03-11 at 10 14 37 PM" src="https://github.com/user-attachments/assets/9b43dc90-084e-4977-9fa1-b970f9975625" />
+
+I also added the bed during this session. Its a 3.175mm aluminum sheet with countersunk holes for m3 bolts. Those bolts go through sillicone spacers and into heat set inserts in the frame. I added a tiny little sillicone heater to the bottom, which I plan to design myself and get manufactured by JLC. 
+
+<img width="310" height="182" alt="Screenshot 2026-03-11 at 10 15 42 PM" src="https://github.com/user-attachments/assets/e060a882-05b1-4a09-a37e-de9ad5c3b8fd" />
+
+<img width="443" height="115" alt="Screenshot 2026-03-11 at 10 17 12 PM" src="https://github.com/user-attachments/assets/0c887123-3811-4069-87ee-e4b21e195221" />
+
+The bed size is currently 64x64mm. Just barely enough for a benchy!! 
+
+<img width="228" height="281" alt="Screenshot 2026-03-11 at 10 21 30 PM" src="https://github.com/user-attachments/assets/34a665ab-a506-4b03-ae7c-d97d64f6ef17" />
+
+
+I had to do a bit of redesigning to the XYZ joint, as the belt clamps were running into some parts of the joint. All I did was take the idler bearing and move it into the part a bit further. This should help a lot with getting everything compact. The hotend I chose is very large so I need to maximize the space I have. 
+
+<img width="483" height="409" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://github.com/user-attachments/assets/90d750e6-9d81-46e1-94a1-958ace59ca3a" />
+
+Time Spent: 6h
+
+
+
+
+
