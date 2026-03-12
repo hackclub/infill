@@ -5,14 +5,14 @@ project_name: "Enderson"
 repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/refs/heads/main/JOURNAL.md"
 ---
 **Repository link:** https://github.com/smartlearningorbit-arch/Enderson <br/>
-**Total hours so far:** 61 Hr <br/>
+**Total hours so far:** 32.3 Hr <br/>
 
 - [✓] I have a 3D printer or will be getting one before March 21st  
 
 
 
  
-# Date/log - Tuesday, 9 March, 2026  1.7Hr
+# Date/log - Tuesday, 10 March, 2026  1.7Hr
 ## Preparing BOM 
 After The design completed I making the BOM <br/> 
 If you are Indian Here is something crazy detail for you Help me know the component Are expensive in India Plus importing from outside The taxes Will rob you So here is the few website Where you find the Component add good price And I also contact Few Indian Hack Clubber Regardingly And they have good experience with these websites previously.
@@ -59,8 +59,17 @@ Print the final outer case after the printer is working, so it doesn't affect th
 -------------------------
  
 # Date/log - Tuesday, 9 March, 2026  0.2Hr
-## Finally Model 
-After some Small tuning and refining The final model is ready yah!!! <br/>
+## Finalizing the CAD model
+After assembling most of the components I spent some time refining the model. <br/>
+I adjusted the spacing between the gantry and the frame to make sure belts will not rub against the extrusion. <br/>
+
+I also verified:
+- belt path clearance
+- stepper motor alignment
+- mounting holes for the idler pulleys
+
+These small adjustments are important because even a few millimeters of misalignment can cause mechanical issues later.<br/>
+
 <img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://github.com/user-attachments/assets/5abbfc4a-bad0-4bf6-980c-0600ba16d1da" />
 
 
@@ -70,8 +79,15 @@ After some Small tuning and refining The final model is ready yah!!! <br/>
 -------------------------
  
 # Date/log - Tuesday, 9 March, 2026  0.3Hr
-## X-Axis Gantry
-Build the X-Axis Gantry Ensure the The strength of the part <br/> 
+## X-Axis Gantry Design
+The X-axis gantry connects both sides of the Z frame and carries the toolhead.
+Because the toolhead moves rapidly left and right, this part must be rigid.
+If the gantry flexes even slightly, it can cause:
+- layer shifting
+- ringing
+- inaccurate prints
+To avoid this I increased the wall thickness of the gantry mount and added extra support ribs.
+I also made sure the mounting holes align properly with the aluminum extrusion. <br/> 
 <img width="997" height="791" alt="image" src="https://github.com/user-attachments/assets/8e42a581-3453-42a5-a91a-7835fdb3a724" />
 
 
@@ -95,7 +111,7 @@ Here it is <br/>
 # Date/log - Tuesday, 9 March, 2026  0.6Hr
 ## Built a mount for the heat bed
 Built a mount for the heat bed Ensuring The strength because it Have to carry The weight of aluminium heat bed + the Weight of model  <br/> 
-And also we have to maintain the Tolerance Between the threads screw Because little bit Vowel Matters to the Quality of print  While we are working on the high speed printer
+And also we have to maintain the Tolerance Between the threads screw Even a small wobble can affect print quality at high speed 
 <img width="842" height="606" alt="Screenshot 2026-03-09 134937" src="https://github.com/user-attachments/assets/d51f10fb-178e-4695-9732-8c0137a6af2a" /> 
 <img width="902" height="606" alt="Screenshot 2026-03-09 135104" src="https://github.com/user-attachments/assets/37630a2b-b9b2-4235-ba95-bb4e63863d0b" /> <br/>
 
@@ -142,7 +158,7 @@ also Make the Bracket for the stepper motor to be hold
 -------------------
 -------------------
 # Date/log - Monday , 9 March, 2026           2.1 hr 
-## Research & plan  3.7 hr
+## Research & plan 
 Mt first thing that i check that the BOM are Available in India and While checking that I found out The raw component is Expensive. Delivery date may be high 
 Show my new approaches is to buy a Ender 3 at 13k Rs And tear down it fully To grab the raw component And one more Reason is that The printer build may contain some 3d printed parts which Need to be printed but I dont have A 3D printer now it Should help me to print the parts also 
 ### the component I get after tear down the 3D printer
@@ -210,13 +226,13 @@ here It is <br/>
 --------------------------------
 
 
-# Date/log - Saturday, 7 March, 2026 / 5.6 hr
+# Date/log - Saturday, 7 March, 2026 / 5.4 hr
 ## Research & Plan
 
 I'm good with hardware and electronics, but I never made a plotter-based project before.
 And a 3D printer works on the same basic principle as a plotter — controlled movement on X, Y, and Z axes. <br/>
 So before starting the build, I decided to properly understand the architecture. <br/>
-## First 2 hours — Understanding the basics
+## First 2.4 hours — Understanding the basics
 
 In the beginning I focused on learning the core concepts of how a 3D printer actually works. <br/>
 
