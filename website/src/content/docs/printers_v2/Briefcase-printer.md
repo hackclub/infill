@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/civilizayden/Briefcase-printer/re
 ---
 Made by: @CiviliZayden
 Repository link: https://github.com/civilizayden/Briefcase-printer
-Total hours so far: 19.5
+Total hours so far: 26
 
 - [3] I have spent a couple of hours brainstorming what I wanted to do for Infill. I finally came up with this idea, and I have begun CAD work to get the idea into Fusion. I also started looking for parts and communicated with other Hack Clubbers to find out what would work, ultimately deciding that I can probably scrap an old MakerBot Replicator from my teacher for parts.<img width="520" height="535" alt="image" src="https://github.com/user-attachments/assets/a524eb73-3797-4028-85d0-81ec3b08ea01" />  
 
@@ -21,3 +21,5 @@ Total hours so far: 19.5
 - [7] I spent a lot of time the past few days in class and at home figuring out what I want to do. I found a RepRap project called FoldaRap that I will be taking inspiration from. I have found sources for most of my parts and have a design in mind for the heated bed. It will be 220x220 mm and will be connected as such: MGN12 linear rail -> MGN12C carriage -> y-axis carriage plate (either CNC'd or sourced from an existing printer) -> insulation stuck to heater stuck to aluminum plate with magnetic sheet adhered on top to hold the PEI build plate. I will be using linear rails for all of the axes and will have the x-axis fold up instead of the complicated y-axis folding mechanism I was previously envisioning. As I type this, I am designing the heated bed in CAD, as I am creating the individual components and then constraining them into an assembly in Fusion.<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/ea87669b-0068-473d-9052-c7347163dd37" />
   
 - [5] Today I basically finished the y-axis assembly. I also added to the BOM all of the parts I will need for the extruder. I spent a LOT of time researching how to connect belts and pulleys and such, and also spent a lot of time looking at extruders. I changed my mind from the picolino and am now going to use the ProtoXtruder, since there is better documentation and it is cheaper. I am hoping I have the budget for auto levelling, but it is not looking good. I will be right at the $350 budget if not over it. I will probably use my tickets for a Blueprint hardware grant.  
+
+- [6.5] I have finished the Y-axis assembly. It will slide back and forth onto the briefcase wall for transportation. I have finalized my BOM and purchased the AliExpress components so that they get here on time. I still have not secured the salvage 3D printers, but I am hoping to get them this weekend. It took a while to make the y-axis assembly reasonably compact, but I think I did it. 
