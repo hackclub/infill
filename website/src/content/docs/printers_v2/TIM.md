@@ -8,7 +8,7 @@ Made by: @1Mon
 
 Repository link: https://github.com/2Mon/tim
 
-Total hours: 33
+Total hours: 35
 
 # Feb 15 2026 | Research
 
@@ -140,7 +140,25 @@ Time Spent: 6h
 
 In this session I redesigned the toolhead. Before it was just a brick and now its a slightly nicer looking brick. I had to do some funny shenanigans to make the bolts for the hotend fit in between the hotend itself and the bushings. The toolhead is designed to be printed on a 45 degree angle, which makes it easier to print and not need any supports. I really like this, and its one step on my process towards getting better at 3dp DFM. The screw mounting for the hotend uses a total of 6 screws, three on the top and three on the side. This should make it super stable. I plan to print this out of PET-CF or ABS-CF. 
 
+<img height="450" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://cdn.hackclub.com/019cea60-7c6b-787d-9173-dc2de9da22b4/Screenshot%202026-03-13%20at%209.24.22%E2%80%AFPM.png" />
 
 For the bed, I designed a custom sillicone heater using the onshape drawing features. Its not the cleanest drawing but it should be good enough for JLC to understand it. It is basically just a 50x50mm pad with wires. There arent many off the shelf options at this size, and this ends up being cheaper than the only other option. I love JLC. 
 
+<img height="450" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://cdn.hackclub.com/019cea62-06ae-726a-88a0-43f99956acf7/screenshot_2026-03-13_at_11.26.48___pm.png" />
+
 Time Spent: 5h 
+
+# Extruder
+
+This was a pretty quick session. I added the dual extruder. Since my hotend is 2 in 1 out, I need two extruders. I also want this printer to be extremely small, so my solution was to make the extruder able to fold down into the frame of the printer for travel, and fold out for use. Im using two HGX Lite extruders (which end up being cheaper than printed ones), mounted on a printed frame with a printed hinge connected to the top frame. I love making these hinge things. Maybe i can find some other stuff I can fold in. Thats for later me to think about. Now I need to write the readme and wrap everything up. I made a BOM already, but I need to add the extruder and stuff to it. Maybe Ill add a hardware kit, but I already have a ton of M3-5 hardware. 
+
+<img height="450" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://cdn.hackclub.com/019cea98-ee78-76eb-a817-1171acd16d2b/image.png" />
+Extended position
+
+<img height="450" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://cdn.hackclub.com/019cea9a-36af-7a14-8303-81e3da353532/image.png" />
+Retracted position
+
+
+Something cool is that this printer is small enough to be a personal item on my flight. I think that I will add a wood frame around it to protect it a bit during travel.
+
+Time Spent: 2h
