@@ -8,7 +8,7 @@ Made by: @1Mon
 
 Repository link: https://github.com/2Mon/tim
 
-Total hours: 28
+Total hours: 33
 
 # Feb 15 2026 | Research
 
@@ -136,7 +136,11 @@ I had to do a bit of redesigning to the XYZ joint, as the belt clamps were runni
 
 Time Spent: 6h
 
+# Toolhead + Bed
+
+In this session I redesigned the toolhead. Before it was just a brick and now its a slightly nicer looking brick. I had to do some funny shenanigans to make the bolts for the hotend fit in between the hotend itself and the bushings. The toolhead is designed to be printed on a 45 degree angle, which makes it easier to print and not need any supports. I really like this, and its one step on my process towards getting better at 3dp DFM. The screw mounting for the hotend uses a total of 6 screws, three on the top and three on the side. This should make it super stable. I plan to print this out of PET-CF or ABS-CF. 
 
 
+For the bed, I designed a custom sillicone heater using the onshape drawing features. Its not the cleanest drawing but it should be good enough for JLC to understand it. It is basically just a 50x50mm pad with wires. There arent many off the shelf options at this size, and this ends up being cheaper than the only other option. I love JLC. 
 
-
+Time Spent: 5h 
