@@ -52,5 +52,5 @@ Enderson:
 Loopy Delta:
     title: "Loopy Delta"
     description: "A delta 3d printer thats hopefully stupid fast, and uses string instead of rods to move the print head."
-    repository: "https://github.com/CosmicengineerC/Delta-printer-that-hopefully-works/blob/main/JOURNAL.md"
+    repository: "https://raw.githubusercontent.com/CosmicengineerC/Delta-printer-that-hopefully-works/refs/heads/main/JOURNAL.md"
     file_name: Loopy Delta.md
