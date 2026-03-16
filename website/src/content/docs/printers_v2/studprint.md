@@ -153,3 +153,16 @@ Total Hours Worked: 36.25 hours
 I quickly modelled out the axle adapter for the extruder. Due to lack of space, it will be using a friction fit and I may add a blob of glue to ensure it stays. Im not entirely sure if the axle will fit. Its difficult to measure the part I have due to how small it is.
 
 ![Axle adapter](https://cdn.hackclub.com/019cdf23-5bb2-708f-943d-888b14a88b75/Screenshot%202026-03-11%20190050.png)
+
+### Day 23 (March 15th)
+
+Hours Wored: 3 hours
+Total Hours Worked: 39.25 hours
+
+---
+
+#### Beginning the build
+
+Day one of the build came with great success. Only two major changes were needed: the Z axis -> top connector, and the Y axis leadscrew mounting on the bed. The custom parts are in the process in being printed and the wormscrews were just shipped. I may completly build it and wait for the wormscrews or 3D print some temporary wormscrews. Below is a picture of the current state of the build.
+
+![Build day 1](https://cdn.hackclub.com/019cf461-0217-7fa8-8e88-ff707ec3ec9f/IMG_8876.jpg)
