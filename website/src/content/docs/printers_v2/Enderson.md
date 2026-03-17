@@ -10,16 +10,34 @@ repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/
 - [✓] I have a 3D printer or will be getting one before March 21st  
 
  [Time lapse 1.0](https://hackclub.enterprise.slack.com/files/U0ADJ8KJK53/F0AKVMX5065/whatsapp_video_2026-03-09_at_3.12.27_pm.mp4) <br/>
- [Time lapse 2.0](https://hackclub.slack.com/archives/C08B7LF58TX/p1773322538954319?thread_ts=1773073754.786359&cid=C08B7LF58TX)
+ [Time lapse 2.0](https://hackclub.slack.com/archives/C08B7LF58TX/p1773322538954319?thread_ts=1773073754.786359&cid=C08B7LF58TX)   <br/>
 
-# Date/log - Friday, 17 March, 2026  Hr
+# Date/log - Friday, 17 March, 2026 1.2Hr
 ## Understanding the core XY system 
 ~ Source - https://www.youtube.com/watch?v=_ramiM3KHYE <br/>
-<img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://i.ytimg.com/vi/_ramiM3KHYE/maxresdefault.jpg" />
-~ Source - https://www.youtube.com/watch?v=NMfFirtB1D4
-<img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPvSZ777N-qrL990a2eXe2XZl7v_7SVLgMw&s" />
+<img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://i.ytimg.com/vi/_ramiM3KHYE/maxresdefault.jpg" /> <br/>
+~ Source - https://www.youtube.com/watch?v=NMfFirtB1D4 <br/>
+<img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPvSZ777N-qrL990a2eXe2XZl7v_7SVLgMw&s" /> <br/>
 
 
+## what I learn 
+how it works <br/>
+In a CoreXY system, two motors ( let Suppose A and B) work together to control movement of the TOOL head . <br/>
+
+| Motor A   | Motor B   | Toolhead Movement |
+|-----------|----------|-------------------|
+| Forward   | Forward  | +X (Right)        |
+| Backward  | Backward | -X (Left)         |
+| Forward   | Backward | +Y (Forward)      |
+| Backward  | Forward  | -Y (Backward)     |
+
+Main Point
+- Same direction → X movement  
+- Opposite direction → Y movement  
+
+Short Trick to understand 
+- A + B (same) = X axis  
+- A + B (opposite) = Y axis  
 
 
 ----------------------------
