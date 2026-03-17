@@ -15,9 +15,9 @@ repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/
 # Date/log - Friday, 17 March, 2026  Hr
 ## Understanding the core XY system 
 ~ Source - https://www.youtube.com/watch?v=_ramiM3KHYE <br/>
-~ Source - 
-
-
+<img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://i.ytimg.com/vi/_ramiM3KHYE/maxresdefault.jpg" />
+~ Source - https://www.youtube.com/watch?v=NMfFirtB1D4
+<img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPvSZ777N-qrL990a2eXe2XZl7v_7SVLgMw&s" />
 
 
 
