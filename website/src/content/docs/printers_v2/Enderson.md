@@ -15,16 +15,32 @@ repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/
 
 
 
-# Date/log - Friday, 13 March, 2026  0.3 Hr
-## Fix the Issues 1
-- fix the geomatry issue in the Final model that the V rail is Over lapping each other <br/>
-Refferance <br/>
-github error !!!!
+# Date/log - Friday, 17 March, 2026  0.7 Hr
+## Analyse the problem 
+After taking to Alot Of People. I found there Is Majoy Problem :
 
 
+## Motion System Missing (Fixed) [x]
+- No belt exist
+- No pulleys setup
+- Motors exist but don’t drive anything
+- No working CoreXY mechanism {JUST A CAD}
 
 
+## Z-Axis Weak Design VIA @1mon (Fixed) [x]
+- No guide rail and linear rod
+- it is very weak design
+- cause Bad print quality or non working printer
 
+
+## Tool head (Fixed) [x]
+- Incorrect fan position 
+- No cooling duct (Not maintain the air flow)
+- No space for Bltouch
+- Centre of mass not manage 
+
+
+## Structure issue and some geometrical issue (Fixed) [x]
 
 ---------------------
 ---------------------
