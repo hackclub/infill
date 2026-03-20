@@ -12,7 +12,25 @@ repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/
  [Time lapse 1.0](https://hackclub.enterprise.slack.com/files/U0ADJ8KJK53/F0AKVMX5065/whatsapp_video_2026-03-09_at_3.12.27_pm.mp4) <br/>
  [Time lapse 2.0](https://hackclub.slack.com/archives/C08B7LF58TX/p1773322538954319?thread_ts=1773073754.786359&cid=C08B7LF58TX)   <br/>
 
-# Date/log - Friday, 17 March, 2026 1.2Hr
+
+
+# Routing the Belt 
+## After understanding the whole Core XY system I jump over the Belt routing part
+<img width="881" height="474" alt="image" src="https://github.com/user-attachments/assets/48c319b3-c9fb-47df-948a-726932f7fdea" />  <br/>
+
+While building we have to consider Some Things in our mind
+- The belt should be Parallel
+- First thing is belt alignment, belt should be straight and parallel to the frame. If it is tilted then it can wear out fast and cause inaccurate movement.
+- Proper belt tension is very important. If belt is too loose then it cause skipping and inaccurate prints, and if too tight then it can damage the pulley or put extra load on motor.
+- Make sure both side belt length is equal, otherwise motion will not be balanced and it can create shifting issue.
+- Pulley alignment should be perfect. Motor pulley and idler pulley must be in same line, otherwise belt will rub and create friction.
+
+
+
+------
+------
+------
+# log - 1.2Hr
 ## Understanding the core XY system 
 ~ Source - https://www.youtube.com/watch?v=_ramiM3KHYE <br/>
 <img width="465" height="503" alt="Screenshot 2026-03-10 010805" src="https://i.ytimg.com/vi/_ramiM3KHYE/maxresdefault.jpg" /> <br/>
@@ -39,6 +57,8 @@ Short Trick to understand
 - A + B (same) = X axis  
 - A + B (opposite) = Y axis  
 
+So after
+
 
 ----------------------------
 ----------------------------
@@ -52,27 +72,27 @@ Short Trick to understand
 After taking to Alot Of People. I found there Is Majoy Problem :
 
 
-## Motion System Missing (Fixed) [x]
+## Motion System Missing (Fixed) [✓]
 - No belt exist
 - No pulleys setup
 - Motors exist but don’t drive anything
 - No working CoreXY mechanism {JUST A CAD}
 
 
-## Z-Axis Weak Design VIA @1mon (Fixed) [x]
+## Z-Axis Weak Design VIA @1mon (Fixed) [✓]
 - No guide rail and linear rod
 - it is very weak design
 - cause Bad print quality or non working printer
 
 
-## Tool head (Fixed) [x]
+## Tool head (Fixed) [✓]
 - Incorrect fan position 
 - No cooling duct (Not maintain the air flow)
 - No space for Bltouch
 - Centre of mass not manage 
 
 
-## Structure issue and some geometrical issue (Fixed) [x]
+## Structure issue and some geometrical issue (Fixed) [✓]
 
 ---------------------
 ---------------------
