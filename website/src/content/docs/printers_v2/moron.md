@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOU
 ---
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 2
+**Total hours so far**: 9
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -23,3 +23,27 @@ Lazy susans spin infinitely and are relatively cheap (https://www.aliexpress.com
 Here's my new mind map!
 
 ![New Mind Map](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-7/mind_map.excalidraw.svg)
+
+# 22/3-23/3
+
+## Z Axis
+
+**Approximate hours: 7**
+
+I created the Z axis, including the lazy susan system for the bed.
+
+![Z Axis](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-23/zaxis.png)
+
+### Bed
+
+For the bed, I'm planning to CNC a custom 120mm diameter polar bed design (inspired by the V0 120mm plate). I mocked up a basic 6mm three-screw (M3) bedplate in OnShape and created all the necessary adapters to place it on the Z axis. A slip ring mount point was also implemented into the bed adapter to stop wire tangling. I'm using a 4" lazy susan for this as any larger would introduce more issues when mounting (I noticed >4" lazy susans have glued feet as well, which sucks).
+
+![Cross-section of the Z axis](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-23/xsection.png)
+
+### Motion
+
+I'm using two motors for the Z axis to maintain stability, as I couldn't find a way to implement a cantilever polar bed since the weight requirements would be high.
+
+I have yet to set up the polar rotation system, will do that soon.
+
+That's pretty much it <3
