@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOU
 ---
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 11
+**Total hours so far**: 20
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -22,7 +22,7 @@ Lazy susans spin infinitely and are relatively cheap (https://www.aliexpress.com
 
 Here's my new mind map!
 
-![New Mind Map](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-7/mind_map.excalidraw.svg)
+![New Mind Map](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-07/mind_map.excalidraw.svg)
 
 # 22/3-23/3
 
@@ -53,3 +53,19 @@ That's pretty much it <3
 This took forever to set up. I realised that a belt path couldn't be made above the lazy susan, so I elongated the slip ring and added 2GT teeth to allow for rotation *under* the bed.
 
 ![Rotation](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-23/sliprotation.png)
+
+# 24/3-26/3
+
+## Gantry
+
+**Approximate hours: 9**
+
+I made the gantry! Yay! I ended up using MGN9 rails since linear rods would be annoying to tap, and they're relatively cheap when you get them off sketchy AliExpress stores.
+
+![Gantry and bed](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-26/gantryandbed.png)
+
+I ripped off the placement style of the idlers and motors from the Voron 0.2 since I barely had space, but all the modelling and calculations were done by me.
+
+**BEHOLD: THE CRAPPY EXCALIDRAW BELT PATH**
+
+![Belt path](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-26/beltpath.png)
