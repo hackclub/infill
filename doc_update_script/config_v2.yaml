@@ -54,3 +54,8 @@ Loopy Delta:
     description: "A delta 3d printer thats hopefully stupid fast, and uses string instead of rods to move the print head."
     repository: "https://raw.githubusercontent.com/CosmicengineerC/Delta-printer-that-hopefully-works/refs/heads/main/JOURNAL.md"
     file_name: Loopy-Delta.md
+Belty Boi:
+    title: "Belty Boi"
+    description: "A silly little belted printer similar to the CR30 but based on croxy for the gantry "
+    repository: "https://raw.githubusercontent.com/WilliamPrime/Infil-V2-printer/refs/heads/main/journal.md"
+    file_name: Belty-Boi.md
