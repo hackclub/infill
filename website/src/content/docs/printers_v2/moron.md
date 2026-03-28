@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOU
 ---
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 20
+**Total hours so far**: 28
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -69,3 +69,35 @@ I ripped off the placement style of the idlers and motors from the Voron 0.2 sin
 **BEHOLD: THE CRAPPY EXCALIDRAW BELT PATH**
 
 ![Belt path](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-26/beltpath.png)
+
+# 26/3-29/3
+
+## Frame
+
+**Approximate hours: 1**
+
+![Frame](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-29/frame.png)
+
+this was pretty boring lmao
+
+I haven't done the top hat yet (seen in V0s -- yeah I'm kind of making this really Vorony [Vorony, Voronic? Eh I dunno]), since that ties in with the bowden system and I want to work on that first.
+
+I had to redo the bottom smooth rod holders. I'm no longer using SK8A mounts on the bottom, in favour of a sturdy printed bracket I made. This was needed as the smooth rods were too short to mount to the bottom of the frame, meaning I would require more aluminium ($$$) to manufacture the printer. These holders also have the added benefit of securing the motors.
+
+![Z Holder](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-29/holder.png)
+
+## Toolhead
+
+![Toolhead](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-29/toolhead.png)
+
+**Approximate Hours: 7**
+
+i did itttttttt!
+
+This toolhead took forever to make, but it's so worth it! It's running a V1 ProtoXtruder with a TZ E6 2.0 hotend, all in a Dragonburner-style shape! I'm in love <3
+
+I ended up deciding to use two 3010 blowers for part cooling and a 3010 axial for the heatsink. I also tacked on a BiQu microprobe because an Eddy was too big lol
+
+![Toolhead Back](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-29/toolhead1.png)
+
+I'm using an MGN7H carriage for motion, and a simple belt clamp that's parallel to the extrusion.
