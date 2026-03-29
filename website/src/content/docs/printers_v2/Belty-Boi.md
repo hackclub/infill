@@ -334,3 +334,6 @@ Here are some renders of what its like now
 <img width="2561" height="1156" alt="first render of it" src="https://github.com/user-attachments/assets/0456429e-a582-4b1f-a7bb-ed116dba24dd" />
 
 
+# 29/03/2026
+
+23:40 started working on belt assembly again
