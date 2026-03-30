@@ -1,61 +1,66 @@
 # Printer list for infill version 2 (2026) - add your printers here!
 Briefcase Printer:
-    title: "Briefcase-printer"
-    description: "A bedslinger 3D printer disguised as a Briefcase"
-    repository: "https://raw.githubusercontent.com/civilizayden/Briefcase-printer/refs/heads/main/JOURNAL.md"
-    file_name: Briefcase-printer.md
+  title: "Briefcase-printer"
+  description: "A bedslinger 3D printer disguised as a Briefcase"
+  repository: "https://raw.githubusercontent.com/civilizayden/Briefcase-printer/refs/heads/main/JOURNAL.md"
+  file_name: Briefcase-printer.md
 Vector A1:
-    title: "Vector A1"
-    description: "Vector A1 is my attempt at building a Bambu Lab A1 killer.. It’s a high-speed dual-color 3D printer w/ a modular design I can keep upgrading."
-    repository: "https://raw.githubusercontent.com/shezanusdf/Vector-A1/refs/heads/main/JOURNAL.md"
-    file_name: vector_a1.md
+  title: "Vector A1"
+  description: "Vector A1 is my attempt at building a Bambu Lab A1 killer.. It’s a high-speed dual-color 3D printer w/ a modular design I can keep upgrading."
+  repository: "https://raw.githubusercontent.com/shezanusdf/Vector-A1/refs/heads/main/JOURNAL.md"
+  file_name: vector_a1.md
 Storm:
-    title: "Storm"
-    description: "My first 3D printer. Cheap, uses usb c, large, fast (180mm/s), easy to use, accurate, and cool looking (hopefully all of that!"
-    repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main/JOURNAL.md"
-    file_name: storm.md
-STUDPRINT: 
-    title: "Studprint"
-    description: "A 3D printer built using classic LEGO bricks."
-    repository: "https://raw.githubusercontent.com/AdamTuraj/Studprint/refs/heads/main/JOURNAL.md"
-    file_name: "studprint.md"
+  title: "Storm"
+  description: "My first 3D printer. Cheap, uses usb c, large, fast (180mm/s), easy to use, accurate, and cool looking (hopefully all of that!"
+  repository: "https://raw.githubusercontent.com/the-X-alien/Storm/refs/heads/main/JOURNAL.md"
+  file_name: storm.md
+STUDPRINT:
+  title: "Studprint"
+  description: "A 3D printer built using classic LEGO bricks."
+  repository: "https://raw.githubusercontent.com/AdamTuraj/Studprint/refs/heads/main/JOURNAL.md"
+  file_name: "studprint.md"
 Shift-7:
-    title: "Shift-7"
-    description: "A printer with an easily switchable toolhead and overall very easy to mod"
-    repository: "https://raw.githubusercontent.com/bobis1/Shift-7/refs/heads/main/Journal.md"
-    file_name: shift-7.md
+  title: "Shift-7"
+  description: "A printer with an easily switchable toolhead and overall very easy to mod"
+  repository: "https://raw.githubusercontent.com/bobis1/Shift-7/refs/heads/main/Journal.md"
+  file_name: shift-7.md
 Stratum:
-    title: "Stratum"
-    description: "A simple 3D Printer which works(hopefully)"
-    repository: "https://raw.githubusercontent.com/arungeorgesaji/stratum/refs/heads/main/JOURNAL.md"
-    file_name: stratum.md
+  title: "Stratum"
+  description: "A simple 3D Printer which works(hopefully)"
+  repository: "https://raw.githubusercontent.com/arungeorgesaji/stratum/refs/heads/main/JOURNAL.md"
+  file_name: stratum.md
 TIM:
-    title: "TIM"
-    description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
-    repository: "https://raw.githubusercontent.com/2Mon/tim/refs/heads/main/JOURNAL.md"
-    file_name: TIM.md
+  title: "TIM"
+  description: "60mm^3 CoreXZYZ 3d printer made to fit in a carry-on"
+  repository: "https://raw.githubusercontent.com/2Mon/tim/refs/heads/main/JOURNAL.md"
+  file_name: TIM.md
 Ultiprint:
-    title: "Ultiprint"
-    description: "CoreXY 3d printer with 3 point ABL and an enclosure"
-    repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
-    file_name: Ultiprint.md
+  title: "Ultiprint"
+  description: "CoreXY 3d printer with 3 point ABL and an enclosure"
+  repository: "https://raw.githubusercontent.com/Icyconfusion/Ultiprint/refs/heads/main/journal.md"
+  file_name: Ultiprint.md
 moron:
-    title: "moron"
-    description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
-    repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
-    file_name: moron.md
+  title: "moron"
+  description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
+  repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
+  file_name: moron.md
 Enderson:
-    title: "Enderson"
-    description: "A 240x240x240 Fast Core XY 3D Printer Build from Scratch with feature like Autobed leveling ,Filament run out & etc"
-    repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/refs/heads/main/JOURNAL.md"
-    file_name: Enderson.md
+  title: "Enderson"
+  description: "A 240x240x240 Fast Core XY 3D Printer Build from Scratch with feature like Autobed leveling ,Filament run out & etc"
+  repository: "https://raw.githubusercontent.com/smartlearningorbit-arch/Enderson/refs/heads/main/JOURNAL.md"
+  file_name: Enderson.md
 Loopy Delta:
-    title: "Loopy Delta"
-    description: "A delta 3d printer thats hopefully stupid fast, and uses string instead of rods to move the print head."
-    repository: "https://raw.githubusercontent.com/CosmicengineerC/Delta-printer-that-hopefully-works/refs/heads/main/JOURNAL.md"
-    file_name: Loopy-Delta.md
+  title: "Loopy Delta"
+  description: "A delta 3d printer thats hopefully stupid fast, and uses string instead of rods to move the print head."
+  repository: "https://raw.githubusercontent.com/CosmicengineerC/Delta-printer-that-hopefully-works/refs/heads/main/JOURNAL.md"
+  file_name: Loopy-Delta.md
 Belty Boi:
-    title: "Belty Boi"
-    description: "A silly little belted printer similar to the CR30 but based on croxy for the gantry "
-    repository: "https://raw.githubusercontent.com/WilliamPrime/Infil-V2-printer/refs/heads/main/journal.md"
-    file_name: Belty-Boi.md
+  title: "Belty Boi"
+  description: "A silly little belted printer similar to the CR30 but based on croxy for the gantry "
+  repository: "https://raw.githubusercontent.com/WilliamPrime/Infil-V2-printer/refs/heads/main/journal.md"
+  file_name: Belty-Boi.md
+DAVID:
+  title: "David"
+  description: "A colinear tripteron delta 3d printer, inspired by Apsu's design."
+  repository: "https://raw.githubusercontent.com/lordbagel42/DAVID/refs/heads/main/JOURNAL.md"
+  file_name: DAVID.md
