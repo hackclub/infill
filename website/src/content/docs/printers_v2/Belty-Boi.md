@@ -337,3 +337,12 @@ Here are some renders of what its like now
 # 29/03/2026
 
 23:40 started working on belt assembly again
+
+<img width="1637" height="778" alt="image" src="https://github.com/user-attachments/assets/2a0a5217-c221-4572-b982-5563e5388da6" />
+<img width="1631" height="725" alt="image" src="https://github.com/user-attachments/assets/fb24d717-68c3-41de-858d-e40d37987cfe" />
+<img width="1467" height="768" alt="image" src="https://github.com/user-attachments/assets/5f99c5b5-de4b-4f87-800e-6925aa4af4e7" />
+<img width="1731" height="883" alt="image" src="https://github.com/user-attachments/assets/691a91bc-2c4c-4875-b910-b48dbe857b74" />
+<img width="1751" height="953" alt="image" src="https://github.com/user-attachments/assets/9a4f4e72-f51a-411f-ba0e-cc82ad8afd3f" />
+<img width="736" height="957" alt="image" src="https://github.com/user-attachments/assets/579115b7-b317-4be4-86a0-2dc7115f2cfd" />
+<img width="1635" height="788" alt="image" src="https://github.com/user-attachments/assets/ed5aad72-2ee8-429a-ba7c-b8ffaab3453a" />
+
