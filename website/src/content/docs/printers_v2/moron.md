@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOU
 ---
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 36
+**Total hours so far**: 42.5
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -104,7 +104,7 @@ I'm using an MGN7H carriage for motion, and a simple belt clamp that's parallel 
 
 # 29/3
 
-## Exterior & Electronics (Part 1)
+## Exterior & Electronics
 
 **Approximate Hours: 8**
 
@@ -139,3 +139,37 @@ Additionally, I have added a bowden intake on the foot holding the IEC inlet, to
 
 ![Exterior Front](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-29/exterior1.png)
 ![Exterior Back](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-29/exterior2.png)
+
+# 30/03
+
+## Top Hat and Exterior
+
+**Approximate Hours: 6**
+
+![Front Photo (Final)](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-30/final.png)
+
+I designed an extremely basic top hat to contain the filament Bowden tube. It's nothing special. It's connected via a basic clip that secures it with two M3 fasteners.
+
+![Top Hat](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-30/topHat.png)
+
+I also created a hinge system for the front panel, using 10x2mm magnets for the handle and basic screw-based hinges.
+
+![Front Panel](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-30/frontPanel.png)
+
+## Small Fixes
+
+**Approximate Hours: 0.5**
+
+### Slip Ring Reinforcement
+
+I ended up reinforcing the rotor of the slip ring with a basic bracket, which should hold considering I won't be spinning this bed that fast.
+
+![Slip Ring Reinforcement](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-30/slipRingReinforcement.png)
+
+### USB-C Outlet
+
+In the previous log, I forgot to mention that I would need a USB-C outlet. As I don't have an SBC at the moment, I've decided to use an old laptop or server instead. In that case, I would need a data port running to the exterior of the printer.
+
+Here it is! I found a simple mount online and worked on the profiles. It should hold up well for now, at least.
+
+![USB-C Outlet Mount](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-30/cProfile.png)
