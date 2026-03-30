@@ -4,6 +4,12 @@ description: "A colinear tripteron delta 3d printer, inspired by Apsu's design."
 project_name: "DAVID"
 repository: "https://raw.githubusercontent.com/lordbagel42/DAVID/refs/heads/main/JOURNAL.md"
 ---
+Made by: @Raygen Rupe // lordbagel42
+Repository link: https://github.com/lordbagel42/david
+Total hours so far: 50
+
+- [x] I have a 3D printer or will be getting one before March 21st
+
 # DAVID
 
 DAVID:
