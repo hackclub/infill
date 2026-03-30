@@ -334,9 +334,9 @@ Here are some renders of what its like now
 <img width="2561" height="1156" alt="first render of it" src="https://github.com/user-attachments/assets/0456429e-a582-4b1f-a7bb-ed116dba24dd" />
 
 
-# 29/03/2026
+# 29/03/2026 working on the bed/belt assembly, 3 hours
 
-23:40 started working on belt assembly again
+started working on belt assembly again
 
 <img width="1637" height="778" alt="image" src="https://github.com/user-attachments/assets/2a0a5217-c221-4572-b982-5563e5388da6" />
 <img width="1631" height="725" alt="image" src="https://github.com/user-attachments/assets/fb24d717-68c3-41de-858d-e40d37987cfe" />
@@ -345,4 +345,28 @@ Here are some renders of what its like now
 <img width="1751" height="953" alt="image" src="https://github.com/user-attachments/assets/9a4f4e72-f51a-411f-ba0e-cc82ad8afd3f" />
 <img width="736" height="957" alt="image" src="https://github.com/user-attachments/assets/579115b7-b317-4be4-86a0-2dc7115f2cfd" />
 <img width="1635" height="788" alt="image" src="https://github.com/user-attachments/assets/ed5aad72-2ee8-429a-ba7c-b8ffaab3453a" />
+<img width="1568" height="819" alt="image" src="https://github.com/user-attachments/assets/1388ae53-f059-4418-bc4d-26bdd4560001" />
+
+<img width="941" height="906" alt="image" src="https://github.com/user-attachments/assets/cad6b023-e86c-42f4-a5c7-bb2463705350" />
+using those mesurements i can find the perimeter to be
+
+93+93+ (( (360-153)/360) x 57 x pi) + ((153/360) x 12.8 x pi)
+
+which evaluates to be 306mm
+so my minimum belt length is 306mm , and therefore my max should be arround 318mm
+
+
+
+
+back to the rollers
+i could have left them as plain cylinders, however that feels rather boring
+
+<img width="1218" height="721" alt="image" src="https://github.com/user-attachments/assets/b9400508-5d62-4ac7-8e0f-421cebdcc334" />
+
+for the sillies i also decided that the spoke count, width and radii for the chamfers should be parametric
+
+<img width="849" height="153" alt="image" src="https://github.com/user-attachments/assets/b68b6458-730a-4bd3-944a-ae4734edaaf9" />
+
+so putting all of that together we get this
+<img width="2561" height="1156" alt="bed assebmyl current state" src="https://github.com/user-attachments/assets/6211fca1-9fe9-4a8a-8a7a-a94e2780dc62" />
 
