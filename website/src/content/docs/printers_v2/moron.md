@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOU
 ---
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 42.5
+**Total hours so far**: 48.5
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -133,7 +133,9 @@ I also set up an IEC connector on a skirt that I'll use to connect mains.
 
 ### Exterior
 
-I ended up making primitive corner clips to hold the side acrylic sheets in. I also determined the sizes for the ACM sheets for the interior of the printer. I have yet to make the top hat or the front hinge. I think I'll go with a screw-in top hat since a hinge seems difficult to make and work with. I haven't set up a model for the bottom sheet (above the PSU), as I may print that instead -- due to the complicated shape.
+I ended up making primitive corner clips to hold the side acrylic sheets in. I also determined the sizes for the ~~ACM~~ flute sheets for the interior of the printer. I have yet to make the top hat or the front hinge. I think I'll go with a screw-in top hat since a hinge seems difficult to make and work with. I haven't set up a model for the bottom sheet (above the PSU), as I may print that instead -- due to the complicated shape.
+
+*Note from the future (31/3/26): I have swapped to using flute board from ACM! ACM's just so expensive!*
 
 Additionally, I have added a bowden intake on the foot holding the IEC inlet, to allow for easy filament feeding.
 
@@ -173,3 +175,28 @@ In the previous log, I forgot to mention that I would need a USB-C outlet. As I 
 Here it is! I found a simple mount online and worked on the profiles. It should hold up well for now, at least.
 
 ![USB-C Outlet Mount](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-30/cProfile.png)
+
+# 31/03
+
+## BOM
+
+**Approximate Hours: 5**
+
+hewwo!
+
+The BOM is pretty much complete! I had to substitute a LOT of items (such as the CNC bed) since everything's soooo expensive :(. I arrived at an out-of-pocket value of about $40 excluding filament, which is about $59 AUD. Not bad! Check it out [here](BOM.csv).
+
+## Cut Files & Flex Heater
+
+**Approximate Hours: 1**
+
+I made all the cut files for the acrylic and flute board! They're published in the `cad/cuts/` folder in the repo.
+
+![Acrylic Cuts](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-31/acrylic.png)
+![Flute Cuts](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-31/flute.png)
+
+I also made the flex heater drawing! I'll send it to JLC and they should be able to engineer traces out of it:
+
+![Flex Heater](https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/media/logs/26-3-31/heater.png)
+
+# We're done folks! Check the [building journal](JOURNAL_BUILDING.md) for the rest of the journaling!
