@@ -436,6 +436,18 @@ Putting everything together gets us to here
 weirdly though more stuff has become misaligned, and i cant work out which constraint has messed it up which is annoying
 <img width="1392" height="679" alt="image" src="https://github.com/user-attachments/assets/73e7aa8d-1edf-4850-9b70-390f2e20826d" />
 
+turned out fixing those screw alignment issues went a LOT deeper than i thought
+so im going to remove the hotbed assembly and try and do it again, hopefully a good chunk better
+<img width="1791" height="767" alt="image" src="https://github.com/user-attachments/assets/828c85a0-3ae3-40ea-99a2-68614a1a8b10" />
+
+my strategy for restarting is export the thing that worked, and dont have much that can go wrong, then build from those
+
+i thought the bed would be an easy thing to nab from the previous version but it turns out it had a ton of unessesary positionings that caused it to cause issues
+<img width="2527" height="237" alt="image" src="https://github.com/user-attachments/assets/0eaddbad-3e12-4ea9-8b19-0b422d337b9e" />
+
+ive fixed those issues now making it actually usable.
+It doesnt look very different but it is different in the fact it doesnt break everything if you import it into another project.
+<img width="1784" height="1420" alt="image" src="https://github.com/user-attachments/assets/e391bd05-47ce-4fed-9b80-711ff3ec860d" />
 
 
 
