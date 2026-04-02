@@ -370,3 +370,23 @@ for the sillies i also decided that the spoke count, width and radii for the cha
 so putting all of that together we get this
 <img width="2561" height="1156" alt="bed assebmyl current state" src="https://github.com/user-attachments/assets/6211fca1-9fe9-4a8a-8a7a-a94e2780dc62" />
 
+# 2/03/2026 belt time
+
+Im aiming to design some sort of mechanism between the two flats that push against each other to acomplish bed tensioning
+<img width="1596" height="852" alt="image" src="https://github.com/user-attachments/assets/0294c213-d4ed-44b9-b5be-bc865beec27e" />
+
+more refinement
+<img width="1738" height="991" alt="image" src="https://github.com/user-attachments/assets/bea6fb44-3143-48be-a3b4-1b1e80c31947" />
+
+ive treally tried to keep these parts printable so far
+<img width="1564" height="842" alt="image" src="https://github.com/user-attachments/assets/c5a067d1-08c0-415f-8ee6-5588f767541c" />
+<img width="1832" height="653" alt="image" src="https://github.com/user-attachments/assets/63b2f756-7449-47d7-a3c7-167c2a100f34" />
+
+im a bit scared of the shafts wiggling out of the bearings
+<img width="884" height="878" alt="image" src="https://github.com/user-attachments/assets/0d661260-3478-43e4-98b5-1f92985caa41" />
+
+this with a screw could be a solution, especially since it would add a splash of colour
+<img width="1306" height="920" alt="image" src="https://github.com/user-attachments/assets/a2402d7b-eeab-4c87-b6ad-18304403e19d" />
+<img width="2561" height="1156" alt="lil render whatever" src="https://github.com/user-attachments/assets/c63aa176-72a4-4def-a097-34b87937886e" />
+
+
