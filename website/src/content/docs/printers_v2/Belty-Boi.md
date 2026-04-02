@@ -390,3 +390,31 @@ this with a screw could be a solution, especially since it would add a splash of
 <img width="2561" height="1156" alt="lil render whatever" src="https://github.com/user-attachments/assets/c63aa176-72a4-4def-a097-34b87937886e" />
 
 
+i added some little inxdexing indents to help align the blue parts
+<img width="606" height="911" alt="image" src="https://github.com/user-attachments/assets/2a8eb3dc-1bce-4177-9263-5b281b05a26e" />
+
+
+i love how it looks, however adjusting the bed screws, or the motor belt tension looks like a rather large pain
+<img width="2278" height="1228" alt="image" src="https://github.com/user-attachments/assets/ddde236a-cfcb-42c1-880a-0a9827a7752d" />
+
+I might just have to accept that
+
+my plan for tensioning is to have two blocks, the screw really tighly into the frame, and then push against two of the belt mounts to slide them.
+
+<img width="1173" height="856" alt="image" src="https://github.com/user-attachments/assets/4e5a6f62-5010-4a11-8174-1f92cca4829e" />
+<img width="928" height="837" alt="image" src="https://github.com/user-attachments/assets/307c5e7d-4a7a-4543-9e2c-d44f08b1da5a" />
+<img width="1420" height="1049" alt="image" src="https://github.com/user-attachments/assets/2b8eaa59-a134-4952-a996-1b90ae4ed66c" />
+<img width="1341" height="1007" alt="image" src="https://github.com/user-attachments/assets/1646359c-16fa-41fc-ab61-f51d9a1e3d51" />
+<img width="934" height="968" alt="image" src="https://github.com/user-attachments/assets/6ec497e9-c69a-460c-8d8a-a96df3252f31" />
+
+its not the most elegant, or elegant at all, however it should be functional
+
+<img width="641" height="655" alt="image" src="https://github.com/user-attachments/assets/d0c4d11a-e712-4146-aeab-93d8f05efede" />
+
+luckily the tensioner should be able to be removed after youve finished tensioning
+
+i think this has just proved that there is very little space to mount the bed with this method of tensioning
+<img width="1255" height="927" alt="image" src="https://github.com/user-attachments/assets/3d224e15-d219-4c4b-8e47-d258d0f23dd9" />
+<img width="1075" height="914" alt="image" src="https://github.com/user-attachments/assets/03c2e424-c89a-4fdb-a709-c822633c4783" />
+<img width="1117" height="659" alt="image" src="https://github.com/user-attachments/assets/bc191335-2c72-4884-b055-51a3ebce8ef3" />
+
