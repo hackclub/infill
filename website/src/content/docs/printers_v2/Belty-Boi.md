@@ -416,5 +416,12 @@ luckily the tensioner should be able to be removed after youve finished tensioni
 i think this has just proved that there is very little space to mount the bed with this method of tensioning
 <img width="1255" height="927" alt="image" src="https://github.com/user-attachments/assets/3d224e15-d219-4c4b-8e47-d258d0f23dd9" />
 <img width="1075" height="914" alt="image" src="https://github.com/user-attachments/assets/03c2e424-c89a-4fdb-a709-c822633c4783" />
+
+I think a tensiong method that pulls the belts tight instead of pushing them should be better for the printer
 <img width="1117" height="659" alt="image" src="https://github.com/user-attachments/assets/bc191335-2c72-4884-b055-51a3ebce8ef3" />
+
+I think this is good now, its bigger and less compact than the previous tensioning design, however it grants me more room to try and configure the bed mounting and other things.
+<img width="1623" height="809" alt="image" src="https://github.com/user-attachments/assets/1c1bb301-225f-4a9e-83e0-f2d1ed26c3d2" />
+
+
 
