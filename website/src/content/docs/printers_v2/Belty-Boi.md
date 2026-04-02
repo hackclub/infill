@@ -450,4 +450,16 @@ It doesnt look very different but it is different in the fact it doesnt break ev
 <img width="1784" height="1420" alt="image" src="https://github.com/user-attachments/assets/e391bd05-47ce-4fed-9b80-711ff3ec860d" />
 
 
+"It doesnt look very different but it is different in the fact it doesnt break everything if you import it into another project."
+It still breaks everything somehow.
+Im not sure why fusion is remembering stuff about it, so im going to export it as a step and them import it to hopefully remove this sillyness.
+
+Just exporting and reimporting the bed did not fix it, I believe its the belt thats causing issues for some reason.
+fusion throws errors like this when i try and export the belt which definetly means ive done something weirdly with constraints.
+<img width="753" height="254" alt="image" src="https://github.com/user-attachments/assets/56c04f58-8463-489a-80d7-5c9871c232db" />
+
+I believe the best course of action now is to export it as a STEP file, and then import it again, and reconstruct the rigid groups and constraints only where needed in a smarter way.
+
+
+
 
