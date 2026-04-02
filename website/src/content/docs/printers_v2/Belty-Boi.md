@@ -370,7 +370,7 @@ for the sillies i also decided that the spoke count, width and radii for the cha
 so putting all of that together we get this
 <img width="2561" height="1156" alt="bed assebmyl current state" src="https://github.com/user-attachments/assets/6211fca1-9fe9-4a8a-8a7a-a94e2780dc62" />
 
-# 2/03/2026 belt time
+# 2/03/2026 belt time 8 hours
 
 Im aiming to design some sort of mechanism between the two flats that push against each other to acomplish bed tensioning
 <img width="1596" height="852" alt="image" src="https://github.com/user-attachments/assets/0294c213-d4ed-44b9-b5be-bc865beec27e" />
@@ -422,6 +422,20 @@ I think a tensiong method that pulls the belts tight instead of pushing them sho
 
 I think this is good now, its bigger and less compact than the previous tensioning design, however it grants me more room to try and configure the bed mounting and other things.
 <img width="1623" height="809" alt="image" src="https://github.com/user-attachments/assets/1c1bb301-225f-4a9e-83e0-f2d1ed26c3d2" />
+
+extending out to the other side gets us here, ive decided to leave an 8mm gap between the tensioner and the bottom peice, i think this is enough room to tension the bed belt
+<img width="1334" height="793" alt="image" src="https://github.com/user-attachments/assets/97ac1425-ef6c-4074-8c36-2674862cc71b" />
+
+<img width="1628" height="765" alt="image" src="https://github.com/user-attachments/assets/a440087d-c52a-4c8e-9ad6-4d1c927c02b6" />
+
+Putting everything together gets us to here
+<img width="1582" height="799" alt="image" src="https://github.com/user-attachments/assets/43e58712-41b1-427b-9dbe-d9061e672c28" />
+
+
+
+weirdly though more stuff has become misaligned, and i cant work out which constraint has messed it up which is annoying
+<img width="1392" height="679" alt="image" src="https://github.com/user-attachments/assets/73e7aa8d-1edf-4850-9b70-390f2e20826d" />
+
 
 
 
