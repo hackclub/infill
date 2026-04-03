@@ -607,7 +607,17 @@ also made a few changes such as this ridge now attaches with bolts to enable a f
 
 
 
+## Electronics Bay 
 
+My idea is to get all of the electronics on one 3d printed plate and then go about attaching that somewhere.
+
+Like this
+<img width="692" height="967" alt="image" src="https://github.com/user-attachments/assets/61aeb7bc-d3d5-4d67-afc7-9789cb62c93b" />
+
+Given this printer will have 48v i really need to take saftey seriously, its a printer that will be at a 3d printing convention, i need to make sure its safe.
+
+My plan to do that is to have all of the mains in a seperate chamber, and then run the 24v and 48v into another chamber above it
+<img width="1279" height="638" alt="image" src="https://github.com/user-attachments/assets/2033b6c1-8c3c-43cf-8461-3e5e727a2132" />
 
 
 
