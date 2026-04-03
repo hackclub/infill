@@ -555,17 +555,51 @@ fusion has suddenly decided to be REALLY stupid
 I think the best option now is to just export as a .step and import, and make it one big rigid body to prevet things moving.
 not the way i wanted to do it, but ive allready validated the build volume will be good in a different file.
 
-On the upside i started on a klipper config while it tried to compute
+On the upside i started on a klipper config while it tried to compute.
+
+
+ive managed to get fusion to behave
+
+currently im just trying to get an extra aluminium extrusion into the design so improve the rigidity of the printer
+<img width="1149" height="937" alt="image" src="https://github.com/user-attachments/assets/bdfebcba-4670-447f-9093-6a78b7daa5a2" />
+
+i did spot something questionable about my design, which is that the hotend in theory can print wayyy out away from under the bed, which i imagine probably would be great, however i do have a voron 0, so if i take the build plate from that and run two beds to extend it, it could work perfectly fine, that would also be pretty easy since the bed will just attach to the aluminium extrusion.
+<img width="575" height="470" alt="image" src="https://github.com/user-attachments/assets/006b996c-e124-4521-8ad1-8e13afff2ee8" />
+
+i did a chunk of BOM optimising, given the short time frame, JLC MC seems like a REALLY good choice for the linear rails, and because that means im allready getting stuff from there buying bearings and extrusions from there also saves a bunch of money, even if the shipping is expensive.
+
+
+
+
+back to working on the frame
+
+my strategy for joining everything together has been trying and get the holes in place with everything being 1 body, so its easier to reference features, and then use the split body tool to split things off after im done.
+<img width="1250" height="834" alt="image" src="https://github.com/user-attachments/assets/5277197c-c809-444f-8e4a-e50505c65c3a" />
+<img width="1211" height="671" alt="image" src="https://github.com/user-attachments/assets/7e57fb13-aa32-4c5e-b66c-35f8ad715002" />
+
+some work later and those extrusions are in which should make the printer a lot more rigid
+<img width="2561" height="1156" alt="comming together" src="https://github.com/user-attachments/assets/90ce6dcf-2a8b-43db-8297-a2615609cf95" />
+
+Its really taking shape now
+
+The last functional thing to design is the bed mounting, but thats mostly done at this point, there is just a little bit left mounting the bed holder to the frame.
+Then its just the electronics enclosure and cleaning up this repo and gettting it shippable.
+
+<img width="2561" height="1156" alt="just one more" src="https://github.com/user-attachments/assets/9c47f936-513b-495c-97ee-a40dd66a2c94" />
+
+
+## onto the bed mounting
 
 
 
 
 
 
-left to do
-- [ ] put bed and gantry together
+
+# left to do
+- [x] put bed and gantry together
 - [ ] electronics bay
-- [ ] check build volume
+- [x] check build volume
 - [ ] final count of screws so i can finish bom
 - [ ] source motors
 - [ ] renders for readme
