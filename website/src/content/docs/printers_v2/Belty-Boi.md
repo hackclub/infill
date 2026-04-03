@@ -488,3 +488,27 @@ after:
 
 A subtle difference that should save a headache down the road
 
+at some point when making a 3d printer with belts, i allways seem to run into something that requires solving a maths problem
+<img width="823" height="975" alt="image" src="https://github.com/user-attachments/assets/a9aab306-11ad-4b87-8c53-63f275c0c5de" />
+
+like the above one, in that problem the perimeter of the shape is given, and you need to find the length of the tangent.
+
+that was a surprising chunk of maths to go through 
+
+i got it in this form
+where p is the perimeter of the shape, the length of the belt, and then x is the length of the tangent
+<img width="869" height="118" alt="image" src="https://github.com/user-attachments/assets/b7720858-09d7-43bf-8f24-7f1bf047b83e" />
+
+for l=308 it solves to ~63.32
+
+now that i know the belt loop size and i can make it in CAD i can place in the motor.
+my random picking of the bed orientiation seems to not be the best as one of the bed screws is going to interfere.
+<img width="1683" height="792" alt="image" src="https://github.com/user-attachments/assets/3e54225f-e903-4e5e-a797-2a0b85df6d89" />
+
+rotated it 180deg, fixed!
+<img width="1721" height="726" alt="image" src="https://github.com/user-attachments/assets/9fb1af14-f9c7-4b70-9fef-cf9099769cb7" />
+
+
+
+
+
