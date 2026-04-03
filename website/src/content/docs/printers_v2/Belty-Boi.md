@@ -370,7 +370,7 @@ for the sillies i also decided that the spoke count, width and radii for the cha
 so putting all of that together we get this
 <img width="2561" height="1156" alt="bed assebmyl current state" src="https://github.com/user-attachments/assets/6211fca1-9fe9-4a8a-8a7a-a94e2780dc62" />
 
-# 2/03/2026 belt time 8 hours
+# 3/03/2026 belt time 8 hours
 
 Im aiming to design some sort of mechanism between the two flats that push against each other to acomplish bed tensioning
 <img width="1596" height="852" alt="image" src="https://github.com/user-attachments/assets/0294c213-d4ed-44b9-b5be-bc865beec27e" />
@@ -435,6 +435,8 @@ Putting everything together gets us to here
 
 weirdly though more stuff has become misaligned, and i cant work out which constraint has messed it up which is annoying
 <img width="1392" height="679" alt="image" src="https://github.com/user-attachments/assets/73e7aa8d-1edf-4850-9b70-390f2e20826d" />
+
+# 03/04/2026 continuing to try make things work , 4 hours
 
 turned out fixing those screw alignment issues went a LOT deeper than i thought
 so im going to remove the hotbed assembly and try and do it again, hopefully a good chunk better
