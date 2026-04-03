@@ -599,6 +599,12 @@ Before:
 After:
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/234c3148-1dcd-4b82-8ddd-099480f4921c" />
 
+I had to be very careful with how i positioned the mounts as to not obstruct the tensioning for the belt for the bed motor
+<img width="789" height="720" alt="image" src="https://github.com/user-attachments/assets/70e2f40c-02cc-4908-a931-d428cce4f368" />
+
+also made a few changes such as this ridge now attaches with bolts to enable a far better print orientation.
+<img width="659" height="418" alt="image" src="https://github.com/user-attachments/assets/708e366b-5877-4c75-8bc3-fb23022306d6" />
+
 
 
 
