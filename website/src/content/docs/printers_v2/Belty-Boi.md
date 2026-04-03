@@ -619,7 +619,12 @@ Given this printer will have 48v i really need to take saftey seriously, its a p
 My plan to do that is to have all of the mains in a seperate chamber, and then run the 24v and 48v into another chamber above it
 <img width="1279" height="638" alt="image" src="https://github.com/user-attachments/assets/2033b6c1-8c3c-43cf-8461-3e5e727a2132" />
 
+Ive also added PSU brackets beacuse those are probably a useful thing to have, it gets a bit tricky without them.
+<img width="1297" height="735" alt="image" src="https://github.com/user-attachments/assets/127ff7f6-702b-485e-9499-5f40e97847b8" />
 
+
+<img width="907" height="617" alt="image" src="https://github.com/user-attachments/assets/64a2e30a-3cc8-4d3e-a78a-a15941444eb8" />
+my strategy at first was make a big box , however i might need to fly with it, so now its a big box that can flatpack down, which sort of made me restart in how i designed it, but its fine.
 
 # left to do
 - [x] put bed and gantry together
