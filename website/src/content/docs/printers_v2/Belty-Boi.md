@@ -460,6 +460,31 @@ fusion throws errors like this when i try and export the belt which definetly me
 
 I believe the best course of action now is to export it as a STEP file, and then import it again, and reconstruct the rigid groups and constraints only where needed in a smarter way.
 
+interesting how after importing it the only part that wasnt preserved was the belt. I think that reinforces my hypothesis that it was that belt causing the issues
+
+20-30min later and ive rebuilt all of the assemblies without any issues
+<img width="1440" height="890" alt="image" src="https://github.com/user-attachments/assets/00928c4d-16df-4399-8011-1ba7c24d6b60" />
 
 
+
+
+<img width="1941" height="875" alt="image" src="https://github.com/user-attachments/assets/8ab15076-515c-429a-9ba0-c1171d6fe331" />
+
+I just realised ive made an  "interesting" choice, the drum that moves is the ones thats drive by the motor, so by moving that drum it adjusts the bed belt tension, but also the bed motor belt tension.
+
+This just means that when tensioning the belt you need to remove the tension from the motor, and add it back after.
+This could be improved by moving the tensioning mechanism to the other side.
+For now i will stick to this design, however i plan on changing that in the future
+
+I found a solution to the above issue.
+The two bed rollers are the same in every single way, nothing stops me from swapping them, so its a very quick fix which i will do now
+
+before:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8ab15076-515c-429a-9ba0-c1171d6fe331" />
+
+after:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ea72a3cb-966c-44f2-b015-2d8068721789" />
+
+
+A subtle difference that should save a headache down the road
 
