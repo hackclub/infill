@@ -544,6 +544,22 @@ something top heavy.
 the width of the bottom part is 170mm
 the width of the top part/gantry is 264mm
 
+While attaching the gantry to the bed, i needed to add heat sets and holes into parts in the gantry, which meant i had to unlink the gantry.
+It took fusion 2minutes and 24 seconds to break the link which is, a while.
+Fusion manages to keep me on the edge of my chair
+
+
+fusion has suddenly decided to be REALLY stupid 
+<img width="524" height="234" alt="image" src="https://github.com/user-attachments/assets/bd714dfc-a9d6-45c9-8eef-6250c0965780" />
+
+I think the best option now is to just export as a .step and import, and make it one big rigid body to prevet things moving.
+not the way i wanted to do it, but ive allready validated the build volume will be good in a different file.
+
+On the upside i started on a klipper config while it tried to compute
+
+
+
+
 
 
 left to do
