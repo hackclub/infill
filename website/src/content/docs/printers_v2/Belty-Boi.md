@@ -510,7 +510,48 @@ my random picking of the bed orientiation seems to not be the best as one of the
 rotated it 180deg, fixed!
 <img width="1721" height="726" alt="image" src="https://github.com/user-attachments/assets/9fb1af14-f9c7-4b70-9fef-cf9099769cb7" />
 
+im working on getting something to hold the motor in place for the bed belt, i do need to make it look a bit better though
+<img width="1333" height="962" alt="image" src="https://github.com/user-attachments/assets/854ecdf5-9f63-4603-8527-28f3f37d48c5" />
+
+a small fillet goes a long way in making things look better
+<img width="1389" height="911" alt="image" src="https://github.com/user-attachments/assets/9c7945eb-28ab-4a1d-9b47-c995f9763746" />
+
+so does some colour
+<img width="1340" height="842" alt="image" src="https://github.com/user-attachments/assets/8c3d1c9c-7f5d-460d-827d-77f51ba9650c" />
+
+here is a render of how the bed assembly is comming along
+<img width="2561" height="1056" alt="new new belt assembly v5" src="https://github.com/user-attachments/assets/4c417bd1-e902-4483-8fe4-16aa9a77130e" />
+
+
+## ive decided i want to see a bit of progress, so im putting together the gantry 
+wow waiting for fusion to compute stuff is terrifying, im so scared it will crash.
+After adjusting those ofsets fusion took 58 seconds to compute all of that, which is scaryily long for it to be unresponsive.
+
+Ive also adjusted the positioning of the linear rails since there was some additional build that i could get by simply better positioning the rails
+
+<img width="1109" height="887" alt="image" src="https://github.com/user-attachments/assets/a48c7bed-1837-41eb-bfb8-2c1e15a87f01" />
+
+and a little bit more optimising later and the frame is 6mm smaller
+<img width="845" height="878" alt="image" src="https://github.com/user-attachments/assets/f7cc58a1-7c86-4843-b2d5-88d2b054c7cb" />
+
+component count is also starting to go up now its all in one file
+<img width="845" height="147" alt="image" src="https://github.com/user-attachments/assets/a7372d94-0bd4-4034-91ef-5598fc9f0be4" />
+
+wow it looks, like -- something,
+something top heavy.
+<img width="1961" height="1156" alt="oh no" src="https://github.com/user-attachments/assets/7aad1980-87bc-4225-a0c4-86878f45ddf5" />
+
+the width of the bottom part is 170mm
+the width of the top part/gantry is 264mm
 
 
 
-
+left to do
+- [ ] put bed and gantry together
+- [ ] electronics bay
+- [ ] check build volume
+- [ ] final count of screws so i can finish bom
+- [ ] source motors
+- [ ] renders for readme
+- [ ] generate clean readme
+- [ ] create STLs/3MFs for the parts
