@@ -590,6 +590,15 @@ Then its just the electronics enclosure and cleaning up this repo and gettting i
 
 ## onto the bed mounting
 
+I realised i could make the bed mounting plate bigger, as it shouldnt interfere with the tensioning mechanism for the belt as long as the bits i add arent super thick, which is fine by me!
+
+Before:
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/5b2dbe08-6b5d-4c04-b052-766c76ed6c4f" />
+
+
+After:
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/234c3148-1dcd-4b82-8ddd-099480f4921c" />
+
 
 
 
