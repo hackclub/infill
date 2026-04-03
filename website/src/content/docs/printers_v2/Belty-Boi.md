@@ -632,6 +632,8 @@ Im trying to make it a nice box at least, making the bolts recessed where possib
 Im oddly satisfied with the enclosure
 <img width="1304" height="907" alt="image" src="https://github.com/user-attachments/assets/964146f4-2d05-4e50-a545-1783197f4aec" />
 
+Now i get to count all the screw for my bom!
+
 
 # left to do
 - [x] put bed and gantry together
