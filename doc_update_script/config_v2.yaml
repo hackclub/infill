@@ -1,4 +1,9 @@
 # Printer list for infill version 2 (2026) - add your printers here!
+Threefold Repetition:
+    title: "Threefold-Repetition"
+    description: "An ultra fast, micro printer utilizing 3 point kinematic bed leveling for fully automatic calibration"
+    repository: "https://github.com/bujjikai/Threefold-Repetition"
+    file_name: Threefold-Repetition.md
 Briefcase Printer:
   title: "Briefcase-printer"
   description: "A bedslinger 3D printer disguised as a Briefcase"
