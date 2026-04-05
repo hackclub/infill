@@ -370,7 +370,7 @@ for the sillies i also decided that the spoke count, width and radii for the cha
 so putting all of that together we get this
 <img width="2561" height="1156" alt="bed assebmyl current state" src="https://github.com/user-attachments/assets/6211fca1-9fe9-4a8a-8a7a-a94e2780dc62" />
 
-# 3/03/2026 belt time 8 hours
+# 3/03/2026 belt time and approaching the finish for the CAD , 8 hours
 
 Im aiming to design some sort of mechanism between the two flats that push against each other to acomplish bed tensioning
 <img width="1596" height="852" alt="image" src="https://github.com/user-attachments/assets/0294c213-d4ed-44b9-b5be-bc865beec27e" />
@@ -436,7 +436,7 @@ Putting everything together gets us to here
 weirdly though more stuff has become misaligned, and i cant work out which constraint has messed it up which is annoying
 <img width="1392" height="679" alt="image" src="https://github.com/user-attachments/assets/73e7aa8d-1edf-4850-9b70-390f2e20826d" />
 
-# 03/04/2026 continuing to try make things work , 4 hours
+# 03/04/2026 continuing to try make things work ,22 hours (days total)
 
 turned out fixing those screw alignment issues went a LOT deeper than i thought
 so im going to remove the hotbed assembly and try and do it again, hopefully a good chunk better
@@ -635,12 +635,36 @@ Im oddly satisfied with the enclosure
 Now i get to count all the screw for my bom!
 
 
+## I finished counting the all of the screws!
+the screw counts are quite high, my strategy for the screws was to remove every component in the printer one by one, count it if its a screw, and then keep going until there is nothing left.
+
+
+# THE PARTS ARE ORDERED :yay:
+
+# 04/04/2026
+mostly taking a breaking after the CAD-athon yesterday
+
+# 05/04/2026 2 hours
+
+Most of my effort today has been cleaning  up the repo and the BOM
+
+I also remembered that since i changed the design of the bed to have the extra peice, i needed to make a cut and add a supporting peice.
+I also took the chance to add an extra screw to support the motor from the other side.
+<img width="1457" height="959" alt="image" src="https://github.com/user-attachments/assets/724a0ede-175e-47fb-9de4-de795b7ba846" />
+
+
+
+
 # left to do
 - [x] put bed and gantry together
 - [x] electronics bay
 - [x] check build volume
-- [ ] final count of screws so i can finish bom
-- [ ] source motors
-- [ ] renders for readme
-- [ ] generate clean readme
+- [X] final count of screws so i can finish bom
+- [X] source motors
+- [X] renders for readme
+- [X] generate clean readme
 - [ ] create STLs/3MFs for the parts
+
+# future improvements
+- [ ] add support for nema 14 motors for the bed motor
+
