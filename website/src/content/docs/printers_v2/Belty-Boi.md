@@ -652,7 +652,34 @@ I also remembered that since i changed the design of the bed to have the extra p
 I also took the chance to add an extra screw to support the motor from the other side.
 <img width="1457" height="959" alt="image" src="https://github.com/user-attachments/assets/724a0ede-175e-47fb-9de4-de795b7ba846" />
 
+# 06/04/2026 3 hours
 
+today i have mostly been exporting all the parts to 3mf so they can be printed.
+
+In doing that it lets me double check everything is ok.
+
+i did find this conflict with one of the wedges interesecting with a PSU bracket
+<img width="1386" height="482" alt="image" src="https://github.com/user-attachments/assets/53e098e9-1a86-40b4-9ee5-4708b92cd804" />
+
+my solution was to split the offending bracket into two peices and integrate the mounting for the PSU into it.
+
+<img width="970" height="425" alt="image" src="https://github.com/user-attachments/assets/0bdc27f2-c10b-45d3-ad80-2c0219df76f3" />
+<img width="1174" height="963" alt="image" src="https://github.com/user-attachments/assets/fb64713d-fb27-4162-aa5b-e6fd7815ed15" />
+
+i split it into two halves to:
+- avoid needing really long hex bits/alan key
+- make printing the parts easier
+
+now it looks like this!
+<img width="532" height="736" alt="image" src="https://github.com/user-attachments/assets/8d88b324-a8d1-4ac1-8001-1e3e1c74e13d" />
+<img width="612" height="606" alt="image" src="https://github.com/user-attachments/assets/e5ee3bc8-9cbf-4b8b-acf7-99485a388a7d" />
+
+I just need to add some heat sets to join the two halves together now
+
+i have also just finnished exporting all of the 3mf files so i can print the parts once i have filament
+
+uploading the 3d printer source STEP file is a bit interesting due to the 300MB size
+however i was able to get it under the 50MB file limmit with LZMA compression with a large dictionary size
 
 
 # left to do
@@ -663,7 +690,7 @@ I also took the chance to add an extra screw to support the motor from the other
 - [X] source motors
 - [X] renders for readme
 - [X] generate clean readme
-- [ ] create STLs/3MFs for the parts
+- [x] create STLs/3MFs for the parts
 
 # future improvements
 - [ ] add support for nema 14 motors for the bed motor
