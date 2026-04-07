@@ -69,3 +69,8 @@ DAVID:
   description: "A colinear tripteron delta 3d printer, inspired by Apsu's design."
   repository: "https://raw.githubusercontent.com/lordbagel42/DAVID/refs/heads/main/JOURNAL.md"
   file_name: DAVID.md
+Cartesian Gantry Slinger:
+    title: "CartesianGSlinger"
+    description: "Slinging gantrys and not beds"
+    repository: "https://github.com/firesareba/Cartesian-Gantry-Slinger/blob/main/journal.md"
+    file_name: Cartesian-Gantry-Slinger.md
