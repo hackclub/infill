@@ -2,7 +2,7 @@
 Threefold Repetition:
     title: "Threefold-Repetition"
     description: "An ultra fast, micro printer utilizing 3 point kinematic bed leveling for fully automatic calibration"
-    repository: "https://github.com/bujjikai/Threefold-Repetition"
+    repository: "https://raw.githubusercontent.com/bujjikai/Threefold-Repetition/refs/heads/main/JOURNAL.md"
     file_name: Threefold-Repetition.md
 Briefcase Printer:
   title: "Briefcase-printer"
