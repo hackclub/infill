@@ -682,7 +682,28 @@ uploading the 3d printer source STEP file is a bit interesting due to the 300MB 
 however i was able to get it under the 50MB file limmit with LZMA compression with a large dictionary size
 
 
-# left to do
+
+# waiting for the parts to arrive
+
+# STARTING THE BUILD 13/03/2026 
+
+A significant number of my parts arrived!
+I did however make the mistake of ordering mgn9h instead of mgn9c which means that i need to adjust the design a chunk to make it work
+
+The first changes i made were to the hotend assembly
+<img width="594" height="669" alt="image" src="https://github.com/user-attachments/assets/259a8a8c-7b9e-4fe5-8066-e0f075fa6820" />
+<img width="714" height="661" alt="image" src="https://github.com/user-attachments/assets/ba827dbf-a6d5-4a68-8787-feb95b2a7f43" />
+
+I also need to cut chunks out of other places in order to retain the full build volume 
+
+such as cutting 3mm off the face of this
+<img width="725" height="553" alt="image" src="https://github.com/user-attachments/assets/1dd350e1-5302-4aa9-97ca-23ef4c67d5d5" />
+
+
+
+
+
+# left to do 
 - [x] put bed and gantry together
 - [x] electronics bay
 - [x] check build volume
