@@ -685,7 +685,7 @@ however i was able to get it under the 50MB file limmit with LZMA compression wi
 
 # waiting for the parts to arrive
 
-# STARTING THE BUILD 13/03/2026 
+# STARTING THE BUILD 13/04/2026 
 
 A significant number of my parts arrived!
 I did however make the mistake of ordering mgn9h instead of mgn9c which means that i need to adjust the design a chunk to make it work
@@ -700,7 +700,24 @@ such as cutting 3mm off the face of this
 <img width="725" height="553" alt="image" src="https://github.com/user-attachments/assets/1dd350e1-5302-4aa9-97ca-23ef4c67d5d5" />
 
 
+14/04/2026
 
+- all my electronics arrived, drivers, mainboard etc
+- closed loop gt2 issues
+
+15/04/2026
+
+(notes so i remember stuff later)
+flashing klipper
+mellow d7
+
+was using 
+~/klippy-env/bin/python ~/katapult/scripts/flashtool.py -d usb-katapult_stm32f072xb_MELLOW-if00
+what worked was 
+~/katapult/scripts/flashtool.py -f ~/klipper/out/klipper.bin -d /dev/serial/by-id/usb-katapult_stm32f072xb_MELLOW-if00
+
+ah i think the first command would have worked had i used the full address, but mellows documentation was not the clearest. 
+[this](https://klipper.discourse.group/t/unable-to-flash-klipper-after-installing-katapult/24266/4) was super helpful! 
 
 
 # left to do 
