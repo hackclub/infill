@@ -134,10 +134,16 @@ I am also currently considering using AWD (4 motors instead of 2) to increase th
 
 ## Tool Head and Finishing Touches
 
-### Approximate Hours: 
+### Approximate Hours: 6
 
 Finished the BOM, came out to be about $100 out of pocket: https://docs.google.com/spreadsheets/d/1j4znOd9m_fiep61QqaDtQZj5eCEWoa6pIB-WBLW0eJE/edit?gid=0#gid=0
 I'll try to work on reducing the cost later, but the issue in this case is that cheap components won't work as certain parts such as the rails, motors and extrusions need to be atleast middling quality to be able to push for high speeds and accelerations.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a0712883-6f96-4062-8044-f1897f046a62" />
+
+I finished up the tool head which is heavily inspired by the dragon burner, and created mounts for my psu and motherboard. My printer is essentially finished for now.
+
+
 
 
 
