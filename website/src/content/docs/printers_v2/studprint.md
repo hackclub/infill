@@ -156,7 +156,7 @@ I quickly modelled out the axle adapter for the extruder. Due to lack of space, 
 
 ### Day 23 (March 15th)
 
-Hours Wored: 3 hours
+Hours Worked: 3 hours
 Total Hours Worked: 39.25 hours
 
 ---
@@ -166,3 +166,39 @@ Total Hours Worked: 39.25 hours
 Day one of the build came with great success. Only two major changes were needed: the Z axis -> top connector, and the Y axis leadscrew mounting on the bed. The custom parts are in the process in being printed and the wormscrews were just shipped. I may completly build it and wait for the wormscrews or 3D print some temporary wormscrews. Below is a picture of the current state of the build.
 
 ![Build day 1](https://cdn.hackclub.com/019cf461-0217-7fa8-8e88-ff707ec3ec9f/IMG_8876.jpg)
+
+### Finale (March 16th until April 19th)
+
+Total Worked: 20 hours
+Total Hours Worked: 59.25
+
+---
+
+#### Continuing the build
+
+The X axis and stepper mounting went fairly smooth. Some adjustments were made the the X axis mount, along with the buffing up the X axis with the addition of two wheels.
+![XZ Wheel change](https://cdn.hackclub.com/019dcae6-d981-7a8e-8eff-5c5183f29a6f/paste-1777225621337.png)
+
+Y axis largely remained the same with the exception of reinforcements to the YZ mounts and the addition of long plates across the bottom to reduce failure.
+
+The Z axis was assembled with minimal issues; only additional reinforcements on the other side of the Z structure along with the removal of top constraints for the Z screws.
+
+The toolhead also had a bit of an upgrade. It had too much rotational play so an additional wheel was added at the bottom of the X rail to mitigate this.
+![Toolhead change](https://cdn.hackclub.com/019dcae6-37d0-7795-853c-a9cec8652f35/paste-1777225579869.png)
+
+Finally, the extruder needed a whole redesign. The wheels could not grip the filament well enough so friction from the bowden and hotend caused extrusion to be impossible.
+
+To mitigate this, I decided to ditch the LEGO wheel concept and switched to using BMG dual extruder gears and a springed tensioner. It still utilized LEGO parts; however, it was just unrealistic to use LEGO wheels and expect consistent extrusion.
+![New extruder](https://cdn.hackclub.com/019dcaea-21c7-7973-8310-e51f6435b79e/paste-1777225836459.png)
+
+#### Printing!
+
+With all these changes and the printer being fully built, I got printing. After setting up Klipper, I was able to load filament, and successfully print a Benchy boat in about 1.25 hours!
+![First successful Benchy](https://cdn.hackclub.com/019dcaec-6203-72af-815c-634c128e2491/paste-1777225983742.png)
+![The built printer](https://cdn.hackclub.com/019dcaec-a548-79a8-882b-6ab859ebe0b4/paste-1777226000985.png)
+
+#### Last minute changes
+
+During RMRRF, I was having consistent issues with the extruder regarding kinking of the bowden tube and a bad filament path. After hearing feedback from others, I decided to rotate the extruder 90 degrees which allows more room for the bowden to compress. This would be the final change to the printer!
+
+![Updated motor mount](https://cdn.hackclub.com/019dcaee-c72b-7614-b950-551def17d872/paste-1777226139590.png)
