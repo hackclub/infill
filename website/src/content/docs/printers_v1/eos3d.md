@@ -56,11 +56,11 @@ I began by modelling the X-axis rods and bearings to establish clearance const
 
 Next, I imported the CAD models for the Sherpa Mini extruder and the E3D V6 hotend, then started designing a mounting solution. I opted for a clamping mechanism for the hotend, as shown in the image below:
 
-![Hotend clamping mechanism](https://cloud-6ea58jaj9-hack-club-bot.vercel.app/0image.png)
+![Hotend clamping mechanism](https://cdn.hackclub.com/rescue?url=https://cloud-6ea58jaj9-hack-club-bot.vercel.app/0image.png)
 
 By the end of the day, I refined the mounting system and securely integrated the Sherpa Mini with the mount. Below is the final design on day 1 (ignore the mesh issues on the Sherpa; those were present in the CAD model):
 
-![Day 1 image update](https://cloud-56t3p8blt-hack-club-bot.vercel.app/0image.png)
+![Day 1 image update](https://cdn.hackclub.com/rescue?url=https://cloud-56t3p8blt-hack-club-bot.vercel.app/0image.png)
 
 ## Day 2 (February 2nd, 2025)
 
@@ -73,7 +73,7 @@ Total hours on project: **10**
 Today, I completed the connection of the toolhead to the linear bearings with inspiration from the Prusa Mini. I began modeling the cooling fan duct but encountered challenges in designing one that is both functional and aesthetically pleasing.
 
 Here is the final model of the day:
-![Day 2 image update](https://cloud-lfjnqsa5o-hack-club-bot.vercel.app/0image.png)
+![Day 2 image update](https://cdn.hackclub.com/rescue?url=https://cloud-lfjnqsa5o-hack-club-bot.vercel.app/0image.png)
 
 ## Day 3 (February 3rd, 2025)
 
@@ -85,7 +85,7 @@ Total hours on project: **11**
 
 Today, I did minimal work; however, I finished and placed the part cooling fan. Tomorrow, I will begin designing it and running CFD tests.
 
-![Day 3 image update](https://cloud-qwtjk3wd0-hack-club-bot.vercel.app/0image.png)
+![Day 3 image update](https://cdn.hackclub.com/rescue?url=https://cloud-qwtjk3wd0-hack-club-bot.vercel.app/0image.png)
 
 ## Day 4 & 5 (February 5th-6th, 2025)
 
@@ -105,9 +105,9 @@ Next Steps Before CFD Analysis:
 
 With these changes, I plan to start optimizing the design tomorrow before running CFD simulations. Below are images of the fan duct (rear view) and the complete model in its current form.
 
-![Fan duct from the rear](https://cloud-atf9xpxe3-hack-club-bot.vercel.app/0image.png)
+![Fan duct from the rear](https://cdn.hackclub.com/rescue?url=https://cloud-atf9xpxe3-hack-club-bot.vercel.app/0image.png)
 
-![Day 4 & 5 image update](https://cloud-cyy5r3rz6-hack-club-bot.vercel.app/0image.png)
+![Day 4 & 5 image update](https://cdn.hackclub.com/rescue?url=https://cloud-cyy5r3rz6-hack-club-bot.vercel.app/0image.png)
 
 ## Day 6 (February 7th, 2025)
 
@@ -123,11 +123,11 @@ I initially tried Autodesk CFD and ANSYS Workbench, but getting them to work fel
 
 After a long computation wait, I finally got to see the airflow results—and they were really bad. Not entirely surprising for an initial design, but definitely something to improve. The results are shown below:
 
-![CFD Results](https://cloud-k9c5y4oho-hack-club-bot.vercel.app/0image.png)
+![CFD Results](https://cdn.hackclub.com/rescue?url=https://cloud-k9c5y4oho-hack-club-bot.vercel.app/0image.png)
 
 Tomorrow, I’ll begin optimizing the design and rerun the CFD analysis to see how much improvement can be made.
 
-![Day 6 image update](https://cloud-9hjadb36g-hack-club-bot.vercel.app/0image.png)
+![Day 6 image update](https://cdn.hackclub.com/rescue?url=https://cloud-9hjadb36g-hack-club-bot.vercel.app/0image.png)
 
 ## Day 7 (February 8th, 2025)
 
@@ -272,7 +272,7 @@ I have been slacking a little bit on the journal while finishing the printer off
 
 Soon, I will order the parts, print the printed parts and start building!
 
-![Day 18 Image Update](https://cloud-jl6bb650r-hack-club-bot.vercel.app/0image.png)
+![Day 18 Image Update](https://cdn.hackclub.com/rescue?url=https://cloud-jl6bb650r-hack-club-bot.vercel.app/0image.png)
 
 # Day 19, 20 (February 23rd-24th)
 
@@ -314,7 +314,7 @@ I'm hoping to be able to start building everything tomorrow morning!
 
 - Add back all the fasteners lost with the changes
 
-![Day 23 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a603d0c305e98e05ddfa00b68a038d78b514b342_image.png)
+![Day 23 Image Update](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a603d0c305e98e05ddfa00b68a038d78b514b342_image.png)
 
 # Day 24, 25 (March 21st-22nd)
 
@@ -330,15 +330,15 @@ After the initial printing of the parts, I had to make adjustments for fitment, 
 
 The old design was not fitting well due to a screw on the heatblock I did not account for. Instead of struggling to change it, I decided to completly redesign the part cooling fan duct. It now uses a single flat nozzle. After running CFD, the airflow is just as good as the original design with the added bonus of being a lot less complicated. Below is the CFD analysis and the duct itself:
 
-![New part cooling duct](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e2702bdabc0fa931be793e27c1242e527a57ac19_image.png)
-![CFD Results redesign side view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f7434917dfefa3c9a1482265eeeca74ac868855_image.png)
-![CFD Results redesign top view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e8f7d77c191e1407edc38296c42078f37a935e47_image.png)
+![New part cooling duct](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e2702bdabc0fa931be793e27c1242e527a57ac19_image.png)
+![CFD Results redesign side view](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f7434917dfefa3c9a1482265eeeca74ac868855_image.png)
+![CFD Results redesign top view](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e8f7d77c191e1407edc38296c42078f37a935e47_image.png)
 
 ### Final remarks
 
 Firstly, I just want to give an update on why there was a two week break. I was on vacation and could not work on the project. Secondly, I plan on adding the PicoMMU integration (really just a filament cutter and mount for the 4-1 bowden hub) once I have the printer up and running. I still have to add back all the fasteners. Its a PITA to do and I plan on doing it all in one go once the design in finalized.
 
-![Day 25 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/89557edd0f18aa606cf607bd14bfc1c7f5bee0d9_image.png)
+![Day 25 Image Update](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/89557edd0f18aa606cf607bd14bfc1c7f5bee0d9_image.png)
 
 # Day 26, 27, 28 (March 24th-27th)
 
@@ -354,6 +354,6 @@ After assembling the X-axis, I noticed that it could twist, which is obviously n
 
 I made a few minor modifications to some components, and the axis is finally complete! Below is an overview of the physical build:
 
-![XZ axis build](https://hc-cdn.hel1.your-objectstorage.com/s/v3/751e29dc78f52e23004a32d79c54d842c86258a7_image.png)
+![XZ axis build](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/751e29dc78f52e23004a32d79c54d842c86258a7_image.png)
 
-![Day 28 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/95c0c695b42b6be12d08f6b1e6132b397bd61f7f_image.png)
+![Day 28 Image Update](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/95c0c695b42b6be12d08f6b1e6132b397bd61f7f_image.png)

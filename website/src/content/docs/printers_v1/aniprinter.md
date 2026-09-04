@@ -155,23 +155,23 @@ I will ask my dad for shipping :D
 ## Pics
 18/02/2025 Heatbed: ![](https://cdn.hack.pet/slackcdn/11dc794417b947579c270e11f176daff.png)
 21/02/2025 Y axis done and half done Z: ![](https://cdn.hack.pet/slackcdn/48c60da0e7cb54b82845f4f665a12c6f.png)
-22/02/2025 Z axis also done!  ![](https://cloud-1elf02lqk-hack-club-bot.vercel.app/0image.png)
-23/02/2025 Print head assembly: ![](https://cloud-9zmpe3qgl-hack-club-bot.vercel.app/0image.png)
+22/02/2025 Z axis also done!  ![](https://cdn.hackclub.com/rescue?url=https://cloud-1elf02lqk-hack-club-bot.vercel.app/0image.png)
+23/02/2025 Print head assembly: ![](https://cdn.hackclub.com/rescue?url=https://cloud-9zmpe3qgl-hack-club-bot.vercel.app/0image.png)
 02/03/2024 CFD:
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77da055b5d341bf6ff2e46a7a0d589523b1306b6_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/77da055b5d341bf6ff2e46a7a0d589523b1306b6_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8d06125e8a7976604c2b3cf4989d59b03d309f77_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8d06125e8a7976604c2b3cf4989d59b03d309f77_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ceb35f161df36bc9db83fb9d57d96472741512c7_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ceb35f161df36bc9db83fb9d57d96472741512c7_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/960a89a2b9be9b4ad822ba7ce1cd76ae00c1d078_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/960a89a2b9be9b4ad822ba7ce1cd76ae00c1d078_image.png)
 
 02/03/2024 Base done!:
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/745027e83d862b0f3493a0ada2597c280b9d475a_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/745027e83d862b0f3493a0ada2597c280b9d475a_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6d07cfdd45e382686cc29fdb3cccf57de266b807_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6d07cfdd45e382686cc29fdb3cccf57de266b807_image.png)
 
 ## Links:
 - Motherboard: https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_PIN.pdf

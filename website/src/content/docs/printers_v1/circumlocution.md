@@ -117,7 +117,7 @@ I have made quite a lot of undocumented progress on-and-off through short sessio
 - [Found a pulley](https://www.123-3d.co.uk/123-3D-GT2-high-resolution-timing-belt-pulley-20-teeth-6mm-belt-5mm-bore-GT2-20T-W6-B5-i2081-t14815.html) for the X axis belt, [and a similar-enough model](https://grabcad.com/library/gt2-pulley-20-tooth-id-6mm-1)
 - Built a carriage to follow the nut by holding the nut using screws screwing into heat-set inserts
 
-![a screenshot of the whole assembly with changes as described above](https://cloud-d1we5mzy3-hack-club-bot.vercel.app/0image.png)
+![a screenshot of the whole assembly with changes as described above](https://cdn.hackclub.com/rescue?url=https://cloud-d1we5mzy3-hack-club-bot.vercel.app/0image.png)
 
 ## Hour 10
 
@@ -125,11 +125,11 @@ I have made quite a lot of undocumented progress on-and-off through short sessio
 
 I planned out the position for the rollers to follow the Z axis:
 
-![](https://cloud-cyfuz2z3i-hack-club-bot.vercel.app/0image.png)
+![](https://cdn.hackclub.com/rescue?url=https://cloud-cyfuz2z3i-hack-club-bot.vercel.app/0image.png)
 
 Added the rollers, and started re-building the carriage.
 
-![](https://cloud-aa22v5w8t-hack-club-bot.vercel.app/0image.png)
+![](https://cdn.hackclub.com/rescue?url=https://cloud-aa22v5w8t-hack-club-bot.vercel.app/0image.png)
 
 ## Hours 11-16
 
@@ -139,11 +139,11 @@ I re-built the entire Z-following carriage into two 3D-printable parts, held tog
 
 (as seen from front side)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bbf534821b55a24cfd03fbf01609c99424e38789_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/bbf534821b55a24cfd03fbf01609c99424e38789_image.png)
 
 (as seen from back side)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/56549c14186e0d0648153ff6db1491fdf45d664e_image.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/56549c14186e0d0648153ff6db1491fdf45d664e_image.png)
 
 ## Hours 17-20
 
@@ -151,7 +151,7 @@ I re-built the entire Z-following carriage into two 3D-printable parts, held tog
 
 I moddled a holder to keep the X motor in place, added a belt and coupler, and connected the end of the extrusion to the X motor holder with an M6 screw to prevent the X rail from sliding through the Z follower.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e4114abc02d86b2a032e08489dd0641c4f12cb8_screenshot_from_2025-03-17_22-56-54.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e4114abc02d86b2a032e08489dd0641c4f12cb8_screenshot_from_2025-03-17_22-56-54.png)
 
 ## Hours 21-50
 
@@ -173,4 +173,4 @@ The due date of the design was March 31st, but I overran into April 7th, finishi
 
 I don't have high hopes for this project.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fa42eb9ec229567686f8d5f81ad19d0b2a4b9ff_screenshot_from_2025-04-07_00-14-54.png)
+![](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fa42eb9ec229567686f8d5f81ad19d0b2a4b9ff_screenshot_from_2025-04-07_00-14-54.png)
