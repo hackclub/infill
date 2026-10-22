@@ -35,7 +35,7 @@ I created an initial parts list. Chose a BTT motherboard due to the low price an
 Time spent: 2.5 hours
 
 I started to cad out with a basic design with linear rails and extrusions for the motion system. Used 3D printed joints for low cost and flexibility of design. Added a COTS hot-end assembly for simplicity. I will change this later. 
-![](https://cloud-4adfs32od-hack-club-bot.vercel.app/0image.png)
+![](https://cdn.hackclub.com/rescue?url=https://cloud-4adfs32od-hack-club-bot.vercel.app/0image.png)
 
 
 

@@ -60,7 +60,7 @@ Firstly I researched popular 3D printers to understand their features, component
 
 ### Description
 - Started to design the main skeleton of the printer. 
-![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed0409a60188f5c5da7db810c223653faa43ac3f_printer_frame.jpg)
+![enter image description here](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed0409a60188f5c5da7db810c223653faa43ac3f_printer_frame.jpg)
 
 
 
@@ -72,7 +72,7 @@ Firstly I researched popular 3D printers to understand their features, component
 
 ### Description
 - Designing printer Z-axis
-![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2666a5ebe5ff6f97031fc5bb7d67c1a0d3b6fb24_z-axis_assembly_l.jpg)
+![enter image description here](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2666a5ebe5ff6f97031fc5bb7d67c1a0d3b6fb24_z-axis_assembly_l.jpg)
 
 
 ### Parts Breakdown ( z-axis left & z-axis right)
@@ -89,9 +89,9 @@ Firstly I researched popular 3D printers to understand their features, component
 
 
 - ### Z-axis
-	- ![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b83a77605363e3044e9f8b88a18ef1a08bf04c22_z-axis_limit_switch.jpg)
+	- ![enter image description here](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b83a77605363e3044e9f8b88a18ef1a08bf04c22_z-axis_limit_switch.jpg)
 - ### Y-axis
-	- ![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/58ca338517873cd2f39789f5a2744ebedb5a2786_y-axis_assembly.jpg)
+	- ![enter image description here](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/58ca338517873cd2f39789f5a2744ebedb5a2786_y-axis_assembly.jpg)
 
 
 
@@ -102,7 +102,7 @@ Firstly I researched popular 3D printers to understand their features, component
 - Designing printer X-axis 
 
 
-![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/13194345b20d75f0a4a0257f49f91c0568a2a118_x-axis_assembly.jpg)
+![enter image description here](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/13194345b20d75f0a4a0257f49f91c0568a2a118_x-axis_assembly.jpg)
 
 
 ## **Day - 7, ( 26/03/25 ) - Feed & Cooling Assembly**  
@@ -117,7 +117,7 @@ Firstly I researched popular 3D printers to understand their features, component
     -   A popup notification to your phone.
 
 
-![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/03bef370048e771e5356670db30a400fc2fbd176_whatsapp_image_2025-03-31_at_4.28.09_pm.jpeg)
+![enter image description here](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/03bef370048e771e5356670db30a400fc2fbd176_whatsapp_image_2025-03-31_at_4.28.09_pm.jpeg)
 
 
 

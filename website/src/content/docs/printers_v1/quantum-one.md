@@ -4,7 +4,7 @@ description: "An affordable prototyping machine that looks good, performs well, 
 project_name: "Quantum One"
 repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One/main/plan.md"
 ---
-![Quantum One Logo](https://cloud-jb6ebx4e5-hack-club-bot.vercel.app/0untitled_presentation_11_.png)
+![Quantum One Logo](https://cdn.hackclub.com/rescue?url=https://cloud-jb6ebx4e5-hack-club-bot.vercel.app/0untitled_presentation_11_.png)
 
 ## Project Information
 
@@ -140,16 +140,16 @@ Total Hours: 75 Hours
 ![M01](https://cdn.hackclubber.dev/slackcdn/c8221ae918d158a0b5529569b7dc8516.png)
 
 ### Rev 02
-![M02](https://cloud-buerphdqo-hack-club-bot.vercel.app/0image.png)
+![M02](https://cdn.hackclub.com/rescue?url=https://cloud-buerphdqo-hack-club-bot.vercel.app/0image.png)
 
 ### Rev 03
-![M03](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b58a33db7e2a984d8df5b94a2ce6421278916f8_image.png)
+![M03](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b58a33db7e2a984d8df5b94a2ce6421278916f8_image.png)
 
 ### Rev 04
-![M04](https://hc-cdn.hel1.your-objectstorage.com/s/v3/79140e19e96355a6cf991bf583c19a091d5182d9_screenshot_2025-02-28_at_9.05.44___pm.png)
+![M04](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/79140e19e96355a6cf991bf583c19a091d5182d9_screenshot_2025-02-28_at_9.05.44___pm.png)
 
 ### Rev 05
-![M05](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce067b1262b9c171ea1f6b02b687774325028253_image.png)
+![M05](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce067b1262b9c171ea1f6b02b687774325028253_image.png)
 
 ### Why These Parts
 Orbitor 2 - From LDO comes with high quality steeper motor + all in one solution
@@ -172,11 +172,11 @@ May 16th - Ship Myself to RMRRF
 
 ## Featured Parts
 ### XY Stepper Mount
-![XY Stepper Mount](https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
+![XY Stepper Mount](https://cdn.hackclub.com/rescue?url=https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
 
 Why Core-XY: I wanted to build a core xy because first of all they are really compact. Second I already own a bed slinger 3d printer. Also the belt routing really interested me.
 ### Power Supply Mount
-![Power Supply](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77ada97038b5bccfc86ac20b60b5c705fe3e4518_image.png)
+![Power Supply](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/77ada97038b5bccfc86ac20b60b5c705fe3e4518_image.png)
 
 Changes: Had to move power supply out of the skirt to make space for Z steppers
 
@@ -192,10 +192,10 @@ I din't want to have a big touchscreen in the center of the machine. I wanted to
 - 128x32 OLED
 
 Schematic
-![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/737992d6a0e4856cdc01f29359c125ef6db91d82_image.png)
+![Half Finished Skirt](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/737992d6a0e4856cdc01f29359c125ef6db91d82_image.png)
 
 PCB Render
-![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc9ca43c38eed016b07e75687806a1788278c46f_image.png)
+![Half Finished Skirt](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc9ca43c38eed016b07e75687806a1788278c46f_image.png)
 
 PCB Layout
-![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)
+![Half Finished Skirt](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)

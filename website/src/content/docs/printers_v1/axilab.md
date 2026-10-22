@@ -53,8 +53,8 @@ I still have to import all the parts in the 3d model, but as soon as I end with 
 I already submitted te design but i still got to check if the weight of the printer will prevent the printer from rotating and then falling, here what i found so far, but it's not finished yet:
 
 
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a72e7f4913b5e442fd4d29cce7d5d3a1cbee06e_note_share.jpg)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a72e7f4913b5e442fd4d29cce7d5d3a1cbee06e_note_share.jpg)
 
 ## April 11
 I've continued working on the calculation, but I'm not sure about the calculation for the momentum. I'm gonna ask my science teacher as soon as I've time
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/25d9a17495003a08e2362582a9f60833f3d8fe4f_note_share__1_.jpg)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/25d9a17495003a08e2362582a9f60833f3d8fe4f_note_share__1_.jpg)

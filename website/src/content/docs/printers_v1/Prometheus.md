@@ -162,7 +162,7 @@ an extra 10mm
 
 Hours spent: 4
 
-![image](https://cloud-op3cdvxwi-hack-club-bot.vercel.app/0image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://cloud-op3cdvxwi-hack-club-bot.vercel.app/0image.png)
 
 ## Feb 25
 More gantry design. Not much of an update today though, because really it's just a bit more research on gantry materials
@@ -175,7 +175,7 @@ that I might be able to make it fairly stable, while maintaining a very slim per
 
 More thoughts on this, but it seems like a fairly promising design idea. I'll add some photos in a bit
 
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/379f56fd907cefa2d95ba27e0d1bdc4e8d8c88b2_image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/379f56fd907cefa2d95ba27e0d1bdc4e8d8c88b2_image.png)
 It's fairly simple rn, but I'm going to work on it a bit more later. Essentially the entire gantry is made from stell rods
 (which are supposed to be fairly stiff) and fairly slim so that there's as little overlap as possible
 
