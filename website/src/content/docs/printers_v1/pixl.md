@@ -52,29 +52,29 @@ Changed linear rail mounting direction and added both part and heatsink fan moun
 ## Days Six and Seven
 ### Hours: 3
 Took a break from toolhead and added the x axis design
-![image](https://cloud-4ud0zrtd2-hack-club-bot.vercel.app/0image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://cloud-4ud0zrtd2-hack-club-bot.vercel.app/0image.png)
 
 ## Day Eight
 ### Hours: 2
 Started working on the y axis
-![image](https://cloud-n1y41ux1c-hack-club-bot.vercel.app/0image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://cloud-n1y41ux1c-hack-club-bot.vercel.app/0image.png)
 
 ## Day Nine
 ### Hours: 1
 Took a break but got back on work. Done with toolhead for now
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7ab9bc3f3c2269c1ea6d2f5065cc257e2d0f776a_image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7ab9bc3f3c2269c1ea6d2f5065cc257e2d0f776a_image.png)
 
 ## Day Ten
 ### Hours: 1
 Started redoing my toolhead cuz i want to add a toolchanger
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7ab9bc3f3c2269c1ea6d2f5065cc257e2d0f776a_image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7ab9bc3f3c2269c1ea6d2f5065cc257e2d0f776a_image.png)
 
 ## Day Eleven
 ### Hours: 1
 Fan duct!
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/838bd095e13750eee4dee0076653f65d6123b641_image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/838bd095e13750eee4dee0076653f65d6123b641_image.png)
 
 ## Day Twelve
 ### Hours: 4
 Finished most of my toolhead with a magnetic toolchanger!
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f94ddc7c12d4f86d0376b56c0ea30b1d06f62b1_image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f94ddc7c12d4f86d0376b56c0ea30b1d06f62b1_image.png)

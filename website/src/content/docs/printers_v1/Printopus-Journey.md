@@ -24,7 +24,7 @@ What is special in this printer:
 * My printer looks sci-fi with a Sci-fi Themed PRINTER HOLDer!! woohoo
 
 If you are wondering how i will add my filament dry box i have already cut a hole in the dry box to fit my bowden setup
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c8ca3718fcf2a0e7fe6cfb4fed68fdb50fe588d_image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c8ca3718fcf2a0e7fe6cfb4fed68fdb50fe588d_image.png">
 
 yeah since i am using bowden
 i will cut a hole in my filament dryer
@@ -116,7 +116,7 @@ Yeah, I had to watch so many tutorials and I was doing everything manually debug
 I worked on the cad files every day and since I am a noob in fusion it took me some time to make the final result of the frame with the heated!
 
 I made this till now NOT DONE!
-<img src="https://cloud-4e63ja77b-hack-club-bot.vercel.app/0image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://cloud-4e63ja77b-hack-club-bot.vercel.app/0image.png">
 
 I will soon upload the newer cad file!
 
@@ -132,14 +132,14 @@ I havent built a printer so this is a big thing for me so In the last few days a
 Now for the main updates i did today is I FINISHED THE Y AXIS (and i have become noob -> master in fusion 360) <- wow so cringe And Yeah i did everything manually I DINT even KNOW AALIGN TOOL EXISTED. I ALWAYS MANUALLY Made everything fit together. But now I am done with the y-axis. I promise everything will be faster from now on because I'm like 70% done less goo.
 
 Here is a photo of what I finished 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/30a417ba20dcbe8eca39584449c6ae24da78e02f_image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/30a417ba20dcbe8eca39584449c6ae24da78e02f_image.png">
 
 And also i have almost finished my shitty BOM here is a sneak peek:
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f460a81e4a50cfa1f8710232cfcd2f73e88b81fe_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f460a81e4a50cfa1f8710232cfcd2f73e88b81fe_image.png"
 
 
 I don't know but my fusion is definitely not organized, bruh :(
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa41cdcb34d599a9370dfc7fa50c0a3f784af138_image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa41cdcb34d599a9370dfc7fa50c0a3f784af138_image.png">
 
 Thanks, ppl more updates soon!
 Sneak peak: working on a good PCB
@@ -168,8 +168,8 @@ I might add more later on like for moonraker timelapse each time it takes a phot
 
 Here is my almost finished printer cad( i have to do the electronics storing base ):
 
-<img src = "https://hc-cdn.hel1.your-objectstorage.com/s/v3/a30304e386ae6883a8906d1a740caca2b589781e_image.png">
-<img src = "https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc4a02ddc4f37cee0ec6ee9cad8cab46ad3b04b6_image.png">
+<img src = "https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a30304e386ae6883a8906d1a740caca2b589781e_image.png">
+<img src = "https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc4a02ddc4f37cee0ec6ee9cad8cab46ad3b04b6_image.png">
 
 I know it looks a bit ugly but after building its going to be 🔥
 
@@ -208,7 +208,7 @@ Here is my finished and updated pcb with some copper blocks and a capacitor whic
 <img src="https://i.imgur.com/Nu0PDfO.png">
 
 3d Model?
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9a80cd84258e2a7a20f67ba25b6cad588c1fe373_image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/9a80cd84258e2a7a20f67ba25b6cad588c1fe373_image.png">
 
 ## Day 37-38 (30th - 31st March 2025)
 ## Total time 6 Hours
@@ -220,9 +220,9 @@ BL TOUCH ADDED!
 Oh and i have also designed a nice bltouch mount too!
 
 Here are some good photos:
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bdc4c1b63e727eefb399dc45ee9d3962f5886645_image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/bdc4c1b63e727eefb399dc45ee9d3962f5886645_image.png">
 <img src="https://hackclub.slack.com/archives/C016DEDUL87/p1743597133980869?thread_ts=1743597130.402979&cid=C016DEDUL87">
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3472ba0ece47d5a98e1e4b43309347173b155eb_image.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3472ba0ece47d5a98e1e4b43309347173b155eb_image.png">
 
 Okay imma sleep tmrw ill work on the BOM <- THE MOST Worst PART HELPPPPP
 

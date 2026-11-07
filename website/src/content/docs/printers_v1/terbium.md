@@ -103,4 +103,4 @@ repository: "https://raw.githubusercontent.com/akulsaju/terbium/refs/heads/main/
 Terbium: Because buying a printer is for nerds with money. 💸🔥  
 ---
 ### ***Pics***
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a25007999b85c1815798e0bb96764b42357755cc_terbium_v1.png">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a25007999b85c1815798e0bb96764b42357755cc_terbium_v1.png">

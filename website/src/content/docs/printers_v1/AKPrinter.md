@@ -49,7 +49,7 @@ Research : 20 min
 
 # Day 4 ( Feb 26 2025)
 
-Yesterday after asking in the slack and some reasearch I decided that I will use 2020 V-slot aluminium extrusions, 250 mm of lenght. After importing it and setting it all in FreeCAD (I lost so much time trying to resize them), I finnally have a _very rought_ idea of how to case is looking ![image of the aluminium extrusions in freecad](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8481a678c763f07e890dcd723f270deac1fcd036_2025-02-26-110309_hyprshot.png)
+Yesterday after asking in the slack and some reasearch I decided that I will use 2020 V-slot aluminium extrusions, 250 mm of lenght. After importing it and setting it all in FreeCAD (I lost so much time trying to resize them), I finnally have a _very rought_ idea of how to case is looking ![image of the aluminium extrusions in freecad](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8481a678c763f07e890dcd723f270deac1fcd036_2025-02-26-110309_hyprshot.png)
 
 I'm also searching on how to make the USB-C power. The main problem is that, from what I saw, USB-C PD (Power Delivery) can only go up to _100 watts_, which look pretty low for a printer. Maybe my printer will have a dual power system (either normal power, which more voltage, and USB-C when less power is required) ?
 
