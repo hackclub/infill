@@ -85,7 +85,7 @@ current rough BOM as of starting
 put another 2 or 3 hours into sketching out how im going to get this to work
 finally managed to start getting stuff modelled in fusion 360
 
-<img src="https://cloud-jr0f3cjmn-hack-club-bot.vercel.app/0image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://cloud-jr0f3cjmn-hack-club-bot.vercel.app/0image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -146,11 +146,11 @@ but still
 stuff changed
 
 ## 07/04/2024 (arround 26 hours total probably more)
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6809a37ab901d0c59df1570e0966768f70669afb_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6809a37ab901d0c59df1570e0966768f70669afb_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd995bc9d460bce7234d485519b325053d14c932_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd995bc9d460bce7234d485519b325053d14c932_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -165,7 +165,7 @@ BUT I FOUND THE ALIGN TOOL
 
 i had been using components to make everything work
 but i realised how much it helps me to focus when i make things in smaller files where i can and combine them into a bigger file later :D
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e27147d0ae0ed23eb96c917d1e0006914f1f460e_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e27147d0ae0ed23eb96c917d1e0006914f1f460e_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -176,10 +176,10 @@ so im still working on the printer
 
 
 made some overall progress on tidying up the hierarchy of mess in the component tree
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2fc1a9c94b623b9eac78f002a31bd8c028b12ec3_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2fc1a9c94b623b9eac78f002a31bd8c028b12ec3_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/372e3ef31efd20ed396d5c5ea15405b7422d3038_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/372e3ef31efd20ed396d5c5ea15405b7422d3038_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 made alot of work on getting the motor for the x axis actually mounted
@@ -189,7 +189,7 @@ but i also dread the weird bearing thing i made for the rotation axis
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7314904a7d169b0a2d5c07f96fdbfca2011fbb9c_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7314904a7d169b0a2d5c07f96fdbfca2011fbb9c_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
      
@@ -202,16 +202,16 @@ also wanted extra thickness there so that i can use heat sets to mount my hot en
 
 ## another update
 started and "finished" on the hotend
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37b29bc5192f4756bbafea258dcb289f7c5ff2e3_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/37b29bc5192f4756bbafea258dcb289f7c5ff2e3_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a495a2c704a08c9458223e8a892c03d2bdce808b_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a495a2c704a08c9458223e8a892c03d2bdce808b_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7ba5e60490d17250a35571ab1bb2649b27e8abe_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7ba5e60490d17250a35571ab1bb2649b27e8abe_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/31273505aa11195a763bba6274ca1df6d5acd30e_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/31273505aa11195a763bba6274ca1df6d5acd30e_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 i was anticipating alot more difficulty designing the ducts for the hot end fans than i actually encounter
@@ -284,7 +284,7 @@ you get this :D
 (i really dont know why this bit started to feel like a monologue from something, its fine im just tired)
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d4e66f1cfb928d36813db7cc3069780253fcada6_gt2_pulley_v20230127_v19_bb.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/d4e66f1cfb928d36813db7cc3069780253fcada6_gt2_pulley_v20230127_v19_bb.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -295,7 +295,7 @@ so i set along desinging the mounts the way i wanted to
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b602801982ba89e59a38b8189c6f013b6d53573c_image.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b602801982ba89e59a38b8189c6f013b6d53573c_image.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -314,7 +314,7 @@ then check the diagonals are equal
 since the angle was so tiny
 the diagonals were so closer that fusion said they were the same :sob :
      
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/795d3f197e265576b7fdaa632c4ab405d09838d8_gt2_pulley_v20230127_v19_bbb.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/795d3f197e265576b7fdaa632c4ab405d09838d8_gt2_pulley_v20230127_v19_bbb.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -328,16 +328,16 @@ i also 3d printed a test of the pulley to see if the teeth mesh properly with so
 sadly ive managed to loose that :sad:
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8d8144b9ed315e830718423095f8427d36e04b5f_gt2_pulley_v20230127_v20a.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8d8144b9ed315e830718423095f8427d36e04b5f_gt2_pulley_v20230127_v20a.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3bccfe6fabf2646c911e2e7b7a6824c4aaf9f47e_aaa.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/3bccfe6fabf2646c911e2e7b7a6824c4aaf9f47e_aaa.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 i also added on some little sticky out bits to the bearing that i hoped to later use for mounting to the frame of the printer
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fb4699f730b00b6d34ee98721cad8a2cb5b5bb7_aaaa.png
+https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fb4699f730b00b6d34ee98721cad8a2cb5b5bb7_aaaa.png
 <img src=""
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
@@ -347,10 +347,10 @@ i will come back to the custom 3d printed bearings again later and how they shou
 
 my next step was to start desinging a frame 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a4281b408b863e5e372d6c7b032734ca29c093a2_frame_1.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a4281b408b863e5e372d6c7b032734ca29c093a2_frame_1.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7156bb5a7499150568c56d813a0a457d4c8d5f1e_its_a_simple_frame.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7156bb5a7499150568c56d813a0a457d4c8d5f1e_its_a_simple_frame.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -366,13 +366,13 @@ the feet are also two part to make them easier to print
 then using a heat set and a screw  to join them together 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f51bcdc3bb8617c94d9e346289e3074da05f885_legs_close_up.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f51bcdc3bb8617c94d9e346289e3074da05f885_legs_close_up.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/676064ef896a37624a84b696d0332c8d6b32bbfb_just_legs.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/676064ef896a37624a84b696d0332c8d6b32bbfb_just_legs.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/190d31337b33a842dba1131238115d85ee2a0b56_feet.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/190d31337b33a842dba1131238115d85ee2a0b56_feet.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -388,19 +388,19 @@ and for that i designed this little thing that could be used for the top and the
 nicely securing them to the extrusion :D
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/632528b3460264b9e73d4814cb13a0eb14fa55e7_single_rod_holder.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/632528b3460264b9e73d4814cb13a0eb14fa55e7_single_rod_holder.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
 and then adding in the rods,
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cbfa8752e390414a62922718f1d3906033979e_printer_prototype_1_v53.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cbfa8752e390414a62922718f1d3906033979e_printer_prototype_1_v53.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
 then got a nice little carridge going :D
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed000ce97eaec9d004aa89687c4825e24e2b2603_frame___z.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed000ce97eaec9d004aa89687c4825e24e2b2603_frame___z.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -408,7 +408,7 @@ and realised i needed a way to get the belts to actually be gripped onto
 my soltion, just weird grippy thing :D with teeth or the blet profile, whatever you want to call it
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4a08658c974a6a0c9ae8223eab1de8035b36890_belt_gripper.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4a08658c974a6a0c9ae8223eab1de8035b36890_belt_gripper.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -421,7 +421,7 @@ and then i also got a nice little motor bracket modelled in with a motor and pul
 very nice so far
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/41ab42b438bd0783c88b2e29603b431f1ca96f5c_motor_mount_png.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/41ab42b438bd0783c88b2e29603b431f1ca96f5c_motor_mount_png.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -434,7 +434,7 @@ with the idea being to use it wherever i need to tension belts so that was also 
 to avoid the overwhelming mess of what the fusion file was at this point, i designed the idler in a different files and then imported it into the main file
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f72c2692a40c57fca44bc38c3196042ccb8f295c_tensioner.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f72c2692a40c57fca44bc38c3196042ccb8f295c_tensioner.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -443,13 +443,13 @@ it's HORRIBLE
 BUT IT WORKS
 you just need to tension the z before you mount the belt idler
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d74014b47b385b4378cc463bb2d0db2258731c1a_horrible_z_axis_mount.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/d74014b47b385b4378cc463bb2d0db2258731c1a_horrible_z_axis_mount.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 so actually the Z axis looks like this
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4482abbf5940694846faa8c2ebf4c437de6e3e59_another_z_axis_photo.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/4482abbf5940694846faa8c2ebf4c437de6e3e59_another_z_axis_photo.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -461,22 +461,22 @@ first thing i did was quickly throw together a plate to finish attaching the X a
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/550000d71b361c0edc9900587851f0d097d1cc73_step_1_x.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/550000d71b361c0edc9900587851f0d097d1cc73_step_1_x.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/157699d0951cc8afec68cd665f17ce208045a7e3_x_axis_2.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/157699d0951cc8afec68cd665f17ce208045a7e3_x_axis_2.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/729722f46ca12e9bdc219234baadc3bd395e54eb_x_axis_3_another_use_of_that_idlet_thing.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/729722f46ca12e9bdc219234baadc3bd395e54eb_x_axis_3_another_use_of_that_idlet_thing.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a977c225d8bf1812b08dfec78daaf00c7d7fd3b3_another_one_of_those_grippy_plates_for_x_axis_4.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a977c225d8bf1812b08dfec78daaf00c7d7fd3b3_another_one_of_those_grippy_plates_for_x_axis_4.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8133603e89dd5bdcb5fc5bc1f0212e8fb43daee6_nice_chunky_x_motor_bracket_5.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8133603e89dd5bdcb5fc5bc1f0212e8fb43daee6_nice_chunky_x_motor_bracket_5.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cc750f8558057b66d48fdee3e098ecc48d77a9c_x_6_what_we_have_so_far.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cc750f8558057b66d48fdee3e098ecc48d77a9c_x_6_what_we_have_so_far.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -493,13 +493,13 @@ ive printed TPU with it so its pretty nice :D
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2921c9a01d15f689d849ce04473063b6ab6bb767_hotend_pretttyyy.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2921c9a01d15f689d849ce04473063b6ab6bb767_hotend_pretttyyy.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aaa8ab847f2dd543859224de700ef470266aa14_midplate_hotend.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/1aaa8ab847f2dd543859224de700ef470266aa14_midplate_hotend.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c2d9f76f1b20ebcc7c516300e15e9bc12377007_hotend_midplate_and_sherpa.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c2d9f76f1b20ebcc7c516300e15e9bc12377007_hotend_midplate_and_sherpa.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -508,17 +508,17 @@ ive printed TPU with it so its pretty nice :D
 fan mount for this was super simple
 i do love the simplicity of it :D
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/43d0647659dfa3759a56e4342b59883b2aed7eb7_cheeky_lil_fan_mount.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/43d0647659dfa3759a56e4342b59883b2aed7eb7_cheeky_lil_fan_mount.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
 add in some ducts
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/71a95cbfc4675e34f97d032da97a18cd14388a46_and_thats_a_hotend.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/71a95cbfc4675e34f97d032da97a18cd14388a46_and_thats_a_hotend.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f8018bf92a7501edb24200e65ad7e923c1c5298a_frame___x___y.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f8018bf92a7501edb24200e65ad7e923c1c5298a_frame___x___y.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -528,17 +528,17 @@ the bed
 my first step was to create something to mount the two bearings to the frame
 its not gracefull
 but here is the little mount i designed
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd60cff176a750daa79ba3b6e0b2c5565fe2dd1d_render_of_the_attachment_for_those_bearings.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd60cff176a750daa79ba3b6e0b2c5565fe2dd1d_render_of_the_attachment_for_those_bearings.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 the next step was actually joining the two bearing and the pulley together to get it all working as one nice big peice
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c2640f1cf173a07840c3e34afbafabdd15197ea_start_of_bed.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c2640f1cf173a07840c3e34afbafabdd15197ea_start_of_bed.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
 i also realised that i need something to stop the stationary part of the slipring from just spinning
 since there wount be much force on it AT ALL , i could make it really quickly and not worry about strength, which gives us this little cute thing
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/81b3960a68aa22956eac1bd4a5e2d13fddd03047_anti_twisty_thing.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/81b3960a68aa22956eac1bd4a5e2d13fddd03047_anti_twisty_thing.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -547,10 +547,10 @@ i threw together a little mount for the skr mini
 and the ras pi i have allready has a heatsync and i dont really want to take it out of that
 so im just doulble sided taping it to the frame :D
 then the mount for the skr mini will also be getting the double sided tape treatment 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4e4ee00423cb85bf02bf9c283e6c288953738706_skr_mini.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/4e4ee00423cb85bf02bf9c283e6c288953738706_skr_mini.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/17e6f1f24cc8f0bf7bed7d8d3304cec9ca37b2e6_doulbe_sided_tape_ras_pi_mount.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/17e6f1f24cc8f0bf7bed7d8d3304cec9ca37b2e6_doulbe_sided_tape_ras_pi_mount.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -559,10 +559,10 @@ i first designed a thing to hold the c14 inlet
 and then just joined it to the same leg that has the pi and skr mini
 just on the other side
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad1740a3e4afd5808a67f2b0a24d178b71fa66f2_other_side_of_c14.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad1740a3e4afd5808a67f2b0a24d178b71fa66f2_other_side_of_c14.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5395992a6c0613aa9078ed1ef33dde49fb2004c6_c14_mount_thing.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/5395992a6c0613aa9078ed1ef33dde49fb2004c6_c14_mount_thing.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -574,10 +574,10 @@ i cant mount it to that
 the horizontal extrusion has stuff
 and then it just seemed really hard to find anywhere that it could actually mount to
 but i found a nice little place to nestle it
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9938794e1a9b2ebbfad29169aea849332a75ee2b_where_psu_2.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/9938794e1a9b2ebbfad29169aea849332a75ee2b_where_psu_2.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/98382c8bee9e9d3b8d621843d633d4c9d14209e4_where_psu.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/98382c8bee9e9d3b8d621843d633d4c9d14209e4_where_psu.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -587,17 +587,17 @@ and then it fits VERY snugly under the z motor with that extra clearance
 and its right next to the foot under the vertical extrusion which gives me something nice for it to mount to
 
 here you can see ive raised the feet to fit it, and then the holes that will let me mount the PSU
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c2ad02e4ba71402850c94e94b8a03999de563317_raising_the_feet_so_it_fits.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/c2ad02e4ba71402850c94e94b8a03999de563317_raising_the_feet_so_it_fits.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 and then with the psu it looks like thise
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/00554409dadbf4d4a6942ec921cdd0b22423cbb3_mounted_psu.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/00554409dadbf4d4a6942ec921cdd0b22423cbb3_mounted_psu.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
 however the screw terminals looked a bit exposed
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c0d71f225338157ca6ec41493fe225d3277082b_unsafe_psu_smoller_file.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c0d71f225338157ca6ec41493fe225d3277082b_unsafe_psu_smoller_file.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
      
@@ -605,7 +605,7 @@ and i REALLYY dont want to accidentally touch live 240v ac
 thats not how i want to go out
 so i designed a nice little cover for the screw terminals to prevent me accidentally zapping myself 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/688367c394d2c4927cdece1cd4788c7c28199e39_safer_psu_even_smaller_file.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/688367c394d2c4927cdece1cd4788c7c28199e39_safer_psu_even_smaller_file.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -651,13 +651,13 @@ so i came up with this cute little thing that fits on the the 8mm linear rods, a
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/91c783fab330cab99d186919589173521b7cd190_endstop_on_its_own.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/91c783fab330cab99d186919589173521b7cd190_endstop_on_its_own.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/97e0418ba3bd944ecc93f7dc82496af1b2232157_end_stop.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/97e0418ba3bd944ecc93f7dc82496af1b2232157_end_stop.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f18c54eebadf9dd56dc3ebeae7205ff896d0ef6_use_of_enstop_again.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f18c54eebadf9dd56dc3ebeae7205ff896d0ef6_use_of_enstop_again.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
@@ -678,14 +678,14 @@ so that gets us to this nice render of the printer in what is currently its fini
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6241c7993d7a243c48dfeaf707213b25041c25ed_wow_thats_close.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6241c7993d7a243c48dfeaf707213b25041c25ed_wow_thats_close.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 
 
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0edb0c29515d91259e80ba64416a0e4c7e0aaf2e_printterrr.png"
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0edb0c29515d91259e80ba64416a0e4c7e0aaf2e_printterrr.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
 

@@ -801,7 +801,7 @@ Today, I'll be remodeling and rejointing the CAD assembly of Voltcore into a new
 
 To begin, I'll reassemble the frame.
 
-![Bottom frame image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/455ffc18b062616104de7c46508d86c65febef1b_image.png)
+![Bottom frame image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/455ffc18b062616104de7c46508d86c65febef1b_image.png)
 (Bottom frame assembly)
 
 Took me a minute to remember how the hell you put images here, but I'm doing it more often from now on for Alex's sake. (NOT MAD - I SHOULA DONE THIS FROM THE START, IK)
@@ -814,7 +814,7 @@ Or, I could make two versions of the major modules, split by assemblies with all
 
 I think I'll just finish the assemblies with all their components.
 
-![Slightly more assembled bottom frame image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f989f2215c31deb8114b969681c9292347db9749_image.png)
+![Slightly more assembled bottom frame image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f989f2215c31deb8114b969681c9292347db9749_image.png)
 (With Y axis attached)
 
 The bottom frame still needs the electronics mountings, but I think I wanna opt instead for a side mount this time around.
@@ -828,12 +828,12 @@ Jeez, with a side mounted mainboard and RPI we really are just ripping pages out
 
 Anyways, we'll leave the bed for now and work on the gantry.
 
-![In progress image of upper frame/gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed94aa00e3b17c2f19d6c6754a6357e27fc46be8_image.png)
+![In progress image of upper frame/gantry](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed94aa00e3b17c2f19d6c6754a6357e27fc46be8_image.png)
 (Extended 100mm in height from older versions)
 
 We previously had issues with the filament spool holder not having enough clearance, and our solution to that in the past significantly increased the size profile of the printer, so I've remodeled the entire component to make use of vertical space.
 
-![Spool holder image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e0d8b1513e1dcee3fdc498589528d5317c7422a0_image.png)
+![Spool holder image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e0d8b1513e1dcee3fdc498589528d5317c7422a0_image.png)
 (Improved spool holder)
 
 For the remaining components I need to add for this upper part of the frame, we need the extruder, and the side mounts for our electronics.

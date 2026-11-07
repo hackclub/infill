@@ -43,7 +43,7 @@ Total hours so far: 64 hours
 
 - I also researched different methods of multicolour printing and what would take up less space. Started designing a PCB for a Rotary Switcher Multi Material System, but then realised it would be to big for my printer size. I settled on using an MMU but I think I will design that last so I get the core mechanics good first.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/17dddf8e195e510be711aa119abce13b8c4cffe4_screenshot_2025-03-09_at_6.58.24___am.png" width="350" title="CAD Mockup">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/17dddf8e195e510be711aa119abce13b8c4cffe4_screenshot_2025-03-09_at_6.58.24___am.png" width="350" title="CAD Mockup">
 
 - Started a rough CAD model in Fusion of the frame to visualise the dimensions. I may change the 2020 Aluminium Extrusions to 1010.
 
@@ -58,7 +58,7 @@ Total hours so far: 64 hours
 ## Day 2: March 9th 2025
 `Research` `CAD`
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/99b705cbeaa3b43d16e4490dd5908a8b150a32d6_cad-09_03_2025.png" width="350" title="CAD Frame Reshape">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/99b705cbeaa3b43d16e4490dd5908a8b150a32d6_cad-09_03_2025.png" width="350" title="CAD Frame Reshape">
 
 - I reshaped the frame so that there was more space on the inside and it will be less confusing for physical connection when I build it. It is now 200mm<sup>3</sup>, using 8 x _2020 160mm Aluminium Extrusions_ and 4 x _2020 200mm Aluminium Extrusions_.
 
@@ -84,13 +84,13 @@ Total hours so far: 64 hours
 
 ***+1 hour***
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/13e36eb811a0c3c0056467aa27a2fe0c9376ed16_screenshot_2025-03-10_at_6.23.23___pm.png" width="350" title="CAD Toolhead">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/13e36eb811a0c3c0056467aa27a2fe0c9376ed16_screenshot_2025-03-10_at_6.23.23___pm.png" width="350" title="CAD Toolhead">
 
 - I designed the toolhead with different parts that would mount together using screws and heatset inserts.
 
 - There are 3 different parts: the part that mounts to the front of the hotend, the part that connects the axial fan to that part, and the part that mounts to the back of the hotend connecting the other fan and the extruder.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/79dd78bd85854feea0189e9b24e4537d54ee480c_screenshot_2025-03-10_at_6.23.59___pm.png" width="350" title="CAD Toolhead in Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/79dd78bd85854feea0189e9b24e4537d54ee480c_screenshot_2025-03-10_at_6.23.59___pm.png" width="350" title="CAD Toolhead in Assembly">
 
 - Here is what it looks like in the full assembly so far.
 
@@ -98,7 +98,7 @@ Total hours so far: 64 hours
 
 ***+3 hours***
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5a222bda7bdba1430c38d7a3bc90eaf84027b99_cad-10_03_2025-3.png" width="350" title="CAD Toolhead Angled">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5a222bda7bdba1430c38d7a3bc90eaf84027b99_cad-10_03_2025-3.png" width="350" title="CAD Toolhead Angled">
 
 - I also changed the angle of the side fan to blow the air more towards the nozzle and to optimise space on the toolhead.
 
@@ -117,7 +117,7 @@ Total hours so far: 64 hours
 
 - I did more research on toolheads and realised that I need to add a channel for the air to flow towards the nozzle. I researched different methods of this for my design.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7733821186895e280088b18ef19c31b23e9dbf51_cad-11_03_2025-1.png" height="400" title="CAD Toolhead Airflow 1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/cf66ce6f001f85248d64ca577ed78a27648045b1_cad-11_03_2025-2.png" height="400" title="CAD Toolhead Airflow 2">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/7733821186895e280088b18ef19c31b23e9dbf51_cad-11_03_2025-1.png" height="400" title="CAD Toolhead Airflow 1"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/cf66ce6f001f85248d64ca577ed78a27648045b1_cad-11_03_2025-2.png" height="400" title="CAD Toolhead Airflow 2">
 
 - I then applied this to my CAD model trying not to impede on the parts that I already had. This proved much harder than I expected and I had many iterations of it before I finally achieved a result that I wanted.
 
@@ -136,15 +136,15 @@ Total hours so far: 64 hours
 
 - I researched the different axes motion systems and what motors and linear rails to use. I think I will use MGN7 rails and MGN7-H for the carriage and I will use NEMA 14 Stepper Motors. I still don't completely understand the belt system but I will model the rails and carriage connections first.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/baa4b052f033cc7cbe6962d33defa073071a24bb_cad-12_03_2025-2.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/baa4b052f033cc7cbe6962d33defa073071a24bb_cad-12_03_2025-2.png" width="350" title="CAD Full Assembly">
 
 - I then added the linear rails to my full assembly and realised that it would be better to go with MGN9 rails and MGN9-H carriages so I added them instead. This meant I had to change the connection on the toolhead to fit on the MGN9-H carriage.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/51109f9640d0fe87d811ad7456b9a344eef2bf0c_cad-12_03_2025-3.png" width="350" title="X-to-Y-Axis-Connector">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/51109f9640d0fe87d811ad7456b9a344eef2bf0c_cad-12_03_2025-3.png" width="350" title="X-to-Y-Axis-Connector">
 
 - I also had to model some connectors to connect the X-Axis linear rail to the Y-Axis rails so that they could move together. Here is what they look like.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/43610adf80ba3613922e961b7cd26198cf9fb8a8_12_03_2025.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/43610adf80ba3613922e961b7cd26198cf9fb8a8_12_03_2025.png" width="350" title="CAD Full Assembly">
 
 - I then put all the new and modified components together in the full assembly. Here's what it looks like to far!
 
@@ -165,7 +165,7 @@ Total hours so far: 64 hours
 
 `Research: +1 hour`
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/531ffcb0e76c4793cbd5589072847bdb998dd48d_cad-13_03_2025.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/531ffcb0e76c4793cbd5589072847bdb998dd48d_cad-13_03_2025.png" width="350" title="CAD Full Assembly">
 
 - I got started on the CAD for these motion systems, so far I added the NEMA 14 stepper motors and GT2 20 Teeth Pulleys. Here is what it looks like in the full assembly so far.
 
@@ -186,7 +186,7 @@ Total hours so far: 64 hours
 
 - I realised that it might be better to have the X-Axis linear rail with the carraige facing forwards rather than upwards. This would mean that I had to redesign my X-to-Y-Connectors for the linear rails.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/11efa2a92b8e49b748136a5ff9ff91bc23786be4_cad-24_03_2025-2.png" width="350" title="X-to-Y-Axis-Connector">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/11efa2a92b8e49b748136a5ff9ff91bc23786be4_cad-24_03_2025-2.png" width="350" title="X-to-Y-Axis-Connector">
 
 - It was difficult to design these without heavily limiting the range of motion of the carraige in the X-Axis so I had _many_ iterations. Here is what the final design looks like. It screws onto the Y-Axis linear rail and the X-Axis rail slots into it and is secured with a srew.
 
@@ -194,11 +194,11 @@ Total hours so far: 64 hours
 
 ***+2 hours 30 mins***
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e5ef28c2c8ca7f5ad5db72103febbf9c92eef490_cad-24_03_2025-3.png" width="350" title="Toolhead Connector">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e5ef28c2c8ca7f5ad5db72103febbf9c92eef490_cad-24_03_2025-3.png" width="350" title="Toolhead Connector">
 
 - I then also had to edit the toolhead so that it would work with this new sideways rail system. Heres what it turned out like.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/52810cce442d4b0d345ad1289d15d4bf2d8f11a7_cad-24_03_2025-1.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/52810cce442d4b0d345ad1289d15d4bf2d8f11a7_cad-24_03_2025-1.png" width="350" title="CAD Full Assembly">
 
 - This is what it would look like in the full assembly. I haven't adjusted any dimensions of anything else so it doesn't fit together properly yet.
 
@@ -217,7 +217,7 @@ Total hours so far: 64 hours
 
 - I realised that for the X-to-Y-Connector I need a different slot for the left side and the right side so that the linear rail can go all the way through.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/68d19eb82efc58f8027851061e54538a097a5ad7_cad-28_03_2025.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/68d19eb82efc58f8027851061e54538a097a5ad7_cad-28_03_2025.png" width="350" title="CAD Full Assembly">
 
 - I then had to adjust the dimensions of the aluminium extrusions in order to fit the new connectors and adjust the positions of all the other components for the full assembly. Here is what it looks like.
 
@@ -234,7 +234,7 @@ Total hours so far: 64 hours
 
 `Research` `CAD`
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9011823ff78c4887518b9eb9f848fa9358ec89ae_cad-29_03_2025-1.png" height="350" title="Pulley Mounts"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b1555ecad8dd5a2a9cebb3c619ec1adf44cab884_screenshot_2025-03-30_at_8.43.22___am.png" height="350" title="Belt Slots">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/9011823ff78c4887518b9eb9f848fa9358ec89ae_cad-29_03_2025-1.png" height="350" title="Pulley Mounts"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b1555ecad8dd5a2a9cebb3c619ec1adf44cab884_screenshot_2025-03-30_at_8.43.22___am.png" height="350" title="Belt Slots">
 
 - I added mounts at the corresponding heights to the X-to-Y-Connectors for the pulleys to sit for the belts. Here's what it originally looked like. I also added slots on the back of the Toolhead for the belts to feed through and here's what that looked like.
 
@@ -244,7 +244,7 @@ Total hours so far: 64 hours
 
 ***+2 hours***
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bab32b5d4c838096a24495bd749fd8a5e48fa9a8_cad-29_03_2025-2.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/bab32b5d4c838096a24495bd749fd8a5e48fa9a8_cad-29_03_2025-2.png" width="350" title="CAD Full Assembly">
 
 - I came up with this design to cut down on the size while still maintaining the same function as the other design. Here's what it looks like in the full assembly.
 
@@ -265,7 +265,7 @@ Total hours so far: 64 hours
 
 - I did some research on all the parts of the printbed. I had already chosen the heatbed and to have a magnetic PEI Plate. I decided on putting a _3mm Silicone Sheet_ under the heatbed as an insulator to separate the heat from the 3D printed base. I am using a _NEMA 17 Stepper Motor with Intergrated Lead Screw_ as well as 2 _8mm Linear Rods_ for support to control the Z-Axis movement of the bed.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8b38c885590d2b2cdd9524b728067e9fea35e7c6_screenshot_2025-03-30_at_8.25.14___am.png" height="350" title="Bed Assembly"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d149d67eeb63d2dec582fb240623126c19d967fb_screenshot_2025-03-30_at_8.17.23___am.png" height="350" title="Bed Assembly"> 
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8b38c885590d2b2cdd9524b728067e9fea35e7c6_screenshot_2025-03-30_at_8.25.14___am.png" height="350" title="Bed Assembly"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/d149d67eeb63d2dec582fb240623126c19d967fb_screenshot_2025-03-30_at_8.17.23___am.png" height="350" title="Bed Assembly"> 
 
 - I designed the printbed around these things and here's what the finished bed assembly looks like by itself and with the motor, lead screw, and rods.
 
@@ -273,7 +273,7 @@ Total hours so far: 64 hours
 
 ***+3 hours***
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" width="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" width="350" title="CAD Full Assembly">
 
 - Here is what the full assembly looks like so far. I think all I have left to do is to finish it is the X and Y Axis pulley and belt system and to add the endstops that I made at the start. Although I'll probably think of something else left to do later :pensive:.
 
@@ -292,7 +292,7 @@ Total hours so far: 64 hours
 
 - `CAD: +1 hour`
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5baa229967453bc9b9e92cd56d54e11dc3fdcb9d_screenshot_2025-04-01_at_6.26.11___pm.png" height="350" title="End Pulley Holder"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2edc913b0abc4d11492deb19ddb2260cfe739d12_cad-01_04_2025-3.png" height="350" title="CAD Full Assembly"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/473925c67f323667025212a74965f491cd430e12_cad-01_04_2025-2.png" height="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/5baa229967453bc9b9e92cd56d54e11dc3fdcb9d_screenshot_2025-04-01_at_6.26.11___pm.png" height="350" title="End Pulley Holder"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2edc913b0abc4d11492deb19ddb2260cfe739d12_cad-01_04_2025-3.png" height="350" title="CAD Full Assembly"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/473925c67f323667025212a74965f491cd430e12_cad-01_04_2025-2.png" height="350" title="CAD Full Assembly">
 
 - Here is what they look like by themselves and in the full assembly.
 
@@ -313,7 +313,7 @@ Total hours so far: 64 hours
 
 - I created a holder/mount for the motor that sits on the right side of the frame (when looking from the front).
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8a750ade6932838f70ef685e348f82cb86faf41b_cad-02_04_2025-1.png" height="350" title="Motor Holder"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" height="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/8a750ade6932838f70ef685e348f82cb86faf41b_cad-02_04_2025-1.png" height="350" title="Motor Holder"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" height="350" title="CAD Full Assembly">
 
 - I tried to add support to it from the diagonal to make sure that it would be strong enough to hold the weight of the motor. Here is what it looks like by itself and in the full assembly.
 
@@ -342,7 +342,7 @@ Total hours so far: 64 hours
 - My Fusion finally decides to allow me to change the appearances of objects and components so I changed the colours of everything to what they will finally be.
 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/de24ff038b22397b964784ae79b422638eb46f35_cad-05_04_2025.png" width="350" title="First Render">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/de24ff038b22397b964784ae79b422638eb46f35_cad-05_04_2025.png" width="350" title="First Render">
 
 - Here is what my first render looks like... I'm so excited it looks so cool and it's all coming together :grin:
 
@@ -361,7 +361,7 @@ Total hours so far: 64 hours
 
 - I remodelled the motor mount and the end pulley holders so that they will fit into the the design for the corner mounts. They now correspond to the corner mounts to make it easier and more consistent.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/eb85c0aef3dd37b10796e62f28ee6dbfe0ff4f2a_cad-06_04_2025-1.png" width="350" title="Second Render">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/eb85c0aef3dd37b10796e62f28ee6dbfe0ff4f2a_cad-06_04_2025-1.png" width="350" title="Second Render">
 
 - Here is another render (yay!)
 
@@ -382,7 +382,7 @@ Total hours so far: 64 hours
 
 - I mounted the Z-Axis Endstop to the bottom of the top frame at the back. This is so that when the bed rises to the Layer 0 height, it will stop just before hitting the nozzle. I experimented with having the Endstop mounted to Bed Assembly itself but due to size constraints, realised that this wouldn't work.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa4d82c6d85f334df1be31af5b00e8a834ec98b0_cad-09_04_2025-1.png" height="350" title="Z-Axis Endstop"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d522b1d7a6b22d843793e98591e5a724c1640ca5_cad-09_04_2025-2.png" height="350" title="CAD Full Assembly">
+<img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa4d82c6d85f334df1be31af5b00e8a834ec98b0_cad-09_04_2025-1.png" height="350" title="Z-Axis Endstop"> <img src="https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/d522b1d7a6b22d843793e98591e5a724c1640ca5_cad-09_04_2025-2.png" height="350" title="CAD Full Assembly">
 
 - Here's what that looks like as well as the full assembly.
 
