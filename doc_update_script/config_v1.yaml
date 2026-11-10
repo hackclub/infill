@@ -219,7 +219,7 @@ circumlocution:
 Padimo Mini:
   title: "Padimo Mini"
   description: "tiny coreXY printer for on the go"
-  repositiory: "https://raw.githubusercontent.com/Omegon0/padimo-mini/refs/heads/main/journal.md"
+  repository: "https://raw.githubusercontent.com/Omegon0/padimo-mini/refs/heads/main/journal.md"
   file_name: padimo-mini.md
 
 Penguin:
@@ -242,7 +242,7 @@ Lighthouse:
 
 Your Printer Name:
   title: "PrintLA"
-  description: "A small, portable, budget 3D Printer that uses PLA fillament."
+  description: "A small, portable, budget 3D Printer that uses PLA filament."
   repository: "  https://raw.githubusercontent.com/amino47/PrintLA-3D-Printer/refs/heads/main/JOURNAL.md"
   file_name: PrintLA3D.md
 
