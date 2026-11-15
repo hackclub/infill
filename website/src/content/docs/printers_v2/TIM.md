@@ -45,7 +45,7 @@ Making the gantry for this is going to be VERY difficult. I am trying to keep it
 
 <img width="229" height="260" alt="Screenshot 2026-03-01 at 6 39 12 PM" src="https://github.com/user-attachments/assets/859b9020-4565-43bc-8e4a-8d54dc865435" />
 
-I ended up changing up the belt path a tiny bit from this version, as the innitial setup didnt really allow a lot of space for the belt to be able to pass over the bearings. I changed it to have the single side of the bearing (wow i need a better name for this) be further out on the rod, which restricts my travel a bit but ends up making the belt path MUCH easier. 
+I ended up changing up the belt path a tiny bit from this version, as the initial setup didnt really allow a lot of space for the belt to be able to pass over the bearings. I changed it to have the single side of the bearing (wow i need a better name for this) be further out on the rod, which restricts my travel a bit but ends up making the belt path MUCH easier. 
 
 Here is my current design. It uses 125mm long 8mm linear rods and F693ZZ bearings for the belts to ride on. 
 
@@ -65,7 +65,7 @@ Time Spent: 6h
 
 Outside of the weird Z axis, this printer is basically just a messed up cross gantry machine. So I need all the hard parts of a cross gantry, while getting literally 0 benefits. yay. Cross gantry is a bit weird to design around, as toolheads need to have a lot of room for the carriages/bearings. 
 
-I started off my design with the XY rods. I innitially used 8mm rods, which you can see here. 
+I started off my design with the XY rods. I initially used 8mm rods, which you can see here. 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f615af22-7353-4d37-8132-daae677135ab" />
 
 It is fairly simple, basically just two more 8mm rods with bearings on them, with printed parts to connect them to the other bearings. I plan to have the bearings press fit into the parts for simplicity. After attempting to design a toolhead for this, I realized that the 8mm rods would be wayyy too big for the tiny nature of this machine.
@@ -115,11 +115,11 @@ In this session I added the bed and the belt clamps to the gantry. The design of
 
 I also added the electronics bay in this session. Currently it is just a JLCMC aluminum electronics box, which is cheap and should be able to hold everything well. It is exactly the same size as the base of the printer, which is cool. 
 
-Here you can see the electronics (LDO PSU, SKR PICO, Raspi 4B) in the electronics box. I may end up switching to a lower profile electroniccs box to make the printer more space efficient. 
+Here you can see the electronics (LDO PSU, SKR PICO, Raspi 4B) in the electronics box. I may end up switching to a lower profile electronics box to make the printer more space efficient. 
 
 <img width="497" height="358" alt="Screenshot 2026-03-11 at 10 14 37 PM" src="https://github.com/user-attachments/assets/9b43dc90-084e-4977-9fa1-b970f9975625" />
 
-I also added the bed during this session. Its a 3.175mm aluminum sheet with countersunk holes for m3 bolts. Those bolts go through sillicone spacers and into heat set inserts in the frame. I added a tiny little sillicone heater to the bottom, which I plan to design myself and get manufactured by JLC. 
+I also added the bed during this session. Its a 3.175mm aluminum sheet with countersunk holes for m3 bolts. Those bolts go through silicone spacers and into heat set inserts in the frame. I added a tiny little silicone heater to the bottom, which I plan to design myself and get manufactured by JLC. 
 
 <img width="310" height="182" alt="Screenshot 2026-03-11 at 10 15 42 PM" src="https://github.com/user-attachments/assets/e060a882-05b1-4a09-a37e-de9ad5c3b8fd" />
 
@@ -142,7 +142,7 @@ In this session I redesigned the toolhead. Before it was just a brick and now it
 
 <img height="450" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://cdn.hackclub.com/019cea60-7c6b-787d-9173-dc2de9da22b4/Screenshot%202026-03-13%20at%209.24.22%E2%80%AFPM.png" />
 
-For the bed, I designed a custom sillicone heater using the onshape drawing features. Its not the cleanest drawing but it should be good enough for JLC to understand it. It is basically just a 50x50mm pad with wires. There arent many off the shelf options at this size, and this ends up being cheaper than the only other option. I love JLC. 
+For the bed, I designed a custom silicone heater using the onshape drawing features. Its not the cleanest drawing but it should be good enough for JLC to understand it. It is basically just a 50x50mm pad with wires. There arent many off the shelf options at this size, and this ends up being cheaper than the only other option. I love JLC. 
 
 <img height="450" alt="Screenshot 2026-03-11 at 10 17 56 PM" src="https://cdn.hackclub.com/019cea62-06ae-726a-88a0-43f99956acf7/screenshot_2026-03-13_at_11.26.48___pm.png" />
 
