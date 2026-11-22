@@ -72,7 +72,7 @@ Anyways, I did a lot of research on the best motors for my setup and found a rea
 
 Then I started CAD-ing, and I've got nearly the entire printhead set up! I think I'm going to use a CFD to simulate the fan airflow just to make sure it works, but other than that I need to add the BLTouch, some PETG framing, and I'll be essentially done there. Also, cable management 😬
 
-![printhead](https://cloud-eaq9rc33e-hack-club-bot.vercel.app/0image.png)
+![printhead](https://cdn.hackclub.com/rescue?url=https://cloud-eaq9rc33e-hack-club-bot.vercel.app/0image.png)
 
 Research + parts: 4 hrs  
 CAD: 2 hrs
@@ -85,7 +85,7 @@ I have plenty of doubloons from High Seas, but DigiKey and the rest don't seem t
 Research and parts: 2 hrs  
 CAD: 3 hrs
 
-![vex logo](https://cloud-3vcb9x7yd-hack-club-bot.vercel.app/0vex-logo.png)
+![vex logo](https://cdn.hackclub.com/rescue?url=https://cloud-3vcb9x7yd-hack-club-bot.vercel.app/0vex-logo.png)
 
 ### day 5 - feb 6
 Today I didn't do a whole lot because of schoolwork and other projects. I CAD-ed a little and that's basically it.
@@ -250,49 +250,49 @@ List of stuff I had to change:
 
 Here are some pictures
 
-![full printer pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5beb8d4fe4e04ff0a58194a03bc22a99109f588_image.png)
+![full printer pic](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5beb8d4fe4e04ff0a58194a03bc22a99109f588_image.png)
 
 </br>
 </br>
 </br>
 belt drive pic  
 
-![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5e91e337324f3ce90279a0e2045dcece1b8d728c_image.png)
+![belt drive](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/5e91e337324f3ce90279a0e2045dcece1b8d728c_image.png)
 
 </br>
 </br>
 </br>
 belt drive again  
 
-![belt drive again](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f701f4e7789ec5bf884b1ab685407637a06d4a06_image.png)
+![belt drive again](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f701f4e7789ec5bf884b1ab685407637a06d4a06_image.png)
 
 </br>
 </br>
 </br>
 linear rail holder  
 
-![linear rail holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/305967b105307954a096fe71786344b1c8ac1adb_image.png)
+![linear rail holder](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/305967b105307954a096fe71786344b1c8ac1adb_image.png)
 
 </br>
 </br>
 </br>
 lead screw holder  
 
-![lead screw holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b152f07c15e7ed25768a8299dcc95e13ffad4681_image.png)
+![lead screw holder](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b152f07c15e7ed25768a8299dcc95e13ffad4681_image.png)
 
 </br>
 </br>
 </br>
 castle idler hast becometh mansion idler  
 
-![super sturdy idler holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/766493a561bee6ab1e09e516b168070fb76ac700_image.png)
+![super sturdy idler holder](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/766493a561bee6ab1e09e516b168070fb76ac700_image.png)
 
 </br>
 </br>
 </br>
 x/y idler holders!  
 
-![x/y idler holders](https://hc-cdn.hel1.your-objectstorage.com/s/v3/27b1ff8fcb953c6bf06f155bcf06d7171ee241e7_image.png) 
+![x/y idler holders](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/27b1ff8fcb953c6bf06f155bcf06d7171ee241e7_image.png) 
 
 For a month of work, I'd give this a solid 40 hours. Not a ton, but like I said there's been a bunch of school and stuff that tbh takes priority.
 
@@ -336,11 +336,11 @@ Anyways that's basically it. Z axis belt system works good. Oh yeah, I also need
 
 OH YEAH and I also................... waiiit........... i forgot... oh yeah. I changed the printhead logo to be super sick and much better since it was super ugly. Now it matches my logo at [https://anicetus.dev](https://anicetus.dev) (shameless plug) as a cool hexagon thing:
 
-![new logo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bf08cb30a5bd7cdd6134c7e9cb830e697c99ef9c_anicept-vex-new-logo.jpg)
+![new logo](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/bf08cb30a5bd7cdd6134c7e9cb830e697c99ef9c_anicept-vex-new-logo.jpg)
 
 and here's a belt drive rendered pic for good measure
 
-![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
+![belt drive](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
 
 ### days 71 thru 76 - apr 29 - may 6
 
@@ -481,76 +481,76 @@ Well that's it!! Hope that helps somebody.
 ## pictures!! my timeline of the printer :D
 
 Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1606de4940ed5a146b976a6f102ae7194444790e_screenshot_2025-02-02_182817.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/1606de4940ed5a146b976a6f102ae7194444790e_screenshot_2025-02-02_182817.png)
 </br>
 </br>
 </br>
 
 The earliest full revision of my printhead!
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef1a7a00ad13aab12d308e6f1773b24e09f19e29_screenshot_2025-02-04_170418.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef1a7a00ad13aab12d308e6f1773b24e09f19e29_screenshot_2025-02-04_170418.png)
 </br>
 </br>
 </br>
 
 Created two logos (one for the earlier name of Anixus and one for the Vex,) reoriented the linear rail, finalized the front panel, and made the top panel!
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f1b0b42727a257a6e56509bf5444474f4f7a0b3_screenshot_2025-02-11_174838.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f1b0b42727a257a6e56509bf5444474f4f7a0b3_screenshot_2025-02-11_174838.png)
 </br>
 </br>
 </br>
 
 COLOR!!!!!!!!!!!!!
 
-![COLOR!!!!!!!!!!!!](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de7697b2c68818bd0c6183cb052fc8570c410a30_screenshot_2025-02-12_170300.png)
+![COLOR!!!!!!!!!!!!](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/de7697b2c68818bd0c6183cb052fc8570c410a30_screenshot_2025-02-12_170300.png)
 </br>
 </br>
 </br>
 
 Aha the backing
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6346dc79eab17be685cdb2af4f4d06587416aa69_screenshot_2025-02-12_171053.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6346dc79eab17be685cdb2af4f4d06587416aa69_screenshot_2025-02-12_171053.png)
 </br>
 </br>
 </br>
 
 mounted the ADXL and 3DTouch!
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/790ab72b294016c9dc86bdb197f13a021c3a5e13_screenshot_2025-02-19_164007.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/790ab72b294016c9dc86bdb197f13a021c3a5e13_screenshot_2025-02-19_164007.png)
 </br>
 </br>
 </br>
 
 wow! started on the frame! looks kinda ugly and fat :b
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/461de71477c5a21b166ecbc61b7e7d2fb9457e42_screenshot_2025-02-20_172430.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/461de71477c5a21b166ecbc61b7e7d2fb9457e42_screenshot_2025-02-20_172430.png)
 </br>
 </br>
 </br>
 
 looking better! got the z-axis motor and gantry in place
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f98c083ec2269ffe7c159d353498b47956183ed7_screenshot_2025-02-22_143522.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/f98c083ec2269ffe7c159d353498b47956183ed7_screenshot_2025-02-22_143522.png)
 </br>
 </br>
 </br>
 
 placed and mounted the PSU, z-motor, linear rods, and the mainboard!!!
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3873b448ed1191135501498cff11c9419b0063c8_screenshot_2025-02-26_161859.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/3873b448ed1191135501498cff11c9419b0063c8_screenshot_2025-02-26_161859.png)
 </br>
 </br>
 </br>
 
 Ah... the power panel PCB. Didn't turn out to work, but I learnred some about buck converters!
 
-![sad](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0197595bc2aaa76708569f23b57206c1f7462d31_screenshot_2025-03-03_174815.png)
+![sad](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/0197595bc2aaa76708569f23b57206c1f7462d31_screenshot_2025-03-03_174815.png)
 </br>
 </br>
 </br>
 
 Wh-what's this?? A power strip built into a 3d printer?? Amazing!
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5bc39fa00f8e61820d3f5a61bb8d1b831fb7147_screenshot_2025-03-06_154357.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5bc39fa00f8e61820d3f5a61bb8d1b831fb7147_screenshot_2025-03-06_154357.png)
 </br>
 </br>
 </br>
@@ -558,45 +558,45 @@ Wh-what's this?? A power strip built into a 3d printer?? Amazing!
 3DTouch didn't work 😭  
 Turns out those Chinese clones aren't worth it... I went Klicky!!!!!!!!!!!!!!!
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a38616c23ed12e614ae79b3dfcfa3dcd49cccad5_screenshot_2025-03-09_170147.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a38616c23ed12e614ae79b3dfcfa3dcd49cccad5_screenshot_2025-03-09_170147.png)
 </br>
 </br>
 </br>
 
 Mounted the linear rails and connected the x-axis to the y! Also started them idlers :3
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d82f3d5e6bc73728c7ef85bf4986da288f6e3a91_screenshot_2025-03-11_155645.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/d82f3d5e6bc73728c7ef85bf4986da288f6e3a91_screenshot_2025-03-11_155645.png)
 </br>
 </br>
 </br>
 "What questionable design considerations?" -Anicetus, 20xx - 2025
 
-![💀](https://hc-cdn.hel1.your-objectstorage.com/s/v3/38b1981f7d686146327da0ac0ee80e31f80e0576_screenshot_2025-03-12_155632.png)
+![💀](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/38b1981f7d686146327da0ac0ee80e31f80e0576_screenshot_2025-03-12_155632.png)
 </br>
 </br>
 </br>
 
 ✨Mystical Castle Idler!✨
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb8dd330cba161304122183a95105661d2ef0f3e_screenshot_2025-03-12_165403.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb8dd330cba161304122183a95105661d2ef0f3e_screenshot_2025-03-12_165403.png)
 </br>
 </br>
 </br>
 
 So many different logos! (I went the all-bold one :D)
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/02842b59596d9e134741baa2837ebf098a9f941b_screenshot_2025-03-17_145359.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/02842b59596d9e134741baa2837ebf098a9f941b_screenshot_2025-03-17_145359.png)
 </br>
 </br>
 </br>
 
 Wow! Beautiful render
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6965fd7ac766bb53ed822808b5c1b88a1dec5f4e_screenshot_2025-03-18_155136.png)
+![img](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/6965fd7ac766bb53ed822808b5c1b88a1dec5f4e_screenshot_2025-03-18_155136.png)
 </br>
 </br>
 </br>
 
 That's quite a gap to bridge,,,
 
-![uhoh](https://hc-cdn.hel1.your-objectstorage.com/s/v3/426656da9cbad3609a97db1f1353591fadfdea3a_screenshot_2025-03-19_154424.png)
+![uhoh](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/426656da9cbad3609a97db1f1353591fadfdea3a_screenshot_2025-03-19_154424.png)

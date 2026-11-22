@@ -15,7 +15,7 @@ Total hours so far: 2
 
 **6:26pm**: Finished making a basic sketch:
 
-![Day 1 Sketches](https://hc-cdn.hel1.your-objectstorage.com/s/v3/26b00b22c5196df01f748437b00c7f00c51b1056_day_1_sketches.png)
+![Day 1 Sketches](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/26b00b22c5196df01f748437b00c7f00c51b1056_day_1_sketches.png)
 
 I realised my orginal thought process wasn't actually possible, but I made design #1, where the tall thingys move back and forth. I haven't seen this on a printer before, it's either the build plate moving (not really possible with the constraints) or the extruder moving two ways (again, not entirely possible, but a fold out thing could be possible but very difficult). I think I will stick with this design for now.
 

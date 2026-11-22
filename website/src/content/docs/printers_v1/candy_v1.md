@@ -191,13 +191,13 @@ I orderded all the parts, and they should be arriving in the next 3 weeks.
 ## Day 13-21 (Apr 1st - Apr 9th)
 Over the past 2 weeks almost 90% of my stuff has arrived and I have started the build process.
 The main frame of my printer was completed this week, I made a few minor changes from my orignial frame design like changing the orientation of the bottom 2020 extrusions and how they connect to each other. Instead of one end of a 2020 extrusion going into the side of another 2020 extrusion, they both now connect to a 20x20mm block, so the overall footprint of the bottom frame is now 490x490mm instead of the previous 490x450mm.
-![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/719c5d4ba1eb05d2082b18788b33f3c761d566cf_image.png)
+![Image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/719c5d4ba1eb05d2082b18788b33f3c761d566cf_image.png)
 
 For the vertical part of my frame I had a few design prototype, the first prototype was where my smooth rod was attached to the corner bracket of the bottom and vertical 2020 extrusion.
-![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/94c1b77004b54978e7840ce50080848ec38dda9c_20250406_133310.jpg)
-![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b969f9580cb1a9e5dd1ca2cef322348cb458d6b9_20250406_210339.jpg)
+![Image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/94c1b77004b54978e7840ce50080848ec38dda9c_20250406_133310.jpg)
+![Image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/b969f9580cb1a9e5dd1ca2cef322348cb458d6b9_20250406_210339.jpg)
 The second prototype changed the location of the smooth rods and moved them to inside the frame instead of on the frame.
-![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eef63a4949be86229bc8fa97b55f2d39029abd5b_20250408_221733.jpg)
+![Image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/eef63a4949be86229bc8fa97b55f2d39029abd5b_20250408_221733.jpg)
 
 
 Since my printed doesn't have heatplate, I used 2 of 2mm wood boards glued together as the base which connects the y-carriage to the build plate, In theory this should work just fine as I am only gonna print PLA on it and it has a textured PEI sheet which should be sticky enough for the PLA without heat.
@@ -206,7 +206,7 @@ Since my printed doesn't have heatplate, I used 2 of 2mm wood boards glued toget
 
 #### Diy AMS System
 For my AMS system my plan was to use 28BYJ48 5V motors to extrude the filament, but unfortunately that did not work as expected, the motor was running slow and filament wasn't being gripped properly by the 3D printed gears.
-![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/55a4e7331eb15a2d620d683c12ef264d17fad1a2_20250406_210518.jpg)
+![Image](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/55a4e7331eb15a2d620d683c12ef264d17fad1a2_20250406_210518.jpg)
 
 Going forward I think I'll buy metal gears and nema 14 or nema 17 motors to push the filament.
 
